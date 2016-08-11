@@ -2,25 +2,26 @@ Ikarus is a solution like Helios or Hawgtouch, but with a database background an
 
 You get pre-configured solutions for the DCS modules:
 
-A-10A
-A-10C
-BF-109-K
-F-15C
-F-86F Sabre
-FW-190D9
-KA-50
-L-39C
-Mi-8MTV2
-MiG-15Bis
-MiG-21Bis
-MiG-29A
-Mig-29S
-P-51D
-SU-25
-SU-27
-SU-33
-TF-51D
-UH-1H
+- A-10A
+- A-10C
+- BF-109-K
+- F-15C
+- F-5E
+- F-86F Sabre
+- FW-190D9
+- KA-50
+- L-39C
+- Mi-8MTV2
+- MiG-15Bis
+- MiG-21Bis
+- MiG-29A
+- Mig-29S
+- P-51D
+- SU-25
+- SU-27
+- SU-33
+- TF-51D
+- UH-1H
 
 All these configurations are customizable.
 
