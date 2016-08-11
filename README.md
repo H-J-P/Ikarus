@@ -21,18 +21,22 @@ SU-27
 SU-33
 TF-51D
 UH-1H
+
 All these configurations are customizable.
 
-Today we have 5 render layer. How renders Ikarus this layers?
+Today we have 5 render layer. How renders Ikarus this layers:
 
-Background
-Accessories (for screws, bolds, labels etc.)
-Gauges
-Lamps
-Buttons and switches
+- Background
+- Accessories (for screws, bolds, labels etc.)
+- Gauges
+- Lamps
+- Buttons and switches
+
 And the gauges have:
 
-A layer for the gauge
-A layer for a glass image (for red/green light etc.)
-A layer for a frame image
+- A layer for the gauge
+- A layer for a glass image (for red/green light etc.)
+- A layer for a frame image
+
 All of these layers may have semitransparent.
+
