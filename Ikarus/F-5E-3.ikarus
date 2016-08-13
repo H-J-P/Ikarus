@@ -1804,8 +1804,8 @@
     <Name>553 - rwr_Mode_Open</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>F5E-RWR_LampModeOn.png</FilePictureOn>
-    <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
+    <FilePictureOn>F5E-RWR_LampModeOpenOn.png</FilePictureOn>
+    <FilePictureOff>F5E-RWR_LampModeOpenOff.png</FilePictureOff>
     <PosX>1139</PosX>
     <PosY>186</PosY>
     <Size>85</Size>
@@ -1837,21 +1837,6 @@
     <FilePictureOn>F5E-RWR_LampHandoffOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
     <PosX>1239</PosX>
-    <PosY>186</PosY>
-    <Size>85</Size>
-    <Rotate>0</Rotate>
-    <WindowID>1</WindowID>
-  </Lamps>
-  <Lamps>
-    <ID>35</ID>
-    <Class>LampOnOff</Class>
-    <Arg_number>569</Arg_number>
-    <Name>569 - rwr_Sys</Name>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <FilePictureOn>F5E-RWR_LampSearchOn.png</FilePictureOn>
-    <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
-    <PosX>1289</PosX>
     <PosY>186</PosY>
     <Size>85</Size>
     <Rotate>0</Rotate>
@@ -1943,6 +1928,21 @@
     <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
     <PosX>1339</PosX>
     <PosY>253</PosY>
+    <Size>85</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>42</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>552</Arg_number>
+    <Name>552 - rwr_Mode_Pri</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>F5E-RWR_LampModePriorityOn.png</FilePictureOn>
+    <FilePictureOff>F5E-RWR_LampModePriorityOff.png</FilePictureOff>
+    <PosX>1139</PosX>
+    <PosY>186</PosY>
     <Size>85</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -2579,7 +2579,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1288</PosX>
+    <PosX>1289</PosX>
     <PosY>184</PosY>
     <Size>45</Size>
     <Rotate>0</Rotate>
@@ -2777,7 +2777,7 @@
     <FilePictureOn>TISL Rotary2.png</FilePictureOn>
     <FilePictureOff />
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0, 0.1, 0.2, 0.3</Input>
+    <Input>0.0,0.1, 0.2, 0.3</Input>
     <Output> 0, 30, 60, 90</Output>
     <PosX>896</PosX>
     <PosY>249</PosY>
@@ -3369,7 +3369,7 @@
   </Switches>
   <Switches>
     <ID>74</ID>
-    <Class>MultiSwitch2</Class>
+    <Class>MultiSwitch</Class>
     <ClickabledataID>700</ClickabledataID>
     <Name>100 MHz Frequency Selector Knob</Name>
     <Value>0</Value>
@@ -3377,8 +3377,8 @@
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1,0.2,0.3,0.4</Input>
-    <Output> 0, 30, 60, 90, 120</Output>
+    <Input>0.0,0.1,0.2,0.3</Input>
+    <Output>0, 45,90,135</Output>
     <PosX>822</PosX>
     <PosY>878</PosY>
     <Size>45</Size>
@@ -3389,7 +3389,7 @@
   </Switches>
   <Switches>
     <ID>75</ID>
-    <Class>MultiSwitch2</Class>
+    <Class>MultiSwitch</Class>
     <ClickabledataID>701</ClickabledataID>
     <Name>10 MHz Frequency Selector Knob</Name>
     <Value>0</Value>
@@ -3397,8 +3397,8 @@
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9</Input>
-    <Output>0.0,36,72,108,144,180,216,252,288,324</Output>
+    <Input>0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0</Input>
+    <Output>36,72,108,144,180,216,252,288,324,360</Output>
     <PosX>893</PosX>
     <PosY>878</PosY>
     <Size>45</Size>
@@ -3409,7 +3409,7 @@
   </Switches>
   <Switches>
     <ID>76</ID>
-    <Class>MultiSwitch2</Class>
+    <Class>MultiSwitch</Class>
     <ClickabledataID>702</ClickabledataID>
     <Name>1 MHz Frequency Selector Knob</Name>
     <Value>0</Value>
@@ -3417,8 +3417,8 @@
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9</Input>
-    <Output>0.0,36,72,108,144,180,216,252,288,324</Output>
+    <Input>0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0</Input>
+    <Output>36,72,108,144,180,216,252,288,324,360</Output>
     <PosX>963</PosX>
     <PosY>878</PosY>
     <Size>45</Size>
@@ -3429,7 +3429,7 @@
   </Switches>
   <Switches>
     <ID>77</ID>
-    <Class>MultiSwitch2</Class>
+    <Class>MultiSwitch</Class>
     <ClickabledataID>703</ClickabledataID>
     <Name>0.1 MHz Frequency Selector Knob</Name>
     <Value>0</Value>
@@ -3437,8 +3437,8 @@
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9</Input>
-    <Output>0.0,36,72,108,144,180,216,252,288,324</Output>
+    <Input>0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0</Input>
+    <Output>36,72,108,144,180,216,252,288,324,360</Output>
     <PosX>1035</PosX>
     <PosY>878</PosY>
     <Size>45</Size>
@@ -3449,7 +3449,7 @@
   </Switches>
   <Switches>
     <ID>78</ID>
-    <Class>MultiSwitch2</Class>
+    <Class>MultiSwitch</Class>
     <ClickabledataID>704</ClickabledataID>
     <Name>0.025 MHz Frequency Selector Knob</Name>
     <Value>0</Value>
@@ -3457,8 +3457,8 @@
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1,0.2,0.3</Input>
-    <Output> 0, 30, 60, 90</Output>
+    <Input>0.25,0.5,0.75,1.0</Input>
+    <Output> 0, 45, 90, 135</Output>
     <PosX>1106</PosX>
     <PosY>878</PosY>
     <Size>45</Size>
