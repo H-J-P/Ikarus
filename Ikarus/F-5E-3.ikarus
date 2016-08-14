@@ -1835,7 +1835,7 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>F5E-RWR_LampHandoffOn.png</FilePictureOn>
-    <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
+    <FilePictureOff>F5E-RWR_LampHandoffOff.png</FilePictureOff>
     <PosX>1239</PosX>
     <PosY>186</PosY>
     <Size>85</Size>
@@ -1858,25 +1858,10 @@
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
-    <ID>37</ID>
-    <Class>LampOnOff</Class>
-    <Arg_number>571</Arg_number>
-    <Name>571 - rwr_Ship_U</Name>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <FilePictureOn>F5E-RWR_LampTOn.png</FilePictureOn>
-    <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
-    <PosX>1139</PosX>
-    <PosY>253</PosY>
-    <Size>85</Size>
-    <Rotate>0</Rotate>
-    <WindowID>1</WindowID>
-  </Lamps>
-  <Lamps>
     <ID>38</ID>
     <Class>LampOnOff</Class>
-    <Arg_number>568</Arg_number>
-    <Name>568 - rwr_Sys_On</Name>
+    <Arg_number>569</Arg_number>
+    <Name>569 - rwr_Sys</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>F5E-RWR_LampSysTestOn.png</FilePictureOn>
@@ -1895,7 +1880,7 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>F5E-RWR_LampUnknownOn.png</FilePictureOn>
-    <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
+    <FilePictureOff>F5E-RWR_LampUnknownOff.png</FilePictureOff>
     <PosX>1239</PosX>
     <PosY>253</PosY>
     <Size>85</Size>
@@ -1909,9 +1894,9 @@
     <Name>571 - rwr_Ship_U</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>F5E-RWR_LampActPWROn.png</FilePictureOn>
-    <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
-    <PosX>1289</PosX>
+    <FilePictureOn>F5E-RWR_LampUnknownUpOn.png</FilePictureOn>
+    <FilePictureOff>F5E-RWR_LampUnknownUpOff.png</FilePictureOff>
+    <PosX>1239</PosX>
     <PosY>253</PosY>
     <Size>85</Size>
     <Rotate>0</Rotate>
@@ -1920,8 +1905,8 @@
   <Lamps>
     <ID>41</ID>
     <Class>LampOnOff</Class>
-    <Arg_number>568</Arg_number>
-    <Name>568 - rwr_Sys_On</Name>
+    <Arg_number>569</Arg_number>
+    <Name>569 - rwr_Sys</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>F5E-RWR_LampPowerOn.png</FilePictureOn>
@@ -1942,6 +1927,51 @@
     <FilePictureOn>F5E-RWR_LampModePriorityOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampModePriorityOff.png</FilePictureOff>
     <PosX>1139</PosX>
+    <PosY>186</PosY>
+    <Size>85</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>43</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>565</Arg_number>
+    <Name>565 - rwr_Sep_Up</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>F5E-RWR_LampSepUpOn.png</FilePictureOn>
+    <FilePictureOff>F5E-RWR_LampSepUpOff.png</FilePictureOff>
+    <PosX>1139</PosX>
+    <PosY>253</PosY>
+    <Size>85</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>44</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>566</Arg_number>
+    <Name>566 - rwr_Sep_Down</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>F5E-RWR_LampSepDownOn.png</FilePictureOn>
+    <FilePictureOff>F5E-RWR_LampSepDownOff.png</FilePictureOff>
+    <PosX>1139</PosX>
+    <PosY>253</PosY>
+    <Size>85</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>45</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>557</Arg_number>
+    <Name>557 - rwr_Hand_Up</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>F5E-RWR_LampHandoffUpOn.png</FilePictureOn>
+    <FilePictureOff>F5E-RWR_LampHandoffUpOff.png</FilePictureOff>
+    <PosX>1239</PosX>
     <PosY>186</PosY>
     <Size>85</Size>
     <Rotate>0</Rotate>
@@ -2509,7 +2539,7 @@
   </Switches>
   <Switches>
     <ID>31</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>ButtonToggle</Class>
     <ClickabledataID>658</ClickabledataID>
     <Name>MODE Button</Name>
     <Value>0</Value>
@@ -2529,7 +2559,7 @@
   </Switches>
   <Switches>
     <ID>32</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>ButtonToggle</Class>
     <ClickabledataID>659</ClickabledataID>
     <Name>SEARCH Button</Name>
     <Value>0</Value>
@@ -2549,7 +2579,7 @@
   </Switches>
   <Switches>
     <ID>33</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>ButtonToggle</Class>
     <ClickabledataID>660</ClickabledataID>
     <Name>HANDOFF Button</Name>
     <Value>0</Value>
@@ -2569,7 +2599,7 @@
   </Switches>
   <Switches>
     <ID>34</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>ButtonToggle</Class>
     <ClickabledataID>661</ClickabledataID>
     <Name>LAUNCH Button</Name>
     <Value>0</Value>
@@ -2589,7 +2619,7 @@
   </Switches>
   <Switches>
     <ID>35</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>ButtonToggle</Class>
     <ClickabledataID>662</ClickabledataID>
     <Name>ALTITUDE Button</Name>
     <Value>0</Value>
@@ -2609,7 +2639,7 @@
   </Switches>
   <Switches>
     <ID>36</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>ButtonToggle</Class>
     <ClickabledataID>663</ClickabledataID>
     <Name>T Button</Name>
     <Value>0</Value>
@@ -2620,7 +2650,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>1138</PosX>
-    <PosY>251</PosY>
+    <PosY>252</PosY>
     <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -2629,7 +2659,7 @@
   </Switches>
   <Switches>
     <ID>37</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>ButtonToggle</Class>
     <ClickabledataID>664</ClickabledataID>
     <Name>SYS TEST Button</Name>
     <Value>0</Value>
@@ -2649,7 +2679,7 @@
   </Switches>
   <Switches>
     <ID>38</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>ButtonToggle</Class>
     <ClickabledataID>665</ClickabledataID>
     <Name>UNKNOWN SHIP Button</Name>
     <Value>0</Value>
@@ -2669,7 +2699,7 @@
   </Switches>
   <Switches>
     <ID>39</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>ButtonToggle</Class>
     <ClickabledataID>666</ClickabledataID>
     <Name>ACT/PWR Button</Name>
     <Value>0</Value>
@@ -2689,7 +2719,7 @@
   </Switches>
   <Switches>
     <ID>40</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>ButtonToggle</Class>
     <ClickabledataID>667</ClickabledataID>
     <Name>POWER Button</Name>
     <Value>0</Value>
@@ -2697,8 +2727,8 @@
     <FilePictureOn>F5E-RWR_BPowerOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_BPowerOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>1.0</Input>
+    <Output>1.0</Output>
     <PosX>1338</PosX>
     <PosY>251</PosY>
     <Size>45</Size>
