@@ -1806,7 +1806,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>F5E-RWR_LampModeOpenOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampModeOpenOff.png</FilePictureOff>
-    <PosX>1139</PosX>
+    <PosX>1140</PosX>
     <PosY>186</PosY>
     <Size>85</Size>
     <Rotate>0</Rotate>
@@ -1821,7 +1821,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>F5E-RWR_LampSearchOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
-    <PosX>1189</PosX>
+    <PosX>1192</PosX>
     <PosY>186</PosY>
     <Size>85</Size>
     <Rotate>0</Rotate>
@@ -1866,7 +1866,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>F5E-RWR_LampSysTestOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
-    <PosX>1189</PosX>
+    <PosX>1192</PosX>
     <PosY>253</PosY>
     <Size>85</Size>
     <Rotate>0</Rotate>
@@ -1926,7 +1926,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>F5E-RWR_LampModePriorityOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampModePriorityOff.png</FilePictureOff>
-    <PosX>1139</PosX>
+    <PosX>1140</PosX>
     <PosY>186</PosY>
     <Size>85</Size>
     <Rotate>0</Rotate>
@@ -1941,7 +1941,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>F5E-RWR_LampSepUpOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampSepUpOff.png</FilePictureOff>
-    <PosX>1139</PosX>
+    <PosX>1140</PosX>
     <PosY>253</PosY>
     <Size>85</Size>
     <Rotate>0</Rotate>
@@ -1956,7 +1956,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>F5E-RWR_LampSepDownOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampSepDownOff.png</FilePictureOff>
-    <PosX>1139</PosX>
+    <PosX>1140</PosX>
     <PosY>253</PosY>
     <Size>85</Size>
     <Rotate>0</Rotate>
@@ -2204,13 +2204,13 @@
     <Name>Landing &amp; Taxi Light Switch, ON/OFF</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>switch_up2.png</FilePictureOn>
-    <FilePictureOff>switch_down2.png</FilePictureOff>
+    <FilePictureOn>sw_lng-lgt_up.png</FilePictureOn>
+    <FilePictureOff>sw_lng-lgt_down.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>135</PosX>
-    <PosY>974</PosY>
+    <PosX>133</PosX>
+    <PosY>990</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -2549,9 +2549,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1138</PosX>
-    <PosY>184</PosY>
-    <Size>45</Size>
+    <PosX>1129</PosX>
+    <PosY>176</PosY>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2569,9 +2569,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1188</PosX>
-    <PosY>184</PosY>
-    <Size>45</Size>
+    <PosX>1179</PosX>
+    <PosY>176</PosY>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2589,9 +2589,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1238</PosX>
-    <PosY>184</PosY>
-    <Size>45</Size>
+    <PosX>1229</PosX>
+    <PosY>176</PosY>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2609,9 +2609,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1289</PosX>
-    <PosY>184</PosY>
-    <Size>45</Size>
+    <PosX>1278</PosX>
+    <PosY>176</PosY>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2629,9 +2629,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1338</PosX>
-    <PosY>184</PosY>
-    <Size>45</Size>
+    <PosX>1328</PosX>
+    <PosY>176</PosY>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2649,9 +2649,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1138</PosX>
-    <PosY>252</PosY>
-    <Size>45</Size>
+    <PosX>1129</PosX>
+    <PosY>242</PosY>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2669,9 +2669,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1188</PosX>
-    <PosY>251</PosY>
-    <Size>45</Size>
+    <PosX>1180</PosX>
+    <PosY>242</PosY>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2689,9 +2689,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1238</PosX>
-    <PosY>251</PosY>
-    <Size>45</Size>
+    <PosX>1229</PosX>
+    <PosY>242</PosY>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2709,9 +2709,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1288</PosX>
-    <PosY>251</PosY>
-    <Size>45</Size>
+    <PosX>1276</PosX>
+    <PosY>242</PosY>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2729,9 +2729,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>1.0</Input>
     <Output>1.0</Output>
-    <PosX>1338</PosX>
-    <PosY>251</PosY>
-    <Size>45</Size>
+    <PosX>1328</PosX>
+    <PosY>243</PosY>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2864,11 +2864,11 @@
     <Name>External Stores Selector, RIPL/BOMB/SAFE/RKT DISP</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>TISL Rotary2.png</FilePictureOn>
+    <FilePictureOn>TISL_Rotary3.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2,0.3</Input>
-    <Output>-45, 0, 45, 90</Output>
+    <Output>0, 45, 90, 135</Output>
     <PosX>493</PosX>
     <PosY>799</PosY>
     <Size>100</Size>
@@ -2888,7 +2888,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.01</Input>
-    <Output>0.0,1.0</Output>
+    <Output>0.0,1.0, 0.05818</Output>
     <PosX>664</PosX>
     <PosY>536</PosY>
     <Size>50</Size>
@@ -2908,7 +2908,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.01</Input>
-    <Output>0.0,1.0</Output>
+    <Output>0.0,1.0, 0.05818</Output>
     <PosX>459</PosX>
     <PosY>536</PosY>
     <Size>50</Size>
@@ -3493,6 +3493,26 @@
     <PosY>878</PosY>
     <Size>45</Size>
     <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
+  <Switches>
+    <ID>79</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>733</ClickabledataID>
+    <Name>Landing Gear Lever, LG UP/LG DOWN</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>40</PosX>
+    <PosY>630</PosY>
+    <Size>60</Size>
+    <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
