@@ -1849,8 +1849,8 @@
     <Name>562 - rwr_Alt_Low</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>F5E-RWR_LampAlititudeOn.png</FilePictureOn>
-    <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
+    <FilePictureOn>F5E-RWR_LampAlititudeLowOn.png</FilePictureOn>
+    <FilePictureOff>F5E-RWR_LampAlititudeLowOff.png</FilePictureOff>
     <PosX>1339</PosX>
     <PosY>186</PosY>
     <Size>85</Size>
@@ -1972,6 +1972,21 @@
     <FilePictureOn>F5E-RWR_LampHandoffUpOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampHandoffUpOff.png</FilePictureOff>
     <PosX>1239</PosX>
+    <PosY>186</PosY>
+    <Size>85</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>46</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>563</Arg_number>
+    <Name>563 - rwr_Alt</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>F5E-RWR_LampAlititudeAltOn.png</FilePictureOn>
+    <FilePictureOff>F5E-RWR_LampAlititudeAltOff.png</FilePictureOff>
+    <PosX>1339</PosX>
     <PosY>186</PosY>
     <Size>85</Size>
     <Rotate>0</Rotate>
