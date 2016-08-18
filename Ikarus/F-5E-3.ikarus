@@ -338,6 +338,19 @@
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
   </Instruments>
+  <Instruments>
+    <IDInst>33</IDInst>
+    <Name>Tacan Display</Name>
+    <Class>F5E_TacanDisplay</Class>
+    <PosX>85</PosX>
+    <PosY>47</PosY>
+    <Size>141</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>F5E_Tacan-Channel.png</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>3</WindowID>
+  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -1323,6 +1336,62 @@
     <IDFct>5</IDFct>
     <Name>0.025 Mhz</Name>
     <Arg_number>306</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>33</IDInst>
+    <IDFct>1</IDFct>
+    <Name>TACAN_digit_pos.hundreds</Name>
+    <Arg_number>263</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>33</IDInst>
+    <IDFct>2</IDFct>
+    <Name>TACAN_digit_pos.tens</Name>
+    <Arg_number>264</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>33</IDInst>
+    <IDFct>3</IDFct>
+    <Name>TACAN_digit_pos.ones </Name>
+    <Arg_number>265</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>33</IDInst>
+    <IDFct>4</IDFct>
+    <Name>XYwheel</Name>
+    <Arg_number>266</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -3642,13 +3711,13 @@
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
+    <Input>0.0,1.0, 0.1</Input>
     <Output>0.0,1.0</Output>
     <PosX>192</PosX>
     <PosY>133</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
-    <Event>true</Event>
+    <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
   </Switches>
@@ -3662,13 +3731,13 @@
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
+    <Input>0.0,1.2, 0.1</Input>
     <Output>0.0,1.0</Output>
     <PosX>64</PosX>
     <PosY>133</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
-    <Event>true</Event>
+    <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
   </Switches>
@@ -3723,7 +3792,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosY>1080</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>F5E_FrontPanelDark.PNG</Background>

@@ -193,6 +193,9 @@
     <Classname>F5E_RPM</Classname>
   </Classnames>
   <Classnames>
+    <Classname>F5E_TacanDisplay</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>F5E_UHF</Classname>
   </Classnames>
   <Classnames>

@@ -1621,7 +1621,7 @@
   <Clickabledata>
     <ID>716</ID>
     <DeviceID>25</DeviceID>
-    <ButtonID>2</ButtonID>
+    <ButtonID>1</ButtonID>
     <Discription>Tacan Channel Selector (Tens) - Rotate mouse wheel to select</Discription>
     <Type>Rotary</Type>
     <DcsID>256</DcsID>
