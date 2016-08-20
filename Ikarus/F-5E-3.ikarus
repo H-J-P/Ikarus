@@ -2451,8 +2451,8 @@
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>1.0</Input>
-    <Output>1.0</Output>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
     <PosX>1445</PosX>
     <PosY>606</PosY>
     <Size>100</Size>
@@ -2811,8 +2811,8 @@
     <FilePictureOn>F5E-RWR_BPowerOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_BPowerOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>1.0</Input>
-    <Output>1.0</Output>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
     <PosX>1328</PosX>
     <PosY>243</PosY>
     <Size>65</Size>
@@ -3331,8 +3331,8 @@
     <FilePictureOn>F5E-EmerAllJettOn.png</FilePictureOn>
     <FilePictureOff>F5E-EmerAllJettOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>1.0</Input>
-    <Output>1.0</Output>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
     <PosX>675</PosX>
     <PosY>809</PosY>
     <Size>60</Size>
@@ -3632,7 +3632,7 @@
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
-    <Output> 0, 1</Output>
+    <Output>0.0,1.0</Output>
     <PosX>101</PosX>
     <PosY>238</PosY>
     <Size>50</Size>
@@ -3703,7 +3703,7 @@
   </Switches>
   <Switches>
     <ID>85</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryWithPosition</Class>
     <ClickabledataID>717</ClickabledataID>
     <Name>Tacan Channel Selector (Ones)</Name>
     <Value>0</Value>
@@ -3711,8 +3711,8 @@
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0, 0.1</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9</Input>
+    <Output>0,36,72,108,144,180,216,252,288,324</Output>
     <PosX>192</PosX>
     <PosY>133</PosY>
     <Size>50</Size>
@@ -3723,7 +3723,7 @@
   </Switches>
   <Switches>
     <ID>86</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryWithPosition</Class>
     <ClickabledataID>716</ClickabledataID>
     <Name>Tacan Channel Selector (Tens) - Rotate mouse wheel to select</Name>
     <Value>0</Value>
@@ -3731,8 +3731,8 @@
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.2, 0.1</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0,1.1,1.2</Input>
+    <Output>0,36,72,108,144,180,216,252,288,324,360,396,432</Output>
     <PosX>64</PosX>
     <PosY>133</PosY>
     <Size>50</Size>
@@ -3751,8 +3751,8 @@
     <FilePictureOn>Button3On.png</FilePictureOn>
     <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.87,0.93</Input>
+    <Output>0.87,0.93</Output>
     <PosX>200</PosX>
     <PosY>141</PosY>
     <Size>35</Size>
