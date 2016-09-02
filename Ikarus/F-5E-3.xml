@@ -1528,7 +1528,7 @@
     <ButtonID>2</ButtonID>
     <Discription>100 MHz Frequency Selector Knob</Discription>
     <Type>Switch</Type>
-    <DcsID>327</DcsID>
+    <DcsID>302</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>701</ID>
@@ -1536,7 +1536,7 @@
     <ButtonID>3</ButtonID>
     <Discription>10 MHz Frequency Selector Knob</Discription>
     <Type>Switch</Type>
-    <DcsID>328</DcsID>
+    <DcsID>303</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>702</ID>
@@ -1544,7 +1544,7 @@
     <ButtonID>4</ButtonID>
     <Discription>1 MHz Frequency Selector Knob</Discription>
     <Type>Switch</Type>
-    <DcsID>329</DcsID>
+    <DcsID>304</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>703</ID>
@@ -1552,7 +1552,7 @@
     <ButtonID>5</ButtonID>
     <Discription>0.1 MHz Frequency Selector Knob</Discription>
     <Type>Switch</Type>
-    <DcsID>330</DcsID>
+    <DcsID>305</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>704</ID>
@@ -1560,7 +1560,7 @@
     <ButtonID>6</ButtonID>
     <Discription>0.025 MHz Frequency Selector Knob</Discription>
     <Type>Switch</Type>
-    <DcsID>331</DcsID>
+    <DcsID>306</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>705</ID>
@@ -1621,8 +1621,8 @@
   <Clickabledata>
     <ID>716</ID>
     <DeviceID>25</DeviceID>
-    <ButtonID>1</ButtonID>
-    <Discription>Tacan Channel Selector (Tens) - Rotate mouse wheel to select</Discription>
+    <ButtonID>2</ButtonID>
+    <Discription>Channel Selector (Tens) - Rotate mouse wheel to select</Discription>
     <Type>Rotary</Type>
     <DcsID>256</DcsID>
   </Clickabledata>
@@ -1630,7 +1630,7 @@
     <ID>717</ID>
     <DeviceID>25</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>Tacan Channel Selector (Ones)</Discription>
+    <Discription>Channel Selector (Ones)</Discription>
     <Type>Rotary</Type>
     <DcsID>257</DcsID>
   </Clickabledata>
@@ -1638,15 +1638,15 @@
     <ID>718</ID>
     <DeviceID>25</DeviceID>
     <ButtonID>5</ButtonID>
-    <Discription>Tacan X/Y Mode - Right mouse click to select X/Y</Discription>
-    <Type>Switch</Type>
+    <Discription>X/Y Mode - Right mouse click to select X/Y</Discription>
+    <Type>Rotary</Type>
     <DcsID>258</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>719</ID>
     <DeviceID>25</DeviceID>
     <ButtonID>6</ButtonID>
-    <Discription>Tacan Signal on HSI Test Button</Discription>
+    <Discription>Signal on HSI Test Button</Discription>
     <Type>Switch</Type>
     <DcsID>259</DcsID>
   </Clickabledata>
@@ -1654,7 +1654,7 @@
     <ID>720</ID>
     <DeviceID>25</DeviceID>
     <ButtonID>7</ButtonID>
-    <Discription>Tacan Signal Volume Knob</Discription>
+    <Discription>Signal Volume Knob</Discription>
     <Type>Rotary</Type>
     <DcsID>261</DcsID>
   </Clickabledata>
@@ -1662,7 +1662,7 @@
     <ID>721</ID>
     <DeviceID>25</DeviceID>
     <ButtonID>8</ButtonID>
-    <Discription>Tacan Mode Selector Switch</Discription>
+    <Discription>Mode Selector Switch</Discription>
     <Type>Switch</Type>
     <DcsID>262</DcsID>
   </Clickabledata>
