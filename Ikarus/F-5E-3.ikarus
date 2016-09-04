@@ -2677,7 +2677,7 @@
   </Switches>
   <Switches>
     <ID>31</ID>
-    <Class>Button</Class>
+    <Class>Button70x70</Class>
     <ClickabledataID>658</ClickabledataID>
     <Name>MODE Button</Name>
     <Value>0</Value>
@@ -2698,7 +2698,7 @@
   </Switches>
   <Switches>
     <ID>32</ID>
-    <Class>Button</Class>
+    <Class>Button70x70</Class>
     <ClickabledataID>659</ClickabledataID>
     <Name>SEARCH Button</Name>
     <Value>0</Value>
@@ -2719,7 +2719,7 @@
   </Switches>
   <Switches>
     <ID>33</ID>
-    <Class>Button</Class>
+    <Class>Button70x70</Class>
     <ClickabledataID>660</ClickabledataID>
     <Name>HANDOFF Button</Name>
     <Value>0</Value>
@@ -2740,7 +2740,7 @@
   </Switches>
   <Switches>
     <ID>34</ID>
-    <Class>Button</Class>
+    <Class>Button70x70</Class>
     <ClickabledataID>661</ClickabledataID>
     <Name>LAUNCH Button</Name>
     <Value>0</Value>
@@ -2761,7 +2761,7 @@
   </Switches>
   <Switches>
     <ID>35</ID>
-    <Class>Button</Class>
+    <Class>Button70x70</Class>
     <ClickabledataID>662</ClickabledataID>
     <Name>ALTITUDE Button</Name>
     <Value>0</Value>
@@ -2782,7 +2782,7 @@
   </Switches>
   <Switches>
     <ID>36</ID>
-    <Class>Button</Class>
+    <Class>Button70x70</Class>
     <ClickabledataID>663</ClickabledataID>
     <Name>T Button</Name>
     <Value>0</Value>
@@ -2803,7 +2803,7 @@
   </Switches>
   <Switches>
     <ID>37</ID>
-    <Class>Button</Class>
+    <Class>Button70x70</Class>
     <ClickabledataID>664</ClickabledataID>
     <Name>SYS TEST Button</Name>
     <Value>0</Value>
@@ -2824,7 +2824,7 @@
   </Switches>
   <Switches>
     <ID>38</ID>
-    <Class>Button</Class>
+    <Class>Button70x70</Class>
     <ClickabledataID>665</ClickabledataID>
     <Name>UNKNOWN SHIP Button</Name>
     <Value>0</Value>
@@ -2845,7 +2845,7 @@
   </Switches>
   <Switches>
     <ID>39</ID>
-    <Class>Button</Class>
+    <Class>Button70x70</Class>
     <ClickabledataID>666</ClickabledataID>
     <Name>ACT/PWR Button</Name>
     <Value>0</Value>
@@ -2866,7 +2866,7 @@
   </Switches>
   <Switches>
     <ID>40</ID>
-    <Class>Button</Class>
+    <Class>Button70x70</Class>
     <ClickabledataID>667</ClickabledataID>
     <Name>POWER Button</Name>
     <Value>0</Value>
@@ -3944,7 +3944,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>1080</PosY>
+    <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>F5E_FrontPanelDark.PNG</Background>
