@@ -1686,6 +1686,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
+    <DcsID>44</DcsID>
   </Switches>
   <Switches>
     <ID>2</ID>
@@ -1706,6 +1707,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
+    <DcsID>46</DcsID>
   </Switches>
   <Switches>
     <ID>3</ID>
@@ -1726,6 +1728,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
+    <DcsID>45</DcsID>
   </Switches>
   <Parameter>
     <FileBackground>BackgroundKA50.png</FileBackground>
@@ -1734,7 +1737,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>1080</PosY>
+    <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>Ka-50-Background.png</Background>

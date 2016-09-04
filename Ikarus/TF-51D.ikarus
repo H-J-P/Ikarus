@@ -11,6 +11,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>2</IDInst>
@@ -23,6 +24,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>3</IDInst>
@@ -35,6 +37,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>4</IDInst>
@@ -47,6 +50,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>5</IDInst>
@@ -59,6 +63,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>6</IDInst>
@@ -71,6 +76,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>7</IDInst>
@@ -83,6 +89,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>8</IDInst>
@@ -95,6 +102,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>9</IDInst>
@@ -107,6 +115,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>10</IDInst>
@@ -119,6 +128,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>11</IDInst>
@@ -131,6 +141,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>12</IDInst>
@@ -143,6 +154,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>13</IDInst>
@@ -155,6 +167,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>14</IDInst>
@@ -167,6 +180,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>15</IDInst>
@@ -179,6 +193,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>16</IDInst>
@@ -191,6 +206,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>17</IDInst>
@@ -203,6 +219,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>18</IDInst>
@@ -215,6 +232,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>19</IDInst>
@@ -227,6 +245,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Functions>
     <IDInst>1</IDInst>
@@ -707,4 +726,14 @@
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
   </Parameter>
+  <Window>
+    <WindowID>1</WindowID>
+    <Name>Front Panel</Name>
+    <PosX>0</PosX>
+    <PosY>0</PosY>
+    <Height>1080</Height>
+    <Width>1920</Width>
+    <Background>BackGround.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+  </Window>
 </DataSet1>
