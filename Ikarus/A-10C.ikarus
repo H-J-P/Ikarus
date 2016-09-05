@@ -3217,7 +3217,7 @@
   </Switches>
   <Switches>
     <ID>23</ID>
-    <Class>Button</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>386</ClickabledataID>
     <Name>NMSP - HARS Backup Navigation Mode</Name>
     <Value>0</Value>
@@ -3238,7 +3238,7 @@
   </Switches>
   <Switches>
     <ID>24</ID>
-    <Class>Button</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>387</ClickabledataID>
     <Name>NMSP - EGI Navigation Mode</Name>
     <Value>0</Value>
@@ -3259,7 +3259,7 @@
   </Switches>
   <Switches>
     <ID>25</ID>
-    <Class>Button</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>388</ClickabledataID>
     <Name>NMSP - TISL No Function</Name>
     <Value>0</Value>
@@ -3280,7 +3280,7 @@
   </Switches>
   <Switches>
     <ID>26</ID>
-    <Class>Button</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>389</ClickabledataID>
     <Name>NMSP - STEERPT Mode</Name>
     <Value>0</Value>
@@ -3301,7 +3301,7 @@
   </Switches>
   <Switches>
     <ID>27</ID>
-    <Class>Button</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>390</ClickabledataID>
     <Name>NMSP - ANCHR Mode</Name>
     <Value>0</Value>
@@ -3322,7 +3322,7 @@
   </Switches>
   <Switches>
     <ID>28</ID>
-    <Class>Button</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>391</ClickabledataID>
     <Name>NMSP - TCN Mode</Name>
     <Value>0</Value>
@@ -3343,7 +3343,7 @@
   </Switches>
   <Switches>
     <ID>29</ID>
-    <Class>Button</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>392</ClickabledataID>
     <Name>NMSP - ILS Mode</Name>
     <Value>0</Value>
@@ -3364,7 +3364,7 @@
   </Switches>
   <Switches>
     <ID>30</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>43</ClickabledataID>
     <Name>Left MFCD - OSB 1</Name>
     <Value>0</Value>
@@ -3385,7 +3385,7 @@
   </Switches>
   <Switches>
     <ID>31</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>44</ClickabledataID>
     <Name>Left MFCD - OSB 2</Name>
     <Value>0</Value>
@@ -3406,7 +3406,7 @@
   </Switches>
   <Switches>
     <ID>32</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>45</ClickabledataID>
     <Name>Left MFCD - OSB 3</Name>
     <Value>0</Value>
@@ -3427,7 +3427,7 @@
   </Switches>
   <Switches>
     <ID>33</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>46</ClickabledataID>
     <Name>Left MFCD - OSB 4</Name>
     <Value>0</Value>
@@ -3448,7 +3448,7 @@
   </Switches>
   <Switches>
     <ID>34</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>47</ClickabledataID>
     <Name>Left MFCD - OSB 5</Name>
     <Value>0</Value>
@@ -3469,7 +3469,7 @@
   </Switches>
   <Switches>
     <ID>35</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>48</ClickabledataID>
     <Name>Left MFCD - OSB 6</Name>
     <Value>0</Value>
@@ -3490,7 +3490,7 @@
   </Switches>
   <Switches>
     <ID>36</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>49</ClickabledataID>
     <Name>Left MFCD - OSB 7</Name>
     <Value>0</Value>
@@ -3511,7 +3511,7 @@
   </Switches>
   <Switches>
     <ID>37</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>50</ClickabledataID>
     <Name>Left MFCD - OSB 8</Name>
     <Value>0</Value>
@@ -3532,7 +3532,7 @@
   </Switches>
   <Switches>
     <ID>38</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>51</ClickabledataID>
     <Name>Left MFCD - OSB 9</Name>
     <Value>0</Value>
@@ -3553,7 +3553,7 @@
   </Switches>
   <Switches>
     <ID>39</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>52</ClickabledataID>
     <Name>Left MFCD - OSB 10</Name>
     <Value>0</Value>
@@ -3574,7 +3574,7 @@
   </Switches>
   <Switches>
     <ID>40</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>53</ClickabledataID>
     <Name>Left MFCD - OSB 11</Name>
     <Value>0</Value>
@@ -3595,7 +3595,7 @@
   </Switches>
   <Switches>
     <ID>41</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>54</ClickabledataID>
     <Name>Left MFCD - OSB 12</Name>
     <Value>0</Value>
@@ -3616,7 +3616,7 @@
   </Switches>
   <Switches>
     <ID>42</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>55</ClickabledataID>
     <Name>Left MFCD - OSB 13</Name>
     <Value>0</Value>
@@ -3637,7 +3637,7 @@
   </Switches>
   <Switches>
     <ID>43</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>56</ClickabledataID>
     <Name>Left MFCD - OSB 14</Name>
     <Value>0</Value>
@@ -3658,7 +3658,7 @@
   </Switches>
   <Switches>
     <ID>44</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>57</ClickabledataID>
     <Name>Left MFCD - OSB 15</Name>
     <Value>0</Value>
@@ -3679,7 +3679,7 @@
   </Switches>
   <Switches>
     <ID>45</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>58</ClickabledataID>
     <Name>Left MFCD - OSB 16</Name>
     <Value>0</Value>
@@ -3700,7 +3700,7 @@
   </Switches>
   <Switches>
     <ID>46</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>59</ClickabledataID>
     <Name>Left MFCD - OSB 17</Name>
     <Value>0</Value>
@@ -3721,7 +3721,7 @@
   </Switches>
   <Switches>
     <ID>47</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>60</ClickabledataID>
     <Name>Left MFCD - OSB 18</Name>
     <Value>0</Value>
@@ -3742,7 +3742,7 @@
   </Switches>
   <Switches>
     <ID>48</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>61</ClickabledataID>
     <Name>Left MFCD - OSB 19</Name>
     <Value>0</Value>
@@ -3763,7 +3763,7 @@
   </Switches>
   <Switches>
     <ID>49</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>62</ClickabledataID>
     <Name>Left MFCD - OSB 20</Name>
     <Value>0</Value>
@@ -3784,7 +3784,7 @@
   </Switches>
   <Switches>
     <ID>50</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>84</ClickabledataID>
     <Name>Right MFCD - OSB 1</Name>
     <Value>0</Value>
@@ -3805,7 +3805,7 @@
   </Switches>
   <Switches>
     <ID>51</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>85</ClickabledataID>
     <Name>Right MFCD - OSB 2</Name>
     <Value>0</Value>
@@ -3826,7 +3826,7 @@
   </Switches>
   <Switches>
     <ID>52</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>86</ClickabledataID>
     <Name>Right MFCD - OSB 3</Name>
     <Value>0</Value>
@@ -3847,7 +3847,7 @@
   </Switches>
   <Switches>
     <ID>53</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>87</ClickabledataID>
     <Name>Right MFCD - OSB 4</Name>
     <Value>0</Value>
@@ -3868,7 +3868,7 @@
   </Switches>
   <Switches>
     <ID>54</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>88</ClickabledataID>
     <Name>Right MFCD - OSB 5</Name>
     <Value>0</Value>
@@ -3889,7 +3889,7 @@
   </Switches>
   <Switches>
     <ID>55</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>89</ClickabledataID>
     <Name>Right MFCD - OSB 6</Name>
     <Value>0</Value>
@@ -3910,7 +3910,7 @@
   </Switches>
   <Switches>
     <ID>56</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>90</ClickabledataID>
     <Name>Right MFCD - OSB 7</Name>
     <Value>0</Value>
@@ -3931,7 +3931,7 @@
   </Switches>
   <Switches>
     <ID>57</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>91</ClickabledataID>
     <Name>Right MFCD - OSB 8</Name>
     <Value>0</Value>
@@ -3952,7 +3952,7 @@
   </Switches>
   <Switches>
     <ID>58</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>92</ClickabledataID>
     <Name>Right MFCD - OSB 9</Name>
     <Value>0</Value>
@@ -3973,7 +3973,7 @@
   </Switches>
   <Switches>
     <ID>59</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>93</ClickabledataID>
     <Name>Right MFCD - OSB 10</Name>
     <Value>0</Value>
@@ -3994,7 +3994,7 @@
   </Switches>
   <Switches>
     <ID>60</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>94</ClickabledataID>
     <Name>Right MFCD - OSB 11</Name>
     <Value>0</Value>
@@ -4015,7 +4015,7 @@
   </Switches>
   <Switches>
     <ID>61</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>95</ClickabledataID>
     <Name>Right MFCD - OSB 12</Name>
     <Value>0</Value>
@@ -4036,7 +4036,7 @@
   </Switches>
   <Switches>
     <ID>62</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>96</ClickabledataID>
     <Name>Right MFCD - OSB 13</Name>
     <Value>0</Value>
@@ -4057,7 +4057,7 @@
   </Switches>
   <Switches>
     <ID>63</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>97</ClickabledataID>
     <Name>Right MFCD - OSB 14</Name>
     <Value>0</Value>
@@ -4078,7 +4078,7 @@
   </Switches>
   <Switches>
     <ID>64</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>98</ClickabledataID>
     <Name>Right MFCD - OSB 15</Name>
     <Value>0</Value>
@@ -4099,7 +4099,7 @@
   </Switches>
   <Switches>
     <ID>65</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>99</ClickabledataID>
     <Name>Right MFCD - OSB 16</Name>
     <Value>0</Value>
@@ -4120,7 +4120,7 @@
   </Switches>
   <Switches>
     <ID>66</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>100</ClickabledataID>
     <Name>Right MFCD - OSB 17</Name>
     <Value>0</Value>
@@ -4141,7 +4141,7 @@
   </Switches>
   <Switches>
     <ID>67</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>101</ClickabledataID>
     <Name>Right MFCD - OSB 18</Name>
     <Value>0</Value>
@@ -4162,7 +4162,7 @@
   </Switches>
   <Switches>
     <ID>68</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>102</ClickabledataID>
     <Name>Right MFCD - OSB 19</Name>
     <Value>0</Value>
@@ -4183,7 +4183,7 @@
   </Switches>
   <Switches>
     <ID>69</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>103</ClickabledataID>
     <Name>Right MFCD - OSB 20</Name>
     <Value>0</Value>
@@ -4204,7 +4204,7 @@
   </Switches>
   <Switches>
     <ID>70</ID>
-    <Class>Button</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>282</ClickabledataID>
     <Name>FuelSystem - Fuel Gauge Test</Name>
     <Value>0</Value>
@@ -4225,7 +4225,7 @@
   </Switches>
   <Switches>
     <ID>71</ID>
-    <Class>Button</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>144</ClickabledataID>
     <Name>CMSC - Unknown Threats</Name>
     <Value>0</Value>
@@ -4246,7 +4246,7 @@
   </Switches>
   <Switches>
     <ID>72</ID>
-    <Class>Button</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>142</ClickabledataID>
     <Name>CMSC - Toggle between 5 and 16 Priority Threats Displayed</Name>
     <Value>0</Value>
@@ -4267,7 +4267,7 @@
   </Switches>
   <Switches>
     <ID>73</ID>
-    <Class>Button</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>143</ClickabledataID>
     <Name>CMSC - Separate RWR Symbols</Name>
     <Value>0</Value>
@@ -4288,7 +4288,7 @@
   </Switches>
   <Switches>
     <ID>74</ID>
-    <Class>Button</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>141</ClickabledataID>
     <Name>CMSC - Select Jammer Program</Name>
     <Value>0</Value>
@@ -4309,7 +4309,7 @@
   </Switches>
   <Switches>
     <ID>75</ID>
-    <Class>Button</Class>
+    <Class>Button45x45</Class>
     <ClickabledataID>141</ClickabledataID>
     <Name>CMSC - Select Jammer Program</Name>
     <Value>0</Value>
@@ -4453,6 +4453,27 @@
     <WindowID>4</WindowID>
     <DcsID>243</DcsID>
   </Switches>
+  <Switches>
+    <ID>82</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>28</ClickabledataID>
+    <Name>CBP - MASTER CAUT</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>59</PosX>
+    <PosY>1026</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>689</DcsID>
+  </Switches>
   <Parameter>
     <FileBackground>BackGroundA10CNight.png</FileBackground>
   </Parameter>
@@ -4460,7 +4481,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosY>1080</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>A10CBackGround.png</Background>
