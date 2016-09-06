@@ -543,13 +543,13 @@
   <DCS_ID>
     <ExportID>541</ExportID>
     <Description>UV26 LeftBoard</Description>
-    <ExportIDWithDescription>541 - UV26 LeftBoard</ExportIDWithDescription>
+    <ExportIDWithDescription>541 - UV-26 LeftBoard</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
     <ExportID>542</ExportID>
     <Description>UV26 RightBoard</Description>
-    <ExportIDWithDescription>542 - UV26 RightBoard</ExportIDWithDescription>
+    <ExportIDWithDescription>542 - UV-26 RightBoard</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
@@ -1784,7 +1784,7 @@
     <ID>107</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>CMD Select Left/Both/Right board flares dispensers 1</Discription>
+    <Discription>UV-26 Select Left/Both/Right board flares dispensers 1</Discription>
     <DcsID>36</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1792,7 +1792,7 @@
     <ID>108</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>2</ButtonID>
-    <Discription>CMD Select Left/Both/Right board flares dispensers 2</Discription>
+    <Discription>UV-26 Select Left/Both/Right board flares dispensers 2</Discription>
     <DcsID>36</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1800,7 +1800,7 @@
     <ID>109</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>CMD Amount flares counter/Programming</Discription>
+    <Discription>UV-26 Amount flares counter/Programming</Discription>
     <DcsID>37</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1808,7 +1808,7 @@
     <ID>110</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>4</ButtonID>
-    <Discription>CMD Num of sequences</Discription>
+    <Discription>UV-26 Num of sequences</Discription>
     <DcsID>38</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1816,7 +1816,7 @@
     <ID>111</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>5</ButtonID>
-    <Discription>CMD Num in sequence</Discription>
+    <Discription>UV-26 Num in sequence</Discription>
     <DcsID>39</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1824,7 +1824,7 @@
     <ID>112</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>6</ButtonID>
-    <Discription>CMD Dispense interval</Discription>
+    <Discription>UV-26 Dispense interval</Discription>
     <DcsID>41</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1832,7 +1832,7 @@
     <ID>113</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>7</ButtonID>
-    <Discription>CMD Start dispense</Discription>
+    <Discription>UV-26 Start dispense</Discription>
     <DcsID>43</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1840,7 +1840,7 @@
     <ID>114</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>8</ButtonID>
-    <Discription>CMD Reset to default program</Discription>
+    <Discription>UV-26 Reset to default program</Discription>
     <DcsID>42</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1848,7 +1848,7 @@
     <ID>115</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>9</ButtonID>
-    <Discription>CMD Stop dispense</Discription>
+    <Discription>UV-26 Stop dispense</Discription>
     <DcsID>40</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1857,7 +1857,7 @@
     <ID>116</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>10</ButtonID>
-    <Discription>CMD Power</Discription>
+    <Discription>UV-26 Power</Discription>
     <DcsID>496</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1865,7 +1865,7 @@
     <ID>117</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>11</ButtonID>
-    <Discription>CMD BIT</Discription>
+    <Discription>UV-26 BIT</Discription>
     <DcsID>498</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
