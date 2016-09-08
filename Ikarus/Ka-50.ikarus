@@ -3047,7 +3047,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>1200</PosY>
+    <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>Ka-50-Background.png</Background>
@@ -3057,7 +3057,7 @@
     <WindowID>2</WindowID>
     <Name>DataLink-LWR</Name>
     <PosX>0</PosX>
-    <PosY>1200</PosY>
+    <PosY>0</PosY>
     <Height>519</Height>
     <Width>412</Width>
     <Background>Ka-50-Background-Datalink-LWR.png</Background>
@@ -3067,7 +3067,7 @@
     <WindowID>3</WindowID>
     <Name>UV-26</Name>
     <PosX>1653</PosX>
-    <PosY>1200</PosY>
+    <PosY>0</PosY>
     <Height>600</Height>
     <Width>267</Width>
     <Background>Ka-50-Background-UV26.png</Background>

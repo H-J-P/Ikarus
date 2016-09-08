@@ -736,6 +736,9 @@
     <Classname>MIG29MDI</Classname>
   </Classnames>
   <Classnames>
+    <Classname>Monitor04x08</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>Monitor10x24</Classname>
   </Classnames>
   <Classnames>
