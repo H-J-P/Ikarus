@@ -5986,6 +5986,27 @@
     <WindowID>3</WindowID>
     <DcsID>469</DcsID>
   </Switches>
+  <Switches>
+    <ID>155</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>393</ClickabledataID>
+    <Name>NMSP - ABLE-STOW ADI Localizer Bar</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>857</PosX>
+    <PosY>876</PosY>
+    <Size>55</Size>
+    <Rotate>90</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>621</DcsID>
+  </Switches>
   <Parameter>
     <FileBackground>BackGroundA10CNight.png</FileBackground>
   </Parameter>
@@ -6015,7 +6036,7 @@
     <WindowID>3</WindowID>
     <Name>CDU</Name>
     <PosX>1470</PosX>
-    <PosY>410</PosY>
+    <PosY>290</PosY>
     <Height>789</Height>
     <Width>450</Width>
     <Background>A10-CDU-Background.png</Background>

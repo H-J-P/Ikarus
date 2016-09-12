@@ -668,7 +668,7 @@
     <IDInst>10</IDInst>
     <IDFct>1</IDFct>
     <Name>LEFT_Wheelbrake</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>56</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -682,7 +682,7 @@
     <IDInst>10</IDInst>
     <IDFct>2</IDFct>
     <Name>RIGHT_Wheelbrake</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>57</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1245,7 +1245,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosY>1200</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>BackGroundMiG-21.png</Background>
