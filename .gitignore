@@ -5,3 +5,8 @@
 Ikarus/Images/.DS_Store
 
 Ikarus/.DS_Store
+
+*.config
+
+*.vshost.exe
+
