@@ -2093,8 +2093,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_EngStartCycle.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>75</PosX>
-    <PosY>31</PosY>
+    <PosX>90</PosX>
+    <PosY>30</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2108,8 +2108,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_LHydPress.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>153</PosX>
-    <PosY>28</PosY>
+    <PosX>160</PosX>
+    <PosY>30</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2123,8 +2123,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_RHydPress.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>225</PosX>
-    <PosY>29</PosY>
+    <PosX>230</PosX>
+    <PosY>30</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2139,7 +2139,7 @@
     <FilePictureOn>A10_WP_GunUnsafe.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
-    <PosY>29</PosY>
+    <PosY>30</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2153,8 +2153,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_AntiSkid.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>75</PosX>
-    <PosY>63</PosY>
+    <PosX>90</PosX>
+    <PosY>64</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2168,7 +2168,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_LHydRes.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>150</PosX>
+    <PosX>160</PosX>
     <PosY>64</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -2183,7 +2183,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_RHydRes.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>225</PosX>
+    <PosX>230</PosX>
     <PosY>64</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -2199,7 +2199,7 @@
     <FilePictureOn>A10_WP_OxyLow.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
-    <PosY>63</PosY>
+    <PosY>64</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2213,8 +2213,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_ElevDiseng.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>75</PosX>
-    <PosY>101</PosY>
+    <PosX>90</PosX>
+    <PosY>98</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2228,7 +2228,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_SeatNotArmed.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>224</PosX>
+    <PosX>230</PosX>
     <PosY>98</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -2258,8 +2258,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_AilDiseng.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>75</PosX>
-    <PosY>134</PosY>
+    <PosX>90</PosX>
+    <PosY>132</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2273,8 +2273,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_L-AilTab.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>150</PosX>
-    <PosY>133</PosY>
+    <PosX>160</PosX>
+    <PosY>132</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2288,7 +2288,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_R-AilTab.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>225</PosX>
+    <PosX>230</PosX>
     <PosY>132</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -2318,7 +2318,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_PitchSas.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>75</PosX>
+    <PosX>90</PosX>
     <PosY>169</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -2333,7 +2333,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_LEngHot.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>150</PosX>
+    <PosX>160</PosX>
     <PosY>169</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -2348,8 +2348,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_REngHot.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>225</PosX>
-    <PosY>168</PosY>
+    <PosX>230</PosX>
+    <PosY>169</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2364,7 +2364,7 @@
     <FilePictureOn>A10_WP_WindshieldHot.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
-    <PosY>170</PosY>
+    <PosY>169</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2378,7 +2378,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_YawSas.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>75</PosX>
+    <PosX>90</PosX>
     <PosY>201</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -2393,8 +2393,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_LEngOilPress.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>150</PosX>
-    <PosY>203</PosY>
+    <PosX>160</PosX>
+    <PosY>201</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2408,7 +2408,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_REngOilPress.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>225</PosX>
+    <PosX>230</PosX>
     <PosY>201</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -2424,7 +2424,7 @@
     <FilePictureOn>A10_WP_CICU.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
-    <PosY>204</PosY>
+    <PosY>201</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2438,8 +2438,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_GCAS.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>75</PosX>
-    <PosY>240</PosY>
+    <PosX>90</PosX>
+    <PosY>239</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2453,7 +2453,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_LMainPump.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>150</PosX>
+    <PosX>160</PosX>
     <PosY>239</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -2468,8 +2468,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_RMainPump.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>225</PosX>
-    <PosY>238</PosY>
+    <PosX>230</PosX>
+    <PosY>239</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2483,7 +2483,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_Laste.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>75</PosX>
+    <PosX>90</PosX>
     <PosY>273</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -2498,7 +2498,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_LWingPump.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>150</PosX>
+    <PosX>160</PosX>
     <PosY>273</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -2513,7 +2513,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_RWingPump.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>225</PosX>
+    <PosX>230</PosX>
     <PosY>273</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -2529,7 +2529,7 @@
     <FilePictureOn>A10_WP_HARS.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
-    <PosY>274</PosY>
+    <PosY>273</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2543,8 +2543,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_IffMode4.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>75</PosX>
-    <PosY>311</PosY>
+    <PosX>90</PosX>
+    <PosY>307</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2558,8 +2558,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_LMainFuelLow.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>150</PosX>
-    <PosY>309</PosY>
+    <PosX>160</PosX>
+    <PosY>307</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2573,8 +2573,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_RMainFuelLow.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>225</PosX>
-    <PosY>308</PosY>
+    <PosX>230</PosX>
+    <PosY>307</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2589,7 +2589,7 @@
     <FilePictureOn>A10_WP_L-R_TSKUnequal.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
-    <PosY>309</PosY>
+    <PosY>307</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2603,8 +2603,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_EAC.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>75</PosX>
-    <PosY>343</PosY>
+    <PosX>90</PosX>
+    <PosY>342</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2618,7 +2618,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_LFuelPress.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>150</PosX>
+    <PosX>160</PosX>
     <PosY>342</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -2633,8 +2633,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_RFuelPress.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>225</PosX>
-    <PosY>344</PosY>
+    <PosX>230</PosX>
+    <PosY>342</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2649,7 +2649,7 @@
     <FilePictureOn>A10_WP_NAV.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
-    <PosY>344</PosY>
+    <PosY>342</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2663,8 +2663,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_StallSys.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>75</PosX>
-    <PosY>380</PosY>
+    <PosX>90</PosX>
+    <PosY>377</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2678,8 +2678,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_LConv.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>150</PosX>
-    <PosY>380</PosY>
+    <PosX>160</PosX>
+    <PosY>377</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2693,8 +2693,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_RConv.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>225</PosX>
-    <PosY>380</PosY>
+    <PosX>230</PosX>
+    <PosY>377</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2709,7 +2709,7 @@
     <FilePictureOn>A10_WP_CADC.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
-    <PosY>380</PosY>
+    <PosY>377</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2723,8 +2723,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_APUGen.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>75</PosX>
-    <PosY>415</PosY>
+    <PosX>90</PosX>
+    <PosY>412</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2738,8 +2738,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_LGen.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>150</PosX>
-    <PosY>415</PosY>
+    <PosX>160</PosX>
+    <PosY>412</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2753,8 +2753,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10_WP_RGen.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
-    <PosX>225</PosX>
-    <PosY>415</PosY>
+    <PosX>230</PosX>
+    <PosY>412</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2769,7 +2769,7 @@
     <FilePictureOn>A10_WP_InstInv.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
-    <PosY>415</PosY>
+    <PosY>412</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2912,7 +2912,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>2</Input>
     <Output>0</Output>
-    <PosX>855</PosX>
+    <PosX>856</PosX>
     <PosY>970</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
@@ -4340,8 +4340,8 @@
     <FilePicture2On>flat_down2.png</FilePicture2On>
     <Input>(-1.0),0.0,(1.0)</Input>
     <Output>(-1.0),0.0,(1.0)</Output>
-    <PosX>769</PosX>
-    <PosY>960</PosY>
+    <PosX>721</PosX>
+    <PosY>546</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6007,6 +6007,46 @@
     <WindowID>1</WindowID>
     <DcsID>621</DcsID>
   </Switches>
+  <Switches>
+    <ID>156</ID>
+    <Class>SwitchPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>ILS-Panel On/Off</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>5</Input>
+    <Output>0</Output>
+    <PosX>1036</PosX>
+    <PosY>973</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
+  <Switches>
+    <ID>157</ID>
+    <Class>SwitchPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>Radio's and Autopilot</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>6</Input>
+    <Output>0</Output>
+    <PosX>796</PosX>
+    <PosY>971</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
   <Parameter>
     <FileBackground>BackGroundA10CNight.png</FileBackground>
   </Parameter>
@@ -6028,29 +6068,51 @@
     <PosY>0</PosY>
     <Height>478</Height>
     <Width>450</Width>
-    <Background>A10WarningPanel.PNG</Background>
+    <Background>A10-Warning-Panel.PNG</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
   </Window>
   <Window>
     <WindowID>3</WindowID>
-    <Name>CDU</Name>
+    <Name>CDU / AAP / TACAN</Name>
     <PosX>1470</PosX>
-    <PosY>290</PosY>
-    <Height>789</Height>
+    <PosY>30</PosY>
+    <Height>1024</Height>
     <Width>450</Width>
-    <Background>A10-CDU-Background.png</Background>
+    <Background>A10-CDU-Panel.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
   </Window>
   <Window>
     <WindowID>4</WindowID>
-    <Name>Right Panel</Name>
+    <Name>Elec. Panel</Name>
     <PosX>1070</PosX>
     <PosY>0</PosY>
-    <Height>869</Height>
+    <Height>338</Height>
     <Width>400</Width>
-    <Background>A10RightPanel.png</Background>
+    <Background>A10-Elec-Panel.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
+  </Window>
+  <Window>
+    <WindowID>5</WindowID>
+    <Name>ILS-Panel</Name>
+    <PosX>1470</PosX>
+    <PosY>850</PosY>
+    <Height>133</Height>
+    <Width>450</Width>
+    <Background>A10-ILS-Panel.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
+  </Window>
+  <Window>
+    <WindowID>6</WindowID>
+    <Name>Radio's Panels</Name>
+    <PosX>0</PosX>
+    <PosY>30</PosY>
+    <Height>995</Height>
+    <Width>450</Width>
+    <Background>A10-Radios-Panel.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
   </Window>
