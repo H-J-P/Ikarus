@@ -1,7 +1,6 @@
+*.psd
 
-Ikarus/ASM.txt
-
-Ikarus/Bf-109K-4.ikarus
+*.dds
 
 Ikarus/Images/.DS_Store
 
