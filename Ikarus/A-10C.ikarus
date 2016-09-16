@@ -468,6 +468,45 @@
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
   </Instruments>
+  <Instruments>
+    <IDInst>44</IDInst>
+    <Name>ILS Khz</Name>
+    <Class>Display_ILS_Khz</Class>
+    <PosX>222</PosX>
+    <PosY>38</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>5</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>45</IDInst>
+    <Name>ILS Mhz</Name>
+    <Class>Display_ILS_Mhz</Class>
+    <PosX>150</PosX>
+    <PosY>38</PosY>
+    <Size>90</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>5</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>46</IDInst>
+    <Name>TACAN Display</Name>
+    <Class>Display_Tacan</Class>
+    <PosX>87</PosX>
+    <PosY>840</PosY>
+    <Size>145</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>3</WindowID>
+  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -1784,6 +1823,90 @@
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
+  <Functions>
+    <IDInst>44</IDInst>
+    <IDFct>1</IDFct>
+    <Name>ILS Khz</Name>
+    <Arg_number>252</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>45</IDInst>
+    <IDFct>1</IDFct>
+    <Name>ILS Mhz</Name>
+    <Arg_number>251</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>46</IDInst>
+    <IDFct>1</IDFct>
+    <Name>TACAN 100</Name>
+    <Arg_number>263</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>46</IDInst>
+    <IDFct>2</IDFct>
+    <Name>TACAN 10</Name>
+    <Arg_number>264</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>46</IDInst>
+    <IDFct>3</IDFct>
+    <Name>TACAN 1</Name>
+    <Arg_number>265</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>46</IDInst>
+    <IDFct>4</IDFct>
+    <Name>TACAN X/Y</Name>
+    <Arg_number>266</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
   <Lamps>
     <ID>1</ID>
     <Class>LampOnOff200x80</Class>
@@ -2925,7 +3048,7 @@
     <ID>9</ID>
     <Class>SwitchPanelOffOn</Class>
     <ClickabledataID>0</ClickabledataID>
-    <Name>CDU On/Off</Name>
+    <Name>CDU / AAP / TACAN Panel On/Off</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
@@ -4327,27 +4450,6 @@
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
     <DcsID>365</DcsID>
-  </Switches>
-  <Switches>
-    <ID>76</ID>
-    <Class>Switch_OnOFFOn</Class>
-    <ClickabledataID>157</ClickabledataID>
-    <Name>UFC - 1</Name>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <FilePictureOn>flat_up2.png</FilePictureOn>
-    <FilePictureOff>flat_cnt2.png</FilePictureOff>
-    <FilePicture2On>flat_down2.png</FilePicture2On>
-    <Input>(-1.0),0.0,(1.0)</Input>
-    <Output>(-1.0),0.0,(1.0)</Output>
-    <PosX>721</PosX>
-    <PosY>546</PosY>
-    <Size>70</Size>
-    <Rotate>0</Rotate>
-    <Event>false</Event>
-    <DontReset>false</DontReset>
-    <WindowID>1</WindowID>
-    <DcsID>385</DcsID>
   </Switches>
   <Switches>
     <ID>77</ID>
@@ -6046,6 +6148,195 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
+  </Switches>
+  <Switches>
+    <ID>158</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>426</ClickabledataID>
+    <Name>ILS Frequency MHz</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Knop6.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2,0.3</Input>
+    <Output>0.0,45,90,135</Output>
+    <PosX>93</PosX>
+    <PosY>40</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>248</DcsID>
+  </Switches>
+  <Switches>
+    <ID>159</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>428</ClickabledataID>
+    <Name>ILS Frequency kHz</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Knop6.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9</Input>
+    <Output>0.0,36,72,112,148,184,220,256,292,328</Output>
+    <PosX>303</PosX>
+    <PosY>40</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>250</DcsID>
+  </Switches>
+  <Switches>
+    <ID>160</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>427</ClickabledataID>
+    <Name>ILS Power (switch)</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>50</PosX>
+    <PosY>-16</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>247</DcsID>
+  </Switches>
+  <Switches>
+    <ID>161</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>418</ClickabledataID>
+    <Name>TACAN - Channel Selector (Tens)</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Knop6.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0,1.1,1.2</Input>
+    <Output>0.0,36,72,112,148,184,220,256,292,328,360,396,444</Output>
+    <PosX>62</PosX>
+    <PosY>934</PosY>
+    <Size>65</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>256</DcsID>
+  </Switches>
+  <Switches>
+    <ID>162</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>419</ClickabledataID>
+    <Name>TACAN - Channel Selector (Ones)</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Knop6.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9</Input>
+    <Output>0.0,36,72,112,148,184,220,256,292,328</Output>
+    <PosX>216</PosX>
+    <PosY>930</PosY>
+    <Size>65</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>257</DcsID>
+  </Switches>
+  <Switches>
+    <ID>163</ID>
+    <Class>ButtonOffOn</Class>
+    <ClickabledataID>420</ClickabledataID>
+    <Name>TACAN - Channel Selector (Ones) (button)</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.87, 0.93</Input>
+    <Output>0.87, 0.93</Output>
+    <PosX>236</PosX>
+    <PosY>951</PosY>
+    <Size>25</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>258</DcsID>
+  </Switches>
+  <Switches>
+    <ID>164</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>421</ClickabledataID>
+    <Name>Test TACAN Signal on HSI</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Button3On.png</FilePictureOn>
+    <FilePictureOff>Button3Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>142</PosX>
+    <PosY>912</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>259</DcsID>
+  </Switches>
+  <Switches>
+    <ID>165</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>418</ClickabledataID>
+    <Name>TACAN - Channel Selector (Tens)</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Rotary.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0,1.0,01</Output>
+    <PosX>289</PosX>
+    <PosY>833</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>256</DcsID>
+  </Switches>
+  <Switches>
+    <ID>166</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>423</ClickabledataID>
+    <Name>TACAN - Mode Dial</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>TISL_Rotary3.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2,0.3,0.4</Input>
+    <Output> 0, 72, 144, 216, 288</Output>
+    <PosX>310</PosX>
+    <PosY>906</PosY>
+    <Size>75</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>262</DcsID>
   </Switches>
   <Parameter>
     <FileBackground>BackGroundA10CNight.png</FileBackground>

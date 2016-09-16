@@ -5,7 +5,7 @@
     <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-    <File>A-10C.ikarus</File>
+    <File>F-5E-3.ikarus</File>
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
@@ -92,6 +92,15 @@
   </Classnames>
   <Classnames>
     <Classname>BfK4MG151Right</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Display_ILS_Khz</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Display_ILS_Mhz</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Display_Tacan</Classname>
   </Classnames>
   <Classnames>
     <Classname>DisplayOne</Classname>
@@ -191,9 +200,6 @@
   </Classnames>
   <Classnames>
     <Classname>F5E_RPM</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>F5E_TacanDisplay</Classname>
   </Classnames>
   <Classnames>
     <Classname>F5E_UHF</Classname>

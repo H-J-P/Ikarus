@@ -341,12 +341,12 @@
   <Instruments>
     <IDInst>33</IDInst>
     <Name>Tacan Display</Name>
-    <Class>F5E_TacanDisplay</Class>
+    <Class>Display_Tacan</Class>
     <PosX>85</PosX>
     <PosY>47</PosY>
     <Size>141</Size>
     <Rotate>0</Rotate>
-    <ImageFrame>F5E_Tacan-Channel.png</ImageFrame>
+    <ImageFrame>Tacan-Channel.png</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>3</WindowID>
@@ -3736,10 +3736,10 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>101</PosX>
-    <PosY>238</PosY>
+    <PosX>65</PosX>
+    <PosY>269</PosY>
     <Size>50</Size>
-    <Rotate>0</Rotate>
+    <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
@@ -3949,6 +3949,7 @@
     <Width>1920</Width>
     <Background>F5E_FrontPanelDark.PNG</Background>
     <BackgroundNight>-</BackgroundNight>
+    <Refresh>false</Refresh>
   </Window>
   <Window>
     <WindowID>2</WindowID>
@@ -3959,15 +3960,17 @@
     <Width>500</Width>
     <Background>F5E-WarningPanel.png</Background>
     <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
   </Window>
   <Window>
     <WindowID>3</WindowID>
     <Name>TACAN Panel</Name>
     <PosX>775</PosX>
-    <PosY>1875</PosY>
+    <PosY>770</PosY>
     <Height>369</Height>
     <Width>414</Width>
     <Background>F5E-Tacan_Background.png</Background>
     <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
   </Window>
 </DataSet1>
