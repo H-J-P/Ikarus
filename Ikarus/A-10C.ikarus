@@ -227,7 +227,7 @@
     <Class>A10_OilP</Class>
     <PosX>1156</PosX>
     <PosY>856</PosY>
-    <Size>120</Size>
+    <Size>115</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>greenGlass15.png</ImageLight>
@@ -240,7 +240,7 @@
     <Class>A10_OilP</Class>
     <PosX>1283</PosX>
     <PosY>855</PosY>
-    <Size>120</Size>
+    <Size>115</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>greenGlass15.png</ImageLight>
@@ -502,7 +502,7 @@
     <PosY>840</PosY>
     <Size>145</Size>
     <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
+    <ImageFrame>Tacan-Channel.png</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>3</WindowID>
@@ -6287,8 +6287,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>142</PosX>
-    <PosY>912</PosY>
+    <PosX>138</PosX>
+    <PosY>916</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6299,23 +6299,23 @@
   <Switches>
     <ID>165</ID>
     <Class>Rotary</Class>
-    <ClickabledataID>418</ClickabledataID>
-    <Name>TACAN - Channel Selector (Tens)</Name>
+    <ClickabledataID>422</ClickabledataID>
+    <Name>TACAN - Signal Volume</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>Rotary.png</FilePictureOn>
+    <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output>0.0,1.0,01</Output>
-    <PosX>289</PosX>
-    <PosY>833</PosY>
+    <PosX>288</PosX>
+    <PosY>824</PosY>
     <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
-    <DcsID>256</DcsID>
+    <DcsID>261</DcsID>
   </Switches>
   <Switches>
     <ID>166</ID>
@@ -6328,15 +6328,351 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2,0.3,0.4</Input>
-    <Output> 0, 72, 144, 216, 288</Output>
-    <PosX>310</PosX>
-    <PosY>906</PosY>
+    <Output> 0,45, 90, 135, 180</Output>
+    <PosX>305</PosX>
+    <PosY>894</PosY>
     <Size>75</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
     <DcsID>262</DcsID>
+  </Switches>
+  <Switches>
+    <ID>167</ID>
+    <Class>ButtonOffOn</Class>
+    <ClickabledataID>335</ClickabledataID>
+    <Name>Extend boarding ladder button</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Button3On.png</FilePictureOn>
+    <FilePictureOff>Button3Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>495</PosX>
+    <PosY>551</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>788</DcsID>
+  </Switches>
+  <Switches>
+    <ID>168</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>502</ClickabledataID>
+    <Name>AAU34 - Set Pressure</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Knop7.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.04</Input>
+    <Output> 0, 360</Output>
+    <PosX>1164</PosX>
+    <PosY>557</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>62</DcsID>
+  </Switches>
+  <Switches>
+    <ID>169</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>456</ClickabledataID>
+    <Name>VHF AM Frequency Selector the 1nd down</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,-0.1</Input>
+    <Output>0.0,-0.1</Output>
+    <PosX>109</PosX>
+    <PosY>228</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>139</DcsID>
+  </Switches>
+  <Switches>
+    <ID>170</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>455</ClickabledataID>
+    <Name>VHF AM Frequency Selector the 1nd up</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1</Input>
+    <Output>0.0,0.1</Output>
+    <PosX>140</PosX>
+    <PosY>228</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>139</DcsID>
+  </Switches>
+  <Switches>
+    <ID>171</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>458</ClickabledataID>
+    <Name>VHF AM Frequency Selector the 2nd down</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,-0.1</Input>
+    <Output>0.0,-0.1</Output>
+    <PosX>171</PosX>
+    <PosY>215</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>140</DcsID>
+  </Switches>
+  <Switches>
+    <ID>172</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>457</ClickabledataID>
+    <Name>VHF AM Frequency Selector the 2nd up</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1</Input>
+    <Output>0.0,0.1</Output>
+    <PosX>202</PosX>
+    <PosY>215</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>140</DcsID>
+  </Switches>
+  <Switches>
+    <ID>173</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>460</ClickabledataID>
+    <Name>VHF AM Frequency Selector the 3rd down</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,-0.1</Input>
+    <Output>0.0,-0.1</Output>
+    <PosX>239</PosX>
+    <PosY>216</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>141</DcsID>
+  </Switches>
+  <Switches>
+    <ID>174</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>459</ClickabledataID>
+    <Name>VHF AM Frequency Selector the 3rd up</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1</Input>
+    <Output>0.0,0.1</Output>
+    <PosX>270</PosX>
+    <PosY>216</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>141</DcsID>
+  </Switches>
+  <Switches>
+    <ID>175</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>462</ClickabledataID>
+    <Name>VHF AM Frequency Selector the 4th down</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,-0.25</Input>
+    <Output>0.0,-0.25</Output>
+    <PosX>308</PosX>
+    <PosY>217</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>142</DcsID>
+  </Switches>
+  <Switches>
+    <ID>176</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>461</ClickabledataID>
+    <Name>VHF AM Frequency Selector the 4th up</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.25</Input>
+    <Output>0.0,0.25</Output>
+    <PosX>337</PosX>
+    <PosY>217</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>142</DcsID>
+  </Switches>
+  <Switches>
+    <ID>177</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>449</ClickabledataID>
+    <Name>VHF AM Frequency Mode Dial</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>TISL_Rotary1.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2</Input>
+    <Output> 0, 45, 90</Output>
+    <PosX>335</PosX>
+    <PosY>285</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>138</DcsID>
+  </Switches>
+  <Switches>
+    <ID>178</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>450</ClickabledataID>
+    <Name>VHF AM Frequency Selection Dial</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>TISL Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2,0.3</Input>
+    <Output> 0, 45, 90,135</Output>
+    <PosX>53</PosX>
+    <PosY>278</PosY>
+    <Size>75</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>135</DcsID>
+  </Switches>
+  <Switches>
+    <ID>179</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>451</ClickabledataID>
+    <Name>VHF AM Volume</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>54</PosX>
+    <PosY>179</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>133</DcsID>
+  </Switches>
+  <Switches>
+    <ID>180</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>452</ClickabledataID>
+    <Name>VHF AM Load</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Button3On.png</FilePictureOn>
+    <FilePictureOff>Button3Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>138</PosX>
+    <PosY>322</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>136</DcsID>
+  </Switches>
+  <Switches>
+    <ID>181</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>447</ClickabledataID>
+    <Name>VHF AM Preset Channel Selector left</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,-0.01</Input>
+    <Output>0.0,-0.01</Output>
+    <PosX>202</PosX>
+    <PosY>310</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>137</DcsID>
+  </Switches>
+  <Switches>
+    <ID>182</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>448</ClickabledataID>
+    <Name>VHF AM Preset Channel Selector right</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.01</Input>
+    <Output>0.0,0.01</Output>
+    <PosX>253</PosX>
+    <PosY>310</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>137</DcsID>
   </Switches>
   <Parameter>
     <FileBackground>BackGroundA10CNight.png</FileBackground>
