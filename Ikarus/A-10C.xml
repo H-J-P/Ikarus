@@ -3974,7 +3974,7 @@
     <ButtonID>1</ButtonID>
     <Discription>TACAN - Channel Selector (Tens)</Discription>
     <Type>Rotary</Type>
-    <DcsID>258</DcsID>
+    <DcsID>256</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>419</ID>
@@ -3982,7 +3982,7 @@
     <ButtonID>3</ButtonID>
     <Discription>TACAN - Channel Selector (Ones)</Discription>
     <Type>Rotary</Type>
-    <DcsID>258</DcsID>
+    <DcsID>257</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>420</ID>
@@ -4094,7 +4094,7 @@
     <ButtonID>4</ButtonID>
     <Discription>UHF 1 MHz Selector</Discription>
     <Type>Switch</Type>
-    <DcsID>163</DcsID>
+    <DcsID>164</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>435</ID>
