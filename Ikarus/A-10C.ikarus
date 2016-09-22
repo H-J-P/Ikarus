@@ -507,6 +507,84 @@
     <Reactivate>false</Reactivate>
     <WindowID>3</WindowID>
   </Instruments>
+  <Instruments>
+    <IDInst>47</IDInst>
+    <Name>VHF AM</Name>
+    <Class>Display_VHF</Class>
+    <PosX>111</PosX>
+    <PosY>165</PosY>
+    <Size>260</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>6</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>48</IDInst>
+    <Name>VHF FM</Name>
+    <Class>Display_VHF</Class>
+    <PosX>112</PosX>
+    <PosY>789</PosY>
+    <Size>260</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>6</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>49</IDInst>
+    <Name>UHF</Name>
+    <Class>DisplayEight</Class>
+    <PosX>136</PosX>
+    <PosY>494</PosY>
+    <Size>170</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>6</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>50</IDInst>
+    <Name>UHF Preset Channel</Name>
+    <Class>DisplayTwo</Class>
+    <PosX>249</PosX>
+    <PosY>414</PosY>
+    <Size>65</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>6</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>51</IDInst>
+    <Name>VHF AM Preset Channel</Name>
+    <Class>DisplayTwo</Class>
+    <PosX>223</PosX>
+    <PosY>284</PosY>
+    <Size>65</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>6</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>52</IDInst>
+    <Name>VHF FM Preset Channel</Name>
+    <Class>DisplayTwo</Class>
+    <PosX>223</PosX>
+    <PosY>910</PosY>
+    <Size>65</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>6</WindowID>
+  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -1907,6 +1985,48 @@
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
+  <Functions>
+    <IDInst>47</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Freq. AM</Name>
+    <Arg_number>2003</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>48</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Freq. FM</Name>
+    <Arg_number>2004</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>49</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Freq. UHF</Name>
+    <Arg_number>2002</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
   <Lamps>
     <ID>1</ID>
     <Class>LampOnOff200x80</Class>
@@ -2951,8 +3071,8 @@
     <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>1096</PosX>
-    <PosY>955</PosY>
+    <PosX>151</PosX>
+    <PosY>652</PosY>
     <Size>75</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6456,7 +6576,7 @@
     <Input>0.0,0.1</Input>
     <Output>0.0,0.1</Output>
     <PosX>202</PosX>
-    <PosY>215</PosY>
+    <PosY>214</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -7199,6 +7319,110 @@
     <WindowID>6</WindowID>
     <DcsID>173</DcsID>
   </Switches>
+  <Switches>
+    <ID>208</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>505</ClickabledataID>
+    <Name>Radar Altimeter Normal/Disabled</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>149</PosX>
+    <PosY>12</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>130</DcsID>
+  </Switches>
+  <Switches>
+    <ID>209</ID>
+    <Class>ButtonOffOn</Class>
+    <ClickabledataID>293</ClickabledataID>
+    <Name>Autopilot Engage/Disengage</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Button3On.png</FilePictureOn>
+    <FilePictureOff>Button3Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>231</PosX>
+    <PosY>55</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>131</DcsID>
+  </Switches>
+  <Switches>
+    <ID>210</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>292</ClickabledataID>
+    <Name>Autopilot Mode Select Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>313</PosX>
+    <PosY>12</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>132</DcsID>
+  </Switches>
+  <Switches>
+    <ID>211</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>294</ClickabledataID>
+    <Name>EAC On</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>71</PosX>
+    <PosY>12</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>129</DcsID>
+  </Switches>
+  <Switches>
+    <ID>212</ID>
+    <Class>SwitchPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>UFC On / Off</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>7</Input>
+    <Output>0</Output>
+    <PosX>1096</PosX>
+    <PosY>974</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
   <Parameter>
     <FileBackground>BackGroundA10CNight.png</FileBackground>
   </Parameter>
@@ -7265,6 +7489,17 @@
     <Height>995</Height>
     <Width>450</Width>
     <Background>A10-Radios-Panel.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
+  </Window>
+  <Window>
+    <WindowID>7</WindowID>
+    <Name>UFC</Name>
+    <PosX>550</PosX>
+    <PosY>0</PosY>
+    <Height>175</Height>
+    <Width>820</Width>
+    <Background>A10-UFC-Panel.PNG</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
   </Window>

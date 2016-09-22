@@ -103,6 +103,9 @@
     <Classname>Display_Tacan</Classname>
   </Classnames>
   <Classnames>
+    <Classname>Display_VHF</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>DisplayOne</Classname>
   </Classnames>
   <Classnames>
