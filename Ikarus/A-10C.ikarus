@@ -511,7 +511,7 @@
     <IDInst>47</IDInst>
     <Name>VHF AM</Name>
     <Class>Display_VHF</Class>
-    <PosX>111</PosX>
+    <PosX>112</PosX>
     <PosY>165</PosY>
     <Size>260</Size>
     <Rotate>0</Rotate>
@@ -1583,7 +1583,7 @@
     <IDInst>25</IDInst>
     <IDFct>1</IDFct>
     <Name>UHF</Name>
-    <Arg_number>2002</Arg_number>
+    <Arg_number>2000</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1611,7 +1611,7 @@
     <IDInst>34</IDInst>
     <IDFct>1</IDFct>
     <Name>Time, state</Name>
-    <Arg_number>2001</Arg_number>
+    <Arg_number>2010</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1667,7 +1667,7 @@
     <IDInst>38</IDInst>
     <IDFct>1</IDFct>
     <Name>VHF AM Freq</Name>
-    <Arg_number>2003</Arg_number>
+    <Arg_number>2002</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1737,7 +1737,7 @@
     <IDInst>41</IDInst>
     <IDFct>1</IDFct>
     <Name>JMR</Name>
-    <Arg_number>2006</Arg_number>
+    <Arg_number>2012</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1751,7 +1751,7 @@
     <IDInst>42</IDInst>
     <IDFct>1</IDFct>
     <Name>CHAFF_FLARE</Name>
-    <Arg_number>2005</Arg_number>
+    <Arg_number>2011</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1765,7 +1765,7 @@
     <IDInst>43</IDInst>
     <IDFct>1</IDFct>
     <Name>MWS</Name>
-    <Arg_number>2007</Arg_number>
+    <Arg_number>2013</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1989,7 +1989,7 @@
     <IDInst>47</IDInst>
     <IDFct>1</IDFct>
     <Name>Freq. AM</Name>
-    <Arg_number>2003</Arg_number>
+    <Arg_number>2002</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -2017,13 +2017,55 @@
     <IDInst>49</IDInst>
     <IDFct>1</IDFct>
     <Name>Freq. UHF</Name>
-    <Arg_number>2002</Arg_number>
+    <Arg_number>2000</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>50</IDInst>
+    <IDFct>1</IDFct>
+    <Name>UHF Channel</Name>
+    <Arg_number>2001</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>51</IDInst>
+    <IDFct>1</IDFct>
+    <Name>VHF AM Channel</Name>
+    <Arg_number>2003</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>52</IDInst>
+    <IDFct>1</IDFct>
+    <Name>VHF FM Channel</Name>
+    <Arg_number>2005</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
@@ -3156,7 +3198,7 @@
     <Input>2</Input>
     <Output>0</Output>
     <PosX>861</PosX>
-    <PosY>970</PosY>
+    <PosY>974</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -3449,8 +3491,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>698</PosX>
-    <PosY>958</PosY>
+    <PosX>700</PosX>
+    <PosY>957</PosY>
     <Size>75</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4584,7 +4626,7 @@
     <Input>4</Input>
     <Output>0</Output>
     <PosX>920</PosX>
-    <PosY>973</PosY>
+    <PosY>974</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6680,9 +6722,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2</Input>
     <Output> 0, 45, 90</Output>
-    <PosX>335</PosX>
-    <PosY>285</PosY>
-    <Size>60</Size>
+    <PosX>330</PosX>
+    <PosY>280</PosY>
+    <Size>70</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6701,9 +6743,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2,0.3</Input>
     <Output> 0, 45, 90,135</Output>
-    <PosX>53</PosX>
-    <PosY>278</PosY>
-    <Size>75</Size>
+    <PosX>48</PosX>
+    <PosY>275</PosY>
+    <Size>85</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6722,8 +6764,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output> 0, 360</Output>
-    <PosX>54</PosX>
-    <PosY>179</PosY>
+    <PosX>53</PosX>
+    <PosY>184</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6975,8 +7017,8 @@
     <Input>0.0,0.1,0.2</Input>
     <Output> 0, 45, 90</Output>
     <PosX>330</PosX>
-    <PosY>909</PosY>
-    <Size>60</Size>
+    <PosY>904</PosY>
+    <Size>70</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6995,9 +7037,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2,0.3</Input>
     <Output> 0, 45, 90,135</Output>
-    <PosX>51</PosX>
-    <PosY>902</PosY>
-    <Size>75</Size>
+    <PosX>46</PosX>
+    <PosY>897</PosY>
+    <Size>90</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7017,7 +7059,7 @@
     <Input>0.0,1.0,0.1</Input>
     <Output> 0, 360</Output>
     <PosX>54</PosX>
-    <PosY>801</PosY>
+    <PosY>808</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -7100,7 +7142,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.05</Input>
     <Output>0,360</Output>
-    <PosX>341</PosX>
+    <PosX>344</PosX>
     <PosY>410</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
@@ -7121,8 +7163,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.3,0.1</Input>
     <Output>0, 360</Output>
-    <PosX>34</PosX>
-    <PosY>584</PosY>
+    <PosX>36</PosX>
+    <PosY>578</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -7142,7 +7184,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output>0, 360</Output>
-    <PosX>116</PosX>
+    <PosX>112</PosX>
     <PosY>584</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
@@ -7163,7 +7205,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output>0, 360</Output>
-    <PosX>194</PosX>
+    <PosX>193</PosX>
     <PosY>584</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
@@ -7184,7 +7226,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output>0, 360</Output>
-    <PosX>271</PosX>
+    <PosX>272</PosX>
     <PosY>584</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
@@ -7205,7 +7247,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.4,0.1</Input>
     <Output>0, 360</Output>
-    <PosX>350</PosX>
+    <PosX>354</PosX>
     <PosY>584</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
@@ -7226,8 +7268,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2</Input>
     <Output> 0, 45, 90</Output>
-    <PosX>297</PosX>
-    <PosY>661</PosY>
+    <PosX>302</PosX>
+    <PosY>662</PosY>
     <Size>95</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -7289,7 +7331,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>74</PosX>
+    <PosX>82</PosX>
     <PosY>500</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
@@ -7310,7 +7352,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>335</PosX>
+    <PosX>330</PosX>
     <PosY>500</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
@@ -7326,14 +7368,14 @@
     <Name>Radar Altimeter Normal/Disabled</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>149</PosX>
-    <PosY>12</PosY>
-    <Size>60</Size>
+    <PosX>142</PosX>
+    <PosY>-3</PosY>
+    <Size>75</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7352,9 +7394,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>231</PosX>
-    <PosY>55</PosY>
-    <Size>45</Size>
+    <PosX>225</PosX>
+    <PosY>51</PosY>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7368,14 +7410,14 @@
     <Name>Autopilot Mode Select Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>switch_up2.png</FilePictureOn>
-    <FilePictureOff>switch_mid2.png</FilePictureOff>
-    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_cnt2.png</FilePictureOff>
+    <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>313</PosX>
-    <PosY>12</PosY>
-    <Size>60</Size>
+    <PosX>304</PosX>
+    <PosY>-3</PosY>
+    <Size>75</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7389,14 +7431,14 @@
     <Name>EAC On</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>71</PosX>
-    <PosY>12</PosY>
-    <Size>60</Size>
+    <PosX>62</PosX>
+    <PosY>-3</PosY>
+    <Size>75</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7430,7 +7472,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosY>1080</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>A10CBackGround.png</Background>
