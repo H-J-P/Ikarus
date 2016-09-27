@@ -94,6 +94,9 @@
     <Classname>BfK4MG151Right</Classname>
   </Classnames>
   <Classnames>
+    <Classname>Display_CMSP</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>Display_ILS_Khz</Classname>
   </Classnames>
   <Classnames>

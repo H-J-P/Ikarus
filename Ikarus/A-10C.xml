@@ -1701,7 +1701,7 @@
     <DeviceID>4</DeviceID>
     <ButtonID>10</ButtonID>
     <Discription>CMSP - Missile Warning System (MWS)</Discription>
-    <Type>Rotary</Type>
+    <Type>Switch</Type>
     <DcsID>360</DcsID>
   </Clickabledata>
   <Clickabledata>
