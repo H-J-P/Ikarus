@@ -3202,7 +3202,7 @@
     <ID>8</ID>
     <Class>SwitchPanelOffOn</Class>
     <ClickabledataID>0</ClickabledataID>
-    <Name>Warning Panel On/Off</Name>
+    <Name>CMSP / Warning Panel On/Off</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
