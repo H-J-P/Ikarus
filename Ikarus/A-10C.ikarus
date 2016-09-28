@@ -420,9 +420,9 @@
     <IDInst>40</IDInst>
     <Name>CDU Monitor</Name>
     <Class>Monitor10x24</Class>
-    <PosX>87</PosX>
-    <PosY>23</PosY>
-    <Size>275</Size>
+    <PosX>88</PosX>
+    <PosY>29</PosY>
+    <Size>225</Size>
     <Rotate>0</Rotate>
     <ImageFrame>Monitor10x24.png</ImageFrame>
     <ImageLight>Monitor10x24_Frame.png</ImageLight>
@@ -472,35 +472,35 @@
     <IDInst>44</IDInst>
     <Name>ILS Khz</Name>
     <Class>Display_ILS_Khz</Class>
-    <PosX>222</PosX>
-    <PosY>38</PosY>
-    <Size>70</Size>
+    <PosX>200</PosX>
+    <PosY>948</PosY>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>5</WindowID>
+    <WindowID>3</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>45</IDInst>
     <Name>ILS Mhz</Name>
     <Class>Display_ILS_Mhz</Class>
-    <PosX>150</PosX>
-    <PosY>38</PosY>
-    <Size>90</Size>
+    <PosX>136</PosX>
+    <PosY>946</PosY>
+    <Size>75</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>5</WindowID>
+    <WindowID>3</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>46</IDInst>
     <Name>TACAN Display</Name>
     <Class>Display_Tacan</Class>
-    <PosX>87</PosX>
-    <PosY>840</PosY>
-    <Size>145</Size>
+    <PosX>72</PosX>
+    <PosY>747</PosY>
+    <Size>135</Size>
     <Rotate>0</Rotate>
     <ImageFrame>Tacan-Channel.png</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -518,7 +518,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>48</IDInst>
@@ -531,7 +531,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>49</IDInst>
@@ -544,7 +544,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>50</IDInst>
@@ -557,7 +557,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>51</IDInst>
@@ -570,7 +570,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>52</IDInst>
@@ -583,7 +583,7 @@
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>53</IDInst>
@@ -2151,7 +2151,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>A10MasterCaution.PNG</FilePictureOn>
     <FilePictureOff>A10Off.PNG</FilePictureOff>
-    <PosX>25</PosX>
+    <PosX>24</PosX>
     <PosY>1026</PosY>
     <Size>115</Size>
     <Rotate>0</Rotate>
@@ -3072,6 +3072,21 @@
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
+  <Lamps>
+    <ID>67</ID>
+    <Class>LampOnOff200x80</Class>
+    <Arg_number>404</Arg_number>
+    <Name>404 - MASTER_WARNING_STUB</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>A10MasterCaution.PNG</FilePictureOn>
+    <FilePictureOff>A10Off.PNG</FilePictureOff>
+    <PosX>471</PosX>
+    <PosY>13</PosY>
+    <Size>95</Size>
+    <Rotate>0</Rotate>
+    <WindowID>6</WindowID>
+  </Lamps>
   <Switches>
     <ID>1</ID>
     <Class>SwitchOffOn</Class>
@@ -3210,8 +3225,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>2</Input>
     <Output>0</Output>
-    <PosX>861</PosX>
-    <PosY>974</PosY>
+    <PosX>989</PosX>
+    <PosY>977</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -3223,7 +3238,7 @@
     <ID>9</ID>
     <Class>SwitchPanelOffOn</Class>
     <ClickabledataID>0</ClickabledataID>
-    <Name>CDU / AAP / TACAN Panel On/Off</Name>
+    <Name>CDU / AAP / TACAN / ILS Panel On/Off</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
@@ -3231,8 +3246,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>3</Input>
     <Output>0</Output>
-    <PosX>1036</PosX>
-    <PosY>975</PosY>
+    <PosX>1048</PosX>
+    <PosY>977</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4638,8 +4653,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>4</Input>
     <Output>0</Output>
-    <PosX>920</PosX>
-    <PosY>974</PosY>
+    <PosX>872</PosX>
+    <PosY>978</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4763,8 +4778,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>48</PosX>
-    <PosY>80</PosY>
+    <PosX>44</PosX>
+    <PosY>69</PosY>
     <Size>28</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4784,8 +4799,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>48</PosX>
-    <PosY>109</PosY>
+    <PosX>44</PosX>
+    <PosY>96</PosY>
     <Size>28</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4805,8 +4820,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>48</PosX>
-    <PosY>138</PosY>
+    <PosX>44</PosX>
+    <PosY>124</PosY>
     <Size>28</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4826,8 +4841,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>48</PosX>
-    <PosY>167</PosY>
+    <PosX>44</PosX>
+    <PosY>149</PosY>
     <Size>28</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4847,8 +4862,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>365</PosX>
-    <PosY>80</PosY>
+    <PosX>323</PosX>
+    <PosY>68</PosY>
     <Size>28</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4868,8 +4883,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>365</PosX>
-    <PosY>109</PosY>
+    <PosX>323</PosX>
+    <PosY>94</PosY>
     <Size>28</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4889,8 +4904,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>365</PosX>
-    <PosY>138</PosY>
+    <PosX>323</PosX>
+    <PosY>122</PosY>
     <Size>28</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4910,8 +4925,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>365</PosX>
-    <PosY>167</PosY>
+    <PosX>323</PosX>
+    <PosY>148</PosY>
     <Size>28</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4931,8 +4946,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>49</PosX>
-    <PosY>239</PosY>
+    <PosX>45</PosX>
+    <PosY>209</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4952,8 +4967,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>93</PosX>
-    <PosY>239</PosY>
+    <PosX>84</PosX>
+    <PosY>209</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4973,8 +4988,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>139</PosX>
-    <PosY>239</PosY>
+    <PosX>123</PosX>
+    <PosY>209</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4994,8 +5009,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>184</PosX>
-    <PosY>239</PosY>
+    <PosX>162</PosX>
+    <PosY>209</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5015,8 +5030,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>228</PosX>
-    <PosY>239</PosY>
+    <PosX>202</PosX>
+    <PosY>209</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5036,8 +5051,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>275</PosX>
-    <PosY>239</PosY>
+    <PosX>242</PosX>
+    <PosY>209</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5057,8 +5072,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>20</PosX>
-    <PosY>283</PosY>
+    <PosX>16</PosX>
+    <PosY>251</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5078,8 +5093,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>65</PosX>
-    <PosY>283</PosY>
+    <PosX>57</PosX>
+    <PosY>251</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5099,8 +5114,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>113</PosX>
-    <PosY>283</PosY>
+    <PosX>97</PosX>
+    <PosY>251</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5120,8 +5135,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>20</PosX>
-    <PosY>328</PosY>
+    <PosX>16</PosX>
+    <PosY>289</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5141,8 +5156,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>65</PosX>
-    <PosY>328</PosY>
+    <PosX>57</PosX>
+    <PosY>289</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5162,8 +5177,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>113</PosX>
-    <PosY>328</PosY>
+    <PosX>97</PosX>
+    <PosY>289</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5183,8 +5198,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>20</PosX>
-    <PosY>371</PosY>
+    <PosX>16</PosX>
+    <PosY>327</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5204,8 +5219,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>65</PosX>
-    <PosY>371</PosY>
+    <PosX>57</PosX>
+    <PosY>327</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5225,8 +5240,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>113</PosX>
-    <PosY>371</PosY>
+    <PosX>97</PosX>
+    <PosY>327</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5246,8 +5261,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>66</PosX>
-    <PosY>417</PosY>
+    <PosX>57</PosX>
+    <PosY>368</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5267,8 +5282,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>20</PosX>
-    <PosY>418</PosY>
+    <PosX>18</PosX>
+    <PosY>368</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5288,8 +5303,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>116</PosX>
-    <PosY>418</PosY>
+    <PosX>101</PosX>
+    <PosY>368</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5309,8 +5324,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>175</PosX>
-    <PosY>285</PosY>
+    <PosX>153</PosX>
+    <PosY>252</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5330,8 +5345,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>219</PosX>
-    <PosY>285</PosY>
+    <PosX>193</PosX>
+    <PosY>252</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5351,8 +5366,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>260</PosX>
-    <PosY>285</PosY>
+    <PosX>233</PosX>
+    <PosY>252</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5372,8 +5387,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>304</PosX>
-    <PosY>285</PosY>
+    <PosX>269</PosX>
+    <PosY>252</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5393,8 +5408,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>348</PosX>
-    <PosY>285</PosY>
+    <PosX>310</PosX>
+    <PosY>252</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5414,8 +5429,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>391</PosX>
-    <PosY>285</PosY>
+    <PosX>349</PosX>
+    <PosY>252</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5435,8 +5450,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>174</PosX>
-    <PosY>330</PosY>
+    <PosX>153</PosX>
+    <PosY>290</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5456,8 +5471,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>219</PosX>
-    <PosY>330</PosY>
+    <PosX>193</PosX>
+    <PosY>290</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5477,8 +5492,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>260</PosX>
-    <PosY>330</PosY>
+    <PosX>233</PosX>
+    <PosY>290</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5498,8 +5513,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>304</PosX>
-    <PosY>330</PosY>
+    <PosX>269</PosX>
+    <PosY>290</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5519,8 +5534,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>348</PosX>
-    <PosY>330</PosY>
+    <PosX>310</PosX>
+    <PosY>290</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5540,8 +5555,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>391</PosX>
-    <PosY>330</PosY>
+    <PosX>349</PosX>
+    <PosY>290</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5561,8 +5576,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>174</PosX>
-    <PosY>373</PosY>
+    <PosX>153</PosX>
+    <PosY>329</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5582,8 +5597,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>219</PosX>
-    <PosY>373</PosY>
+    <PosX>193</PosX>
+    <PosY>329</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5603,8 +5618,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>260</PosX>
-    <PosY>373</PosY>
+    <PosX>233</PosX>
+    <PosY>329</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5624,8 +5639,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>304</PosX>
-    <PosY>373</PosY>
+    <PosX>269</PosX>
+    <PosY>329</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5645,8 +5660,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>348</PosX>
-    <PosY>373</PosY>
+    <PosX>310</PosX>
+    <PosY>329</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5666,8 +5681,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>391</PosX>
-    <PosY>373</PosY>
+    <PosX>349</PosX>
+    <PosY>329</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5687,8 +5702,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>174</PosX>
-    <PosY>417</PosY>
+    <PosX>153</PosX>
+    <PosY>368</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5708,8 +5723,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>219</PosX>
-    <PosY>417</PosY>
+    <PosX>193</PosX>
+    <PosY>368</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5729,8 +5744,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>260</PosX>
-    <PosY>417</PosY>
+    <PosX>233</PosX>
+    <PosY>368</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5750,8 +5765,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>304</PosX>
-    <PosY>417</PosY>
+    <PosX>269</PosX>
+    <PosY>368</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5771,8 +5786,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>348</PosX>
-    <PosY>417</PosY>
+    <PosX>310</PosX>
+    <PosY>368</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5792,8 +5807,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>391</PosX>
-    <PosY>417</PosY>
+    <PosX>349</PosX>
+    <PosY>368</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5813,8 +5828,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>96</PosX>
-    <PosY>462</PosY>
+    <PosX>86</PosX>
+    <PosY>410</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5834,8 +5849,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>139</PosX>
-    <PosY>462</PosY>
+    <PosX>122</PosX>
+    <PosY>410</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5855,8 +5870,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>185</PosX>
-    <PosY>462</PosY>
+    <PosX>162</PosX>
+    <PosY>410</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5876,8 +5891,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>231</PosX>
-    <PosY>462</PosY>
+    <PosX>202</PosX>
+    <PosY>410</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5897,8 +5912,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>274</PosX>
-    <PosY>462</PosY>
+    <PosX>241</PosX>
+    <PosY>410</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5918,8 +5933,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>319</PosX>
-    <PosY>462</PosY>
+    <PosX>279</PosX>
+    <PosY>410</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5939,8 +5954,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>116</PosX>
-    <PosY>507</PosY>
+    <PosX>103</PosX>
+    <PosY>448</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5960,8 +5975,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>275</PosX>
-    <PosY>507</PosY>
+    <PosX>242</PosX>
+    <PosY>448</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5981,8 +5996,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>319</PosX>
-    <PosY>506</PosY>
+    <PosX>278</PosX>
+    <PosY>448</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6002,8 +6017,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>165</PosX>
-    <PosY>544</PosY>
+    <PosX>143</PosX>
+    <PosY>477</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6023,8 +6038,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>243</PosX>
-    <PosY>544</PosY>
+    <PosX>214</PosX>
+    <PosY>475</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6044,8 +6059,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2,0.3</Input>
     <Output>0.0,45,90,135</Output>
-    <PosX>306</PosX>
-    <PosY>663</PosY>
+    <PosX>268</PosX>
+    <PosY>586</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6065,8 +6080,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2</Input>
     <Output> 0.0,45,90</Output>
-    <PosX>88</PosX>
-    <PosY>663</PosY>
+    <PosX>75</PosX>
+    <PosY>585</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6086,8 +6101,8 @@
     <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>206</PosX>
-    <PosY>654</PosY>
+    <PosX>181</PosX>
+    <PosY>576</PosY>
     <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6107,8 +6122,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>321</PosX>
-    <PosY>237</PosY>
+    <PosX>281</PosX>
+    <PosY>208</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6128,8 +6143,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>356</PosX>
-    <PosY>237</PosY>
+    <PosX>316</PosX>
+    <PosY>208</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6149,8 +6164,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>50</PosX>
-    <PosY>464</PosY>
+    <PosX>44</PosX>
+    <PosY>411</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6170,8 +6185,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>50</PosX>
-    <PosY>498</PosY>
+    <PosX>44</PosX>
+    <PosY>444</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6191,8 +6206,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>362</PosX>
-    <PosY>464</PosY>
+    <PosX>319</PosX>
+    <PosY>407</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6212,8 +6227,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>362</PosX>
-    <PosY>498</PosY>
+    <PosX>319</PosX>
+    <PosY>442</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6233,8 +6248,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>188</PosX>
-    <PosY>507</PosY>
+    <PosX>161</PosX>
+    <PosY>447</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6254,8 +6269,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>222</PosX>
-    <PosY>507</PosY>
+    <PosX>195</PosX>
+    <PosY>447</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6285,26 +6300,6 @@
     <DcsID>621</DcsID>
   </Switches>
   <Switches>
-    <ID>156</ID>
-    <Class>SwitchPanelOffOn</Class>
-    <ClickabledataID>0</ClickabledataID>
-    <Name>ILS-Panel On/Off</Name>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>5</Input>
-    <Output>0</Output>
-    <PosX>979</PosX>
-    <PosY>974</PosY>
-    <Size>60</Size>
-    <Rotate>0</Rotate>
-    <Event>false</Event>
-    <DontReset>false</DontReset>
-    <WindowID>1</WindowID>
-  </Switches>
-  <Switches>
     <ID>157</ID>
     <Class>SwitchPanelOffOn</Class>
     <ClickabledataID>0</ClickabledataID>
@@ -6314,10 +6309,10 @@
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>6</Input>
+    <Input>5</Input>
     <Output>0</Output>
-    <PosX>804</PosX>
-    <PosY>974</PosY>
+    <PosX>813</PosX>
+    <PosY>978</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6336,13 +6331,13 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2,0.3</Input>
     <Output>0.0,45,90,135</Output>
-    <PosX>93</PosX>
-    <PosY>40</PosY>
-    <Size>55</Size>
+    <PosX>62</PosX>
+    <PosY>811</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>5</WindowID>
+    <WindowID>3</WindowID>
     <DcsID>248</DcsID>
   </Switches>
   <Switches>
@@ -6357,13 +6352,13 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9</Input>
     <Output>0.0,36,72,112,148,184,220,256,292,328</Output>
-    <PosX>303</PosX>
-    <PosY>40</PosY>
+    <PosX>272</PosX>
+    <PosY>942</PosY>
     <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>5</WindowID>
+    <WindowID>3</WindowID>
     <DcsID>250</DcsID>
   </Switches>
   <Switches>
@@ -6378,13 +6373,13 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>50</PosX>
-    <PosY>-16</PosY>
-    <Size>55</Size>
+    <PosX>27</PosX>
+    <PosY>884</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>5</WindowID>
+    <WindowID>3</WindowID>
     <DcsID>247</DcsID>
   </Switches>
   <Switches>
@@ -6399,9 +6394,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0,1.1,1.2</Input>
     <Output>0.0,36,72,112,148,184,220,256,292,328,360,396,444</Output>
-    <PosX>62</PosX>
-    <PosY>934</PosY>
-    <Size>65</Size>
+    <PosX>74</PosX>
+    <PosY>945</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6420,9 +6415,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9</Input>
     <Output>0.0,36,72,112,148,184,220,256,292,328</Output>
-    <PosX>216</PosX>
-    <PosY>930</PosY>
-    <Size>65</Size>
+    <PosX>183</PosX>
+    <PosY>809</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6441,8 +6436,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.87, 0.93</Input>
     <Output>0.87, 0.93</Output>
-    <PosX>236</PosX>
-    <PosY>951</PosY>
+    <PosX>195</PosX>
+    <PosY>837</PosY>
     <Size>25</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6462,8 +6457,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>138</PosX>
-    <PosY>916</PosY>
+    <PosX>121</PosX>
+    <PosY>812</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6483,8 +6478,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output>0.0,1.0,01</Output>
-    <PosX>288</PosX>
-    <PosY>824</PosY>
+    <PosX>255</PosX>
+    <PosY>730</PosY>
     <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6504,8 +6499,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2,0.3,0.4</Input>
     <Output> 0,45, 90, 135, 180</Output>
-    <PosX>305</PosX>
-    <PosY>894</PosY>
+    <PosX>267</PosX>
+    <PosY>793</PosY>
     <Size>75</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6573,7 +6568,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>139</DcsID>
   </Switches>
   <Switches>
@@ -6594,7 +6589,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>139</DcsID>
   </Switches>
   <Switches>
@@ -6615,7 +6610,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>140</DcsID>
   </Switches>
   <Switches>
@@ -6636,7 +6631,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>140</DcsID>
   </Switches>
   <Switches>
@@ -6657,7 +6652,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>141</DcsID>
   </Switches>
   <Switches>
@@ -6678,7 +6673,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>141</DcsID>
   </Switches>
   <Switches>
@@ -6699,7 +6694,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>142</DcsID>
   </Switches>
   <Switches>
@@ -6720,7 +6715,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>142</DcsID>
   </Switches>
   <Switches>
@@ -6741,7 +6736,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>138</DcsID>
   </Switches>
   <Switches>
@@ -6762,7 +6757,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>135</DcsID>
   </Switches>
   <Switches>
@@ -6783,7 +6778,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>133</DcsID>
   </Switches>
   <Switches>
@@ -6804,7 +6799,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>136</DcsID>
   </Switches>
   <Switches>
@@ -6825,7 +6820,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>137</DcsID>
   </Switches>
   <Switches>
@@ -6846,7 +6841,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>137</DcsID>
   </Switches>
   <Switches>
@@ -6867,7 +6862,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>153</DcsID>
   </Switches>
   <Switches>
@@ -6888,7 +6883,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>153</DcsID>
   </Switches>
   <Switches>
@@ -6909,7 +6904,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>154</DcsID>
   </Switches>
   <Switches>
@@ -6930,7 +6925,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>154</DcsID>
   </Switches>
   <Switches>
@@ -6951,7 +6946,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>155</DcsID>
   </Switches>
   <Switches>
@@ -6972,7 +6967,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>155</DcsID>
   </Switches>
   <Switches>
@@ -6993,7 +6988,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>156</DcsID>
   </Switches>
   <Switches>
@@ -7014,7 +7009,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>156</DcsID>
   </Switches>
   <Switches>
@@ -7035,7 +7030,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>152</DcsID>
   </Switches>
   <Switches>
@@ -7056,7 +7051,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>149</DcsID>
   </Switches>
   <Switches>
@@ -7077,7 +7072,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>147</DcsID>
   </Switches>
   <Switches>
@@ -7098,7 +7093,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>150</DcsID>
   </Switches>
   <Switches>
@@ -7119,7 +7114,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>151</DcsID>
   </Switches>
   <Switches>
@@ -7140,7 +7135,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>151</DcsID>
   </Switches>
   <Switches>
@@ -7161,7 +7156,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>161</DcsID>
   </Switches>
   <Switches>
@@ -7182,7 +7177,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>162</DcsID>
   </Switches>
   <Switches>
@@ -7203,7 +7198,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>163</DcsID>
   </Switches>
   <Switches>
@@ -7224,7 +7219,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>164</DcsID>
   </Switches>
   <Switches>
@@ -7245,7 +7240,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>165</DcsID>
   </Switches>
   <Switches>
@@ -7266,7 +7261,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>166</DcsID>
   </Switches>
   <Switches>
@@ -7287,7 +7282,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>167</DcsID>
   </Switches>
   <Switches>
@@ -7308,7 +7303,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>168</DcsID>
   </Switches>
   <Switches>
@@ -7329,7 +7324,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>171</DcsID>
   </Switches>
   <Switches>
@@ -7350,7 +7345,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>172</DcsID>
   </Switches>
   <Switches>
@@ -7371,7 +7366,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>173</DcsID>
   </Switches>
   <Switches>
@@ -7392,7 +7387,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>130</DcsID>
   </Switches>
   <Switches>
@@ -7413,7 +7408,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>131</DcsID>
   </Switches>
   <Switches>
@@ -7434,7 +7429,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>132</DcsID>
   </Switches>
   <Switches>
@@ -7455,7 +7450,7 @@
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>6</WindowID>
+    <WindowID>5</WindowID>
     <DcsID>129</DcsID>
   </Switches>
   <Switches>
@@ -7468,10 +7463,10 @@
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>7</Input>
+    <Input>6</Input>
     <Output>0</Output>
-    <PosX>1096</PosX>
-    <PosY>974</PosY>
+    <PosX>930</PosX>
+    <PosY>977</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -7814,6 +7809,735 @@
     <WindowID>2</WindowID>
     <DcsID>359</DcsID>
   </Switches>
+  <Switches>
+    <ID>229</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>157</ClickabledataID>
+    <Name>UFC - 1</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-1-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-1-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>83</PosX>
+    <PosY>7</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>385</DcsID>
+  </Switches>
+  <Switches>
+    <ID>230</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>158</ClickabledataID>
+    <Name>UFC - 2</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-2-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-2-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>138</PosX>
+    <PosY>7</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>386</DcsID>
+  </Switches>
+  <Switches>
+    <ID>231</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>159</ClickabledataID>
+    <Name>UFC - 3</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-3-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-3-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>195</PosX>
+    <PosY>7</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>387</DcsID>
+  </Switches>
+  <Switches>
+    <ID>232</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>160</ClickabledataID>
+    <Name>UFC - 4</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-4-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-4-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>83</PosX>
+    <PosY>63</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>388</DcsID>
+  </Switches>
+  <Switches>
+    <ID>233</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>161</ClickabledataID>
+    <Name>UFC - 5</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-5-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-5-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>138</PosX>
+    <PosY>63</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>389</DcsID>
+  </Switches>
+  <Switches>
+    <ID>234</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>162</ClickabledataID>
+    <Name>UFC - 6</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-6-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-6-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>195</PosX>
+    <PosY>63</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>390</DcsID>
+  </Switches>
+  <Switches>
+    <ID>235</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>163</ClickabledataID>
+    <Name>UFC - 7</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-7-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-7-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>83</PosX>
+    <PosY>118</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>391</DcsID>
+  </Switches>
+  <Switches>
+    <ID>236</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>164</ClickabledataID>
+    <Name>UFC - 8</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-8-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-8-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>138</PosX>
+    <PosY>118</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>392</DcsID>
+  </Switches>
+  <Switches>
+    <ID>237</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>165</ClickabledataID>
+    <Name>UFC - 9</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-9-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-9-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>195</PosX>
+    <PosY>118</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>393</DcsID>
+  </Switches>
+  <Switches>
+    <ID>238</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>166</ClickabledataID>
+    <Name>UFC - 0</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-0-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-0-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>252</PosX>
+    <PosY>62</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>395</DcsID>
+  </Switches>
+  <Switches>
+    <ID>239</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>167</ClickabledataID>
+    <Name>UFC - Space</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-SPC-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-SPC-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>252</PosX>
+    <PosY>118</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>396</DcsID>
+  </Switches>
+  <Switches>
+    <ID>240</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>168</ClickabledataID>
+    <Name>UFC - Hack Time</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-BACK-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-BACK-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>253</PosX>
+    <PosY>8</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>394</DcsID>
+  </Switches>
+  <Switches>
+    <ID>241</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>169</ClickabledataID>
+    <Name>UFC - Select Function Mode</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-FUNC-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-FUNC-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>308</PosX>
+    <PosY>8</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>397</DcsID>
+  </Switches>
+  <Switches>
+    <ID>242</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>170</ClickabledataID>
+    <Name>UFC - Select Letter Mode</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-LRT-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-LRT-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>308</PosX>
+    <PosY>62</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>398</DcsID>
+  </Switches>
+  <Switches>
+    <ID>243</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>171</ClickabledataID>
+    <Name>UFC - Clear</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-CLR-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-CLR-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>308</PosX>
+    <PosY>118</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>399</DcsID>
+  </Switches>
+  <Switches>
+    <ID>244</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>172</ClickabledataID>
+    <Name>UFC - Enter</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-ENT-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-ENT-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>364</PosX>
+    <PosY>-2</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>400</DcsID>
+  </Switches>
+  <Switches>
+    <ID>245</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>173</ClickabledataID>
+    <Name>UFC - Create Overhead Mark Point</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-MK-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-MK-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>364</PosX>
+    <PosY>61</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>401</DcsID>
+  </Switches>
+  <Switches>
+    <ID>246</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>174</ClickabledataID>
+    <Name>UFC - and Adjust Altitude Alert Values</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-ALT-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-ALT-On.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>365</PosX>
+    <PosY>118</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>402</DcsID>
+  </Switches>
+  <Switches>
+    <ID>247</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>175</ClickabledataID>
+    <Name>UFC - Cycle Steerpoint/Waypoint</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-ButtonR-Vert-Up-On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>11</PosX>
+    <PosY>46</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>405</DcsID>
+  </Switches>
+  <Switches>
+    <ID>248</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>176</ClickabledataID>
+    <Name>UFC - Cycle Steerpoint/Waypoint</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-ButtonR-Vert-Down-On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,-1.0</Input>
+    <Output>0.0,-1.0</Output>
+    <PosX>11</PosX>
+    <PosY>87</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>405</DcsID>
+  </Switches>
+  <Switches>
+    <ID>249</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>177</ClickabledataID>
+    <Name>UFC - DATA up</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-ButtonR-Vert-Up-On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>614</PosX>
+    <PosY>17</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>406</DcsID>
+  </Switches>
+  <Switches>
+    <ID>250</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>178</ClickabledataID>
+    <Name>UFC - DATA down</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-ButtonR-Vert-Down-On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,-1.0</Output>
+    <PosX>614</PosX>
+    <PosY>59</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>406</DcsID>
+  </Switches>
+  <Switches>
+    <ID>251</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>179</ClickabledataID>
+    <Name>UFC - SEL up</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-ButtonR-Vert-Up-On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>693</PosX>
+    <PosY>17</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>407</DcsID>
+  </Switches>
+  <Switches>
+    <ID>252</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>180</ClickabledataID>
+    <Name>UFC - SEL down</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-ButtonR-Vert-Down-On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,-1.0</Output>
+    <PosX>693</PosX>
+    <PosY>59</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>407</DcsID>
+  </Switches>
+  <Switches>
+    <ID>253</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>181</ClickabledataID>
+    <Name>UFC - DEPR up</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-ButtonR-Vert-Up-On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>765</PosX>
+    <PosY>47</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>408</DcsID>
+  </Switches>
+  <Switches>
+    <ID>254</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>182</ClickabledataID>
+    <Name>UFC - DEPR down</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-ButtonR-Vert-Down-On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,-1.0</Output>
+    <PosX>765</PosX>
+    <PosY>88</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>408</DcsID>
+  </Switches>
+  <Switches>
+    <ID>255</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>183</ClickabledataID>
+    <Name>UFC - INTEN left</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-ButtonR-Left-On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,-1.0</Input>
+    <Output>0.0,-1.0</Output>
+    <PosX>632</PosX>
+    <PosY>119</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>409</DcsID>
+  </Switches>
+  <Switches>
+    <ID>256</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>184</ClickabledataID>
+    <Name>UFC - INTEN right</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-ButtonR-Right-On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>671</PosX>
+    <PosY>119</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>409</DcsID>
+  </Switches>
+  <Switches>
+    <ID>257</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>-</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-FWD-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-FWD-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>440</PosX>
+    <PosY>69</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+  </Switches>
+  <Switches>
+    <ID>258</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>-</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-MID-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-MID-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>497</PosX>
+    <PosY>69</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+  </Switches>
+  <Switches>
+    <ID>259</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>-</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-AFT-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-AFT-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>554</PosX>
+    <PosY>69</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+  </Switches>
+  <Switches>
+    <ID>260</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>-</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-Blank-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-Blank-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>440</PosX>
+    <PosY>123</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+  </Switches>
+  <Switches>
+    <ID>261</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>-</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-Blank-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-Blank-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>497</PosX>
+    <PosY>123</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+  </Switches>
+  <Switches>
+    <ID>262</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>-</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>UFC-Button-Blank-On.png</FilePictureOn>
+    <FilePictureOff>UFC-Button-Blank-Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>554</PosX>
+    <PosY>123</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+  </Switches>
+  <Switches>
+    <ID>263</ID>
+    <Class>Button45x45</Class>
+    <ClickabledataID>261</ClickabledataID>
+    <Name>Master Caution Light</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>484</PosX>
+    <PosY>-9</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>403</DcsID>
+  </Switches>
   <Parameter>
     <FileBackground>BackGroundA10CNight.png</FileBackground>
   </Parameter>
@@ -7841,12 +8565,12 @@
   </Window>
   <Window>
     <WindowID>3</WindowID>
-    <Name>CDU / AAP / TACAN</Name>
-    <PosX>1470</PosX>
+    <Name>CDU / AAP / TACAN / ILS</Name>
+    <PosX>1520</PosX>
     <PosY>30</PosY>
-    <Height>1024</Height>
-    <Width>450</Width>
-    <Background>A10-CDU-Panel.png</Background>
+    <Height>1030</Height>
+    <Width>400</Width>
+    <Background>A10-CDU-Panel2.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
   </Window>
@@ -7863,17 +8587,6 @@
   </Window>
   <Window>
     <WindowID>5</WindowID>
-    <Name>ILS-Panel</Name>
-    <PosX>1470</PosX>
-    <PosY>850</PosY>
-    <Height>133</Height>
-    <Width>450</Width>
-    <Background>A10-ILS-Panel.png</Background>
-    <BackgroundNight>-</BackgroundNight>
-    <Refresh>true</Refresh>
-  </Window>
-  <Window>
-    <WindowID>6</WindowID>
     <Name>Radio's Panels</Name>
     <PosX>0</PosX>
     <PosY>30</PosY>
@@ -7884,7 +8597,7 @@
     <Refresh>true</Refresh>
   </Window>
   <Window>
-    <WindowID>7</WindowID>
+    <WindowID>6</WindowID>
     <Name>UFC</Name>
     <PosX>550</PosX>
     <PosY>0</PosY>
