@@ -2000,7 +2000,7 @@
     <IDInst>12</IDInst>
     <IDFct>1</IDFct>
     <Name>EngineTempLeft</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>70</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
