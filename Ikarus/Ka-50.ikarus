@@ -2885,19 +2885,19 @@
   </Switches>
   <Switches>
     <ID>36</ID>
-    <Class>ButtonPanelOffOn</Class>
+    <Class>SwitchPanelOffOn</Class>
     <ClickabledataID>0</ClickabledataID>
-    <Name>DataLink-LWS Panel</Name>
+    <Name>Datalink Panel</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>Ka-50-DataLink-Panel-Button.png</FilePictureOn>
-    <FilePictureOff>Ka-50-DataLink-Panel-Button.png</FilePictureOff>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>2</Input>
     <Output>0</Output>
     <PosX>0</PosX>
-    <PosY>532</PosY>
-    <Size>100</Size>
+    <PosY>490</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2905,19 +2905,19 @@
   </Switches>
   <Switches>
     <ID>37</ID>
-    <Class>ButtonPanelOffOn</Class>
+    <Class>SwitchPanelOffOn</Class>
     <ClickabledataID>0</ClickabledataID>
     <Name>UV-26 Panel</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>Ka-50-UV26-Panel-Button.png</FilePictureOn>
-    <FilePictureOff>Ka-50-UV26-Panel-Button.png</FilePictureOff>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>3</Input>
     <Output>0</Output>
-    <PosX>0</PosX>
-    <PosY>464</PosY>
-    <Size>100</Size>
+    <PosX>55</PosX>
+    <PosY>490</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3346,6 +3346,30 @@
     <Active>true</Active>
     <WindowID>2</WindowID>
   </Accessories>
+  <Accessories>
+    <ID>5</ID>
+    <Class>Label200x200</Class>
+    <Name>Datalink</Name>
+    <FilePictureOn>Ka-50-DataLink-Panel-Button.png</FilePictureOn>
+    <PosX>0</PosX>
+    <PosY>560</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>6</ID>
+    <Class>Label200x200</Class>
+    <Name>UV-26</Name>
+    <FilePictureOn>Ka-50-UV26-Panel-Button.png</FilePictureOn>
+    <PosX>55</PosX>
+    <PosY>560</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
   <Parameter>
     <FileBackground>BackgroundKA50.png</FileBackground>
   </Parameter>
@@ -3368,15 +3392,17 @@
     <Width>412</Width>
     <Background>Ka-50-Background-Datalink-LWR.png</Background>
     <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
   </Window>
   <Window>
     <WindowID>3</WindowID>
     <Name>UV-26</Name>
-    <PosX>1653</PosX>
+    <PosX>1620</PosX>
     <PosY>1200</PosY>
     <Height>600</Height>
     <Width>267</Width>
     <Background>Ka-50-Background-UV26.png</Background>
     <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
   </Window>
 </DataSet1>
