@@ -2293,7 +2293,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>397</DcsID>
   </Switches>
   <Switches>
     <ID>8</ID>
@@ -2398,7 +2398,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>130</DcsID>
   </Switches>
   <Switches>
     <ID>13</ID>
@@ -2566,7 +2566,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>66</DcsID>
   </Switches>
   <Switches>
     <ID>21</ID>
@@ -2587,7 +2587,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>65</DcsID>
   </Switches>
   <Switches>
     <ID>22</ID>
@@ -2608,7 +2608,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>523</DcsID>
   </Switches>
   <Switches>
     <ID>23</ID>
@@ -2629,7 +2629,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>21</DcsID>
   </Switches>
   <Switches>
     <ID>24</ID>
@@ -2650,7 +2650,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>22</DcsID>
   </Switches>
   <Switches>
     <ID>25</ID>
@@ -2671,7 +2671,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>23</DcsID>
   </Switches>
   <Switches>
     <ID>26</ID>
@@ -2692,7 +2692,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>50</DcsID>
   </Switches>
   <Switches>
     <ID>27</ID>
@@ -2713,7 +2713,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>17</DcsID>
   </Switches>
   <Switches>
     <ID>28</ID>
@@ -2734,7 +2734,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>18</DcsID>
   </Switches>
   <Switches>
     <ID>29</ID>
@@ -2755,7 +2755,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>19</DcsID>
   </Switches>
   <Switches>
     <ID>30</ID>
@@ -2776,7 +2776,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>20</DcsID>
   </Switches>
   <Switches>
     <ID>31</ID>
@@ -2797,7 +2797,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>16</DcsID>
   </Switches>
   <Switches>
     <ID>32</ID>
@@ -2818,7 +2818,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>161</DcsID>
   </Switches>
   <Switches>
     <ID>33</ID>
@@ -2839,7 +2839,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>150</DcsID>
   </Switches>
   <Switches>
     <ID>34</ID>
@@ -2860,7 +2860,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>159</DcsID>
   </Switches>
   <Switches>
     <ID>35</ID>
@@ -2881,7 +2881,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>35</DcsID>
   </Switches>
   <Switches>
     <ID>36</ID>
@@ -2942,7 +2942,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>36</DcsID>
   </Switches>
   <Switches>
     <ID>39</ID>
@@ -2956,14 +2956,14 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1</Input>
     <Output>0.0,0.1</Output>
-    <PosX>220</PosX>
+    <PosX>150</PosX>
     <PosY>217</PosY>
     <Size>65</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>37</DcsID>
   </Switches>
   <Switches>
     <ID>40</ID>
@@ -2984,7 +2984,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>42</DcsID>
   </Switches>
   <Switches>
     <ID>41</ID>
@@ -3005,7 +3005,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>40</DcsID>
   </Switches>
   <Switches>
     <ID>42</ID>
@@ -3026,7 +3026,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>43</DcsID>
   </Switches>
   <Switches>
     <ID>43</ID>
@@ -3047,7 +3047,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>41</DcsID>
   </Switches>
   <Switches>
     <ID>44</ID>
@@ -3068,7 +3068,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>38</DcsID>
   </Switches>
   <Switches>
     <ID>45</ID>
@@ -3089,7 +3089,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
-    <DcsID>Switch</DcsID>
+    <DcsID>39</DcsID>
   </Switches>
   <Switches>
     <ID>46</ID>
@@ -3377,17 +3377,18 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>1200</PosY>
+    <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>Ka-50-Background.png</Background>
     <BackgroundNight>-</BackgroundNight>
+    <Refresh>false</Refresh>
   </Window>
   <Window>
     <WindowID>2</WindowID>
     <Name>DataLink-LWR</Name>
     <PosX>0</PosX>
-    <PosY>1200</PosY>
+    <PosY>0</PosY>
     <Height>519</Height>
     <Width>412</Width>
     <Background>Ka-50-Background-Datalink-LWR.png</Background>
@@ -3398,7 +3399,7 @@
     <WindowID>3</WindowID>
     <Name>UV-26</Name>
     <PosX>1620</PosX>
-    <PosY>1200</PosY>
+    <PosY>0</PosY>
     <Height>600</Height>
     <Width>267</Width>
     <Background>Ka-50-Background-UV26.png</Background>
