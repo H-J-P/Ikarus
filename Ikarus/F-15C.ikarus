@@ -123,7 +123,7 @@
     <Class>F15Nozzle</Class>
     <PosX>1370</PosX>
     <PosY>930</PosY>
-    <Size>140</Size>
+    <Size>90</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>greenGlass15.png</ImageLight>
@@ -136,7 +136,7 @@
     <Class>F15Nozzle</Class>
     <PosX>1530</PosX>
     <PosY>930</PosY>
-    <Size>140</Size>
+    <Size>90</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>greenGlass15.png</ImageLight>
@@ -279,7 +279,7 @@
     <Class>F15CabP</Class>
     <PosX>282</PosX>
     <PosY>856</PosY>
-    <Size>180</Size>
+    <Size>125</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>greenGlass15.png</ImageLight>
@@ -1509,8 +1509,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>yellow_led_on.png</FilePictureOn>
     <FilePictureOff>yellow_led_off.png</FilePictureOff>
-    <PosX>799</PosX>
-    <PosY>104</PosY>
+    <PosX>796</PosX>
+    <PosY>103</PosY>
     <Size>120</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
