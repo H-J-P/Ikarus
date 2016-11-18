@@ -369,12 +369,12 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>3</IDFct>
-    <Name>ADI_steering_warning_flag</Name>
-    <Arg_number>14</Arg_number>
+    <Name>ADI_sideslip</Name>
+    <Arg_number>15</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
+    <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
@@ -384,7 +384,7 @@
     <IDInst>1</IDInst>
     <IDFct>5</IDFct>
     <Name>ADI_attitude_warning_flag</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>2020</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -467,12 +467,12 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>4</IDFct>
-    <Name>ADI_sideslip</Name>
-    <Arg_number>15</Arg_number>
+    <Name>ADI_steering_warning_flag</Name>
+    <Arg_number>14</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>-1.0,1.0</Input>
+    <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
