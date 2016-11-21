@@ -41,3 +41,14 @@ And the gauges have:
 
 All of these layers may have semitransparent.
 
+Installation:
+
+Please download Ikarus and our DCS-Exportscript:
+
+https://github.com/s-d-a/DCS-ExportScripts
+
+Copy the script folder to your:
+
+C:\Users\YourUsername\Saved Games\DCS
+
+After that, start Ikarus and DCS and have fun ....
