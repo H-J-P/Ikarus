@@ -41,7 +41,7 @@ And the gauges have:
 
 All of these layers may have semitransparent.
 
-Installation:
+###Installation:###
 
 Please download Ikarus and our DCS-Exportscript:
 
