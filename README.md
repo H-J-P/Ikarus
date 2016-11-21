@@ -47,7 +47,7 @@ Please download Ikarus and our DCS-Exportscript:
 
 https://github.com/s-d-a/DCS-ExportScripts
 
-Copy the script folder to your:
+Copy the script folder to your folder:
 
 C:\Users\YourUsername\Saved Games\DCS
 
