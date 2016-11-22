@@ -25,7 +25,9 @@ You get pre-configured solutions for the DCS modules:
 
 All these configurations are customizable.
 
-Today we have 5 render layer. How renders Ikarus this layers:
+###Rendering:###
+
+Today we have 5 render layers. How renders Ikarus this layers:
 
 - Background
 - Accessories (for screws, bolds, labels etc.)
