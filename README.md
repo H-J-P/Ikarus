@@ -27,7 +27,7 @@ All these configurations are customizable.
 
 ###Rendering:###
 
-Today we have 5 render layers. How renders Ikarus this layers:
+Today we have 5 render layers. How renders Ikarus this layers?
 
 - Background
 - Accessories (for screws, bolds, labels etc.)
