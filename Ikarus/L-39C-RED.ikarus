@@ -28,8 +28,8 @@
   </Instruments>
   <Instruments>
     <IDInst>3</IDInst>
-    <Name>Barometric Altimeter feet</Name>
-    <Class>A10_ALT</Class>
+    <Name>Barometric Altimeter meter</Name>
+    <Class>WPALT20</Class>
     <PosX>422</PosX>
     <PosY>537</PosY>
     <Size>245</Size>
@@ -81,7 +81,7 @@
   <Instruments>
     <IDInst>7</IDInst>
     <Name>ASI km/h</Name>
-    <Class>L39_ASI_kts</Class>
+    <Class>L39_ASI</Class>
     <PosX>401</PosX>
     <PosY>210</PosY>
     <Size>295</Size>
@@ -94,7 +94,7 @@
   <Instruments>
     <IDInst>8</IDInst>
     <Name>Radar Altimeter RV 5</Name>
-    <Class>L39_AltR_feet</Class>
+    <Class>L39_AltR</Class>
     <PosX>409</PosX>
     <PosY>806</PosY>
     <Size>260</Size>
@@ -133,7 +133,7 @@
   <Instruments>
     <IDInst>11</IDInst>
     <Name>Variometer</Name>
-    <Class>L39_VVI_ft</Class>
+    <Class>L39_VVI</Class>
     <PosX>1096</PosX>
     <PosY>202</PosY>
     <Size>275</Size>
@@ -517,13 +517,13 @@
   <Functions>
     <IDInst>6</IDInst>
     <IDFct>1</IDFct>
-    <Name>Fan RPM Needle 2</Name>
-    <Arg_number>85</Arg_number>
+    <Name>Compressor Needle 1</Name>
+    <Arg_number>84</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0, 0.09, 0.18, 0.28, 0.372, 0.468, 0.555, 0.645, 0.733, 0.822, 0.909, 1.0</Input>
-    <Output>0, 31, 63, 94, 126, 157, 190, 222, 253, 284, 314, 344</Output>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -531,13 +531,13 @@
   <Functions>
     <IDInst>6</IDInst>
     <IDFct>2</IDFct>
-    <Name>Compressor Needle 1</Name>
-    <Arg_number>84</Arg_number>
+    <Name>Fan RPM Needle 2</Name>
+    <Arg_number>85</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0, 1.0</Input>
-    <Output>0,10</Output>
+    <Input>0.0, 0.09, 0.18, 0.28, 0.372, 0.468, 0.555, 0.645, 0.733, 0.822, 0.909, 1.0</Input>
+    <Output>0, 31, 63, 94, 126, 157, 190, 222, 253, 284, 314, 344</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -951,13 +951,13 @@
   <Functions>
     <IDInst>3</IDInst>
     <IDFct>1</IDFct>
-    <Name>Needle Alt100</Name>
-    <Arg_number>637</Arg_number>
+    <Name>km</Name>
+    <Arg_number>52</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
-    <Output>0,1000</Output>
+    <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -965,8 +965,8 @@
   <Functions>
     <IDInst>3</IDInst>
     <IDFct>2</IDFct>
-    <Name>Alt 10000</Name>
-    <Arg_number>632</Arg_number>
+    <Name>m</Name>
+    <Arg_number>53</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -979,92 +979,8 @@
   <Functions>
     <IDInst>3</IDInst>
     <IDFct>3</IDFct>
-    <Name>Alt 1000</Name>
-    <Arg_number>631</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>3</IDInst>
-    <IDFct>4</IDFct>
-    <Name>Alt 100</Name>
-    <Arg_number>630</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>3</IDInst>
-    <IDFct>5</IDFct>
-    <Name>Pressure 0</Name>
-    <Arg_number>636</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>3</IDInst>
-    <IDFct>6</IDFct>
-    <Name>Pressure 1</Name>
-    <Arg_number>635</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>3</IDInst>
-    <IDFct>7</IDFct>
-    <Name>Pressure 2</Name>
-    <Arg_number>634</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>3</IDInst>
-    <IDFct>8</IDFct>
-    <Name>Pressure 3</Name>
-    <Arg_number>633</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>3</IDInst>
-    <IDFct>9</IDFct>
-    <Name>Flag Pneu</Name>
-    <Arg_number>0</Arg_number>
+    <Name>Barometric Pressure</Name>
+    <Arg_number>56</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1165,7 +1081,7 @@
     <WindowID>1</WindowID>
     <Name>Main Panel</Name>
     <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosY>1200</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>L-39-Background.png</Background>
