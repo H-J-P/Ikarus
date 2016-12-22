@@ -236,19 +236,6 @@
   </Instruments>
   <Instruments>
     <IDInst>19</IDInst>
-    <Name>Gear</Name>
-    <Class>F15Gear</Class>
-    <PosX>30</PosX>
-    <PosY>900</PosY>
-    <Size>200</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>20</IDInst>
     <Name>Analog Clock</Name>
     <Class>US_Clock</Class>
     <PosX>1147</PosX>
@@ -261,7 +248,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>21</IDInst>
+    <IDInst>20</IDInst>
     <Name>WhiskeyCompass</Name>
     <Class>US_WhiskeyCompass</Class>
     <PosX>875</PosX>
@@ -274,7 +261,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>22</IDInst>
+    <IDInst>21</IDInst>
     <Name>cabinPressure</Name>
     <Class>F15CabP</Class>
     <PosX>282</PosX>
@@ -287,7 +274,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>23</IDInst>
+    <IDInst>22</IDInst>
     <Name>ASI_standby</Name>
     <Class>F15ASIStby</Class>
     <PosX>636</PosX>
@@ -300,7 +287,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>24</IDInst>
+    <IDInst>23</IDInst>
     <Name>ACC</Name>
     <Class>US_ACC</Class>
     <PosX>568</PosX>
@@ -313,7 +300,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>25</IDInst>
+    <IDInst>24</IDInst>
     <Name>EngineTemp_L</Name>
     <Class>F15EGT</Class>
     <PosX>1370</PosX>
@@ -326,7 +313,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>26</IDInst>
+    <IDInst>25</IDInst>
     <Name>EngineTemp_R</Name>
     <Class>F15EGT</Class>
     <PosX>1530</PosX>
@@ -339,7 +326,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>27</IDInst>
+    <IDInst>26</IDInst>
     <Name>HydP_Main</Name>
     <Class>A10_HydP</Class>
     <PosX>1740</PosX>
@@ -352,7 +339,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>28</IDInst>
+    <IDInst>27</IDInst>
     <Name>Altitude Standby</Name>
     <Class>F15AltStby</Class>
     <PosX>1107</PosX>
@@ -1067,48 +1054,6 @@
   <Functions>
     <IDInst>19</IDInst>
     <IDFct>1</IDFct>
-    <Name>GEAR_N_SAFE</Name>
-    <Arg_number>501</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>19</IDInst>
-    <IDFct>2</IDFct>
-    <Name>GEAR_L_SAFE</Name>
-    <Arg_number>502</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>19</IDInst>
-    <IDFct>3</IDFct>
-    <Name>GEAR_R_SAFE</Name>
-    <Arg_number>503</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>20</IDInst>
-    <IDFct>1</IDFct>
     <Name>Hours</Name>
     <Arg_number>28</Arg_number>
     <Value>0</Value>
@@ -1121,7 +1066,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>21</IDInst>
+    <IDInst>20</IDInst>
     <IDFct>1</IDFct>
     <Name>Compass Heading </Name>
     <Arg_number>31</Arg_number>
@@ -1135,7 +1080,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>21</IDInst>
+    <IDInst>20</IDInst>
     <IDFct>2</IDFct>
     <Name>Compass Pitch</Name>
     <Arg_number>32</Arg_number>
@@ -1149,7 +1094,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>21</IDInst>
+    <IDInst>20</IDInst>
     <IDFct>3</IDFct>
     <Name>Compass Bank</Name>
     <Arg_number>33</Arg_number>
@@ -1163,7 +1108,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>20</IDInst>
+    <IDInst>19</IDInst>
     <IDFct>2</IDFct>
     <Name>Minutes</Name>
     <Arg_number>29</Arg_number>
@@ -1177,7 +1122,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>20</IDInst>
+    <IDInst>19</IDInst>
     <IDFct>3</IDFct>
     <Name>Secounds</Name>
     <Arg_number>30</Arg_number>
@@ -1191,7 +1136,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>25</IDInst>
+    <IDInst>24</IDInst>
     <IDFct>1</IDFct>
     <Name>ExportIDNeedle</Name>
     <Arg_number>52</Arg_number>
@@ -1205,7 +1150,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>25</IDInst>
+    <IDInst>24</IDInst>
     <IDFct>2</IDFct>
     <Name>ExportID100</Name>
     <Arg_number>53</Arg_number>
@@ -1219,7 +1164,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>25</IDInst>
+    <IDInst>24</IDInst>
     <IDFct>3</IDFct>
     <Name>ExportID10</Name>
     <Arg_number>54</Arg_number>
@@ -1233,7 +1178,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>25</IDInst>
+    <IDInst>24</IDInst>
     <IDFct>4</IDFct>
     <Name>ExportID1</Name>
     <Arg_number>55</Arg_number>
@@ -1247,7 +1192,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>26</IDInst>
+    <IDInst>25</IDInst>
     <IDFct>1</IDFct>
     <Name>ExportIDNeedle</Name>
     <Arg_number>56</Arg_number>
@@ -1261,7 +1206,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>26</IDInst>
+    <IDInst>25</IDInst>
     <IDFct>2</IDFct>
     <Name>ExportID100</Name>
     <Arg_number>57</Arg_number>
@@ -1275,7 +1220,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>26</IDInst>
+    <IDInst>25</IDInst>
     <IDFct>3</IDFct>
     <Name>ExportID10</Name>
     <Arg_number>58</Arg_number>
@@ -1289,7 +1234,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>26</IDInst>
+    <IDInst>25</IDInst>
     <IDFct>4</IDFct>
     <Name>ExportID1</Name>
     <Arg_number>59</Arg_number>
@@ -1387,7 +1332,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>27</IDInst>
+    <IDInst>26</IDInst>
     <IDFct>1</IDFct>
     <Name>Main Hydraulic Pressure</Name>
     <Arg_number>71</Arg_number>
@@ -1401,7 +1346,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>23</IDInst>
+    <IDInst>22</IDInst>
     <IDFct>1</IDFct>
     <Name>ASI Standby</Name>
     <Arg_number>72</Arg_number>
@@ -1415,7 +1360,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>24</IDInst>
+    <IDInst>23</IDInst>
     <IDFct>1</IDFct>
     <Name>AccelerationUnits</Name>
     <Arg_number>73</Arg_number>
@@ -1429,7 +1374,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>28</IDInst>
+    <IDInst>27</IDInst>
     <IDFct>1</IDFct>
     <Name>kilofeet needle</Name>
     <Arg_number>41</Arg_number>
@@ -1443,7 +1388,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>28</IDInst>
+    <IDInst>27</IDInst>
     <IDFct>2</IDFct>
     <Name>hektofeet needle</Name>
     <Arg_number>42</Arg_number>
@@ -1457,7 +1402,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>28</IDInst>
+    <IDInst>27</IDInst>
     <IDFct>3</IDFct>
     <Name>dafeet needle</Name>
     <Arg_number>43</Arg_number>
@@ -1477,11 +1422,11 @@
     <Name>531 - Flaps 1</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>yellow_led_on.png</FilePictureOn>
-    <FilePictureOff>yellow_led_off.png</FilePictureOff>
-    <PosX>38</PosX>
-    <PosY>683</PosY>
-    <Size>120</Size>
+    <FilePictureOn>F-15C-FLAP-yellow.png</FilePictureOn>
+    <FilePictureOff>F-15C-FLAP-off.png</FilePictureOff>
+    <PosX>40</PosX>
+    <PosY>700</PosY>
+    <Size>150</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1492,26 +1437,56 @@
     <Name>532 - Flaps 2</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>yellow_led_on.png</FilePictureOn>
-    <FilePictureOff>yellow_led_off.png</FilePictureOff>
-    <PosX>37</PosX>
-    <PosY>746</PosY>
-    <Size>120</Size>
+    <FilePictureOn>F-15C-FLAP-green.png</FilePictureOn>
+    <FilePictureOff>F-15C-FLAP-off.png</FilePictureOff>
+    <PosX>40</PosX>
+    <PosY>725</PosY>
+    <Size>150</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>3</ID>
     <Class>LampOnOff</Class>
-    <Arg_number>725</Arg_number>
-    <Name>725 - CanopyOpen</Name>
+    <Arg_number>501</Arg_number>
+    <Name>501 - Nose Gear</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>yellow_led_on.png</FilePictureOn>
-    <FilePictureOff>yellow_led_off.png</FilePictureOff>
-    <PosX>796</PosX>
-    <PosY>103</PosY>
-    <Size>120</Size>
+    <FilePictureOn>F-15C-GEAR-Nose-on.png</FilePictureOn>
+    <FilePictureOff>F-15C-GEAR-Nose-off.png</FilePictureOff>
+    <PosX>93</PosX>
+    <PosY>905</PosY>
+    <Size>150</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>4</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>502</Arg_number>
+    <Name>502 - Left Gear</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>F-15C-GEAR-Left-on.png</FilePictureOn>
+    <FilePictureOff>F-15C-GEAR-Left-off.png</FilePictureOff>
+    <PosX>34</PosX>
+    <PosY>940</PosY>
+    <Size>150</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>5</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>503</Arg_number>
+    <Name>503 - Right Gear</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>F-15C-GEAR-Right-on.png</FilePictureOn>
+    <FilePictureOff>F-15C-GEAR-Right-off.png</FilePictureOff>
+    <PosX>152</PosX>
+    <PosY>940</PosY>
+    <Size>150</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1522,7 +1497,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosY>1200</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>BackGround.png</Background>
