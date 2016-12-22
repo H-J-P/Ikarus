@@ -426,8 +426,8 @@
   <Functions>
     <IDInst>3</IDInst>
     <IDFct>3</IDFct>
-    <Name>AGK_47B_failure_flag</Name>
-    <Arg_number>11</Arg_number>
+    <Name>AGK_47B_sideslip</Name>
+    <Arg_number>8</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -440,8 +440,8 @@
   <Functions>
     <IDInst>3</IDInst>
     <IDFct>4</IDFct>
-    <Name>AGK_47B_sideslip</Name>
-    <Arg_number>8</Arg_number>
+    <Name>AGK_47B_failure_flag</Name>
+    <Arg_number>11</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1074,7 +1074,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosY>1200</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>BackGround.png</Background>
