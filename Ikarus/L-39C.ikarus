@@ -1165,7 +1165,7 @@
     <WindowID>1</WindowID>
     <Name>Main Panel</Name>
     <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosY>1080</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>L-39-Background.png</Background>
