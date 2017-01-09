@@ -2196,7 +2196,7 @@
   </Functions>
   <Lamps>
     <ID>1</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>662</Arg_number>
     <Name>662 - GUN_READY</Name>
     <Value>0</Value>
@@ -2205,13 +2205,13 @@
     <FilePictureOff>A10Off.PNG</FilePictureOff>
     <PosX>553</PosX>
     <PosY>71</PosY>
-    <Size>100</Size>
+    <Size>95</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>2</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>665</Arg_number>
     <Name>665 - CANOPY_UNLOCKED</Name>
     <Value>0</Value>
@@ -2219,14 +2219,14 @@
     <FilePictureOn>A10CanopyUnlocked.PNG</FilePictureOn>
     <FilePictureOff>A10Off.PNG</FilePictureOff>
     <PosX>1264</PosX>
-    <PosY>73</PosY>
-    <Size>105</Size>
+    <PosY>71</PosY>
+    <Size>95</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>3</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>663</Arg_number>
     <Name>663 - NOSEWHEEL_STEERING</Name>
     <Value>0</Value>
@@ -2241,7 +2241,7 @@
   </Lamps>
   <Lamps>
     <ID>4</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>664</Arg_number>
     <Name>664 - MARKER_BEACON</Name>
     <Value>0</Value>
@@ -2249,29 +2249,29 @@
     <FilePictureOn>A10MarkerBeacon.PNG</FilePictureOn>
     <FilePictureOff>A10Off.PNG</FilePictureOff>
     <PosX>1157</PosX>
-    <PosY>73</PosY>
-    <Size>100</Size>
+    <PosY>71</PosY>
+    <Size>95</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>5</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>404</Arg_number>
     <Name>404 - MASTER_WARNING_STUB</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>A10MasterCaution.PNG</FilePictureOn>
     <FilePictureOff>A10Off.PNG</FilePictureOff>
-    <PosX>24</PosX>
-    <PosY>1026</PosY>
-    <Size>115</Size>
+    <PosX>23</PosX>
+    <PosY>1029</PosY>
+    <Size>95</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>6</ID>
-    <Class>LampOnOff70x70</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>606</Arg_number>
     <Name>606 - HARS</Name>
     <Value>0</Value>
@@ -2286,7 +2286,7 @@
   </Lamps>
   <Lamps>
     <ID>7</ID>
-    <Class>LampOnOff70x70</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>608</Arg_number>
     <Name>608 - EGI</Name>
     <Value>0</Value>
@@ -2301,7 +2301,7 @@
   </Lamps>
   <Lamps>
     <ID>8</ID>
-    <Class>LampOnOff70x70</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>610</Arg_number>
     <Name>610 - TISL</Name>
     <Value>0</Value>
@@ -2316,7 +2316,7 @@
   </Lamps>
   <Lamps>
     <ID>9</ID>
-    <Class>LampOnOff70x70</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>612</Arg_number>
     <Name>612 - STRPT</Name>
     <Value>0</Value>
@@ -2331,7 +2331,7 @@
   </Lamps>
   <Lamps>
     <ID>10</ID>
-    <Class>LampOnOff70x70</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>614</Arg_number>
     <Name>614 - ANCHR</Name>
     <Value>0</Value>
@@ -2346,7 +2346,7 @@
   </Lamps>
   <Lamps>
     <ID>11</ID>
-    <Class>LampOnOff70x70</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>616</Arg_number>
     <Name>616 - TCN</Name>
     <Value>0</Value>
@@ -2361,7 +2361,7 @@
   </Lamps>
   <Lamps>
     <ID>12</ID>
-    <Class>LampOnOff70x70</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>618</Arg_number>
     <Name>618 - ILS</Name>
     <Value>0</Value>
@@ -2376,7 +2376,7 @@
   </Lamps>
   <Lamps>
     <ID>13</ID>
-    <Class>LampOnOff70x70</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>619</Arg_number>
     <Name>619 - UHF</Name>
     <Value>0</Value>
@@ -2391,7 +2391,7 @@
   </Lamps>
   <Lamps>
     <ID>14</ID>
-    <Class>LampOnOff70x70</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>620</Arg_number>
     <Name>620 - FM</Name>
     <Value>0</Value>
@@ -2406,7 +2406,7 @@
   </Lamps>
   <Lamps>
     <ID>15</ID>
-    <Class>LampOnOff80x200</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>659</Arg_number>
     <Name>659 - Nose Gear</Name>
     <Value>0</Value>
@@ -2421,7 +2421,7 @@
   </Lamps>
   <Lamps>
     <ID>16</ID>
-    <Class>LampOnOff80x200</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>660</Arg_number>
     <Name>660 - Left Gear</Name>
     <Value>0</Value>
@@ -2436,7 +2436,7 @@
   </Lamps>
   <Lamps>
     <ID>17</ID>
-    <Class>LampOnOff80x200</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>661</Arg_number>
     <Name>661 - Right Gear</Name>
     <Value>0</Value>
@@ -2496,7 +2496,7 @@
   </Lamps>
   <Lamps>
     <ID>21</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>480</Arg_number>
     <Name>480 - ENG_START_CYCLE</Name>
     <Value>0</Value>
@@ -2511,7 +2511,7 @@
   </Lamps>
   <Lamps>
     <ID>22</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>481</Arg_number>
     <Name>481 - L_HYD_PRESS</Name>
     <Value>0</Value>
@@ -2526,7 +2526,7 @@
   </Lamps>
   <Lamps>
     <ID>23</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>482</Arg_number>
     <Name>482 - R_HYD_PRESS</Name>
     <Value>0</Value>
@@ -2541,7 +2541,7 @@
   </Lamps>
   <Lamps>
     <ID>24</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>483</Arg_number>
     <Name>483 - GUN_UNSAFE</Name>
     <Value>0</Value>
@@ -2556,7 +2556,7 @@
   </Lamps>
   <Lamps>
     <ID>25</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>484</Arg_number>
     <Name>484 - ANTISKID</Name>
     <Value>0</Value>
@@ -2571,7 +2571,7 @@
   </Lamps>
   <Lamps>
     <ID>26</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>485</Arg_number>
     <Name>485 - L_HYD_RES</Name>
     <Value>0</Value>
@@ -2586,7 +2586,7 @@
   </Lamps>
   <Lamps>
     <ID>27</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>486</Arg_number>
     <Name>486 - R_HYD_RES</Name>
     <Value>0</Value>
@@ -2601,7 +2601,7 @@
   </Lamps>
   <Lamps>
     <ID>28</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>487</Arg_number>
     <Name>487 - OXY_LOW</Name>
     <Value>0</Value>
@@ -2616,7 +2616,7 @@
   </Lamps>
   <Lamps>
     <ID>29</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>488</Arg_number>
     <Name>488 - ELEV_DISENG</Name>
     <Value>0</Value>
@@ -2631,7 +2631,7 @@
   </Lamps>
   <Lamps>
     <ID>30</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>490</Arg_number>
     <Name>490 - SEAT_NOT_ARMED</Name>
     <Value>0</Value>
@@ -2646,7 +2646,7 @@
   </Lamps>
   <Lamps>
     <ID>31</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>491</Arg_number>
     <Name>491 - BLEED_AIR_LEAK</Name>
     <Value>0</Value>
@@ -2661,7 +2661,7 @@
   </Lamps>
   <Lamps>
     <ID>32</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>492</Arg_number>
     <Name>492 - AIL_DISENG</Name>
     <Value>0</Value>
@@ -2676,7 +2676,7 @@
   </Lamps>
   <Lamps>
     <ID>33</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>493</Arg_number>
     <Name>493 - L_AIL_TAB</Name>
     <Value>0</Value>
@@ -2691,7 +2691,7 @@
   </Lamps>
   <Lamps>
     <ID>34</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>494</Arg_number>
     <Name>494 - R_AIL_TAB</Name>
     <Value>0</Value>
@@ -2706,7 +2706,7 @@
   </Lamps>
   <Lamps>
     <ID>35</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>495</Arg_number>
     <Name>495 - SERVICE_AIR_HOT</Name>
     <Value>0</Value>
@@ -2721,7 +2721,7 @@
   </Lamps>
   <Lamps>
     <ID>36</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>496</Arg_number>
     <Name>496 - PITCH_SAS</Name>
     <Value>0</Value>
@@ -2736,7 +2736,7 @@
   </Lamps>
   <Lamps>
     <ID>37</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>497</Arg_number>
     <Name>497 - L_ENG_HOT</Name>
     <Value>0</Value>
@@ -2751,7 +2751,7 @@
   </Lamps>
   <Lamps>
     <ID>38</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>498</Arg_number>
     <Name>498 - R_ENG_HOT</Name>
     <Value>0</Value>
@@ -2766,7 +2766,7 @@
   </Lamps>
   <Lamps>
     <ID>39</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>499</Arg_number>
     <Name>499 - WINDSHIELD_HOT</Name>
     <Value>0</Value>
@@ -2781,7 +2781,7 @@
   </Lamps>
   <Lamps>
     <ID>40</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>500</Arg_number>
     <Name>500 - YAW_SAS</Name>
     <Value>0</Value>
@@ -2796,7 +2796,7 @@
   </Lamps>
   <Lamps>
     <ID>41</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>501</Arg_number>
     <Name>501 - L_ENG_OIL_PRESS</Name>
     <Value>0</Value>
@@ -2811,7 +2811,7 @@
   </Lamps>
   <Lamps>
     <ID>42</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>502</Arg_number>
     <Name>502 - R_ENG_OIL_PRESS</Name>
     <Value>0</Value>
@@ -2826,7 +2826,7 @@
   </Lamps>
   <Lamps>
     <ID>43</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>503</Arg_number>
     <Name>503 - CICU</Name>
     <Value>0</Value>
@@ -2841,7 +2841,7 @@
   </Lamps>
   <Lamps>
     <ID>44</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>504</Arg_number>
     <Name>504 - GCAS</Name>
     <Value>0</Value>
@@ -2856,7 +2856,7 @@
   </Lamps>
   <Lamps>
     <ID>45</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>505</Arg_number>
     <Name>505 - L_MAIN_PUMP</Name>
     <Value>0</Value>
@@ -2871,7 +2871,7 @@
   </Lamps>
   <Lamps>
     <ID>46</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>506</Arg_number>
     <Name>506 - R_MAIN_PUMP</Name>
     <Value>0</Value>
@@ -2886,7 +2886,7 @@
   </Lamps>
   <Lamps>
     <ID>47</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>508</Arg_number>
     <Name>508 - LASTE</Name>
     <Value>0</Value>
@@ -2901,7 +2901,7 @@
   </Lamps>
   <Lamps>
     <ID>48</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>509</Arg_number>
     <Name>509 - L_WING_PUMP</Name>
     <Value>0</Value>
@@ -2916,7 +2916,7 @@
   </Lamps>
   <Lamps>
     <ID>49</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>510</Arg_number>
     <Name>510 - R_WING_PUMP</Name>
     <Value>0</Value>
@@ -2931,7 +2931,7 @@
   </Lamps>
   <Lamps>
     <ID>50</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>511</Arg_number>
     <Name>511 - HARS</Name>
     <Value>0</Value>
@@ -2946,7 +2946,7 @@
   </Lamps>
   <Lamps>
     <ID>51</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>512</Arg_number>
     <Name>512 - IFF_MODE_4</Name>
     <Value>0</Value>
@@ -2961,7 +2961,7 @@
   </Lamps>
   <Lamps>
     <ID>52</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>513</Arg_number>
     <Name>513 - L_MAIN_FUEL_LOW</Name>
     <Value>0</Value>
@@ -2976,7 +2976,7 @@
   </Lamps>
   <Lamps>
     <ID>53</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>514</Arg_number>
     <Name>514 - R_MAIN_FUEL_LOW</Name>
     <Value>0</Value>
@@ -2991,7 +2991,7 @@
   </Lamps>
   <Lamps>
     <ID>54</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>515</Arg_number>
     <Name>515 - L_R_TKS_UNEQUAL</Name>
     <Value>0</Value>
@@ -3006,7 +3006,7 @@
   </Lamps>
   <Lamps>
     <ID>55</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>516</Arg_number>
     <Name>516 - EAC</Name>
     <Value>0</Value>
@@ -3021,7 +3021,7 @@
   </Lamps>
   <Lamps>
     <ID>56</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>517</Arg_number>
     <Name>517 - L_FUEL_PRESS</Name>
     <Value>0</Value>
@@ -3036,7 +3036,7 @@
   </Lamps>
   <Lamps>
     <ID>57</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>518</Arg_number>
     <Name>518 - R_FUEL_PRESS</Name>
     <Value>0</Value>
@@ -3051,7 +3051,7 @@
   </Lamps>
   <Lamps>
     <ID>58</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>519</Arg_number>
     <Name>519 - NAV</Name>
     <Value>0</Value>
@@ -3066,7 +3066,7 @@
   </Lamps>
   <Lamps>
     <ID>59</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>520</Arg_number>
     <Name>520 - STALL_SYS</Name>
     <Value>0</Value>
@@ -3081,7 +3081,7 @@
   </Lamps>
   <Lamps>
     <ID>60</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>521</Arg_number>
     <Name>521 - L_CONV</Name>
     <Value>0</Value>
@@ -3096,7 +3096,7 @@
   </Lamps>
   <Lamps>
     <ID>61</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>522</Arg_number>
     <Name>522 - R_CONV</Name>
     <Value>0</Value>
@@ -3111,7 +3111,7 @@
   </Lamps>
   <Lamps>
     <ID>62</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>523</Arg_number>
     <Name>523 - CADC</Name>
     <Value>0</Value>
@@ -3126,7 +3126,7 @@
   </Lamps>
   <Lamps>
     <ID>63</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>524</Arg_number>
     <Name>524 - APU_GEN</Name>
     <Value>0</Value>
@@ -3141,7 +3141,7 @@
   </Lamps>
   <Lamps>
     <ID>64</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>525</Arg_number>
     <Name>525 - L_GEN</Name>
     <Value>0</Value>
@@ -3156,7 +3156,7 @@
   </Lamps>
   <Lamps>
     <ID>65</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>526</Arg_number>
     <Name>526 - R_GEN</Name>
     <Value>0</Value>
@@ -3171,7 +3171,7 @@
   </Lamps>
   <Lamps>
     <ID>66</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>527</Arg_number>
     <Name>527 - INST_INV</Name>
     <Value>0</Value>
@@ -3186,7 +3186,7 @@
   </Lamps>
   <Lamps>
     <ID>67</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>404</Arg_number>
     <Name>404 - MASTER_WARNING_STUB</Name>
     <Value>0</Value>
@@ -4869,8 +4869,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>59</PosX>
-    <PosY>1026</PosY>
+    <PosX>53</PosX>
+    <PosY>1025</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
