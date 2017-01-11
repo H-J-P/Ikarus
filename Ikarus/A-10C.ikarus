@@ -6,7 +6,7 @@
     <Class>A10_ALT</Class>
     <PosX>1147</PosX>
     <PosY>370</PosY>
-    <Size>230</Size>
+    <Size>240</Size>
     <Rotate>0</Rotate>
     <ImageFrame>A10_Frame4.png</ImageFrame>
     <ImageLight>greenGlass15.png</ImageLight>
@@ -3211,9 +3211,9 @@
     <FilePicture2On />
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>264</PosX>
-    <PosY>131</PosY>
-    <Size>75</Size>
+    <PosX>270</PosX>
+    <PosY>149</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3232,9 +3232,9 @@
     <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>172</PosX>
-    <PosY>13</PosY>
-    <Size>75</Size>
+    <PosX>178</PosX>
+    <PosY>27</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3253,9 +3253,9 @@
     <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>151</PosX>
-    <PosY>652</PosY>
-    <Size>75</Size>
+    <PosX>144</PosX>
+    <PosY>812</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3339,7 +3339,7 @@
     <Output>0</Output>
     <PosX>989</PosX>
     <PosY>977</PosY>
-    <Size>60</Size>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3360,7 +3360,7 @@
     <Output>0</Output>
     <PosX>1048</PosX>
     <PosY>977</PosY>
-    <Size>60</Size>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3379,9 +3379,9 @@
     <FilePicture2On>flat_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>204</PosX>
-    <PosY>573</PosY>
-    <Size>75</Size>
+    <PosX>212</PosX>
+    <PosY>589</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3400,9 +3400,9 @@
     <FilePicture2On>flat_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>290</PosX>
-    <PosY>574</PosY>
-    <Size>75</Size>
+    <PosX>295</PosX>
+    <PosY>590</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3421,9 +3421,9 @@
     <FilePicture2On>flat_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>203</PosX>
-    <PosY>685</PosY>
-    <Size>75</Size>
+    <PosX>211</PosX>
+    <PosY>698</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3442,9 +3442,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>309</PosX>
-    <PosY>686</PosY>
-    <Size>75</Size>
+    <PosX>318</PosX>
+    <PosY>706</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3463,9 +3463,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>274</PosX>
-    <PosY>790</PosY>
-    <Size>75</Size>
+    <PosX>282</PosX>
+    <PosY>810</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3484,9 +3484,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>342</PosX>
-    <PosY>790</PosY>
-    <Size>75</Size>
+    <PosX>352</PosX>
+    <PosY>810</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3505,9 +3505,9 @@
     <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>181</PosX>
-    <PosY>789</PosY>
-    <Size>75</Size>
+    <PosX>189</PosX>
+    <PosY>812</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3526,9 +3526,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>206</PosX>
-    <PosY>907</PosY>
-    <Size>75</Size>
+    <PosX>214</PosX>
+    <PosY>927</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3547,9 +3547,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>261</PosX>
-    <PosY>908</PosY>
-    <Size>75</Size>
+    <PosX>270</PosX>
+    <PosY>927</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3568,9 +3568,9 @@
     <FilePicture2On>flat_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>319</PosX>
-    <PosY>907</PosY>
-    <Size>75</Size>
+    <PosX>327</PosX>
+    <PosY>928</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3589,9 +3589,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>5</PosX>
-    <PosY>589</PosY>
-    <Size>75</Size>
+    <PosX>13</PosX>
+    <PosY>609</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3610,9 +3610,9 @@
     <FilePicture2On>sw_lng-lgt_down.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>78</PosX>
-    <PosY>596</PosY>
-    <Size>95</Size>
+    <PosX>75</PosX>
+    <PosY>609</PosY>
+    <Size>110</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3631,9 +3631,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>700</PosX>
-    <PosY>957</PosY>
-    <Size>75</Size>
+    <PosX>718</PosX>
+    <PosY>956</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -4767,7 +4767,7 @@
     <Output>0</Output>
     <PosX>872</PosX>
     <PosY>978</PosY>
-    <Size>60</Size>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -4785,9 +4785,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>73</PosX>
-    <PosY>17</PosY>
-    <Size>75</Size>
+    <PosX>81</PosX>
+    <PosY>38</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -4806,9 +4806,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>76</PosX>
-    <PosY>131</PosY>
-    <Size>75</Size>
+    <PosX>80</PosX>
+    <PosY>149</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -4827,9 +4827,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>172</PosX>
-    <PosY>133</PosY>
-    <Size>75</Size>
+    <PosX>177</PosX>
+    <PosY>148</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -4848,9 +4848,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>264</PosX>
-    <PosY>15</PosY>
-    <Size>75</Size>
+    <PosX>270</PosX>
+    <PosY>30</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6067,7 +6067,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>103</PosX>
-    <PosY>448</PosY>
+    <PosY>449</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6129,9 +6129,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>143</PosX>
-    <PosY>477</PosY>
-    <Size>60</Size>
+    <PosX>147</PosX>
+    <PosY>481</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6150,9 +6150,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>214</PosX>
-    <PosY>475</PosY>
-    <Size>60</Size>
+    <PosX>217</PosX>
+    <PosY>480</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6213,9 +6213,9 @@
     <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>181</PosX>
-    <PosY>576</PosY>
-    <Size>55</Size>
+    <PosX>186</PosX>
+    <PosY>575</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6402,9 +6402,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>857</PosX>
-    <PosY>876</PosY>
-    <Size>55</Size>
+    <PosX>860</PosX>
+    <PosY>875</PosY>
+    <Size>40</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6425,7 +6425,7 @@
     <Output>0</Output>
     <PosX>813</PosX>
     <PosY>978</PosY>
-    <Size>60</Size>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6485,8 +6485,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>27</PosX>
-    <PosY>884</PosY>
+    <PosX>22</PosX>
+    <PosY>882</PosY>
     <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6548,8 +6548,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.87, 0.93</Input>
     <Output>0.87, 0.93</Output>
-    <PosX>195</PosX>
-    <PosY>837</PosY>
+    <PosX>193</PosX>
+    <PosY>819</PosY>
     <Size>25</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6559,7 +6559,7 @@
   </Switches>
   <Switches>
     <ID>164</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>421</ClickabledataID>
     <Name>Test TACAN Signal on HSI</Name>
     <Value>0</Value>
@@ -6569,8 +6569,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>121</PosX>
-    <PosY>812</PosY>
+    <PosX>122</PosX>
+    <PosY>810</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -7493,9 +7493,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>142</PosX>
-    <PosY>-3</PosY>
-    <Size>75</Size>
+    <PosX>150</PosX>
+    <PosY>18</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7535,9 +7535,9 @@
     <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>304</PosX>
-    <PosY>-3</PosY>
-    <Size>75</Size>
+    <PosX>313</PosX>
+    <PosY>16</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7556,9 +7556,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>62</PosX>
-    <PosY>-3</PosY>
-    <Size>75</Size>
+    <PosX>72</PosX>
+    <PosY>19</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7579,7 +7579,7 @@
     <Output>0</Output>
     <PosX>930</PosX>
     <PosY>977</PosY>
-    <Size>60</Size>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7597,9 +7597,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1</Input>
     <Output>0.0,0.1</Output>
-    <PosX>118</PosX>
-    <PosY>180</PosY>
-    <Size>60</Size>
+    <PosX>124</PosX>
+    <PosY>192</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7618,9 +7618,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1</Input>
     <Output>0.0,0.1</Output>
-    <PosX>182</PosX>
-    <PosY>180</PosY>
-    <Size>60</Size>
+    <PosX>187</PosX>
+    <PosY>191</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7639,9 +7639,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1</Input>
     <Output>0.0,0.1</Output>
-    <PosX>245</PosX>
-    <PosY>180</PosY>
-    <Size>60</Size>
+    <PosX>253</PosX>
+    <PosY>191</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7681,9 +7681,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>317</PosX>
-    <PosY>74</PosY>
-    <Size>60</Size>
+    <PosX>323</PosX>
+    <PosY>87</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7786,9 +7786,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1</Input>
     <Output>0.0,0.1</Output>
-    <PosX>54</PosX>
-    <PosY>181</PosY>
-    <Size>60</Size>
+    <PosX>58</PosX>
+    <PosY>193</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
