@@ -1,6 +1,7 @@
 *.psd
 
 *.dds
+
 .DS_Store
 
 Ikarus/Images/.DS_Store
