@@ -70,9 +70,6 @@
     <Classname>BfK4Fuel</Classname>
   </Classnames>
   <Classnames>
-    <Classname>BfK4Gear</Classname>
-  </Classnames>
-  <Classnames>
     <Classname>BfK4H2OT</Classname>
   </Classnames>
   <Classnames>
@@ -86,12 +83,6 @@
   </Classnames>
   <Classnames>
     <Classname>BfK4RPM</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>BfK4MG151Left</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>BfK4MG151Right</Classname>
   </Classnames>
   <Classnames>
     <Classname>Display_CMSP</Classname>
@@ -401,6 +392,9 @@
   </Classnames>
   <Classnames>
     <Classname>KA50WSC</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Kneeboard</Classname>
   </Classnames>
   <Classnames>
     <Classname>L39_ACC</Classname>

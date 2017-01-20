@@ -184,11 +184,11 @@
   </Instruments>
   <Instruments>
     <IDInst>15</IDInst>
-    <Name>MG 151 Left</Name>
-    <Class>BfK4MG151Left</Class>
-    <PosX>170</PosX>
-    <PosY>540</PosY>
-    <Size>87</Size>
+    <Name>MG 131 Left</Name>
+    <Class>LwSZ500</Class>
+    <PosX>190</PosX>
+    <PosY>340</PosY>
+    <Size>52</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -197,11 +197,11 @@
   </Instruments>
   <Instruments>
     <IDInst>16</IDInst>
-    <Name>MG 151 Right</Name>
-    <Class>BfK4MG151Right</Class>
-    <PosX>270</PosX>
-    <PosY>540</PosY>
-    <Size>87</Size>
+    <Name>MG 131 Right</Name>
+    <Class>LwSZ500</Class>
+    <PosX>260</PosX>
+    <PosY>340</PosY>
+    <Size>52</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -210,19 +210,6 @@
   </Instruments>
   <Instruments>
     <IDInst>17</IDInst>
-    <Name>Gear</Name>
-    <Class>BfK4Gear</Class>
-    <PosX>200</PosX>
-    <PosY>680</PosY>
-    <Size>100</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>18</IDInst>
     <Name>Clock</Name>
     <Class>LwClock</Class>
     <PosX>720</PosX>
@@ -235,7 +222,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>19</IDInst>
+    <IDInst>18</IDInst>
     <Name>Oxygen Flow Blinker</Name>
     <Class>LwBlink</Class>
     <PosX>1370</PosX>
@@ -247,7 +234,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>20</IDInst>
+    <IDInst>19</IDInst>
     <Name>Oxygen Pressure</Name>
     <Class>LwO2P</Class>
     <PosX>1570</PosX>
@@ -612,8 +599,8 @@
   <Functions>
     <IDInst>15</IDInst>
     <IDFct>1</IDFct>
-    <Name>MG 151 Left</Name>
-    <Arg_number>50</Arg_number>
+    <Name>MG 131 Shell Counter Left</Name>
+    <Arg_number>40</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -626,8 +613,8 @@
   <Functions>
     <IDInst>16</IDInst>
     <IDFct>1</IDFct>
-    <Name>MG 151 Right</Name>
-    <Arg_number>164</Arg_number>
+    <Name>MG 131 Shell Counter Right</Name>
+    <Arg_number>41</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -639,48 +626,6 @@
   </Functions>
   <Functions>
     <IDInst>17</IDInst>
-    <IDFct>1</IDFct>
-    <Name>LandingGearRedLight</Name>
-    <Arg_number>56</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>17</IDInst>
-    <IDFct>2</IDFct>
-    <Name>LandingGearGreenLightLeft</Name>
-    <Arg_number>57</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>17</IDInst>
-    <IDFct>3</IDFct>
-    <Name>LandingGearGreenLightRight</Name>
-    <Arg_number>58</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>18</IDInst>
     <IDFct>1</IDFct>
     <Name>CLOCK_currtime_hours</Name>
     <Arg_number>0</Arg_number>
@@ -694,7 +639,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>18</IDInst>
+    <IDInst>17</IDInst>
     <IDFct>2</IDFct>
     <Name>CLOCK_currtime_minutes</Name>
     <Arg_number>0</Arg_number>
@@ -708,7 +653,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>18</IDInst>
+    <IDInst>17</IDInst>
     <IDFct>3</IDFct>
     <Name>CLOCK_currtime_seconds</Name>
     <Arg_number>0</Arg_number>
@@ -722,7 +667,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>18</IDInst>
+    <IDInst>17</IDInst>
     <IDFct>4</IDFct>
     <Name>CLOCK_chrono_minutes</Name>
     <Arg_number>0</Arg_number>
@@ -736,7 +681,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>19</IDInst>
+    <IDInst>18</IDInst>
     <IDFct>1</IDFct>
     <Name>Oxygen Flow Blinker</Name>
     <Arg_number>35</Arg_number>
@@ -750,7 +695,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>20</IDInst>
+    <IDInst>19</IDInst>
     <IDFct>1</IDFct>
     <Name>Oxygen_Pressure</Name>
     <Arg_number>34</Arg_number>
@@ -763,6 +708,109 @@
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
+  <Functions>
+    <IDInst>15</IDInst>
+    <IDFct>2</IDFct>
+    <Name>MG 131 Klappanker Left</Name>
+    <Arg_number>42</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>16</IDInst>
+    <IDFct>2</IDFct>
+    <Name>MG 131 Klappanker Right</Name>
+    <Arg_number>43</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Lamps>
+    <ID>1</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>56</Arg_number>
+    <Name>56 - Landing Gear Red Light</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Lw-ControlLights-red.png</FilePictureOn>
+    <FilePictureOff>Lw-ControlLights-off.png</FilePictureOff>
+    <PosX>230</PosX>
+    <PosY>680</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>2</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>57</Arg_number>
+    <Name>57 - Landing Gear Green Light Left</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Lw-ControlLights-green.png</FilePictureOn>
+    <FilePictureOff>Lw-ControlLights-off.png</FilePictureOff>
+    <PosX>200</PosX>
+    <PosY>730</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>3</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>58</Arg_number>
+    <Name>58 - Landing Gear Green Light Right</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Lw-ControlLights-green.png</FilePictureOn>
+    <FilePictureOff>Lw-ControlLights-off.png</FilePictureOff>
+    <PosX>260</PosX>
+    <PosY>730</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>4</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>44</Arg_number>
+    <Name>44 - Left Wing MG151 Control Lamp</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Bf-109K-4-Lamp-MG151-on.png</FilePictureOn>
+    <FilePictureOff>Bf-109K-4-Lamp-MG151-off.png</FilePictureOff>
+    <PosX>110</PosX>
+    <PosY>340</PosY>
+    <Size>75</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>5</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>45</Arg_number>
+    <Name>45 - Right Wing MG151 Control Lamp</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Bf-109K-4-Lamp-MG151-on.png</FilePictureOn>
+    <FilePictureOff>Bf-109K-4-Lamp-MG151-off.png</FilePictureOff>
+    <PosX>320</PosX>
+    <PosY>340</PosY>
+    <Size>75</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
   </Parameter>
@@ -770,7 +818,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>1080</PosY>
+    <PosY>1200</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>BackGround.png</Background>
