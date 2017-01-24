@@ -8675,9 +8675,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>7</Input>
     <Output>0</Output>
-    <PosX>0</PosX>
-    <PosY>0</PosY>
-    <Size>100</Size>
+    <PosX>765</PosX>
+    <PosY>977</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>

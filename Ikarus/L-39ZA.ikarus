@@ -221,19 +221,6 @@
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
   </Instruments>
-  <Instruments>
-    <IDInst>18</IDInst>
-    <Name>Gear</Name>
-    <Class>MIG15_Gear</Class>
-    <PosX>86</PosX>
-    <PosY>734</PosY>
-    <Size>200</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -1074,90 +1061,108 @@
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
-  <Functions>
-    <IDInst>18</IDInst>
-    <IDFct>1</IDFct>
-    <Name>GearDown Left</Name>
-    <Arg_number>112</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,1</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>18</IDInst>
-    <IDFct>2</IDFct>
-    <Name>GearUp Left</Name>
-    <Arg_number>109</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,1</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>18</IDInst>
-    <IDFct>3</IDFct>
-    <Name>GearDown Right</Name>
-    <Arg_number>114</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,1</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>18</IDInst>
-    <IDFct>4</IDFct>
-    <Name>GearUp Right</Name>
-    <Arg_number>111</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,1</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>18</IDInst>
-    <IDFct>5</IDFct>
-    <Name>GearDown Nose</Name>
-    <Arg_number>113</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,1</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>18</IDInst>
-    <IDFct>6</IDFct>
-    <Name>GearUp Nose</Name>
+  <Lamps>
+    <ID>1</ID>
+    <Class>LampOnOff</Class>
     <Arg_number>110</Arg_number>
+    <Name>110 - GearUp_front</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,1</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
+    <FilePictureOn>L-39-Gear-Up-Nose-on.png</FilePictureOn>
+    <FilePictureOff />
+    <PosX>166</PosX>
+    <PosY>763</PosY>
+    <Size>8</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>2</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>109</Arg_number>
+    <Name>109 - GearUp_left</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>L-39-Gear-Up-LeftRight-on.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>132</PosX>
+    <PosY>777</PosY>
+    <Size>14</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>3</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>111</Arg_number>
+    <Name>111 - GearUp_right</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>L-39-Gear-Up-LeftRight-on.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>192</PosX>
+    <PosY>777</PosY>
+    <Size>14</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>4</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>113</Arg_number>
+    <Name>113 - GearDown_front</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>L-39-Gear-Down-on.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>166</PosX>
+    <PosY>799</PosY>
+    <Size>8</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>5</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>112</Arg_number>
+    <Name>112 - GearDown_left</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>L-39-Gear-Down-on.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>138</PosX>
+    <PosY>812</PosY>
+    <Size>8</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>6</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>114</Arg_number>
+    <Name>114 - GearDown_right</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>L-39-Gear-Down-on.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>194</PosX>
+    <PosY>812</PosY>
+    <Size>8</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Accessories>
+    <ID>1</ID>
+    <Class>Label</Class>
+    <Name>Gear Background</Name>
+    <FilePictureOn>L-39-Gear-Background.png</FilePictureOn>
+    <PosX>52</PosX>
+    <PosY>731</PosY>
+    <Size>235</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
   <Parameter>
     <FileBackground>BackgroundKA50.png</FileBackground>
   </Parameter>
