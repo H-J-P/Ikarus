@@ -740,7 +740,7 @@
     <ID>1</ID>
     <Class>SwitchPanelOffOn</Class>
     <ClickabledataID>0</ClickabledataID>
-    <Name>-</Name>
+    <Name>Kneeborad</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
@@ -748,8 +748,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>2</Input>
     <Output>0</Output>
-    <PosX>744</PosX>
-    <PosY>913</PosY>
+    <PosX>940</PosX>
+    <PosY>920</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -763,7 +763,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>1080</PosY>
+    <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>BackGround.png</Background>

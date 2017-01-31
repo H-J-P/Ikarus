@@ -602,11 +602,11 @@
     <IDInst>54</IDInst>
     <Name>Kneeboard</Name>
     <Class>Kneeboard</Class>
-    <PosX>0</PosX>
-    <PosY>0</PosY>
-    <Size>200</Size>
+    <PosX>24</PosX>
+    <PosY>29</PosY>
+    <Size>738</Size>
     <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
+    <ImageFrame>KneeboardWhite.png</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>7</WindowID>
@@ -6216,7 +6216,7 @@
   </Switches>
   <Switches>
     <ID>146</ID>
-    <Class>Switch_OnOFFOn</Class>
+    <Class>SwitchOn_Off_On</Class>
     <ClickabledataID>256</ClickabledataID>
     <Name>AAP - Toggle Steerpoint up</Name>
     <Value>0</Value>
@@ -6646,7 +6646,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>495</PosX>
-    <PosY>551</PosY>
+    <PosY>548</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -8675,13 +8675,13 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>7</Input>
     <Output>0</Output>
-    <PosX>765</PosX>
-    <PosY>977</PosY>
-    <Size>45</Size>
+    <PosX>227</PosX>
+    <PosY>131</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>1</WindowID>
+    <WindowID>8</WindowID>
   </Switches>
   <Switches>
     <ID>265</ID>
@@ -8717,7 +8717,7 @@
     <Output>-1.0,0.0,1.0</Output>
     <PosX>313</PosX>
     <PosY>16</PosY>
-    <Size>45</Size>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
