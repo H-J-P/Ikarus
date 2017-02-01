@@ -1,0 +1,7 @@
+_Images\
+
+_Images\A10-ALT_Images\Image3.png
+
+/Ikarus;component/Gauges/_Images\A10-ALT_Images\Image3.png
+
+/Ikarus;component/Gauges/_Images\A10-ALT_Images\Image3.png

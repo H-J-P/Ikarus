@@ -1,0 +1,1746 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <Instruments>
+    <IDInst>1</IDInst>
+    <Name>ACC</Name>
+    <Class>KA50ACC</Class>
+    <PosX>343</PosX>
+    <PosY>284</PosY>
+    <Size>107</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>2</IDInst>
+    <Name>ADI</Name>
+    <Class>KA50ADI</Class>
+    <PosX>478</PosX>
+    <PosY>356</PosY>
+    <Size>225</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>3</IDInst>
+    <Name>ADIStby</Name>
+    <Class>KA50ADIStby</Class>
+    <PosX>1115</PosX>
+    <PosY>845</PosY>
+    <Size>150</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>4</IDInst>
+    <Name>ALT</Name>
+    <Class>KA50ALT</Class>
+    <PosX>328</PosX>
+    <PosY>605</PosY>
+    <Size>147</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>5</IDInst>
+    <Name>ALT Radar</Name>
+    <Class>KA50ALTr</Class>
+    <PosX>151</PosX>
+    <PosY>400</PosY>
+    <Size>172</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>6</IDInst>
+    <Name>ASI</Name>
+    <Class>KA50ASI</Class>
+    <PosX>336</PosX>
+    <PosY>412</PosY>
+    <Size>127</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>7</IDInst>
+    <Name>Clock</Name>
+    <Class>WPClock</Class>
+    <PosX>156</PosX>
+    <PosY>793</PosY>
+    <Size>162</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>8</IDInst>
+    <Name>Compass</Name>
+    <Class>WPCompass</Class>
+    <PosX>972</PosX>
+    <PosY>845</PosY>
+    <Size>130</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>9</IDInst>
+    <Name>EGT</Name>
+    <Class>KA50EGT</Class>
+    <PosX>1312</PosX>
+    <PosY>845</PosY>
+    <Size>150</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>10</IDInst>
+    <Name>Engine Mode</Name>
+    <Class>KA50EngP</Class>
+    <PosX>1771</PosX>
+    <PosY>845</PosY>
+    <Size>150</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>11</IDInst>
+    <Name>Fuel tanks</Name>
+    <Class>KA50FuelQ</Class>
+    <PosX>1618</PosX>
+    <PosY>845</PosY>
+    <Size>150</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>12</IDInst>
+    <Name>Engine RPM</Name>
+    <Class>KA50EngRPM</Class>
+    <PosX>1464</PosX>
+    <PosY>845</PosY>
+    <Size>150</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>13</IDInst>
+    <Name>HSI</Name>
+    <Class>WPHSI</Class>
+    <PosX>481</PosX>
+    <PosY>607</PosY>
+    <Size>235</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>14</IDInst>
+    <Name>Rotor Pitch</Name>
+    <Class>KA50RBPI</Class>
+    <PosX>345</PosX>
+    <PosY>778</PosY>
+    <Size>112</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>15</IDInst>
+    <Name>Rotor RPM</Name>
+    <Class>KA50RotRPM</Class>
+    <PosX>170</PosX>
+    <PosY>605</PosY>
+    <Size>142</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>16</IDInst>
+    <Name>VSI</Name>
+    <Class>KA50VSI</Class>
+    <PosX>478</PosX>
+    <PosY>194</PosY>
+    <Size>147</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>17</IDInst>
+    <Name>Weapon panel</Name>
+    <Class>KA50WSC</Class>
+    <PosX>813</PosX>
+    <PosY>471</PosY>
+    <Size>240</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>18</IDInst>
+    <Name>Ekran</Name>
+    <Class>WPEkran</Class>
+    <PosX>1085</PosX>
+    <PosY>474</PosY>
+    <Size>217</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>1</IDFct>
+    <Name>ADP_4_acceleration</Name>
+    <Arg_number>97</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,360</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>2</IDFct>
+    <Name>ADP_4_max_achieved_acc</Name>
+    <Arg_number>98</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>1</IDFct>
+    <Name>ADP_4_min_achieved_acc</Name>
+    <Arg_number>99</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>1</IDFct>
+    <Name>ADI_Roll</Name>
+    <Arg_number>100</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>2</IDFct>
+    <Name>ADI_Pitch</Name>
+    <Arg_number>101</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>1.0,-1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>3</IDFct>
+    <Name>ADI_steering_warning_flag</Name>
+    <Arg_number>102</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>4</IDFct>
+    <Name>ADI_attitude_warning_flag</Name>
+    <Arg_number>109</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>5</IDFct>
+    <Name>ADI_bank_steering</Name>
+    <Arg_number>107</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>6</IDFct>
+    <Name>ADI_pitch_steering</Name>
+    <Arg_number>106</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>7</IDFct>
+    <Name>ADI_airspeed_deviation</Name>
+    <Arg_number>111</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>8</IDFct>
+    <Name>ADI_track_deviation</Name>
+    <Arg_number>103</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>9</IDFct>
+    <Name>ADI_height_deviation</Name>
+    <Arg_number>526</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>10</IDFct>
+    <Name>ADI_sideslip</Name>
+    <Arg_number>108</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>3</IDInst>
+    <IDFct>1</IDFct>
+    <Name>AGR_81_Roll</Name>
+    <Arg_number>142</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>1.0,-1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>3</IDInst>
+    <IDFct>2</IDFct>
+    <Name>AGR_81_Pitch</Name>
+    <Arg_number>143</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>3</IDInst>
+    <IDFct>3</IDFct>
+    <Name>AGR_81_sideslip</Name>
+    <Arg_number>144</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>3</IDInst>
+    <IDFct>4</IDFct>
+    <Name>AGR_81_failure_flag</Name>
+    <Arg_number>145</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>4</IDInst>
+    <IDFct>1</IDFct>
+    <Name>VM_15PV_BALT_thousands</Name>
+    <Arg_number>87</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>4</IDInst>
+    <IDFct>2</IDFct>
+    <Name>VM_15PV_BALT_tenth</Name>
+    <Arg_number>573</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>4</IDInst>
+    <IDFct>3</IDFct>
+    <Name>VM_15PV_BaroPressure</Name>
+    <Arg_number>88</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>4</IDInst>
+    <IDFct>4</IDFct>
+    <Name>VM_15PV_BALT_CommandedAlt</Name>
+    <Arg_number>89</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>5</IDInst>
+    <IDFct>1</IDFct>
+    <Name>A_036_RALT</Name>
+    <Arg_number>94</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0, 0.1838, 0.4631, 0.7541, 0.8330, 0.9329, 1.0</Input>
+    <Output>0, 63, 155, 254, 279, 313, 323</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>5</IDInst>
+    <IDFct>2</IDFct>
+    <Name>A_036_DangerRALT</Name>
+    <Arg_number>93</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0, 0.1838, 0.4631, 0.7541, 0.8330, 0.9329, 1.0</Input>
+    <Output>0, 63, 155, 254, 279, 313, 323</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>5</IDInst>
+    <IDFct>3</IDFct>
+    <Name>A_036_warning_flag</Name>
+    <Arg_number>95</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>5</IDInst>
+    <IDFct>4</IDFct>
+    <Name>A_036_DangerRALT_lamp</Name>
+    <Arg_number>92</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Indicated Airspeed</Name>
+    <Arg_number>51</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0, 0.051, 0.081, 0.111, 0.141, 0.286, 0.423, 0.561, 0.700, 0.832, 0.963</Input>
+    <Output>0.0, 7, 42, 70, 98, 148, 192, 232, 268, 305, 341</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>1</IDFct>
+    <Name>CLOCK_currtime_hours</Name>
+    <Arg_number>68</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>2</IDFct>
+    <Name>CLOCK_currtime_minutes</Name>
+    <Arg_number>69</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>3</IDFct>
+    <Name>CLOCK_currtime_seconds</Name>
+    <Arg_number>70</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>4</IDFct>
+    <Name>CLOCK_flight_time_meter_status</Name>
+    <Arg_number>75</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,0.2</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>5</IDFct>
+    <Name>CLOCK_flight_hours</Name>
+    <Arg_number>72</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>6</IDFct>
+    <Name>CLOCK_flight_minutes</Name>
+    <Arg_number>531</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>7</IDFct>
+    <Name>CLOCK_seconds_meter_time_minutes</Name>
+    <Arg_number>73</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>8</IDFct>
+    <Name>CLOCK_seconds_meter_time_seconds</Name>
+    <Arg_number>532</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>8</IDInst>
+    <IDFct>1</IDFct>
+    <Name>KI_13_course</Name>
+    <Arg_number>11</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>8</IDInst>
+    <IDFct>2</IDFct>
+    <Name>KI_13_pitch</Name>
+    <Arg_number>12</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>8</IDInst>
+    <IDFct>3</IDFct>
+    <Name>KI_13_bank</Name>
+    <Arg_number>14</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>9</IDInst>
+    <IDFct>1</IDFct>
+    <Name>LeftEngineTemperatureHund</Name>
+    <Arg_number>133</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>9</IDInst>
+    <IDFct>2</IDFct>
+    <Name>LeftEngineTemperatureTenth</Name>
+    <Arg_number>566</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>9</IDInst>
+    <IDFct>3</IDFct>
+    <Name>RightEngineTemperatureHund</Name>
+    <Arg_number>134</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>9</IDInst>
+    <IDFct>4</IDFct>
+    <Name>RightEngineTemperatureTenth</Name>
+    <Arg_number>567</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>1</IDFct>
+    <Name>EnginesMode</Name>
+    <Arg_number>592</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>2</IDFct>
+    <Name>LeftEngineMode</Name>
+    <Arg_number>234</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>3</IDFct>
+    <Name>RightEngineMode</Name>
+    <Arg_number>235</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>11</IDInst>
+    <IDFct>1</IDFct>
+    <Name>ForwardTankAmount</Name>
+    <Arg_number>137</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>11</IDInst>
+    <IDFct>2</IDFct>
+    <Name>RearTankAmount</Name>
+    <Arg_number>138</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>11</IDInst>
+    <IDFct>3</IDFct>
+    <Name>lamp_ForwardTankTest</Name>
+    <Arg_number>139</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>11</IDInst>
+    <IDFct>4</IDFct>
+    <Name>lamp_RearTankTest</Name>
+    <Arg_number>140</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>12</IDInst>
+    <IDFct>1</IDFct>
+    <Name>LeftEngineRPM</Name>
+    <Arg_number>135</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>12</IDInst>
+    <IDFct>2</IDFct>
+    <Name>RightEngineRPM</Name>
+    <Arg_number>136</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>13</IDInst>
+    <IDFct>1</IDFct>
+    <Name>HSI_heading</Name>
+    <Arg_number>112</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>13</IDInst>
+    <IDFct>2</IDFct>
+    <Name>HSI_commanded_course_needle</Name>
+    <Arg_number>118</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>13</IDInst>
+    <IDFct>3</IDFct>
+    <Name>HSI_commanded_heading_needle</Name>
+    <Arg_number>124</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>13</IDInst>
+    <IDFct>4</IDFct>
+    <Name>HSI_bearing_needle</Name>
+    <Arg_number>115</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>13</IDInst>
+    <IDFct>5</IDFct>
+    <Name>HSI_heading_warning_flag</Name>
+    <Arg_number>119</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>13</IDInst>
+    <IDFct>6</IDFct>
+    <Name>HSI_course_warning_flag</Name>
+    <Arg_number>114</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>13</IDInst>
+    <IDFct>7</IDFct>
+    <Name>HSI_glideslope_warning_flag</Name>
+    <Arg_number>125</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>13</IDInst>
+    <IDFct>8</IDFct>
+    <Name>HSI_range_counter_100</Name>
+    <Arg_number>117</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>13</IDInst>
+    <IDFct>9</IDFct>
+    <Name>HSI_range_counter_10</Name>
+    <Arg_number>527</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>13</IDInst>
+    <IDFct>10</IDFct>
+    <Name>HSI_range_counter_1</Name>
+    <Arg_number>528</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>13</IDInst>
+    <IDFct>11</IDFct>
+    <Name>HSI_longitudinal_deviation</Name>
+    <Arg_number>127</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>13</IDInst>
+    <IDFct>12</IDFct>
+    <Name>HSI_lateral_deviation</Name>
+    <Arg_number>128</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>13</IDInst>
+    <IDFct>13</IDFct>
+    <Name>HSI_range_unavailable_flag</Name>
+    <Arg_number>116</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>13</IDInst>
+    <IDFct>14</IDFct>
+    <Name>HSI_course_unavailable_flag</Name>
+    <Arg_number>121</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>14</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Rotor Pitch</Name>
+    <Arg_number>53</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>15</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Rotor RPM</Name>
+    <Arg_number>52</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>16</IDInst>
+    <IDFct>1</IDFct>
+    <Name>VSI</Name>
+    <Arg_number>24</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0, -0.66, -0.33, -0.165, 0.0, 0.165, 0.33, 0.66, 1.0</Input>
+    <Output>-180, -141, -82, -42, 0, 42, 82, 141, 180</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>1</IDFct>
+    <Name>lamp_PUI800_Sta1_WeapIsPresent</Name>
+    <Arg_number>392</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>2</IDFct>
+    <Name>lamp_PUI800_Sta2_WeapIsPresent</Name>
+    <Arg_number>393</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>3</IDFct>
+    <Name>lamp_PUI800_Sta3_WeapIsPresent</Name>
+    <Arg_number>394</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>4</IDFct>
+    <Name>lamp_PUI800_Sta4_WeapIsPresent</Name>
+    <Arg_number>395</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>5</IDFct>
+    <Name>lamp_PUI800_Sta1_WeapIsReady</Name>
+    <Arg_number>388</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>6</IDFct>
+    <Name>lamp_PUI800_Sta2_WeapIsReady</Name>
+    <Arg_number>389</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>7</IDFct>
+    <Name>lamp_PUI800_Sta3_WeapIsReady</Name>
+    <Arg_number>390</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>8</IDFct>
+    <Name>lamp_PUI800_Sta4_WeapIsReady</Name>
+    <Arg_number>391</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>9</IDFct>
+    <Name>StationType</Name>
+    <Arg_number>2005</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>10</IDFct>
+    <Name>StationCount</Name>
+    <Arg_number>2006</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>11</IDFct>
+    <Name>CannonAmmoCount</Name>
+    <Arg_number>2007</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>1</IDFct>
+    <Name>EkranSendString</Name>
+    <Arg_number>2001</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>2</IDFct>
+    <Name>FAILlight</Name>
+    <Arg_number>2002</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>3</IDFct>
+    <Name>MemoryLight</Name>
+    <Arg_number>2003</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>4</IDFct>
+    <Name>TurnLight</Name>
+    <Arg_number>2004</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Lamps>
+    <ID>1</ID>
+    <Class>LampOnOff80x200</Class>
+    <Arg_number>44</Arg_number>
+    <Name>44 - MasterWarning</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-Masterwarning-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-Masterwarning-OFF.png</FilePictureOff>
+    <PosX>385</PosX>
+    <PosY>185</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>2</ID>
+    <Class>LampOnOff200x80</Class>
+    <Arg_number>46</Arg_number>
+    <Name>46 - RotorRPM</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-Rotor_RPM_Warning-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-Rotor_RPM_Warning-OFF.png</FilePictureOff>
+    <PosX>190</PosX>
+    <PosY>340</PosY>
+    <Size>85</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>3</ID>
+    <Class>LampOnOff200x80</Class>
+    <Arg_number>78</Arg_number>
+    <Name>78 - RPM_leftEngineMax</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-LH_Eng_Overspd-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-LH_Eng_Overspd-OFF.png</FilePictureOff>
+    <PosX>475</PosX>
+    <PosY>95</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>4</ID>
+    <Class>LampOnOff200x80</Class>
+    <Arg_number>79</Arg_number>
+    <Name>79 - RPM_rightEngineMax</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-RH_Eng_Overspd-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-RH_Eng_Overspd-OFF.png</FilePictureOff>
+    <PosX>540</PosX>
+    <PosY>95</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>5</ID>
+    <Class>LampOnOff200x80</Class>
+    <Arg_number>80</Arg_number>
+    <Name>80 - NyMax</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-Over-G-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-Over-G-OFF.png</FilePictureOff>
+    <PosX>605</PosX>
+    <PosY>95</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>6</ID>
+    <Class>LampOnOff200x80</Class>
+    <Arg_number>81</Arg_number>
+    <Name>81 - vibr_leftEngine</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-LH_Eng_Vibr-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-LH_Eng_Vibr-OFF.png</FilePictureOff>
+    <PosX>475</PosX>
+    <PosY>125</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>7</ID>
+    <Class>LampOnOff200x80</Class>
+    <Arg_number>82</Arg_number>
+    <Name>82 - vibr_rightEngine</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-RH_Eng_Vibr-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-RH_Eng_Vibr-OFF.png</FilePictureOff>
+    <PosX>540</PosX>
+    <PosY>125</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>8</ID>
+    <Class>LampOnOff200x80</Class>
+    <Arg_number>83</Arg_number>
+    <Name>83 - IAS_max</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-IAS_Max-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-IAS_Max-OFF.png</FilePictureOff>
+    <PosX>605</PosX>
+    <PosY>125</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>9</ID>
+    <Class>LampOnOff200x80</Class>
+    <Arg_number>84</Arg_number>
+    <Name>84 - mainTransmission</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-Main_Grbx-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-Main_Grbx-OFF.png</FilePictureOff>
+    <PosX>475</PosX>
+    <PosY>155</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>10</ID>
+    <Class>LampOnOff200x80</Class>
+    <Arg_number>85</Arg_number>
+    <Name>85 - Fire</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-Fire-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-Fire-OFF.png</FilePictureOff>
+    <PosX>540</PosX>
+    <PosY>155</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>11</ID>
+    <Class>LampOnOff200x80</Class>
+    <Arg_number>86</Arg_number>
+    <Name>86 - IFFfailure</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-IFF_Fail-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-IFF_Fail-OFF.png</FilePictureOff>
+    <PosX>605</PosX>
+    <PosY>155</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>12</ID>
+    <Class>LampOnOff200x80</Class>
+    <Arg_number>47</Arg_number>
+    <Name>47 - UNDERFIREwarning</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-Laser_Warn-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-Laser_Warn-OFF.png</FilePictureOff>
+    <PosX>650</PosX>
+    <PosY>280</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>13</ID>
+    <Class>LampOnOff200x80</Class>
+    <Arg_number>48</Arg_number>
+    <Name>48 - LowerGear</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-Extend_Gear-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-Extend_Gear-OFF.png</FilePictureOff>
+    <PosX>650</PosX>
+    <PosY>250</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>14</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>59</Arg_number>
+    <Name>59 - LeftMainGearUp</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
+    <PosX>30</PosX>
+    <PosY>685</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>15</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>63</Arg_number>
+    <Name>63 - NoseGearUp</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
+    <PosX>65</PosX>
+    <PosY>685</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>16</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>61</Arg_number>
+    <Name>61 - RightMainGearUp</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
+    <PosX>100</PosX>
+    <PosY>685</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>17</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>60</Arg_number>
+    <Name>60 - LeftMainGearDown</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-Green_Lamp-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-Green_Lamp-OFF.png</FilePictureOff>
+    <PosX>30</PosX>
+    <PosY>730</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>18</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>64</Arg_number>
+    <Name>64 - NoseGearDown</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-Green_Lamp-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-Green_Lamp-OFF.png</FilePictureOff>
+    <PosX>65</PosX>
+    <PosY>730</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>19</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>62</Arg_number>
+    <Name>62 - RightMainGearDown</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-Green_Lamp-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-Green_Lamp-OFF.png</FilePictureOff>
+    <PosX>100</PosX>
+    <PosY>730</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Switches>
+    <ID>1</ID>
+    <Class>Button</Class>
+    <ClickabledataID>72</ClickabledataID>
+    <Name>Master caution push-light</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-Transparent-Button.png</FilePictureOn>
+    <FilePictureOff>Ka-50-Transparent-Button.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>380</PosX>
+    <PosY>200</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>44</DcsID>
+  </Switches>
+  <Switches>
+    <ID>2</ID>
+    <Class>Button</Class>
+    <ClickabledataID>74</ClickabledataID>
+    <Name>Rotor RPM warning push-light</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-Transparent-Button.png</FilePictureOn>
+    <FilePictureOff>Ka-50-Transparent-Button.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>210</PosX>
+    <PosY>335</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>46</DcsID>
+  </Switches>
+  <Switches>
+    <ID>3</ID>
+    <Class>Button</Class>
+    <ClickabledataID>73</ClickabledataID>
+    <Name>Lamps test</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-PushButton_round-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-PushButton_round-OFF.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>285</PosX>
+    <PosY>240</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>45</DcsID>
+  </Switches>
+  <Parameter>
+    <FileBackground>BackgroundKA50.png</FileBackground>
+  </Parameter>
+  <Window>
+    <WindowID>1</WindowID>
+    <Name>Front Panel</Name>
+    <PosX>0</PosX>
+    <PosY>0</PosY>
+    <Height>1080</Height>
+    <Width>1920</Width>
+    <Background>Ka-50-Background.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+  </Window>
+</DataSet1>
