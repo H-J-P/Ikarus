@@ -247,6 +247,19 @@
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
   </Instruments>
+  <Instruments>
+    <IDInst>20</IDInst>
+    <Name>Kneeboard</Name>
+    <Class>Kneeboard</Class>
+    <PosX>13</PosX>
+    <PosY>25</PosY>
+    <Size>738</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>2</WindowID>
+  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -723,6 +736,26 @@
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
+  <Switches>
+    <ID>1</ID>
+    <Class>SwitchPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>Kneeborad</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>2</Input>
+    <Output>0</Output>
+    <PosX>940</PosX>
+    <PosY>920</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
   </Parameter>
@@ -735,5 +768,16 @@
     <Width>1920</Width>
     <Background>BackGround.png</Background>
     <BackgroundNight>-</BackgroundNight>
+  </Window>
+  <Window>
+    <WindowID>2</WindowID>
+    <Name>Panel with Kneeboard</Name>
+    <PosX>0</PosX>
+    <PosY>0</PosY>
+    <Height>1024</Height>
+    <Width>768</Width>
+    <Background>Kneeboard.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
   </Window>
 </DataSet1>

@@ -1611,7 +1611,7 @@
   </Functions>
   <Lamps>
     <ID>15</ID>
-    <Class>LampOnOff</Class>
+    <Class>LampOnOff80x200</Class>
     <Arg_number>659</Arg_number>
     <Name>659 - Nose Gear</Name>
     <Value>0</Value>
@@ -1626,7 +1626,7 @@
   </Lamps>
   <Lamps>
     <ID>16</ID>
-    <Class>LampOnOff</Class>
+    <Class>LampOnOff80x200</Class>
     <Arg_number>660</Arg_number>
     <Name>660 - Left Gear</Name>
     <Value>0</Value>
@@ -1641,7 +1641,7 @@
   </Lamps>
   <Lamps>
     <ID>17</ID>
-    <Class>LampOnOff</Class>
+    <Class>LampOnOff80x200</Class>
     <Arg_number>661</Arg_number>
     <Name>661 - Right Gear</Name>
     <Value>0</Value>

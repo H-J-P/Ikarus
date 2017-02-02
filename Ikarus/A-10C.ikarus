@@ -598,6 +598,19 @@
     <Reactivate>false</Reactivate>
     <WindowID>2</WindowID>
   </Instruments>
+  <Instruments>
+    <IDInst>54</IDInst>
+    <Name>Kneeboard</Name>
+    <Class>Kneeboard</Class>
+    <PosX>24</PosX>
+    <PosY>29</PosY>
+    <Size>738</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>KneeboardWhite.png</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>7</WindowID>
+  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -2262,7 +2275,7 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>A10MasterCaution.PNG</FilePictureOn>
-    <FilePictureOff>A10Off.PNG</FilePictureOff>
+    <FilePictureOff>A10MasterCautionOff.png</FilePictureOff>
     <PosX>23</PosX>
     <PosY>1029</PosY>
     <Size>95</Size>
@@ -3191,11 +3204,11 @@
     <Name>404 - MASTER_WARNING_STUB</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>A10MasterCaution.PNG</FilePictureOn>
-    <FilePictureOff>A10Off.PNG</FilePictureOff>
-    <PosX>471</PosX>
-    <PosY>13</PosY>
-    <Size>95</Size>
+    <FilePictureOn>A10_UFC_MasterCaution.png</FilePictureOn>
+    <FilePictureOff />
+    <PosX>476</PosX>
+    <PosY>15</PosY>
+    <Size>85</Size>
     <Rotate>0</Rotate>
     <WindowID>6</WindowID>
   </Lamps>
@@ -3337,8 +3350,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>2</Input>
     <Output>0</Output>
-    <PosX>989</PosX>
-    <PosY>977</PosY>
+    <PosX>998</PosX>
+    <PosY>979</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -3358,8 +3371,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>3</Input>
     <Output>0</Output>
-    <PosX>1048</PosX>
-    <PosY>977</PosY>
+    <PosX>1046</PosX>
+    <PosY>979</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4765,8 +4778,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>4</Input>
     <Output>0</Output>
-    <PosX>872</PosX>
-    <PosY>978</PosY>
+    <PosX>839</PosX>
+    <PosY>980</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6203,7 +6216,7 @@
   </Switches>
   <Switches>
     <ID>146</ID>
-    <Class>Switch_OnOFFOn</Class>
+    <Class>SwitchOn_Off_On</Class>
     <ClickabledataID>256</ClickabledataID>
     <Name>AAP - Toggle Steerpoint up</Name>
     <Value>0</Value>
@@ -6423,8 +6436,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>5</Input>
     <Output>0</Output>
-    <PosX>813</PosX>
-    <PosY>978</PosY>
+    <PosX>792</PosX>
+    <PosY>980</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6443,9 +6456,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2,0.3</Input>
     <Output>0.0,45,90,135</Output>
-    <PosX>62</PosX>
-    <PosY>811</PosY>
-    <Size>50</Size>
+    <PosX>80</PosX>
+    <PosY>942</PosY>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6485,8 +6498,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>22</PosX>
-    <PosY>882</PosY>
+    <PosX>16</PosX>
+    <PosY>883</PosY>
     <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6506,9 +6519,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0,1.1,1.2</Input>
     <Output>0.0,36,72,112,148,184,220,256,292,328,360,396,444</Output>
-    <PosX>74</PosX>
-    <PosY>945</PosY>
-    <Size>50</Size>
+    <PosX>63</PosX>
+    <PosY>809</PosY>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6527,9 +6540,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9</Input>
     <Output>0.0,36,72,112,148,184,220,256,292,328</Output>
-    <PosX>183</PosX>
+    <PosX>180</PosX>
     <PosY>809</PosY>
-    <Size>50</Size>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6548,8 +6561,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.87, 0.93</Input>
     <Output>0.87, 0.93</Output>
-    <PosX>193</PosX>
-    <PosY>819</PosY>
+    <PosX>195</PosX>
+    <PosY>821</PosY>
     <Size>25</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6632,9 +6645,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>495</PosX>
-    <PosY>551</PosY>
-    <Size>50</Size>
+    <PosX>502</PosX>
+    <PosY>524</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7535,9 +7548,9 @@
     <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>313</PosX>
-    <PosY>16</PosY>
-    <Size>45</Size>
+    <PosX>311</PosX>
+    <PosY>11</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7577,8 +7590,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>6</Input>
     <Output>0</Output>
-    <PosX>930</PosX>
-    <PosY>977</PosY>
+    <PosX>886</PosX>
+    <PosY>979</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -8500,7 +8513,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>671</PosX>
+    <PosX>670</PosX>
     <PosY>119</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
@@ -8641,14 +8654,159 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>484</PosX>
-    <PosY>-9</PosY>
-    <Size>70</Size>
+    <PosX>497</PosX>
+    <PosY>10</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>6</WindowID>
     <DcsID>403</DcsID>
+  </Switches>
+  <Switches>
+    <ID>264</ID>
+    <Class>SwitchPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>Kneeboard</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>7</Input>
+    <Output>0</Output>
+    <PosX>227</PosX>
+    <PosY>131</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>8</WindowID>
+  </Switches>
+  <Switches>
+    <ID>265</ID>
+    <Class>SwitchPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>Touchpanel</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>8</Input>
+    <Output>0</Output>
+    <PosX>1094</PosX>
+    <PosY>979</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
+  <Switches>
+    <ID>266</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>292</ClickabledataID>
+    <Name>Autopilot Mode Select Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_cnt2.png</FilePictureOff>
+    <FilePicture2On>round_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>313</PosX>
+    <PosY>16</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>8</WindowID>
+    <DcsID>132</DcsID>
+  </Switches>
+  <Switches>
+    <ID>267</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>150</ClickabledataID>
+    <Name>AHCP - Targeting Pod Power On/Off</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>155</PosX>
+    <PosY>130</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>8</WindowID>
+    <DcsID>378</DcsID>
+  </Switches>
+  <Switches>
+    <ID>268</ID>
+    <Class>Button</Class>
+    <ClickabledataID>211</ClickabledataID>
+    <Name>CDU - A</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>CDU-A-down.png</FilePictureOn>
+    <FilePictureOff>CDU-A-up.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>51</PosX>
+    <PosY>162</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>8</WindowID>
+    <DcsID>437</DcsID>
+  </Switches>
+  <Switches>
+    <ID>269</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>281</ClickabledataID>
+    <Name>FuelSystem - Fuel display selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>TISL Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2,0.3,0.4</Input>
+    <Output>0,45,90,135,180</Output>
+    <PosX>319</PosX>
+    <PosY>153</PosY>
+    <Size>105</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>8</WindowID>
+    <DcsID>645</DcsID>
+  </Switches>
+  <Switches>
+    <ID>270</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>384</ClickabledataID>
+    <Name>HSI - Heading Set Knob</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>HeadingSetKnop.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.05</Input>
+    <Output>0.0,360</Output>
+    <PosX>321</PosX>
+    <PosY>273</PosY>
+    <Size>100</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>8</WindowID>
+    <DcsID>45</DcsID>
   </Switches>
   <Parameter>
     <FileBackground>BackGroundA10CNight.png</FileBackground>
@@ -8716,6 +8874,28 @@
     <Height>175</Height>
     <Width>820</Width>
     <Background>A10-UFC-Panel.PNG</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
+  </Window>
+  <Window>
+    <WindowID>7</WindowID>
+    <Name>Panel with kneeboard</Name>
+    <PosX>0</PosX>
+    <PosY>0</PosY>
+    <Height>1024</Height>
+    <Width>768</Width>
+    <Background>Kneeboard.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
+  </Window>
+  <Window>
+    <WindowID>8</WindowID>
+    <Name>Touchpanel</Name>
+    <PosX>1920</PosX>
+    <PosY>0</PosY>
+    <Height>512</Height>
+    <Width>512</Width>
+    <Background>TestPanel.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
   </Window>

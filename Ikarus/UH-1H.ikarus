@@ -1148,7 +1148,7 @@
     <FilePictureOff>UH1_MasterCaution_Off.PNG</FilePictureOff>
     <PosX>439</PosX>
     <PosY>29</PosY>
-    <Size>115</Size>
+    <Size>170</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1163,7 +1163,7 @@
     <FilePictureOff>UH1_RPMLimit_Off.PNG</FilePictureOff>
     <PosX>591</PosX>
     <PosY>28</PosY>
-    <Size>115</Size>
+    <Size>170</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1177,8 +1177,8 @@
     <FilePictureOn>UH1_Fire_On.PNG</FilePictureOn>
     <FilePictureOff>UH1_Fire_Off.PNG</FilePictureOff>
     <PosX>740</PosX>
-    <PosY>29</PosY>
-    <Size>110</Size>
+    <PosY>28</PosY>
+    <Size>170</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1193,7 +1193,7 @@
     <FilePictureOff>UH1_IFF_Mode4_Off.PNG</FilePictureOff>
     <PosX>417</PosX>
     <PosY>937</PosY>
-    <Size>75</Size>
+    <Size>160</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1208,7 +1208,7 @@
     <FilePictureOff>UH1_CargeRelArmed_Off.PNG</FilePictureOff>
     <PosX>1551</PosX>
     <PosY>935</PosY>
-    <Size>130</Size>
+    <Size>190</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1223,7 +1223,7 @@
     <FilePictureOff>UH1_MarkerBeacon_Off.PNG</FilePictureOff>
     <PosX>1389</PosX>
     <PosY>633</PosY>
-    <Size>70</Size>
+    <Size>160</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>

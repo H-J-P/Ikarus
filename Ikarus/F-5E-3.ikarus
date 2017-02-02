@@ -2310,10 +2310,10 @@
     <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>1727</PosX>
-    <PosY>794</PosY>
+    <PosX>1819</PosX>
+    <PosY>839</PosY>
     <Size>50</Size>
-    <Rotate>-90</Rotate>
+    <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
@@ -2750,9 +2750,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1287</PosX>
-    <PosY>186</PosY>
-    <Size>45</Size>
+    <PosX>1278</PosX>
+    <PosY>176</PosY>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2855,9 +2855,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1290</PosX>
-    <PosY>253</PosY>
-    <Size>45</Size>
+    <PosX>1276</PosX>
+    <PosY>242</PosY>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2897,8 +2897,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>163</PosX>
-    <PosY>478</PosY>
+    <PosX>164</PosX>
+    <PosY>480</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
