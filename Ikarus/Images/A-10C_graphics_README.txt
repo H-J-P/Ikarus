@@ -1,0 +1,1 @@
+A-10C graphics based on "RICARDO_DCSA-10C_HorseOfWar_v1.2a" cockpit mod. Copyright by Ricardo.
