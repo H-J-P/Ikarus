@@ -16,6 +16,8 @@ Ikarus/.DS_Store
 
 /_DelSyncFiles/*
 
+/.vs/*
+
 /Backup/*
 
 Ikarus/Images/Backgounds/A10-Radios-Panel copy.png
