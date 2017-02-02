@@ -1,5 +1,3 @@
-Ikarus is a solution like Helios or Hawgtouch, but with a database background and the possiblity to configure it with a editor or in tables very simple.
-
 You get pre-configured solutions for the DCS modules:
 
 - A-10A
