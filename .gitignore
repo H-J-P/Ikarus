@@ -27,3 +27,9 @@ Ikarus/Images/Backgounds/A10-Radios-Panel copy.png
 *.log
 
 Log.png
+
+Ikarus.instr.pdb
+
+Ikarus.vshost.exe.config
+
+Ikarus.vshost.exe
