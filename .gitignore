@@ -6,13 +6,7 @@
 
 .DS_Store
 
-Ikarus/Images/.DS_Store
-
-Ikarus/.DS_Store
-
 *.config
-
-*.vshost.exe
 
 /_DelSyncFiles/*
 
@@ -26,12 +20,3 @@ Ikarus/.DS_Store
 
 Log.png
 
-Ersetzen1.txt
-
-Ikarus.instr.pdb
-
-Ikarus.vshost.exe
-
-Ikarus.vshost.exe.manifest
-
-Ikarus.vshost.exe.config
