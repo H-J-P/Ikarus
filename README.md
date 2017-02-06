@@ -1,10 +1,13 @@
+##Ikarus##
+
 Ikarus is a solution like Helios or Hawgtouch, but with a database background and the possiblity to configure it in tables.
 
-Please follow this link to the [Wiki](https://github.com/s-d-a/Ikarus/wiki)
+Please follow this link to our [Wiki](https://github.com/s-d-a/Ikarus/wiki)
 
 ###Installation:###
 
-Please download Ikarus and our DCS-Exportscript:
+- Please download Ikarus and unzip it. 
+- Download our DCS-Exportscript:
 
 https://github.com/s-d-a/DCS-ExportScripts
 
