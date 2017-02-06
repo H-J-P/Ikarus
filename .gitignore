@@ -1,7 +1,5 @@
 *.pdf
-
 *.psd
-
 *.dds
 
 .DS_Store
@@ -20,4 +18,3 @@
 *.log
 
 Log.png
-
