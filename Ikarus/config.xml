@@ -5,7 +5,7 @@
     <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-    <File>A-10C.ikarus</File>
+    <File>F-86F Sabre.ikarus</File>
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
@@ -70,9 +70,6 @@
     <Classname>BfK4Fuel</Classname>
   </Classnames>
   <Classnames>
-    <Classname>BfK4Gear</Classname>
-  </Classnames>
-  <Classnames>
     <Classname>BfK4H2OT</Classname>
   </Classnames>
   <Classnames>
@@ -86,12 +83,6 @@
   </Classnames>
   <Classnames>
     <Classname>BfK4RPM</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>BfK4MG151Left</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>BfK4MG151Right</Classname>
   </Classnames>
   <Classnames>
     <Classname>Display_CMSP</Classname>

@@ -829,7 +829,7 @@
     <FilePictureOff>F-86F_MainInstOff.PNG</FilePictureOff>
     <PosX>419</PosX>
     <PosY>45</PosY>
-    <Size>215</Size>
+    <Size>130</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -844,7 +844,7 @@
     <FilePictureOff>F-86F_Inverter_Off.PNG</FilePictureOff>
     <PosX>567</PosX>
     <PosY>45</PosY>
-    <Size>215</Size>
+    <Size>130</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -857,9 +857,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>F-86F_RadarOn.PNG</FilePictureOn>
     <FilePictureOff>F-86F_RadarOff.PNG</FilePictureOff>
-    <PosX>718</PosX>
-    <PosY>47</PosY>
-    <Size>200</Size>
+    <PosX>717</PosX>
+    <PosY>44</PosY>
+    <Size>115</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -874,7 +874,7 @@
     <FilePictureOff>F-86F_Take-Off_Off.PNG</FilePictureOff>
     <PosX>861</PosX>
     <PosY>46</PosY>
-    <Size>180</Size>
+    <Size>125</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -889,7 +889,7 @@
     <FilePictureOff>F-86F_HydrPress_Off.PNG</FilePictureOff>
     <PosX>702</PosX>
     <PosY>152</PosY>
-    <Size>170</Size>
+    <Size>80</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -904,7 +904,7 @@
     <FilePictureOff>F-86F_Fire_Off.PNG</FilePictureOff>
     <PosX>1551</PosX>
     <PosY>46</PosY>
-    <Size>185</Size>
+    <Size>120</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -919,7 +919,7 @@
     <FilePictureOff>F-86F_FireAft_Off.PNG</FilePictureOff>
     <PosX>1754</PosX>
     <PosY>176</PosY>
-    <Size>185</Size>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -930,7 +930,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>1080</PosY>
+    <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>BackGround.png</Background>

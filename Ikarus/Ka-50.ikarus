@@ -1325,172 +1325,172 @@
   </Functions>
   <Lamps>
     <ID>1</ID>
-    <Class>LampOnOff80x200</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>44</Arg_number>
     <Name>44 - MasterWarning</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-Masterwarning-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Masterwarning-OFF.png</FilePictureOff>
-    <PosX>383</PosX>
+    <PosX>385</PosX>
     <PosY>195</PosY>
-    <Size>30</Size>
+    <Size>25</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>2</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>46</Arg_number>
     <Name>46 - RotorRPM</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-Rotor_RPM_Warning-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Rotor_RPM_Warning-OFF.png</FilePictureOff>
-    <PosX>193</PosX>
-    <PosY>340</PosY>
-    <Size>85</Size>
+    <PosX>206</PosX>
+    <PosY>339</PosY>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>3</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>78</Arg_number>
     <Name>78 - RPM_leftEngineMax</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-LH_Eng_Overspd-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-LH_Eng_Overspd-OFF.png</FilePictureOff>
-    <PosX>475</PosX>
-    <PosY>95</PosY>
-    <Size>60</Size>
+    <PosX>472</PosX>
+    <PosY>94</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>4</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>79</Arg_number>
     <Name>79 - RPM_rightEngineMax</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-RH_Eng_Overspd-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-RH_Eng_Overspd-OFF.png</FilePictureOff>
-    <PosX>540</PosX>
-    <PosY>95</PosY>
-    <Size>60</Size>
+    <PosX>523</PosX>
+    <PosY>94</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>5</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>80</Arg_number>
     <Name>80 - NyMax</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-Over-G-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Over-G-OFF.png</FilePictureOff>
-    <PosX>605</PosX>
-    <PosY>95</PosY>
-    <Size>60</Size>
+    <PosX>573</PosX>
+    <PosY>94</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>6</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>81</Arg_number>
     <Name>81 - vibr_leftEngine</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-LH_Eng_Vibr-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-LH_Eng_Vibr-OFF.png</FilePictureOff>
-    <PosX>475</PosX>
+    <PosX>472</PosX>
     <PosY>122</PosY>
-    <Size>60</Size>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>7</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>82</Arg_number>
     <Name>82 - vibr_rightEngine</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-RH_Eng_Vibr-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-RH_Eng_Vibr-OFF.png</FilePictureOff>
-    <PosX>540</PosX>
+    <PosX>523</PosX>
     <PosY>122</PosY>
-    <Size>60</Size>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>8</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>83</Arg_number>
     <Name>83 - IAS_max</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-IAS_Max-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-IAS_Max-OFF.png</FilePictureOff>
-    <PosX>605</PosX>
+    <PosX>573</PosX>
     <PosY>122</PosY>
-    <Size>60</Size>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>9</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>84</Arg_number>
     <Name>84 - mainTransmission</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-Main_Grbx-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Main_Grbx-OFF.png</FilePictureOff>
-    <PosX>475</PosX>
+    <PosX>472</PosX>
     <PosY>150</PosY>
-    <Size>60</Size>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>10</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>85</Arg_number>
     <Name>85 - Fire</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-Fire-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Fire-OFF.png</FilePictureOff>
-    <PosX>540</PosX>
+    <PosX>523</PosX>
     <PosY>150</PosY>
-    <Size>60</Size>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>11</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>86</Arg_number>
     <Name>86 - IFFfailure</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-IFF_Fail-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-IFF_Fail-OFF.png</FilePictureOff>
-    <PosX>605</PosX>
+    <PosX>573</PosX>
     <PosY>150</PosY>
-    <Size>60</Size>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>12</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>47</Arg_number>
     <Name>47 - UNDERFIREwarning</Name>
     <Value>0</Value>
@@ -1498,14 +1498,14 @@
     <FilePictureOn>Ka-50-Laser_Warn-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Laser_Warn-OFF.png</FilePictureOff>
     <PosX>655</PosX>
-    <PosY>270</PosY>
-    <Size>60</Size>
+    <PosY>268</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>13</ID>
-    <Class>LampOnOff200x80</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>48</Arg_number>
     <Name>48 - LowerGear</Name>
     <Value>0</Value>
@@ -1514,7 +1514,7 @@
     <FilePictureOff>Ka-50-Extend_Gear-OFF.png</FilePictureOff>
     <PosX>655</PosX>
     <PosY>240</PosY>
-    <Size>60</Size>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1529,7 +1529,7 @@
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>35</PosX>
     <PosY>690</PosY>
-    <Size>30</Size>
+    <Size>20</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1544,7 +1544,7 @@
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>71</PosX>
     <PosY>690</PosY>
-    <Size>30</Size>
+    <Size>20</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1559,7 +1559,7 @@
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>106</PosX>
     <PosY>690</PosY>
-    <Size>30</Size>
+    <Size>20</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1574,7 +1574,7 @@
     <FilePictureOff>Ka-50-Green_Lamp-OFF.png</FilePictureOff>
     <PosX>31</PosX>
     <PosY>737</PosY>
-    <Size>30</Size>
+    <Size>20</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1589,7 +1589,7 @@
     <FilePictureOff>Ka-50-Green_Lamp-OFF.png</FilePictureOff>
     <PosX>71</PosX>
     <PosY>737</PosY>
-    <Size>30</Size>
+    <Size>20</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1604,7 +1604,7 @@
     <FilePictureOff>Ka-50-Green_Lamp-OFF.png</FilePictureOff>
     <PosX>109</PosX>
     <PosY>737</PosY>
-    <Size>30</Size>
+    <Size>20</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1619,7 +1619,7 @@
     <FilePictureOff>-</FilePictureOff>
     <PosX>814</PosX>
     <PosY>488</PosY>
-    <Size>40</Size>
+    <Size>20</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1634,7 +1634,7 @@
     <FilePictureOff>-</FilePictureOff>
     <PosX>866</PosX>
     <PosY>488</PosY>
-    <Size>40</Size>
+    <Size>20</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1649,7 +1649,7 @@
     <FilePictureOff>-</FilePictureOff>
     <PosX>973</PosX>
     <PosY>488</PosY>
-    <Size>40</Size>
+    <Size>20</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1664,7 +1664,7 @@
     <FilePictureOff>-</FilePictureOff>
     <PosX>1024</PosX>
     <PosY>488</PosY>
-    <Size>40</Size>
+    <Size>20</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1679,7 +1679,7 @@
     <FilePictureOff>-</FilePictureOff>
     <PosX>814</PosX>
     <PosY>523</PosY>
-    <Size>40</Size>
+    <Size>20</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1694,7 +1694,7 @@
     <FilePictureOff>-</FilePictureOff>
     <PosX>866</PosX>
     <PosY>523</PosY>
-    <Size>40</Size>
+    <Size>20</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1709,7 +1709,7 @@
     <FilePictureOff>-</FilePictureOff>
     <PosX>973</PosX>
     <PosY>523</PosY>
-    <Size>40</Size>
+    <Size>20</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1724,7 +1724,7 @@
     <FilePictureOff>-</FilePictureOff>
     <PosX>1024</PosX>
     <PosY>523</PosY>
-    <Size>40</Size>
+    <Size>20</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1739,7 +1739,7 @@
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>72</PosX>
     <PosY>11</PosY>
-    <Size>120</Size>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1754,7 +1754,7 @@
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>148</PosX>
     <PosY>11</PosY>
-    <Size>120</Size>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1769,7 +1769,7 @@
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>220</PosX>
     <PosY>11</PosY>
-    <Size>120</Size>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1784,7 +1784,7 @@
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>294</PosX>
     <PosY>11</PosY>
-    <Size>120</Size>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1799,7 +1799,7 @@
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>39</PosX>
     <PosY>81</PosY>
-    <Size>120</Size>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1814,7 +1814,7 @@
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>111</PosX>
     <PosY>81</PosY>
-    <Size>120</Size>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1829,7 +1829,7 @@
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>180</PosX>
     <PosY>81</PosY>
-    <Size>120</Size>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1844,7 +1844,7 @@
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>249</PosX>
     <PosY>81</PosY>
-    <Size>120</Size>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1859,7 +1859,7 @@
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>321</PosX>
     <PosY>81</PosY>
-    <Size>120</Size>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1874,7 +1874,7 @@
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>52</PosX>
     <PosY>150</PosY>
-    <Size>115</Size>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1889,7 +1889,7 @@
     <FilePictureOff>Ka-50-DataLink-Yellow-off.png</FilePictureOff>
     <PosX>140</PosX>
     <PosY>149</PosY>
-    <Size>120</Size>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1904,7 +1904,7 @@
     <FilePictureOff>Ka-50-DataLink-Yellow-off.png</FilePictureOff>
     <PosX>219</PosX>
     <PosY>149</PosY>
-    <Size>120</Size>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1919,7 +1919,7 @@
     <FilePictureOff>Ka-50-DataLink-Yellow-off.png</FilePictureOff>
     <PosX>302</PosX>
     <PosY>149</PosY>
-    <Size>120</Size>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1933,8 +1933,8 @@
     <FilePictureOn>Ka-50-LaserWarningReciver-up.png</FilePictureOn>
     <FilePictureOff>Ka-50-LaserWarningReciver-off.png</FilePictureOff>
     <PosX>68</PosX>
-    <PosY>283</PosY>
-    <Size>145</Size>
+    <PosY>300</PosY>
+    <Size>75</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1948,8 +1948,8 @@
     <FilePictureOn>Ka-50-LaserWarningReciver-down.png</FilePictureOn>
     <FilePictureOff>Ka-50-LaserWarningReciver-off.png</FilePictureOff>
     <PosX>68</PosX>
-    <PosY>323</PosY>
-    <Size>145</Size>
+    <PosY>342</PosY>
+    <Size>75</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1962,9 +1962,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-LaserWarningReciver-RangeMode.png</FilePictureOn>
     <FilePictureOff>Ka-50-LaserWarningReciver-off.png</FilePictureOff>
-    <PosX>67</PosX>
-    <PosY>403</PosY>
-    <Size>145</Size>
+    <PosX>68</PosX>
+    <PosY>423</PosY>
+    <Size>75</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1977,9 +1977,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-LaserWarningReciver-GuidanceMode.png</FilePictureOn>
     <FilePictureOff>Ka-50-LaserWarningReciver-off.png</FilePictureOff>
-    <PosX>67</PosX>
-    <PosY>450</PosY>
-    <Size>145</Size>
+    <PosX>68</PosX>
+    <PosY>465</PosY>
+    <Size>75</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -1994,7 +1994,7 @@
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>78</PosX>
     <PosY>245</PosY>
-    <Size>95</Size>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -2009,7 +2009,7 @@
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>150</PosX>
     <PosY>314</PosY>
-    <Size>95</Size>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -2024,7 +2024,7 @@
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>78</PosX>
     <PosY>379</PosY>
-    <Size>95</Size>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -2039,7 +2039,7 @@
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>13</PosX>
     <PosY>314</PosY>
-    <Size>95</Size>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -2054,7 +2054,7 @@
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>30</PosX>
     <PosY>100</PosY>
-    <Size>80</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>3</WindowID>
   </Lamps>
@@ -2069,7 +2069,7 @@
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>200</PosX>
     <PosY>100</PosY>
-    <Size>80</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>3</WindowID>
   </Lamps>
@@ -2084,7 +2084,7 @@
     <FilePictureOff>Ka-50-K-41-Buttons-off.png</FilePictureOff>
     <PosX>818</PosX>
     <PosY>860</PosY>
-    <Size>110</Size>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -2099,7 +2099,7 @@
     <FilePictureOff>Ka-50-K-41-Buttons-off.png</FilePictureOff>
     <PosX>818</PosX>
     <PosY>793</PosY>
-    <Size>110</Size>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -2114,7 +2114,7 @@
     <FilePictureOff>Ka-50-K-41-Buttons-off.png</FilePictureOff>
     <PosX>989</PosX>
     <PosY>939</PosY>
-    <Size>110</Size>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -2129,7 +2129,7 @@
     <FilePictureOff>Ka-50-K-41-Buttons-off.png</FilePictureOff>
     <PosX>882</PosX>
     <PosY>793</PosY>
-    <Size>110</Size>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -2144,7 +2144,7 @@
     <FilePictureOff>Ka-50-K-41-Buttons-off.png</FilePictureOff>
     <PosX>882</PosX>
     <PosY>860</PosY>
-    <Size>110</Size>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -2155,14 +2155,14 @@
     <Name>Master caution push-light</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>Ka-50-Transparent-Button.png</FilePictureOn>
-    <FilePictureOff>Ka-50-Transparent-Button.png</FilePictureOff>
+    <FilePictureOn>Ka-50-MasterButton.png</FilePictureOn>
+    <FilePictureOff>Ka-50-MasterButton.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>383</PosX>
-    <PosY>215</PosY>
-    <Size>30</Size>
+    <PosX>384</PosX>
+    <PosY>194</PosY>
+    <Size>25</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2176,15 +2176,15 @@
     <Name>Rotor RPM warning push-light</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>Ka-50-Transparent-Button.png</FilePictureOn>
-    <FilePictureOff>Ka-50-Transparent-Button.png</FilePictureOff>
+    <FilePictureOn>Ka-50-MasterButton.png</FilePictureOn>
+    <FilePictureOff>Ka-50-MasterButton.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>210</PosX>
-    <PosY>340</PosY>
-    <Size>30</Size>
-    <Rotate>0</Rotate>
+    <PosX>206</PosX>
+    <PosY>339</PosY>
+    <Size>25</Size>
+    <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
@@ -2223,9 +2223,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>722</PosX>
-    <PosY>469</PosY>
-    <Size>100</Size>
+    <PosX>730</PosX>
+    <PosY>486</PosY>
+    <Size>90</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2234,7 +2234,7 @@
   </Switches>
   <Switches>
     <ID>5</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>50</ClickabledataID>
     <Name>PUI800 - External stores jettison</Name>
     <Value>0</Value>
@@ -2265,9 +2265,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>931</PosX>
-    <PosY>598</PosY>
-    <Size>60</Size>
+    <PosX>938</PosX>
+    <PosY>606</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2276,7 +2276,7 @@
   </Switches>
   <Switches>
     <ID>7</ID>
-    <Class>Switch_OFFOn</Class>
+    <Class>SwitchOff_On</Class>
     <ClickabledataID>56</ClickabledataID>
     <Name>PUI800 - Expedite emergency ATGM launch</Name>
     <Value>0</Value>
@@ -2286,9 +2286,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>995</PosX>
-    <PosY>605</PosY>
-    <Size>75</Size>
+    <PosX>1004</PosX>
+    <PosY>641</PosY>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2307,9 +2307,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>738</PosX>
-    <PosY>689</PosY>
-    <Size>60</Size>
+    <PosX>744</PosX>
+    <PosY>699</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2328,9 +2328,9 @@
     <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>0.0,0.1,0.2</Input>
     <Output>0.0,0.1,0.2</Output>
-    <PosX>819</PosX>
-    <PosY>689</PosY>
-    <Size>60</Size>
+    <PosX>826</PosX>
+    <PosY>699</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2349,9 +2349,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>889</PosX>
-    <PosY>689</PosY>
-    <Size>60</Size>
+    <PosX>894</PosX>
+    <PosY>699</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2370,9 +2370,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>970</PosX>
-    <PosY>689</PosY>
-    <Size>60</Size>
+    <PosX>975</PosX>
+    <PosY>699</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2391,9 +2391,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1311</PosX>
-    <PosY>577</PosY>
-    <Size>60</Size>
+    <PosX>1317</PosX>
+    <PosY>571</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2412,8 +2412,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.01</Input>
     <Output> 0, 360</Output>
-    <PosX>1347</PosX>
-    <PosY>735</PosY>
+    <PosX>1345</PosX>
+    <PosY>733</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -2423,7 +2423,7 @@
   </Switches>
   <Switches>
     <ID>14</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>38</ClickabledataID>
     <Name>ABRIS - Pushbutton 1</Name>
     <Value>0</Value>
@@ -2444,7 +2444,7 @@
   </Switches>
   <Switches>
     <ID>15</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>39</ClickabledataID>
     <Name>ABRIS - Pushbutton 2</Name>
     <Value>0</Value>
@@ -2465,7 +2465,7 @@
   </Switches>
   <Switches>
     <ID>16</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>40</ClickabledataID>
     <Name>ABRIS - Pushbutton 3</Name>
     <Value>0</Value>
@@ -2486,7 +2486,7 @@
   </Switches>
   <Switches>
     <ID>17</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>41</ClickabledataID>
     <Name>ABRIS - Pushbutton 4</Name>
     <Value>0</Value>
@@ -2507,7 +2507,7 @@
   </Switches>
   <Switches>
     <ID>18</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>42</ClickabledataID>
     <Name>ABRIS - Pushbutton 5</Name>
     <Value>0</Value>
@@ -2559,9 +2559,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>1.0,0.0</Input>
     <Output>1.0,0.0</Output>
-    <PosX>22</PosX>
-    <PosY>810</PosY>
-    <Size>50</Size>
+    <PosX>25</PosX>
+    <PosY>818</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2580,8 +2580,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>65</PosX>
-    <PosY>781</PosY>
+    <PosX>57</PosX>
+    <PosY>793</PosY>
     <Size>80</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -2591,7 +2591,7 @@
   </Switches>
   <Switches>
     <ID>22</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>44</ClickabledataID>
     <Name>ABRIS - Cursor control (push)</Name>
     <Value>0</Value>
@@ -2612,7 +2612,7 @@
   </Switches>
   <Switches>
     <ID>23</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>132</ClickabledataID>
     <Name>DLNK Target #1/Vehicle</Name>
     <Value>0</Value>
@@ -2633,7 +2633,7 @@
   </Switches>
   <Switches>
     <ID>24</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>133</ClickabledataID>
     <Name>DLNK Target #2/SAM</Name>
     <Value>0</Value>
@@ -2654,7 +2654,7 @@
   </Switches>
   <Switches>
     <ID>25</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>134</ClickabledataID>
     <Name>DLNK Target #3/Other Type</Name>
     <Value>0</Value>
@@ -2675,7 +2675,7 @@
   </Switches>
   <Switches>
     <ID>26</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>135</ClickabledataID>
     <Name>DLNK Ingress point</Name>
     <Value>0</Value>
@@ -2696,7 +2696,7 @@
   </Switches>
   <Switches>
     <ID>27</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>128</ClickabledataID>
     <Name>DLNK to Wingman 1</Name>
     <Value>0</Value>
@@ -2717,7 +2717,7 @@
   </Switches>
   <Switches>
     <ID>28</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>129</ClickabledataID>
     <Name>DLNK to Wingman 2</Name>
     <Value>0</Value>
@@ -2738,7 +2738,7 @@
   </Switches>
   <Switches>
     <ID>29</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>130</ClickabledataID>
     <Name>DLNK to Wingman 3</Name>
     <Value>0</Value>
@@ -2759,7 +2759,7 @@
   </Switches>
   <Switches>
     <ID>30</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>131</ClickabledataID>
     <Name>DLNK to Wingman 4</Name>
     <Value>0</Value>
@@ -2780,7 +2780,7 @@
   </Switches>
   <Switches>
     <ID>31</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>127</ClickabledataID>
     <Name>DLNK to ALL</Name>
     <Value>0</Value>
@@ -2801,7 +2801,7 @@
   </Switches>
   <Switches>
     <ID>32</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>126</ClickabledataID>
     <Name>DLNK Erase</Name>
     <Value>0</Value>
@@ -2822,7 +2822,7 @@
   </Switches>
   <Switches>
     <ID>33</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>125</ClickabledataID>
     <Name>DLNK Ingress to target</Name>
     <Value>0</Value>
@@ -2843,7 +2843,7 @@
   </Switches>
   <Switches>
     <ID>34</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>124</ClickabledataID>
     <Name>DLNK Send/Memory</Name>
     <Value>0</Value>
@@ -2864,7 +2864,7 @@
   </Switches>
   <Switches>
     <ID>35</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>184</ClickabledataID>
     <Name>LWS Reset button</Name>
     <Value>0</Value>
@@ -2874,9 +2874,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>151</PosX>
-    <PosY>402</PosY>
-    <Size>45</Size>
+    <PosX>158</PosX>
+    <PosY>404</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2885,19 +2885,19 @@
   </Switches>
   <Switches>
     <ID>36</ID>
-    <Class>SwitchPanelOffOn</Class>
+    <Class>ButtonPanelOffOn</Class>
     <ClickabledataID>0</ClickabledataID>
-    <Name>Datalink Panel</Name>
+    <Name>DataLink-LWR</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>switch_up2.png</FilePictureOn>
-    <FilePictureOff>switch_down2.png</FilePictureOff>
+    <FilePictureOn>Ka-50-DataLink-Panel-Button.png</FilePictureOn>
+    <FilePictureOff>Ka-50-DataLink-Panel-Button.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>2</Input>
     <Output>0</Output>
     <PosX>0</PosX>
-    <PosY>490</PosY>
-    <Size>50</Size>
+    <PosY>560</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2905,19 +2905,19 @@
   </Switches>
   <Switches>
     <ID>37</ID>
-    <Class>SwitchPanelOffOn</Class>
+    <Class>ButtonPanelOffOn</Class>
     <ClickabledataID>0</ClickabledataID>
     <Name>UV-26 Panel</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>switch_up2.png</FilePictureOn>
-    <FilePictureOff>switch_down2.png</FilePictureOff>
+    <FilePictureOn>Ka-50-UV26-Panel-Button.png</FilePictureOn>
+    <FilePictureOff>Ka-50-UV26-Panel-Button.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>3</Input>
     <Output>0</Output>
     <PosX>55</PosX>
-    <PosY>490</PosY>
-    <Size>50</Size>
+    <PosY>560</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2967,7 +2967,7 @@
   </Switches>
   <Switches>
     <ID>40</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>114</ClickabledataID>
     <Name>UV-26 Reset to default program</Name>
     <Value>0</Value>
@@ -2988,7 +2988,7 @@
   </Switches>
   <Switches>
     <ID>41</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>115</ClickabledataID>
     <Name>UV-26 Stop dispense</Name>
     <Value>0</Value>
@@ -3009,7 +3009,7 @@
   </Switches>
   <Switches>
     <ID>42</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>113</ClickabledataID>
     <Name>UV-26 Start dispense</Name>
     <Value>0</Value>
@@ -3030,7 +3030,7 @@
   </Switches>
   <Switches>
     <ID>43</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>112</ClickabledataID>
     <Name>UV-26 Dispense interval</Name>
     <Value>0</Value>
@@ -3051,7 +3051,7 @@
   </Switches>
   <Switches>
     <ID>44</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>110</ClickabledataID>
     <Name>UV-26 Num of sequences</Name>
     <Value>0</Value>
@@ -3072,7 +3072,7 @@
   </Switches>
   <Switches>
     <ID>45</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>111</ClickabledataID>
     <Name>UV-26 Num in sequence</Name>
     <Value>0</Value>
@@ -3103,9 +3103,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>751</PosX>
-    <PosY>774</PosY>
-    <Size>80</Size>
+    <PosX>759</PosX>
+    <PosY>793</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3114,7 +3114,7 @@
   </Switches>
   <Switches>
     <ID>47</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>60</ClickabledataID>
     <Name>K-041 - Automatic turn on target mode</Name>
     <Value>0</Value>
@@ -3135,7 +3135,7 @@
   </Switches>
   <Switches>
     <ID>48</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>61</ClickabledataID>
     <Name>K-041 - Airborne Target</Name>
     <Value>0</Value>
@@ -3156,7 +3156,7 @@
   </Switches>
   <Switches>
     <ID>49</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>62</ClickabledataID>
     <Name>K-041 - Forward hemisphere (head-on) air target aspect</Name>
     <Value>0</Value>
@@ -3177,7 +3177,7 @@
   </Switches>
   <Switches>
     <ID>50</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>63</ClickabledataID>
     <Name>K-041 - Ground moving target</Name>
     <Value>0</Value>
@@ -3203,11 +3203,11 @@
     <Name>K-041 - Weapon system mode selector (right rotation)</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>Ka-50-K-041-Rotary.png</FilePictureOn>
+    <FilePictureOn>Ka-50-Kanon-MultiSwitch.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2,0.3,0.4</Input>
-    <Output>70,115,140,180,215</Output>
+    <Output>0,40,75,115,150</Output>
     <PosX>945</PosX>
     <PosY>814</PosY>
     <Size>110</Size>
@@ -3219,7 +3219,7 @@
   </Switches>
   <Switches>
     <ID>52</ID>
-    <Class>Button45x45</Class>
+    <Class>Button</Class>
     <ClickabledataID>66</ClickabledataID>
     <Name>K-041 - Targeting mode reset</Name>
     <Value>0</Value>
@@ -3250,9 +3250,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>875</PosX>
-    <PosY>888</PosY>
-    <Size>70</Size>
+    <PosX>878</PosX>
+    <PosY>897</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3271,9 +3271,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>938</PosX>
-    <PosY>888</PosY>
-    <Size>70</Size>
+    <PosX>941</PosX>
+    <PosY>897</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3292,9 +3292,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>825</PosX>
-    <PosY>888</PosY>
-    <Size>70</Size>
+    <PosX>829</PosX>
+    <PosY>897</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3313,9 +3313,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>757</PosX>
-    <PosY>887</PosY>
-    <Size>70</Size>
+    <PosX>761</PosX>
+    <PosY>898</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3324,11 +3324,11 @@
   </Switches>
   <Accessories>
     <ID>1</ID>
-    <Class>Label200x200</Class>
+    <Class>Label</Class>
     <Name>Emergeny launch Button</Name>
     <FilePictureOn>Ka-50-Emergency-launch-button-black-off.png</FilePictureOn>
-    <PosX>741</PosX>
-    <PosY>632</PosY>
+    <PosX>744</PosX>
+    <PosY>633</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
@@ -3336,39 +3336,15 @@
   </Accessories>
   <Accessories>
     <ID>4</ID>
-    <Class>Label200x100</Class>
+    <Class>Label</Class>
     <Name>DataLink blank</Name>
     <FilePictureOn>Ka-50-DataLink-blank.png</FilePictureOn>
     <PosX>50</PosX>
     <PosY>149</PosY>
-    <Size>120</Size>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>2</WindowID>
-  </Accessories>
-  <Accessories>
-    <ID>5</ID>
-    <Class>Label200x200</Class>
-    <Name>Datalink</Name>
-    <FilePictureOn>Ka-50-DataLink-Panel-Button.png</FilePictureOn>
-    <PosX>0</PosX>
-    <PosY>560</PosY>
-    <Size>50</Size>
-    <Rotate>0</Rotate>
-    <Active>true</Active>
-    <WindowID>1</WindowID>
-  </Accessories>
-  <Accessories>
-    <ID>6</ID>
-    <Class>Label200x200</Class>
-    <Name>UV-26</Name>
-    <FilePictureOn>Ka-50-UV26-Panel-Button.png</FilePictureOn>
-    <PosX>55</PosX>
-    <PosY>560</PosY>
-    <Size>50</Size>
-    <Rotate>0</Rotate>
-    <Active>true</Active>
-    <WindowID>1</WindowID>
   </Accessories>
   <Parameter>
     <FileBackground>BackgroundKA50.png</FileBackground>
@@ -3377,7 +3353,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>1080</PosY>
+    <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>Ka-50-Background.png</Background>

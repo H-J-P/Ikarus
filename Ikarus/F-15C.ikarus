@@ -1425,8 +1425,8 @@
     <FilePictureOn>F-15C-FLAP-yellow.png</FilePictureOn>
     <FilePictureOff>F-15C-FLAP-off.png</FilePictureOff>
     <PosX>40</PosX>
-    <PosY>700</PosY>
-    <Size>150</Size>
+    <PosY>693</PosY>
+    <Size>95</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1441,7 +1441,7 @@
     <FilePictureOff>F-15C-FLAP-off.png</FilePictureOff>
     <PosX>40</PosX>
     <PosY>725</PosY>
-    <Size>150</Size>
+    <Size>95</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1456,7 +1456,7 @@
     <FilePictureOff>F-15C-GEAR-Nose-off.png</FilePictureOff>
     <PosX>93</PosX>
     <PosY>905</PosY>
-    <Size>150</Size>
+    <Size>105</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1471,7 +1471,7 @@
     <FilePictureOff>F-15C-GEAR-Left-off.png</FilePictureOff>
     <PosX>34</PosX>
     <PosY>940</PosY>
-    <Size>150</Size>
+    <Size>105</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1486,7 +1486,7 @@
     <FilePictureOff>F-15C-GEAR-Right-off.png</FilePictureOff>
     <PosX>152</PosX>
     <PosY>940</PosY>
-    <Size>150</Size>
+    <Size>105</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1497,7 +1497,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>1200</PosY>
+    <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>BackGround.png</Background>
