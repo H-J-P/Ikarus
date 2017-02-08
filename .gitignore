@@ -6,13 +6,11 @@
 
 *.config
 
-/_DelSyncFiles/
-/_DelSyncFiles/*
-*/_DelSyncFiles/*
+_DelSyncFiles*/
 
-/.vs/*
+.vs*/
 
-/Backup/*
+Backup*/
 
 .com.greenworldsoft.syncfolderspro
 
