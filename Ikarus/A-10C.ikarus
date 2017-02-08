@@ -4778,7 +4778,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>4</Input>
     <Output>0</Output>
-    <PosX>839</PosX>
+    <PosX>887</PosX>
     <PosY>980</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
@@ -6436,7 +6436,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>5</Input>
     <Output>0</Output>
-    <PosX>792</PosX>
+    <PosX>840</PosX>
     <PosY>980</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
@@ -7590,8 +7590,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>6</Input>
     <Output>0</Output>
-    <PosX>886</PosX>
-    <PosY>979</PosY>
+    <PosX>943</PosX>
+    <PosY>980</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -8675,13 +8675,13 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>7</Input>
     <Output>0</Output>
-    <PosX>227</PosX>
-    <PosY>131</PosY>
-    <Size>50</Size>
+    <PosX>793</PosX>
+    <PosY>979</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
-    <WindowID>8</WindowID>
+    <WindowID>1</WindowID>
   </Switches>
   <Switches>
     <ID>265</ID>

@@ -273,6 +273,19 @@
     <Reactivate>false</Reactivate>
     <WindowID>3</WindowID>
   </Instruments>
+  <Instruments>
+    <IDInst>22</IDInst>
+    <Name>Kneeboard</Name>
+    <Class>Kneeboard</Class>
+    <PosX>48</PosX>
+    <PosY>86</PosY>
+    <Size>695</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>Kneeboard-Light-White.png</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>4</WindowID>
+  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -2896,8 +2909,8 @@
     <Input>2</Input>
     <Output>0</Output>
     <PosX>0</PosX>
-    <PosY>560</PosY>
-    <Size>45</Size>
+    <PosY>566</PosY>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2915,9 +2928,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>3</Input>
     <Output>0</Output>
-    <PosX>55</PosX>
-    <PosY>560</PosY>
-    <Size>45</Size>
+    <PosX>0</PosX>
+    <PosY>502</PosY>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3322,6 +3335,26 @@
     <WindowID>1</WindowID>
     <DcsID>433</DcsID>
   </Switches>
+  <Switches>
+    <ID>57</ID>
+    <Class>ButtonPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>Kneeboard</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-KneeboardPanel-Button.png</FilePictureOn>
+    <FilePictureOff>Ka-50-KneeboardPanel-Button.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>4</Input>
+    <Output>0</Output>
+    <PosX>0</PosX>
+    <PosY>438</PosY>
+    <Size>65</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
   <Accessories>
     <ID>1</ID>
     <Class>Label</Class>
@@ -3379,6 +3412,17 @@
     <Height>600</Height>
     <Width>267</Width>
     <Background>Ka-50-Background-UV26.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
+  </Window>
+  <Window>
+    <WindowID>4</WindowID>
+    <Name>Kneeboard</Name>
+    <PosX>562</PosX>
+    <PosY>0</PosY>
+    <Height>1080</Height>
+    <Width>796</Width>
+    <Background>Kneeboard-Background-DarkGray.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
   </Window>
