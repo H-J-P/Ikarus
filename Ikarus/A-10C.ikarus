@@ -240,7 +240,7 @@
     <Class>A10_OilP</Class>
     <PosX>1283</PosX>
     <PosY>855</PosY>
-    <Size>115</Size>
+    <Size>120</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>greenGlass15.png</ImageLight>
@@ -316,8 +316,8 @@
     <IDInst>25</IDInst>
     <Name>UHF</Name>
     <Class>A10_UHF</Class>
-    <PosX>603</PosX>
-    <PosY>604</PosY>
+    <PosX>607</PosX>
+    <PosY>603</PosY>
     <Size>170</Size>
     <Rotate>0</Rotate>
     <ImageFrame>A10_UHF2.png</ImageFrame>
@@ -354,12 +354,12 @@
   <Instruments>
     <IDInst>35</IDInst>
     <Name>TACAN</Name>
-    <Class>DisplaySix</Class>
+    <Class>DisplayDotMatrix</Class>
     <PosX>1538</PosX>
     <PosY>992</PosY>
-    <Size>130</Size>
+    <Size>120</Size>
     <Rotate>0</Rotate>
-    <ImageFrame>A10_DisplayBackgr_TACAN.png</ImageFrame>
+    <ImageFrame />
     <ImageLight>A10_DisplayGlas.png</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
@@ -367,12 +367,12 @@
   <Instruments>
     <IDInst>36</IDInst>
     <Name>ILS</Name>
-    <Class>DisplaySix</Class>
+    <Class>DisplayDotMatrix</Class>
     <PosX>1404</PosX>
     <PosY>992</PosY>
-    <Size>130</Size>
+    <Size>120</Size>
     <Rotate>0</Rotate>
-    <ImageFrame>A10_DisplayBackgr_ILS.png</ImageFrame>
+    <ImageFrame />
     <ImageLight>A10_DisplayGlas.png</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
@@ -380,12 +380,12 @@
   <Instruments>
     <IDInst>37</IDInst>
     <Name>VHF FM</Name>
-    <Class>DisplaySix</Class>
+    <Class>DisplayDotMatrix</Class>
     <PosX>1270</PosX>
     <PosY>992</PosY>
-    <Size>130</Size>
+    <Size>120</Size>
     <Rotate>0</Rotate>
-    <ImageFrame>A10_DisplayBackgr_VHFFM.png</ImageFrame>
+    <ImageFrame />
     <ImageLight>A10_DisplayGlas.png</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
@@ -393,12 +393,12 @@
   <Instruments>
     <IDInst>38</IDInst>
     <Name>VHF AM</Name>
-    <Class>DisplaySix</Class>
+    <Class>DisplayDotMatrix</Class>
     <PosX>1136</PosX>
     <PosY>992</PosY>
-    <Size>130</Size>
+    <Size>120</Size>
     <Rotate>0</Rotate>
-    <ImageFrame>A10_DisplayBackgr_VHFAM.png</ImageFrame>
+    <ImageFrame />
     <ImageLight>A10_DisplayGlas.png</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
@@ -432,10 +432,10 @@
   <Instruments>
     <IDInst>41</IDInst>
     <Name>CMSC JMR</Name>
-    <Class>DisplayEight</Class>
-    <PosX>847</PosX>
-    <PosY>82</PosY>
-    <Size>115</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>860</PosX>
+    <PosY>89</PosY>
+    <Size>90</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -445,10 +445,10 @@
   <Instruments>
     <IDInst>42</IDInst>
     <Name>CMSC CHAFF</Name>
-    <Class>DisplayEight</Class>
-    <PosX>980</PosX>
-    <PosY>82</PosY>
-    <Size>115</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>987</PosX>
+    <PosY>88</PosY>
+    <Size>90</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -458,10 +458,10 @@
   <Instruments>
     <IDInst>43</IDInst>
     <Name>CMSC MWS</Name>
-    <Class>DisplayEight</Class>
-    <PosX>847</PosX>
-    <PosY>119</PosY>
-    <Size>115</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>860</PosX>
+    <PosY>124</PosY>
+    <Size>90</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -471,10 +471,10 @@
   <Instruments>
     <IDInst>44</IDInst>
     <Name>ILS Khz</Name>
-    <Class>Display_ILS_Khz</Class>
-    <PosX>200</PosX>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>205</PosX>
     <PosY>948</PosY>
-    <Size>55</Size>
+    <Size>39</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -484,10 +484,10 @@
   <Instruments>
     <IDInst>45</IDInst>
     <Name>ILS Mhz</Name>
-    <Class>Display_ILS_Mhz</Class>
-    <PosX>136</PosX>
-    <PosY>946</PosY>
-    <Size>75</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>145</PosX>
+    <PosY>947</PosY>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -536,10 +536,10 @@
   <Instruments>
     <IDInst>49</IDInst>
     <Name>UHF</Name>
-    <Class>DisplayEight</Class>
-    <PosX>136</PosX>
-    <PosY>494</PosY>
-    <Size>170</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>144</PosX>
+    <PosY>498</PosY>
+    <Size>150</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -549,10 +549,10 @@
   <Instruments>
     <IDInst>50</IDInst>
     <Name>UHF Preset Channel</Name>
-    <Class>DisplayTwo</Class>
-    <PosX>249</PosX>
-    <PosY>414</PosY>
-    <Size>65</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>256</PosX>
+    <PosY>421</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -562,10 +562,10 @@
   <Instruments>
     <IDInst>51</IDInst>
     <Name>VHF AM Preset Channel</Name>
-    <Class>DisplayTwo</Class>
-    <PosX>223</PosX>
-    <PosY>284</PosY>
-    <Size>65</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>234</PosX>
+    <PosY>290</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -575,10 +575,10 @@
   <Instruments>
     <IDInst>52</IDInst>
     <Name>VHF FM Preset Channel</Name>
-    <Class>DisplayTwo</Class>
-    <PosX>223</PosX>
-    <PosY>910</PosY>
-    <Size>65</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>232</PosX>
+    <PosY>914</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -1655,8 +1655,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>ABF9AB</Input>
+    <Output>6</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1669,8 +1669,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>ABF9AB</Input>
+    <Output>6</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1683,8 +1683,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input />
-    <Output>0,10</Output>
+    <Input>ABF9AB</Input>
+    <Output>6</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1697,8 +1697,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input />
-    <Output />
+    <Input>ABF9AB</Input>
+    <Output>6</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1767,8 +1767,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>ABF9AB</Input>
+    <Output>8</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1781,8 +1781,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>ABF9AB</Input>
+    <Output>8</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1795,8 +1795,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>ABF9AB</Input>
+    <Output>8</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1935,8 +1935,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>ABF9AB</Input>
+    <Output>2</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1949,8 +1949,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>ABF9AB</Input>
+    <Output>3</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -2047,8 +2047,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>ABF9AB</Input>
+    <Output>8</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -2061,8 +2061,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>ABF9AB</Input>
+    <Output>2</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -2075,8 +2075,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>ABF9AB</Input>
+    <Output>2</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -2089,8 +2089,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>ABF9AB</Input>
+    <Output>2</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />

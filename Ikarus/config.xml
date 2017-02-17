@@ -5,7 +5,7 @@
     <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-    <File>F-86F Sabre.ikarus</File>
+    <File>A-10C.ikarus</File>
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
@@ -85,34 +85,19 @@
     <Classname>BfK4RPM</Classname>
   </Classnames>
   <Classnames>
+    <Classname>Display7Segment</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>DisplayDotMatrix</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>Display_CMSP</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>Display_ILS_Khz</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>Display_ILS_Mhz</Classname>
   </Classnames>
   <Classnames>
     <Classname>Display_Tacan</Classname>
   </Classnames>
   <Classnames>
     <Classname>Display_VHF</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>DisplayOne</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>DisplayTwo</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>DisplayThree</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>DisplaySix</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>DisplayEight</Classname>
   </Classnames>
   <Classnames>
     <Classname>F15Alt</Classname>
