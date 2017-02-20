@@ -85,6 +85,9 @@
     <Classname>BfK4RPM</Classname>
   </Classnames>
   <Classnames>
+    <Classname>Display</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>Display7Segment</Classname>
   </Classnames>
   <Classnames>
@@ -92,6 +95,12 @@
   </Classnames>
   <Classnames>
     <Classname>Display_CMSP</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Display_ILS_Khz</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Display_ILS_Mhz</Classname>
   </Classnames>
   <Classnames>
     <Classname>Display_Tacan</Classname>
@@ -878,12 +887,6 @@
   </Classnames>
   <Classnames>
     <Classname>UH1_RadioCompassIndicator</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>UH1_RadioCompassIndicator2</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>UH1_RadioCompassIndicator2V2</Classname>
   </Classnames>
   <Classnames>
     <Classname>UH1_RadioCompassIndicatorV2</Classname>

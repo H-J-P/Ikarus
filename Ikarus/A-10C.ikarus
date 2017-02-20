@@ -355,9 +355,9 @@
     <IDInst>35</IDInst>
     <Name>TACAN</Name>
     <Class>DisplayDotMatrix</Class>
-    <PosX>1538</PosX>
+    <PosX>1559</PosX>
     <PosY>992</PosY>
-    <Size>120</Size>
+    <Size>83</Size>
     <Rotate>0</Rotate>
     <ImageFrame />
     <ImageLight>A10_DisplayGlas.png</ImageLight>
@@ -368,9 +368,9 @@
     <IDInst>36</IDInst>
     <Name>ILS</Name>
     <Class>DisplayDotMatrix</Class>
-    <PosX>1404</PosX>
+    <PosX>1418</PosX>
     <PosY>992</PosY>
-    <Size>120</Size>
+    <Size>115</Size>
     <Rotate>0</Rotate>
     <ImageFrame />
     <ImageLight>A10_DisplayGlas.png</ImageLight>
@@ -383,7 +383,7 @@
     <Class>DisplayDotMatrix</Class>
     <PosX>1270</PosX>
     <PosY>992</PosY>
-    <Size>120</Size>
+    <Size>130</Size>
     <Rotate>0</Rotate>
     <ImageFrame />
     <ImageLight>A10_DisplayGlas.png</ImageLight>
@@ -396,7 +396,7 @@
     <Class>DisplayDotMatrix</Class>
     <PosX>1136</PosX>
     <PosY>992</PosY>
-    <Size>120</Size>
+    <Size>130</Size>
     <Rotate>0</Rotate>
     <ImageFrame />
     <ImageLight>A10_DisplayGlas.png</ImageLight>
@@ -471,10 +471,10 @@
   <Instruments>
     <IDInst>44</IDInst>
     <Name>ILS Khz</Name>
-    <Class>DisplayDotMatrix</Class>
-    <PosX>205</PosX>
+    <Class>Display_ILS_Khz</Class>
+    <PosX>200</PosX>
     <PosY>948</PosY>
-    <Size>39</Size>
+    <Size>54</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -484,10 +484,10 @@
   <Instruments>
     <IDInst>45</IDInst>
     <Name>ILS Mhz</Name>
-    <Class>DisplayDotMatrix</Class>
-    <PosX>145</PosX>
+    <Class>Display_ILS_Mhz</Class>
+    <PosX>141</PosX>
     <PosY>947</PosY>
-    <Size>55</Size>
+    <Size>70</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -1656,7 +1656,7 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
-    <Output>6</Output>
+    <Output>4</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1684,7 +1684,7 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
-    <Output>6</Output>
+    <Output>7</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1698,7 +1698,7 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
-    <Output>6</Output>
+    <Output>7</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1935,8 +1935,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
-    <Output>2</Output>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1949,8 +1949,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
-    <Output>3</Output>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -8808,6 +8808,54 @@
     <WindowID>8</WindowID>
     <DcsID>45</DcsID>
   </Switches>
+  <Accessories>
+    <ID>1</ID>
+    <Class>Label</Class>
+    <Name>ILS</Name>
+    <FilePictureOn>ILS.png</FilePictureOn>
+    <PosX>1435</PosX>
+    <PosY>1024</PosY>
+    <Size>85</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>2</ID>
+    <Class>Label</Class>
+    <Name>TACAN</Name>
+    <FilePictureOn>TACAN.png</FilePictureOn>
+    <PosX>1561</PosX>
+    <PosY>1024</PosY>
+    <Size>85</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>3</ID>
+    <Class>Label</Class>
+    <Name>VHF_AM</Name>
+    <FilePictureOn>VHF_AM.png</FilePictureOn>
+    <PosX>1162</PosX>
+    <PosY>1024</PosY>
+    <Size>85</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>4</ID>
+    <Class>Label</Class>
+    <Name>VHF_FM</Name>
+    <FilePictureOn>VHF_FM.png</FilePictureOn>
+    <PosX>1294</PosX>
+    <PosY>1024</PosY>
+    <Size>85</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
   <Parameter>
     <FileBackground>BackGroundA10CNight.png</FileBackground>
   </Parameter>
