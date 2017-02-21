@@ -315,7 +315,7 @@
   <Instruments>
     <IDInst>31</IDInst>
     <Name>Copilot RadioCompass</Name>
-    <Class>UH1_RadioCompassIndicatorV2</Class>
+    <Class>UH1_RadioCompassIndicatorCopilot</Class>
     <PosX>495</PosX>
     <PosY>370</PosY>
     <Size>200</Size>
