@@ -216,7 +216,7 @@
     <PosY>100</PosY>
     <Size>300</Size>
     <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
+    <ImageFrame>UH-1H_ADI.png</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
@@ -315,7 +315,7 @@
   <Instruments>
     <IDInst>31</IDInst>
     <Name>Copilot RadioCompass</Name>
-    <Class>UH1_RadioCompassIndicatorCopilot</Class>
+    <Class>UH1_RadioCompassIndicatorV2</Class>
     <PosX>495</PosX>
     <PosY>370</PosY>
     <Size>200</Size>
@@ -333,7 +333,7 @@
     <PosY>130</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
+    <ImageFrame>UH-1H_ADI.png</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>2</WindowID>
