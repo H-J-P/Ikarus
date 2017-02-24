@@ -7,6 +7,7 @@
 *.config
 
 _DelSyncFiles*/
+Monitor-test.ikarus
 
 .vs*/
 
