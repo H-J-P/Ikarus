@@ -5,7 +5,7 @@
     <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-    <File>Monitor-test.ikarus</File>
+    <File>A-10C.ikarus</File>
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
@@ -733,10 +733,13 @@
     <Classname>MIG29MDI</Classname>
   </Classnames>
   <Classnames>
-    <Classname>Monitor04x08</Classname>
+    <Classname>Monitor</Classname>
   </Classnames>
   <Classnames>
-    <Classname>Monitor10x24</Classname>
+    <Classname>MonitorDotMatrix</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Monitor7Segment</Classname>
   </Classnames>
   <Classnames>
     <Classname>P51ACC</Classname>

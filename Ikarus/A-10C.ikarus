@@ -419,13 +419,13 @@
   <Instruments>
     <IDInst>40</IDInst>
     <Name>CDU Monitor</Name>
-    <Class>Monitor10x24</Class>
-    <PosX>88</PosX>
-    <PosY>29</PosY>
-    <Size>225</Size>
+    <Class>Monitor</Class>
+    <PosX>98</PosX>
+    <PosY>37</PosY>
+    <Size>200</Size>
     <Rotate>0</Rotate>
-    <ImageFrame>Monitor10x24.png</ImageFrame>
-    <ImageLight>Monitor10x24_Frame.png</ImageLight>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>3</WindowID>
   </Instruments>
@@ -1753,8 +1753,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>149,226,149</Input>
-    <Output />
+    <Input>ABF9AB</Input>
+    <Output>24,10</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1809,7 +1809,7 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>149,226,149</Input>
+    <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1823,7 +1823,7 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>149,226,149</Input>
+    <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1837,7 +1837,7 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>149,226,149</Input>
+    <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1851,7 +1851,7 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>149,226,149</Input>
+    <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1865,7 +1865,7 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>149,226,149</Input>
+    <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1879,7 +1879,7 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>149,226,149</Input>
+    <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1893,7 +1893,7 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>149,226,149</Input>
+    <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1907,7 +1907,7 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>149,226,149</Input>
+    <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1921,7 +1921,7 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>149,226,149</Input>
+    <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -8855,6 +8855,18 @@
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>5</ID>
+    <Class>Label</Class>
+    <Name>CDU</Name>
+    <FilePictureOn>A10_CDU_Monitor10x24.png</FilePictureOn>
+    <PosX>84</PosX>
+    <PosY>28</PosY>
+    <Size>230</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>3</WindowID>
   </Accessories>
   <Parameter>
     <FileBackground>BackGroundA10CNight.png</FileBackground>

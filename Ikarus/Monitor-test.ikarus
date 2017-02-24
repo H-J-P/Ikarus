@@ -5,7 +5,7 @@
     <Name>Standard CDU</Name>
     <Class>Monitor10x24</Class>
     <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosY>375</PosY>
     <Size>500</Size>
     <Rotate>0</Rotate>
     <ImageFrame>Monitor10x24_Frame.PNG</ImageFrame>
@@ -17,7 +17,7 @@
     <IDInst>2</IDInst>
     <Name>Dynamische CDU</Name>
     <Class>Monitor7Segment</Class>
-    <PosX>500</PosX>
+    <PosX>0</PosX>
     <PosY>0</PosY>
     <Size>500</Size>
     <Rotate>0</Rotate>
@@ -30,8 +30,8 @@
     <IDInst>3</IDInst>
     <Name>Dynamisch Ekra</Name>
     <Class>Monitor7Segment</Class>
-    <PosX>500</PosX>
-    <PosY>500</PosY>
+    <PosX>694</PosX>
+    <PosY>512</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -43,9 +43,48 @@
     <IDInst>4</IDInst>
     <Name>Standard Ekran</Name>
     <Class>Monitor04x08</Class>
-    <PosX>0</PosX>
-    <PosY>500</PosY>
+    <PosX>619</PosX>
+    <PosY>511</PosY>
     <Size>200</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>5</IDInst>
+    <Name>Einzeiliger Monitor</Name>
+    <Class>Monitor7Segment</Class>
+    <PosX>924</PosX>
+    <PosY>507</PosY>
+    <Size>200</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>6</IDInst>
+    <Name>Dynamische CDU 2</Name>
+    <Class>MonitorDotMatrix</Class>
+    <PosX>500</PosX>
+    <PosY>0</PosY>
+    <Size>500</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>7</IDInst>
+    <Name>Dynamische CDU 3</Name>
+    <Class>Monitor</Class>
+    <PosX>1000</PosX>
+    <PosY>0</PosY>
+    <Size>500</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -444,6 +483,300 @@
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
+  <Functions>
+    <IDInst>5</IDInst>
+    <IDFct>1</IDFct>
+    <Name>test</Name>
+    <Arg_number>2030</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ffaa00</Input>
+    <Output>5,1</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>1</IDFct>
+    <Name>-</Name>
+    <Arg_number>2020</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>24,10</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>2</IDFct>
+    <Name>-</Name>
+    <Arg_number>2021</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>3</IDFct>
+    <Name>-</Name>
+    <Arg_number>2022</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>4</IDFct>
+    <Name>-</Name>
+    <Arg_number>2023</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>5</IDFct>
+    <Name>-</Name>
+    <Arg_number>2024</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>6</IDFct>
+    <Name>-</Name>
+    <Arg_number>2025</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>7</IDFct>
+    <Name>-</Name>
+    <Arg_number>2026</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>8</IDFct>
+    <Name>-</Name>
+    <Arg_number>2027</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>9</IDFct>
+    <Name>-</Name>
+    <Arg_number>2028</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>10</IDFct>
+    <Name>-</Name>
+    <Arg_number>2029</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>1</IDFct>
+    <Name>-</Name>
+    <Arg_number>2020</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>24,10</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>2</IDFct>
+    <Name>-</Name>
+    <Arg_number>2021</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>3</IDFct>
+    <Name>-</Name>
+    <Arg_number>2022</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>4</IDFct>
+    <Name>-</Name>
+    <Arg_number>2023</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>5</IDFct>
+    <Name>-</Name>
+    <Arg_number>2024</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>6</IDFct>
+    <Name>-</Name>
+    <Arg_number>2025</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>7</IDFct>
+    <Name>-</Name>
+    <Arg_number>2026</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>8</IDFct>
+    <Name>-</Name>
+    <Arg_number>2027</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>9</IDFct>
+    <Name>-</Name>
+    <Arg_number>2028</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>10</IDFct>
+    <Name>-</Name>
+    <Arg_number>2029</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input />
+    <Output />
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
   </Parameter>
@@ -451,7 +784,7 @@
     <WindowID>1</WindowID>
     <Name>Main</Name>
     <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosY>1200</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>BackGroundMiG-21.png</Background>
