@@ -420,9 +420,9 @@
     <IDInst>40</IDInst>
     <Name>CDU Monitor</Name>
     <Class>Monitor</Class>
-    <PosX>98</PosX>
-    <PosY>37</PosY>
-    <Size>200</Size>
+    <PosX>102</PosX>
+    <PosY>43</PosY>
+    <Size>196</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -8861,8 +8861,8 @@
     <Class>Label</Class>
     <Name>CDU</Name>
     <FilePictureOn>A10_CDU_Monitor10x24.png</FilePictureOn>
-    <PosX>84</PosX>
-    <PosY>28</PosY>
+    <PosX>86</PosX>
+    <PosY>32</PosY>
     <Size>230</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
