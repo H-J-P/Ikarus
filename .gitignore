@@ -8,7 +8,7 @@
 
 _DelSyncFiles*/
 Monitor-test.ikarus
-
+*vshost*
 .vs*/
 
 Backup*/
