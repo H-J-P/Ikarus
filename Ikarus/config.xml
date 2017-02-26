@@ -5,7 +5,7 @@
     <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-    <File>A-10C.ikarus</File>
+    <File>L-39C.ikarus</File>
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
@@ -395,6 +395,9 @@
   </Classnames>
   <Classnames>
     <Classname>L39_ADF</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>L39_ADI</Classname>
   </Classnames>
   <Classnames>
     <Classname>L39_Alt20</Classname>

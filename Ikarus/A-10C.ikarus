@@ -1748,7 +1748,7 @@
   <Functions>
     <IDInst>40</IDInst>
     <IDFct>1</IDFct>
-    <Name>CDU Text Color RGB</Name>
+    <Name>CDU Text Color RGB, Characters, Lines</Name>
     <Arg_number>2020</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>

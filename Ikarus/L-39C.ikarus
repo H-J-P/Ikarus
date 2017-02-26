@@ -3,7 +3,7 @@
   <Instruments>
     <IDInst>1</IDInst>
     <Name>ADI</Name>
-    <Class>WPADI</Class>
+    <Class>L39_ADI</Class>
     <PosX>747</PosX>
     <PosY>162</PosY>
     <Size>325</Size>
@@ -1151,13 +1151,88 @@
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
+  <Lamps>
+    <ID>7</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>278</Arg_number>
+    <Name>278 - FlapsUp</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>LED_Red_On_50.png</FilePictureOn>
+    <FilePictureOff>LED_Red_Off_50.png</FilePictureOff>
+    <PosX>13</PosX>
+    <PosY>730</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>8</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>279</Arg_number>
+    <Name>279 - FlapsTO</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>LED_Red_On_50.png</FilePictureOn>
+    <FilePictureOff>LED_Red_Off_50.png</FilePictureOff>
+    <PosX>13</PosX>
+    <PosY>763</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>9</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>280</Arg_number>
+    <Name>280 - FlapsDn</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>LED_Red_On_50.png</FilePictureOn>
+    <FilePictureOff>LED_Red_Off_50.png</FilePictureOff>
+    <PosX>13</PosX>
+    <PosY>796</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>10</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>556</Arg_number>
+    <Name>556 - LeftPitot</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-K-41-Buttons-on.png</FilePictureOn>
+    <FilePictureOff>Ka-50-K-41-Buttons-off.png</FilePictureOff>
+    <PosX>51</PosX>
+    <PosY>816</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>11</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>557</Arg_number>
+    <Name>557 - RightPitot</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-K-41-Buttons-on.png</FilePictureOn>
+    <FilePictureOff>Ka-50-K-41-Buttons-off.png</FilePictureOff>
+    <PosX>109</PosX>
+    <PosY>816</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
   <Accessories>
     <ID>1</ID>
     <Class>Label</Class>
     <Name>Gear Background</Name>
     <FilePictureOn>L-39-Gear-Background.png</FilePictureOn>
     <PosX>52</PosX>
-    <PosY>731</PosY>
+    <PosY>732</PosY>
     <Size>235</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
@@ -1170,7 +1245,7 @@
     <WindowID>1</WindowID>
     <Name>Main Panel</Name>
     <PosX>0</PosX>
-    <PosY>1200</PosY>
+    <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>L-39-Background.png</Background>
