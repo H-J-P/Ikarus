@@ -3,7 +3,6 @@
 *.dds
 
 .DS_Store
-
 *.config
 
 _DelSyncFiles*/
@@ -13,11 +12,8 @@ L-39C_v1*.*
 Thumbs.db
 
 .vs*/
-
 Backup*/
 
 .com.greenworldsoft.syncfolderspro
-
 *.log
-
 Log.png
