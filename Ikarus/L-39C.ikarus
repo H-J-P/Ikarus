@@ -266,8 +266,8 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>4</IDFct>
-    <Name>Warning Flag L</Name>
-    <Arg_number>0</Arg_number>
+    <Name>Localizer Beacon K</Name>
+    <Arg_number>37</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -322,8 +322,8 @@
   <Functions>
     <IDInst>2</IDInst>
     <IDFct>4</IDFct>
-    <Name>WarningFlagG</Name>
-    <Arg_number>0</Arg_number>
+    <Name>Glide Beacon G Flag</Name>
+    <Arg_number>46</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -336,8 +336,8 @@
   <Functions>
     <IDInst>2</IDInst>
     <IDFct>5</IDFct>
-    <Name>WarningFlagK</Name>
-    <Arg_number>0</Arg_number>
+    <Name>Localizer Beacon K Flag</Name>
+    <Arg_number>44</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -350,7 +350,7 @@
   <Functions>
     <IDInst>2</IDInst>
     <IDFct>6</IDFct>
-    <Name>Glide Beacon</Name>
+    <Name>Alt Deviation Bar</Name>
     <Arg_number>45</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -868,8 +868,8 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>5</IDFct>
-    <Name>Warning Flag K</Name>
-    <Arg_number>0</Arg_number>
+    <Name>Glide Beacon L</Name>
+    <Arg_number>36</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -882,8 +882,8 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>6</IDFct>
-    <Name>Desire Bank</Name>
-    <Arg_number>35</Arg_number>
+    <Name>SDU Roll</Name>
+    <Arg_number>32</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -896,8 +896,8 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>7</IDFct>
-    <Name>Desire Pitch</Name>
-    <Arg_number>34</Arg_number>
+    <Name>SDU Pitch</Name>
+    <Arg_number>33</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -910,8 +910,8 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>8</IDFct>
-    <Name>Track Deviation</Name>
-    <Arg_number>37</Arg_number>
+    <Name>Cource Deviation Bar</Name>
+    <Arg_number>35</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -924,8 +924,8 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>9</IDFct>
-    <Name>Height Deviation</Name>
-    <Arg_number>36</Arg_number>
+    <Name>Alt Deviation Bar</Name>
+    <Arg_number>34</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1069,10 +1069,10 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>L-39-Gear-Up-Nose-on.png</FilePictureOn>
-    <FilePictureOff />
-    <PosX>166</PosX>
-    <PosY>763</PosY>
-    <Size>8</Size>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>167</PosX>
+    <PosY>765</PosY>
+    <Size>7</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1085,9 +1085,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>L-39-Gear-Up-LeftRight-on.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
-    <PosX>132</PosX>
-    <PosY>777</PosY>
-    <Size>14</Size>
+    <PosX>135</PosX>
+    <PosY>780</PosY>
+    <Size>10</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1100,9 +1100,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>L-39-Gear-Up-LeftRight-on.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
-    <PosX>192</PosX>
-    <PosY>777</PosY>
-    <Size>14</Size>
+    <PosX>196</PosX>
+    <PosY>780</PosY>
+    <Size>10</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1115,9 +1115,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>L-39-Gear-Down-on.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
-    <PosX>166</PosX>
-    <PosY>799</PosY>
-    <Size>8</Size>
+    <PosX>169</PosX>
+    <PosY>804</PosY>
+    <Size>7</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1131,8 +1131,8 @@
     <FilePictureOn>L-39-Gear-Down-on.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>138</PosX>
-    <PosY>812</PosY>
-    <Size>8</Size>
+    <PosY>817</PosY>
+    <Size>7</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1145,9 +1145,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>L-39-Gear-Down-on.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
-    <PosX>194</PosX>
-    <PosY>812</PosY>
-    <Size>8</Size>
+    <PosX>197</PosX>
+    <PosY>817</PosY>
+    <Size>7</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1205,8 +1205,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-K-41-Buttons-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-K-41-Buttons-off.png</FilePictureOff>
-    <PosX>51</PosX>
-    <PosY>816</PosY>
+    <PosX>6</PosX>
+    <PosY>861</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1220,8 +1220,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-K-41-Buttons-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-K-41-Buttons-off.png</FilePictureOff>
-    <PosX>109</PosX>
-    <PosY>816</PosY>
+    <PosX>71</PosX>
+    <PosY>861</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1233,7 +1233,7 @@
     <FilePictureOn>L-39-Gear-Background.png</FilePictureOn>
     <PosX>52</PosX>
     <PosY>732</PosY>
-    <Size>235</Size>
+    <Size>240</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>1</WindowID>
