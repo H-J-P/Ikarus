@@ -3,9 +3,9 @@
   <Instruments>
     <IDInst>1</IDInst>
     <Name>OxygenDeliveryGauge</Name>
-    <Class>-</Class>
-    <PosX>104</PosX>
-    <PosY>8</PosY>
+    <Class>Spit_OxyP</Class>
+    <PosX>31</PosX>
+    <PosY>360</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -16,9 +16,9 @@
   <Instruments>
     <IDInst>2</IDInst>
     <Name>OxygenSupplyGauge</Name>
-    <Class>-</Class>
-    <PosX>306</PosX>
-    <PosY>444</PosY>
+    <Class>Spit_OxyQ</Class>
+    <PosX>243</PosX>
+    <PosY>364</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -29,9 +29,9 @@
   <Instruments>
     <IDInst>3</IDInst>
     <Name>TrimGauge</Name>
-    <Class>-</Class>
-    <PosX>106</PosX>
-    <PosY>447</PosY>
+    <Class>Spit_ElevTrim</Class>
+    <PosX>234</PosX>
+    <PosY>599</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -55,9 +55,9 @@
   <Instruments>
     <IDInst>5</IDInst>
     <Name>LeftWheelBrakeGauge</Name>
-    <Class>-</Class>
-    <PosX>312</PosX>
-    <PosY>210</PosY>
+    <Class>Spit_BrakeP</Class>
+    <PosX>520</PosX>
+    <PosY>859</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -68,9 +68,9 @@
   <Instruments>
     <IDInst>6</IDInst>
     <Name>RightWheelBrakeGauge</Name>
-    <Class>-</Class>
-    <PosX>553</PosX>
-    <PosY>200</PosY>
+    <Class>Spit_BrakeP</Class>
+    <PosX>1080</PosX>
+    <PosY>861</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -81,10 +81,10 @@
   <Instruments>
     <IDInst>7</IDInst>
     <Name>AirspeedGauge</Name>
-    <Class>-</Class>
-    <PosX>780</PosX>
-    <PosY>204</PosY>
-    <Size>200</Size>
+    <Class>Spit_ASI</Class>
+    <PosX>486</PosX>
+    <PosY>295</PosY>
+    <Size>275</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -95,9 +95,9 @@
     <IDInst>8</IDInst>
     <Name>ADI</Name>
     <Class>Spit_ADI</Class>
-    <PosX>542</PosX>
-    <PosY>645</PosY>
-    <Size>200</Size>
+    <PosX>767</PosX>
+    <PosY>293</PosY>
+    <Size>275</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -108,9 +108,9 @@
     <IDInst>9</IDInst>
     <Name>Variometer</Name>
     <Class>Spit_VVI</Class>
-    <PosX>790</PosX>
-    <PosY>647</PosY>
-    <Size>200</Size>
+    <PosX>1048</PosX>
+    <PosY>295</PosY>
+    <Size>275</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -121,9 +121,9 @@
     <IDInst>10</IDInst>
     <Name>Altimeter</Name>
     <Class>Spit_Alt</Class>
-    <PosX>1033</PosX>
-    <PosY>663</PosY>
-    <Size>200</Size>
+    <PosX>483</PosX>
+    <PosY>573</PosY>
+    <Size>275</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -133,10 +133,10 @@
   <Instruments>
     <IDInst>11</IDInst>
     <Name>DI gauge</Name>
-    <Class>-</Class>
-    <PosX>1018</PosX>
-    <PosY>206</PosY>
-    <Size>200</Size>
+    <Class>Spit_DirectionalGyro</Class>
+    <PosX>808</PosX>
+    <PosY>574</PosY>
+    <Size>190</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -147,9 +147,9 @@
     <IDInst>12</IDInst>
     <Name>Turn and bank indicator</Name>
     <Class>Spit_Turn</Class>
-    <PosX>1296</PosX>
-    <PosY>663</PosY>
-    <Size>200</Size>
+    <PosX>1044</PosX>
+    <PosY>572</PosY>
+    <Size>270</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -159,10 +159,10 @@
   <Instruments>
     <IDInst>13</IDInst>
     <Name>Voltmeter</Name>
-    <Class>-</Class>
-    <PosX>1267</PosX>
-    <PosY>212</PosY>
-    <Size>200</Size>
+    <Class>Spit_Volt</Class>
+    <PosX>1139</PosX>
+    <PosY>64</PosY>
+    <Size>175</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -172,10 +172,10 @@
   <Instruments>
     <IDInst>14</IDInst>
     <Name>Tachometer</Name>
-    <Class>-</Class>
-    <PosX>1546</PosX>
-    <PosY>195</PosY>
-    <Size>200</Size>
+    <Class>Spit_RPM</Class>
+    <PosX>1358</PosX>
+    <PosY>215</PosY>
+    <Size>220</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -185,9 +185,9 @@
   <Instruments>
     <IDInst>15</IDInst>
     <Name>Boost gauge</Name>
-    <Class>-</Class>
-    <PosX>1545</PosX>
-    <PosY>-8</PosY>
+    <Class>Spit_Boost</Class>
+    <PosX>1508</PosX>
+    <PosY>433</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -198,9 +198,9 @@
   <Instruments>
     <IDInst>16</IDInst>
     <Name>Oil pressure gauge</Name>
-    <Class>-</Class>
-    <PosX>1282</PosX>
-    <PosY>-3</PosY>
+    <Class>Spit_OilP</Class>
+    <PosX>1335</PosX>
+    <PosY>615</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -211,9 +211,9 @@
   <Instruments>
     <IDInst>17</IDInst>
     <Name>Oil temperature gauge</Name>
-    <Class>-</Class>
-    <PosX>1025</PosX>
-    <PosY>-6</PosY>
+    <Class>Spit_OilT</Class>
+    <PosX>1450</PosX>
+    <PosY>635</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -224,9 +224,9 @@
   <Instruments>
     <IDInst>18</IDInst>
     <Name>Radiator temperature gauge</Name>
-    <Class>-</Class>
-    <PosX>788</PosX>
-    <PosY>-4</PosY>
+    <Class>Spit_H2oT</Class>
+    <PosX>1654</PosX>
+    <PosY>634</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -237,9 +237,9 @@
   <Instruments>
     <IDInst>19</IDInst>
     <Name>Fuel contents gauge</Name>
-    <Class>-</Class>
-    <PosX>548</PosX>
-    <PosY>-8</PosY>
+    <Class>Spit_FuelQ</Class>
+    <PosX>1502</PosX>
+    <PosY>845</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -249,10 +249,23 @@
   </Instruments>
   <Instruments>
     <IDInst>20</IDInst>
-    <Name>Magnetic compass (ADI)</Name>
-    <Class>-</Class>
-    <PosX>311</PosX>
-    <PosY>2</PosY>
+    <Name>Magnetic compass</Name>
+    <Class>Spit_Compass</Class>
+    <PosX>744</PosX>
+    <PosY>772</PosY>
+    <Size>300</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>21</IDInst>
+    <Name>Clock</Name>
+    <Class>Spit_Clock</Class>
+    <PosX>21</PosX>
+    <PosY>602</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -599,34 +612,6 @@
   <Functions>
     <IDInst>20</IDInst>
     <IDFct>1</IDFct>
-    <Name>Roll</Name>
-    <Arg_number>71</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>-1.0,1.0</Input>
-    <Output>-20.0,20.0</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>20</IDInst>
-    <IDFct>2</IDFct>
-    <Name>Pitch</Name>
-    <Arg_number>72</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>-1.0,1.0</Input>
-    <Output>-20.0,20.0</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>20</IDInst>
-    <IDFct>3</IDFct>
     <Name>Heading</Name>
     <Arg_number>73</Arg_number>
     <Value>0</Value>
