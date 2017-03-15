@@ -319,6 +319,12 @@
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
+    <ExportID>29</ExportID>
+    <Description>KPP Arretir</Description>
+    <ExportIDWithDescription>29 - KPP Arretir</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
     <ExportID>401</ExportID>
     <Description>Backseat - RV-5 DangerRALT</Description>
     <ExportIDWithDescription>401 - Backseat - RV-5 DangerRALT</ExportIDWithDescription>
@@ -562,6 +568,12 @@
     <ExportID>565</ExportID>
     <Description>Backseat - RadioUnderControl</Description>
     <ExportIDWithDescription>565 - Backseat - RadioUnderControl</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>366</ExportID>
+    <Description>Backseat - KPP Arretir</Description>
+    <ExportIDWithDescription>366 - Backseat - KPP Arretir</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
   <Clickabledata>

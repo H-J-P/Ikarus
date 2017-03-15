@@ -1226,6 +1226,21 @@
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
+  <Lamps>
+    <ID>12</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>29</Arg_number>
+    <Name>29 - KPP Arretir</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
+    <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
+    <PosX>759</PosX>
+    <PosY>475</PosY>
+    <Size>43</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
   <Switches>
     <ID>1</ID>
     <Class>Button</Class>
@@ -1266,7 +1281,7 @@
     <WindowID>1</WindowID>
     <Name>Main Panel</Name>
     <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosY>1200</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>L-39-Background.png</Background>
