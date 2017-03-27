@@ -266,7 +266,7 @@
     <Class>US_RWR</Class>
     <PosX>1234</PosX>
     <PosY>316</PosY>
-    <Size>240</Size>
+    <Size>230</Size>
     <Rotate>0</Rotate>
     <ImageFrame>F5E-FrameRWR.png</ImageFrame>
     <ImageLight>greenGlass15.png</ImageLight>
@@ -305,7 +305,7 @@
     <Class>F5E_Radar</Class>
     <PosX>749</PosX>
     <PosY>319</PosY>
-    <Size>430</Size>
+    <Size>440</Size>
     <Rotate>0</Rotate>
     <ImageFrame>F5E-RadarFrame.png</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -1439,7 +1439,7 @@
     <FilePictureOff>GreenLampOff.png</FilePictureOff>
     <PosX>59</PosX>
     <PosY>608</PosY>
-    <Size>65</Size>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1454,7 +1454,7 @@
     <FilePictureOff>GreenLampOff.png</FilePictureOff>
     <PosX>19</PosX>
     <PosY>637</PosY>
-    <Size>65</Size>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1469,13 +1469,13 @@
     <FilePictureOff>GreenLampOff.png</FilePictureOff>
     <PosX>100</PosX>
     <PosY>636</PosY>
-    <Size>65</Size>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>4</ID>
-    <Class>LampOnOff80x200</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>169</Arg_number>
     <Name>169 - MasterCaution</Name>
     <Value>0</Value>
@@ -1484,13 +1484,13 @@
     <FilePictureOff>LampMasterCautionOff.png</FilePictureOff>
     <PosX>1438</PosX>
     <PosY>563</PosY>
-    <Size>70</Size>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>5</ID>
-    <Class>LampOnOff80x200</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>167</Arg_number>
     <Name>167 - LeftFire</Name>
     <Value>0</Value>
@@ -1499,13 +1499,13 @@
     <FilePictureOff>LampFireOff.png</FilePictureOff>
     <PosX>716</PosX>
     <PosY>355</PosY>
-    <Size>70</Size>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>6</ID>
-    <Class>LampOnOff80x200</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>168</Arg_number>
     <Name>168 - RightFire</Name>
     <Value>0</Value>
@@ -1514,13 +1514,13 @@
     <FilePictureOff>LampFireOff.png</FilePictureOff>
     <PosX>1200</PosX>
     <PosY>355</PosY>
-    <Size>70</Size>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
   <Lamps>
     <ID>7</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>530</Arg_number>
     <Name>530 - Caution Lights panel LeftGenerator</Name>
     <Value>0</Value>
@@ -1535,7 +1535,7 @@
   </Lamps>
   <Lamps>
     <ID>8</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>531</Arg_number>
     <Name>531 - Caution Lights panel Canopy</Name>
     <Value>0</Value>
@@ -1550,7 +1550,7 @@
   </Lamps>
   <Lamps>
     <ID>9</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>532</Arg_number>
     <Name>532 - Caution Lights panel RightGenerator</Name>
     <Value>0</Value>
@@ -1565,7 +1565,7 @@
   </Lamps>
   <Lamps>
     <ID>10</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>533</Arg_number>
     <Name>533 - Caution Lights panel UtilityHyd </Name>
     <Value>0</Value>
@@ -1580,7 +1580,7 @@
   </Lamps>
   <Lamps>
     <ID>11</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>534</Arg_number>
     <Name>534 - Caution Lights panel Spare1</Name>
     <Value>0</Value>
@@ -1595,7 +1595,7 @@
   </Lamps>
   <Lamps>
     <ID>12</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>535</Arg_number>
     <Name>535 - Caution Lights panel FlightHyd</Name>
     <Value>0</Value>
@@ -1610,7 +1610,7 @@
   </Lamps>
   <Lamps>
     <ID>13</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>536</Arg_number>
     <Name>536 - Caution Lights panel ExtTanksEmpty</Name>
     <Value>0</Value>
@@ -1625,7 +1625,7 @@
   </Lamps>
   <Lamps>
     <ID>14</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>537</Arg_number>
     <Name>537 - Caution Lights panel IFF</Name>
     <Value>0</Value>
@@ -1640,7 +1640,7 @@
   </Lamps>
   <Lamps>
     <ID>15</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>538</Arg_number>
     <Name>538 - Caution Lights panel Oxygen</Name>
     <Value>0</Value>
@@ -1655,7 +1655,7 @@
   </Lamps>
   <Lamps>
     <ID>16</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>539</Arg_number>
     <Name>539 - Caution Lights panel LeftFuelLow</Name>
     <Value>0</Value>
@@ -1670,7 +1670,7 @@
   </Lamps>
   <Lamps>
     <ID>17</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>540</Arg_number>
     <Name>540 - Caution Lights panel EngineAntiIce</Name>
     <Value>0</Value>
@@ -1685,7 +1685,7 @@
   </Lamps>
   <Lamps>
     <ID>18</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>541</Arg_number>
     <Name>541 - Caution Lights panel RightFuelLow</Name>
     <Value>0</Value>
@@ -1700,7 +1700,7 @@
   </Lamps>
   <Lamps>
     <ID>19</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>542</Arg_number>
     <Name>542 - Caution Lights panel LeftFuelPress</Name>
     <Value>0</Value>
@@ -1715,7 +1715,7 @@
   </Lamps>
   <Lamps>
     <ID>20</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>543</Arg_number>
     <Name>543 - Caution Lights panel INS</Name>
     <Value>0</Value>
@@ -1730,7 +1730,7 @@
   </Lamps>
   <Lamps>
     <ID>21</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>544</Arg_number>
     <Name>544 - Caution Lights panel RightFuelPress</Name>
     <Value>0</Value>
@@ -1745,7 +1745,7 @@
   </Lamps>
   <Lamps>
     <ID>22</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>545</Arg_number>
     <Name>545 - Caution Lights panel AOA_Flaps</Name>
     <Value>0</Value>
@@ -1760,7 +1760,7 @@
   </Lamps>
   <Lamps>
     <ID>23</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>546</Arg_number>
     <Name>546 - Caution Lights panel AirDataComputer</Name>
     <Value>0</Value>
@@ -1775,7 +1775,7 @@
   </Lamps>
   <Lamps>
     <ID>24</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>547</Arg_number>
     <Name>547 - Caution Lights panel DirGyro</Name>
     <Value>0</Value>
@@ -1790,7 +1790,7 @@
   </Lamps>
   <Lamps>
     <ID>25</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>548</Arg_number>
     <Name>548 - Caution Lights panel Spare2</Name>
     <Value>0</Value>
@@ -1805,7 +1805,7 @@
   </Lamps>
   <Lamps>
     <ID>26</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>549</Arg_number>
     <Name>549 - Caution Lights panel DC_Overload</Name>
     <Value>0</Value>
@@ -1820,7 +1820,7 @@
   </Lamps>
   <Lamps>
     <ID>27</ID>
-    <Class>LampOnOff100x40</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>550</Arg_number>
     <Name>550 - Caution Lights panel Spare3</Name>
     <Value>0</Value>
@@ -1835,7 +1835,7 @@
   </Lamps>
   <Lamps>
     <ID>28</ID>
-    <Class>LampOnOff30x30</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>155</Arg_number>
     <Name>155 - AN/APQ-159 RangeScale_5</Name>
     <Value>0</Value>
@@ -1850,7 +1850,7 @@
   </Lamps>
   <Lamps>
     <ID>29</ID>
-    <Class>LampOnOff30x30</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>156</Arg_number>
     <Name>156 - AN/APQ-159 RangeScale_10</Name>
     <Value>0</Value>
@@ -1865,7 +1865,7 @@
   </Lamps>
   <Lamps>
     <ID>30</ID>
-    <Class>LampOnOff30x30</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>157</Arg_number>
     <Name>157 - AN/APQ-159 RangeScale_20</Name>
     <Value>0</Value>
@@ -1880,7 +1880,7 @@
   </Lamps>
   <Lamps>
     <ID>31</ID>
-    <Class>LampOnOff30x30</Class>
+    <Class>LampOnOff</Class>
     <Arg_number>158</Arg_number>
     <Name>158 - AN/APQ-159 RangeScale_40</Name>
     <Value>0</Value>
@@ -1904,7 +1904,7 @@
     <FilePictureOff>F5E-RWR_LampModeOpenOff.png</FilePictureOff>
     <PosX>1140</PosX>
     <PosY>186</PosY>
-    <Size>85</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1919,7 +1919,7 @@
     <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
     <PosX>1192</PosX>
     <PosY>186</PosY>
-    <Size>85</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1934,7 +1934,7 @@
     <FilePictureOff>F5E-RWR_LampHandoffOff.png</FilePictureOff>
     <PosX>1239</PosX>
     <PosY>186</PosY>
-    <Size>85</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1949,7 +1949,7 @@
     <FilePictureOff>F5E-RWR_LampAlititudeLowOff.png</FilePictureOff>
     <PosX>1339</PosX>
     <PosY>186</PosY>
-    <Size>85</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1964,7 +1964,7 @@
     <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
     <PosX>1192</PosX>
     <PosY>253</PosY>
-    <Size>85</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1979,7 +1979,7 @@
     <FilePictureOff>F5E-RWR_LampUnknownOff.png</FilePictureOff>
     <PosX>1239</PosX>
     <PosY>253</PosY>
-    <Size>85</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1994,7 +1994,7 @@
     <FilePictureOff>F5E-RWR_LampUnknownUpOff.png</FilePictureOff>
     <PosX>1239</PosX>
     <PosY>253</PosY>
-    <Size>85</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -2009,7 +2009,7 @@
     <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
     <PosX>1339</PosX>
     <PosY>253</PosY>
-    <Size>85</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -2024,7 +2024,7 @@
     <FilePictureOff>F5E-RWR_LampModePriorityOff.png</FilePictureOff>
     <PosX>1140</PosX>
     <PosY>186</PosY>
-    <Size>85</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -2039,7 +2039,7 @@
     <FilePictureOff>F5E-RWR_LampSepUpOff.png</FilePictureOff>
     <PosX>1140</PosX>
     <PosY>253</PosY>
-    <Size>85</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -2053,8 +2053,8 @@
     <FilePictureOn>F5E-RWR_LampSepDownOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampSepDownOff.png</FilePictureOff>
     <PosX>1140</PosX>
-    <PosY>253</PosY>
-    <Size>85</Size>
+    <PosY>252</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -2069,7 +2069,7 @@
     <FilePictureOff>F5E-RWR_LampHandoffUpOff.png</FilePictureOff>
     <PosX>1239</PosX>
     <PosY>186</PosY>
-    <Size>85</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -2084,7 +2084,7 @@
     <FilePictureOff>F5E-RWR_LampAlititudeAltOff.png</FilePictureOff>
     <PosX>1339</PosX>
     <PosY>186</PosY>
-    <Size>85</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -2102,7 +2102,7 @@
     <Output>0.0,1.0</Output>
     <PosX>1804</PosX>
     <PosY>913</PosY>
-    <Size>50</Size>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2123,7 +2123,7 @@
     <Output>0.0,1.0</Output>
     <PosX>1814</PosX>
     <PosY>984</PosY>
-    <Size>50</Size>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2144,7 +2144,7 @@
     <Output>0.0,1.0</Output>
     <PosX>1863</PosX>
     <PosY>985</PosY>
-    <Size>50</Size>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2163,9 +2163,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1477</PosX>
-    <PosY>824</PosY>
-    <Size>50</Size>
+    <PosX>1478</PosX>
+    <PosY>826</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2185,8 +2185,8 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>1560</PosX>
-    <PosY>833</PosY>
-    <Size>50</Size>
+    <PosY>839</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2205,9 +2205,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1641</PosX>
-    <PosY>823</PosY>
-    <Size>50</Size>
+    <PosX>1639</PosX>
+    <PosY>827</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2227,8 +2227,8 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>1348</PosX>
-    <PosY>882</PosY>
-    <Size>50</Size>
+    <PosY>887</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2247,9 +2247,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1411</PosX>
-    <PosY>881</PosY>
-    <Size>50</Size>
+    <PosX>1412</PosX>
+    <PosY>887</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2269,8 +2269,8 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>1526</PosX>
-    <PosY>763</PosY>
-    <Size>50</Size>
+    <PosY>766</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2290,8 +2290,8 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>1459</PosX>
-    <PosY>766</PosY>
-    <Size>50</Size>
+    <PosY>770</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2310,9 +2310,9 @@
     <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>1685</PosX>
+    <PosX>1819</PosX>
     <PosY>839</PosY>
-    <Size>60</Size>
+    <Size>50</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2331,9 +2331,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>133</PosX>
-    <PosY>992</PosY>
-    <Size>60</Size>
+    <PosX>123</PosX>
+    <PosY>988</PosY>
+    <Size>80</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2352,9 +2352,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>214</PosX>
-    <PosY>881</PosY>
-    <Size>60</Size>
+    <PosX>219</PosX>
+    <PosY>893</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2373,9 +2373,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>267</PosX>
-    <PosY>881</PosY>
-    <Size>60</Size>
+    <PosX>270</PosX>
+    <PosY>894</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2394,9 +2394,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>315</PosX>
-    <PosY>880</PosY>
-    <Size>60</Size>
+    <PosX>319</PosX>
+    <PosY>893</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2415,9 +2415,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>366</PosX>
-    <PosY>880</PosY>
-    <Size>60</Size>
+    <PosX>372</PosX>
+    <PosY>892</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2436,9 +2436,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>418</PosX>
-    <PosY>880</PosY>
-    <Size>60</Size>
+    <PosX>423</PosX>
+    <PosY>891</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2457,9 +2457,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>467</PosX>
-    <PosY>880</PosY>
-    <Size>60</Size>
+    <PosX>471</PosX>
+    <PosY>890</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2478,9 +2478,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>518</PosX>
-    <PosY>880</PosY>
-    <Size>60</Size>
+    <PosX>523</PosX>
+    <PosY>891</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2520,9 +2520,9 @@
     <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>203</PosX>
-    <PosY>798</PosY>
-    <Size>60</Size>
+    <PosX>201</PosX>
+    <PosY>796</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2541,9 +2541,9 @@
     <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>293</PosX>
+    <PosX>294</PosX>
     <PosY>781</PosY>
-    <Size>60</Size>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2604,9 +2604,9 @@
     <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>364</PosX>
+    <PosX>365</PosX>
     <PosY>783</PosY>
-    <Size>60</Size>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2625,9 +2625,9 @@
     <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>1238</PosX>
-    <PosY>776</PosY>
-    <Size>60</Size>
+    <PosX>1241</PosX>
+    <PosY>782</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2648,7 +2648,7 @@
     <Output>-1.0,0.0,1.0</Output>
     <PosX>999</PosX>
     <PosY>236</PosY>
-    <Size>60</Size>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2669,7 +2669,7 @@
     <Output>0</Output>
     <PosX>1206</PosX>
     <PosY>968</PosY>
-    <Size>65</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -2677,7 +2677,7 @@
   </Switches>
   <Switches>
     <ID>31</ID>
-    <Class>Button70x70</Class>
+    <Class>Button</Class>
     <ClickabledataID>658</ClickabledataID>
     <Name>MODE Button</Name>
     <Value>0</Value>
@@ -2698,7 +2698,7 @@
   </Switches>
   <Switches>
     <ID>32</ID>
-    <Class>Button70x70</Class>
+    <Class>Button</Class>
     <ClickabledataID>659</ClickabledataID>
     <Name>SEARCH Button</Name>
     <Value>0</Value>
@@ -2719,7 +2719,7 @@
   </Switches>
   <Switches>
     <ID>33</ID>
-    <Class>Button70x70</Class>
+    <Class>Button</Class>
     <ClickabledataID>660</ClickabledataID>
     <Name>HANDOFF Button</Name>
     <Value>0</Value>
@@ -2740,7 +2740,7 @@
   </Switches>
   <Switches>
     <ID>34</ID>
-    <Class>Button70x70</Class>
+    <Class>Button</Class>
     <ClickabledataID>661</ClickabledataID>
     <Name>LAUNCH Button</Name>
     <Value>0</Value>
@@ -2761,7 +2761,7 @@
   </Switches>
   <Switches>
     <ID>35</ID>
-    <Class>Button70x70</Class>
+    <Class>Button</Class>
     <ClickabledataID>662</ClickabledataID>
     <Name>ALTITUDE Button</Name>
     <Value>0</Value>
@@ -2782,7 +2782,7 @@
   </Switches>
   <Switches>
     <ID>36</ID>
-    <Class>Button70x70</Class>
+    <Class>Button</Class>
     <ClickabledataID>663</ClickabledataID>
     <Name>T Button</Name>
     <Value>0</Value>
@@ -2803,7 +2803,7 @@
   </Switches>
   <Switches>
     <ID>37</ID>
-    <Class>Button70x70</Class>
+    <Class>Button</Class>
     <ClickabledataID>664</ClickabledataID>
     <Name>SYS TEST Button</Name>
     <Value>0</Value>
@@ -2824,7 +2824,7 @@
   </Switches>
   <Switches>
     <ID>38</ID>
-    <Class>Button70x70</Class>
+    <Class>Button</Class>
     <ClickabledataID>665</ClickabledataID>
     <Name>UNKNOWN SHIP Button</Name>
     <Value>0</Value>
@@ -2845,7 +2845,7 @@
   </Switches>
   <Switches>
     <ID>39</ID>
-    <Class>Button70x70</Class>
+    <Class>Button</Class>
     <ClickabledataID>666</ClickabledataID>
     <Name>ACT/PWR Button</Name>
     <Value>0</Value>
@@ -2866,7 +2866,7 @@
   </Switches>
   <Switches>
     <ID>40</ID>
-    <Class>Button70x70</Class>
+    <Class>Button</Class>
     <ClickabledataID>667</ClickabledataID>
     <Name>POWER Button</Name>
     <Value>0</Value>
@@ -3382,7 +3382,7 @@
     <Output>0.0,1.0</Output>
     <PosX>1003</PosX>
     <PosY>971</PosY>
-    <Size>60</Size>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3464,9 +3464,9 @@
     <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>699</PosX>
-    <PosY>876</PosY>
-    <Size>65</Size>
+    <PosX>706</PosX>
+    <PosY>890</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3695,9 +3695,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>40</PosX>
-    <PosY>630</PosY>
-    <Size>60</Size>
+    <PosX>52</PosX>
+    <PosY>633</PosY>
+    <Size>45</Size>
     <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3716,9 +3716,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>3</Input>
     <Output>0</Output>
-    <PosX>626</PosX>
-    <PosY>971</PosY>
-    <Size>65</Size>
+    <PosX>637</PosX>
+    <PosY>974</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3736,9 +3736,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>65</PosX>
+    <PosX>159</PosX>
     <PosY>269</PosY>
-    <Size>50</Size>
+    <Size>40</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3915,24 +3915,24 @@
   </Switches>
   <Accessories>
     <ID>1</ID>
-    <Class>Label200x200</Class>
+    <Class>Label</Class>
     <Name>HookButton</Name>
     <FilePictureOn>F5E-HookPushOff.png</FilePictureOn>
     <PosX>150</PosX>
     <PosY>401</PosY>
-    <Size>190</Size>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>1</WindowID>
   </Accessories>
   <Accessories>
     <ID>2</ID>
-    <Class>Label200x200</Class>
+    <Class>Label</Class>
     <Name>Fast Erect</Name>
     <FilePictureOn>F5E-PushFastErectOff.png</FilePictureOn>
     <PosX>715</PosX>
     <PosY>168</PosY>
-    <Size>80</Size>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>1</WindowID>

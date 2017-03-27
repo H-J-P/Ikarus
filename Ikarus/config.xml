@@ -5,7 +5,7 @@
     <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-    <File>L-39C.ikarus</File>
+    <File>SpitfireLFMkIX.ikarus</File>
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
@@ -70,9 +70,6 @@
     <Classname>BfK4Fuel</Classname>
   </Classnames>
   <Classnames>
-    <Classname>BfK4Gear</Classname>
-  </Classnames>
-  <Classnames>
     <Classname>BfK4H2OT</Classname>
   </Classnames>
   <Classnames>
@@ -88,10 +85,13 @@
     <Classname>BfK4RPM</Classname>
   </Classnames>
   <Classnames>
-    <Classname>BfK4MG151Left</Classname>
+    <Classname>Display</Classname>
   </Classnames>
   <Classnames>
-    <Classname>BfK4MG151Right</Classname>
+    <Classname>Display7Segment</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>DisplayDotMatrix</Classname>
   </Classnames>
   <Classnames>
     <Classname>Display_CMSP</Classname>
@@ -107,21 +107,6 @@
   </Classnames>
   <Classnames>
     <Classname>Display_VHF</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>DisplayOne</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>DisplayTwo</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>DisplayThree</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>DisplaySix</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>DisplayEight</Classname>
   </Classnames>
   <Classnames>
     <Classname>F15Alt</Classname>
@@ -403,10 +388,16 @@
     <Classname>KA50WSC</Classname>
   </Classnames>
   <Classnames>
+    <Classname>Kneeboard</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>L39_ACC</Classname>
   </Classnames>
   <Classnames>
     <Classname>L39_ADF</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>L39_ADI</Classname>
   </Classnames>
   <Classnames>
     <Classname>L39_Alt20</Classname>
@@ -745,10 +736,13 @@
     <Classname>MIG29MDI</Classname>
   </Classnames>
   <Classnames>
-    <Classname>Monitor04x08</Classname>
+    <Classname>Monitor</Classname>
   </Classnames>
   <Classnames>
-    <Classname>Monitor10x24</Classname>
+    <Classname>MonitorDotMatrix</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Monitor7Segment</Classname>
   </Classnames>
   <Classnames>
     <Classname>P51ACC</Classname>
@@ -815,6 +809,63 @@
   </Classnames>
   <Classnames>
     <Classname>P51VVI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_ADI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_Alt</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_ASI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_Boost</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_BrakeP</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_Clock</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_Compass</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_DirectionalGyro</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_ElevTrim</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_FuelQ</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_H2oT</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_OilP</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_OilT</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_OxyP</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_OxyQ</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_RPM</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_Turn</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_Volt</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>Spit_VVI</Classname>
   </Classnames>
   <Classnames>
     <Classname>SU25AFuel</Classname>
@@ -901,10 +952,7 @@
     <Classname>UH1_RadioCompassIndicator</Classname>
   </Classnames>
   <Classnames>
-    <Classname>UH1_RadioCompassIndicator2</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>UH1_RadioCompassIndicator2V2</Classname>
+    <Classname>UH1_RadioCompassIndicatorCopilot</Classname>
   </Classnames>
   <Classnames>
     <Classname>UH1_RadioCompassIndicatorV2</Classname>

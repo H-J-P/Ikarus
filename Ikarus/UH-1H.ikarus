@@ -216,7 +216,7 @@
     <PosY>100</PosY>
     <Size>300</Size>
     <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
+    <ImageFrame>UH-1H_ADI.png</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
@@ -289,7 +289,7 @@
   <Instruments>
     <IDInst>29</IDInst>
     <Name>WhiskeyCompass</Name>
-    <Class>UH1_WhiskeyCompass</Class>
+    <Class>US_WhiskeyCompass</Class>
     <PosX>1750</PosX>
     <PosY>430</PosY>
     <Size>130</Size>
@@ -314,16 +314,68 @@
   </Instruments>
   <Instruments>
     <IDInst>31</IDInst>
-    <Name>RadioCompassCopilot</Name>
+    <Name>Copilot RadioCompass</Name>
     <Class>UH1_RadioCompassIndicatorV2</Class>
-    <PosX>833</PosX>
-    <PosY>458</PosY>
-    <Size>240</Size>
+    <PosX>495</PosX>
+    <PosY>370</PosY>
+    <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
+    <WindowID>2</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>32</IDInst>
+    <Name>Copilot ADI</Name>
+    <Class>UH1_ADI</Class>
+    <PosX>282</PosX>
+    <PosY>130</PosY>
+    <Size>200</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>UH-1H_ADI.png</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>2</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>33</IDInst>
+    <Name>Copilot ASI</Name>
+    <Class>UH1_ASI</Class>
+    <PosX>48</PosX>
+    <PosY>130</PosY>
+    <Size>200</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>2</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>34</IDInst>
+    <Name>Copilot Altitude</Name>
+    <Class>UH1_AltAAU32</Class>
+    <PosX>495</PosX>
+    <PosY>130</PosY>
+    <Size>200</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>2</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>35</IDInst>
+    <Name>Copilot VVI</Name>
+    <Class>UH1_VVI</Class>
+    <PosX>282</PosX>
+    <PosY>370</PosY>
+    <Size>200</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>2</WindowID>
   </Instruments>
   <Functions>
     <IDInst>4</IDInst>
@@ -1028,8 +1080,8 @@
   <Functions>
     <IDInst>29</IDInst>
     <IDFct>1</IDFct>
-    <Name>RMI_Heading</Name>
-    <Arg_number>269</Arg_number>
+    <Name>Heading</Name>
+    <Arg_number>272</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1042,8 +1094,8 @@
   <Functions>
     <IDInst>29</IDInst>
     <IDFct>2</IDFct>
-    <Name>Attitude_Roll</Name>
-    <Arg_number>142</Arg_number>
+    <Name>Roll</Name>
+    <Arg_number>273</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1056,8 +1108,8 @@
   <Functions>
     <IDInst>29</IDInst>
     <IDFct>3</IDFct>
-    <Name>Attitude_Pitch</Name>
-    <Arg_number>143</Arg_number>
+    <Name>Pitch</Name>
+    <Arg_number>274</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1137,6 +1189,202 @@
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
+  <Functions>
+    <IDInst>32</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Roll</Name>
+    <Arg_number>135</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>32</IDInst>
+    <IDFct>2</IDFct>
+    <Name>Pitch</Name>
+    <Arg_number>136</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>32</IDInst>
+    <IDFct>3</IDFct>
+    <Name>Off Flag</Name>
+    <Arg_number>141</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>32</IDInst>
+    <IDFct>4</IDFct>
+    <Name>Pitch Shift</Name>
+    <Arg_number>138</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>33</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Airspeed</Name>
+    <Arg_number>118</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>34</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Pointer</Name>
+    <Arg_number>168</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>34</IDInst>
+    <IDFct>2</IDFct>
+    <Name>10000 foot</Name>
+    <Arg_number>169</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>34</IDInst>
+    <IDFct>3</IDFct>
+    <Name>1000 foot</Name>
+    <Arg_number>170</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>34</IDInst>
+    <IDFct>4</IDFct>
+    <Name>100 foot</Name>
+    <Arg_number>171</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>34</IDInst>
+    <IDFct>5</IDFct>
+    <Name>Press 1</Name>
+    <Arg_number>174</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>34</IDInst>
+    <IDFct>6</IDFct>
+    <Name>Press 2</Name>
+    <Arg_number>175</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>34</IDInst>
+    <IDFct>7</IDFct>
+    <Name>Press 3</Name>
+    <Arg_number>176</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>34</IDInst>
+    <IDFct>8</IDFct>
+    <Name>Off Flag</Name>
+    <Arg_number>177</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>35</IDInst>
+    <IDFct>1</IDFct>
+    <Name>VVI</Name>
+    <Arg_number>251</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0, -0.81, -0.54, -0.36, 0.36, 0.54,  0.81, 1.0</Input>
+    <Output>-166, -136, -90, -60, 60, 90, 136, 166</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
   <Lamps>
     <ID>1</ID>
     <Class>LampOnOff</Class>
@@ -1147,8 +1395,8 @@
     <FilePictureOn>UH1_MasterCaution_On.PNG</FilePictureOn>
     <FilePictureOff>UH1_MasterCaution_Off.PNG</FilePictureOff>
     <PosX>439</PosX>
-    <PosY>29</PosY>
-    <Size>170</Size>
+    <PosY>30</PosY>
+    <Size>120</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1162,8 +1410,8 @@
     <FilePictureOn>UH1_RPMLimit_On.PNG</FilePictureOn>
     <FilePictureOff>UH1_RPMLimit_Off.PNG</FilePictureOff>
     <PosX>591</PosX>
-    <PosY>28</PosY>
-    <Size>170</Size>
+    <PosY>30</PosY>
+    <Size>120</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1177,8 +1425,8 @@
     <FilePictureOn>UH1_Fire_On.PNG</FilePictureOn>
     <FilePictureOff>UH1_Fire_Off.PNG</FilePictureOff>
     <PosX>740</PosX>
-    <PosY>28</PosY>
-    <Size>170</Size>
+    <PosY>30</PosY>
+    <Size>120</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1193,7 +1441,7 @@
     <FilePictureOff>UH1_IFF_Mode4_Off.PNG</FilePictureOff>
     <PosX>417</PosX>
     <PosY>937</PosY>
-    <Size>160</Size>
+    <Size>100</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1206,9 +1454,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>UH1_CargeRelArmed_On.PNG</FilePictureOn>
     <FilePictureOff>UH1_CargeRelArmed_Off.PNG</FilePictureOff>
-    <PosX>1551</PosX>
-    <PosY>935</PosY>
-    <Size>190</Size>
+    <PosX>1511</PosX>
+    <PosY>894</PosY>
+    <Size>175</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1223,10 +1471,30 @@
     <FilePictureOff>UH1_MarkerBeacon_Off.PNG</FilePictureOff>
     <PosX>1389</PosX>
     <PosY>633</PosY>
-    <Size>160</Size>
+    <Size>100</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
+  <Switches>
+    <ID>1</ID>
+    <Class>ButtonPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>-</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Uh-1H-Copilot-Button.png</FilePictureOn>
+    <FilePictureOff>Uh-1H-Copilot-Button.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>2</Input>
+    <Output />
+    <PosX>1780</PosX>
+    <PosY>0</PosY>
+    <Size>80</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
   </Parameter>
@@ -1238,5 +1506,16 @@
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>BackGround.png</Background>
+  </Window>
+  <Window>
+    <WindowID>2</WindowID>
+    <Name>Copilot Panel</Name>
+    <PosX>0</PosX>
+    <PosY>0</PosY>
+    <Height>1080</Height>
+    <Width>800</Width>
+    <Background>BackGround.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
   </Window>
 </DataSet1>

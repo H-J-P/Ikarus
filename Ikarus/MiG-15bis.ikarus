@@ -93,19 +93,6 @@
   </Instruments>
   <Instruments>
     <IDInst>8</IDInst>
-    <Name>Gear</Name>
-    <Class>MIG15_Gear</Class>
-    <PosX>50</PosX>
-    <PosY>900</PosY>
-    <Size>150</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>9</IDInst>
     <Name>Altimeter</Name>
     <Class>MIG15_ALT</Class>
     <PosX>450</PosX>
@@ -118,7 +105,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>10</IDInst>
+    <IDInst>9</IDInst>
     <Name>Clock</Name>
     <Class>MIG15_Clock</Class>
     <PosX>740</PosX>
@@ -131,7 +118,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>11</IDInst>
+    <IDInst>10</IDInst>
     <Name>FuelQ</Name>
     <Class>MIG15_FuelQ</Class>
     <PosX>1020</PosX>
@@ -144,7 +131,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>12</IDInst>
+    <IDInst>11</IDInst>
     <Name>GyroCompass</Name>
     <Class>MIG15_GyroCompass</Class>
     <PosX>1260</PosX>
@@ -157,7 +144,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>13</IDInst>
+    <IDInst>12</IDInst>
     <Name>EGT</Name>
     <Class>MIG15_EGT</Class>
     <PosX>1500</PosX>
@@ -170,7 +157,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>14</IDInst>
+    <IDInst>13</IDInst>
     <Name>VoltAmpMeter</Name>
     <Class>MIG15_VoltAmpMeter</Class>
     <PosX>1700</PosX>
@@ -183,7 +170,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>15</IDInst>
+    <IDInst>14</IDInst>
     <Name>Brake</Name>
     <Class>MIG15_Brake</Class>
     <PosX>230</PosX>
@@ -196,7 +183,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>16</IDInst>
+    <IDInst>15</IDInst>
     <Name>HydrP_Aileron</Name>
     <Class>MIG15_HydrP_Aileron</Class>
     <PosX>50</PosX>
@@ -209,7 +196,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>17</IDInst>
+    <IDInst>16</IDInst>
     <Name>Altimeter Radar</Name>
     <Class>MIG15_ALTR</Class>
     <PosX>450</PosX>
@@ -222,7 +209,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>18</IDInst>
+    <IDInst>17</IDInst>
     <Name>Mach</Name>
     <Class>MIG15_Mach</Class>
     <PosX>750</PosX>
@@ -235,7 +222,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>19</IDInst>
+    <IDInst>18</IDInst>
     <Name>FuelFlow</Name>
     <Class>MIG15_FuelFlow</Class>
     <PosX>1260</PosX>
@@ -248,7 +235,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>20</IDInst>
+    <IDInst>19</IDInst>
     <Name>FuelP</Name>
     <Class>MIG15_FuelP</Class>
     <PosX>1500</PosX>
@@ -261,7 +248,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>21</IDInst>
+    <IDInst>20</IDInst>
     <Name>CabinP</Name>
     <Class>MIG15_CabinP</Class>
     <PosX>1690</PosX>
@@ -274,7 +261,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>22</IDInst>
+    <IDInst>21</IDInst>
     <Name>PressureMainAir</Name>
     <Class>MIG15_PressureMainAir</Class>
     <PosX>480</PosX>
@@ -287,7 +274,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>23</IDInst>
+    <IDInst>22</IDInst>
     <Name>PressureMain</Name>
     <Class>MIG15_PressureMain</Class>
     <PosX>650</PosX>
@@ -300,7 +287,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>24</IDInst>
+    <IDInst>23</IDInst>
     <Name>PressureAirGears</Name>
     <Class>MIG15_PressureAirGears</Class>
     <PosX>900</PosX>
@@ -313,7 +300,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>25</IDInst>
+    <IDInst>24</IDInst>
     <Name>PressureAirFlaps</Name>
     <Class>MIG15_PressureAirFlaps</Class>
     <PosX>1070</PosX>
@@ -538,104 +525,6 @@
   <Functions>
     <IDInst>8</IDInst>
     <IDFct>1</IDFct>
-    <Name>lamp_LeftGearExt</Name>
-    <Arg_number>75</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>8</IDInst>
-    <IDFct>2</IDFct>
-    <Name>lamp_LeftGearRet</Name>
-    <Arg_number>74</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>8</IDInst>
-    <IDFct>3</IDFct>
-    <Name>lamp_RightGearExt</Name>
-    <Arg_number>79</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>8</IDInst>
-    <IDFct>4</IDFct>
-    <Name>lamp_RightGearRet</Name>
-    <Arg_number>78</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>8</IDInst>
-    <IDFct>5</IDFct>
-    <Name>lamp_NoseGearExt</Name>
-    <Arg_number>77</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>8</IDInst>
-    <IDFct>6</IDFct>
-    <Name>lamp_NoseGearRet</Name>
-    <Arg_number>76</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>8</IDInst>
-    <IDFct>7</IDFct>
-    <Name>lamp_ExtendGears</Name>
-    <Arg_number>53</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>9</IDInst>
-    <IDFct>1</IDFct>
     <Name>Altimeter_km</Name>
     <Arg_number>28</Arg_number>
     <Value>0</Value>
@@ -648,7 +537,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>9</IDInst>
+    <IDInst>8</IDInst>
     <IDFct>2</IDFct>
     <Name>Altimeter_m</Name>
     <Arg_number>29</Arg_number>
@@ -662,7 +551,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>9</IDInst>
+    <IDInst>8</IDInst>
     <IDFct>3</IDFct>
     <Name>Altimeter_Pressure</Name>
     <Arg_number>31</Arg_number>
@@ -676,7 +565,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>10</IDInst>
+    <IDInst>9</IDInst>
     <IDFct>1</IDFct>
     <Name>CLOCK_currtime_hours</Name>
     <Arg_number>15</Arg_number>
@@ -690,8 +579,8 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>10</IDInst>
-    <IDFct>1</IDFct>
+    <IDInst>9</IDInst>
+    <IDFct>2</IDFct>
     <Name>CLOCK_currtime_minutes</Name>
     <Arg_number>16</Arg_number>
     <Value>0</Value>
@@ -704,8 +593,8 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>10</IDInst>
-    <IDFct>1</IDFct>
+    <IDInst>9</IDInst>
+    <IDFct>3</IDFct>
     <Name>CLOCK_flight_time_meter_status</Name>
     <Arg_number>22</Arg_number>
     <Value>0</Value>
@@ -718,8 +607,8 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>10</IDInst>
-    <IDFct>1</IDFct>
+    <IDInst>9</IDInst>
+    <IDFct>4</IDFct>
     <Name>CLOCK_flight_hours</Name>
     <Arg_number>18</Arg_number>
     <Value>0</Value>
@@ -732,8 +621,8 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>10</IDInst>
-    <IDFct>1</IDFct>
+    <IDInst>9</IDInst>
+    <IDFct>5</IDFct>
     <Name>CLOCK_flight_minutes</Name>
     <Arg_number>19</Arg_number>
     <Value>0</Value>
@@ -746,8 +635,8 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>10</IDInst>
-    <IDFct>1</IDFct>
+    <IDInst>9</IDInst>
+    <IDFct>6</IDFct>
     <Name>CLOCK_seconds_meter_time_minutes</Name>
     <Arg_number>20</Arg_number>
     <Value>0</Value>
@@ -760,8 +649,8 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>10</IDInst>
-    <IDFct>1</IDFct>
+    <IDInst>9</IDInst>
+    <IDFct>7</IDFct>
     <Name>CLOCK_seconds_meter_time_seconds</Name>
     <Arg_number>17</Arg_number>
     <Value>0</Value>
@@ -774,7 +663,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>11</IDInst>
+    <IDInst>10</IDInst>
     <IDFct>1</IDFct>
     <Name>FuelQ</Name>
     <Arg_number>47</Arg_number>
@@ -788,7 +677,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>12</IDInst>
+    <IDInst>11</IDInst>
     <IDFct>1</IDFct>
     <Name>HeadingScale</Name>
     <Arg_number>32</Arg_number>
@@ -802,7 +691,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>12</IDInst>
+    <IDInst>11</IDInst>
     <IDFct>2</IDFct>
     <Name>Heading</Name>
     <Arg_number>33</Arg_number>
@@ -816,7 +705,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>13</IDInst>
+    <IDInst>12</IDInst>
     <IDFct>1</IDFct>
     <Name>EGT</Name>
     <Arg_number>41</Arg_number>
@@ -830,7 +719,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>14</IDInst>
+    <IDInst>13</IDInst>
     <IDFct>1</IDFct>
     <Name>VoltAmperMeter</Name>
     <Arg_number>83</Arg_number>
@@ -844,7 +733,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>14</IDInst>
+    <IDInst>13</IDInst>
     <IDFct>2</IDFct>
     <Name>lamps_lightness</Name>
     <Arg_number>244</Arg_number>
@@ -858,7 +747,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>15</IDInst>
+    <IDInst>14</IDInst>
     <IDFct>1</IDFct>
     <Name>LeftBrakePressure</Name>
     <Arg_number>121</Arg_number>
@@ -872,7 +761,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>15</IDInst>
+    <IDInst>14</IDInst>
     <IDFct>2</IDFct>
     <Name>RightBrakePressure</Name>
     <Arg_number>122</Arg_number>
@@ -886,7 +775,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>16</IDInst>
+    <IDInst>15</IDInst>
     <IDFct>1</IDFct>
     <Name>HydrP_Aileron</Name>
     <Arg_number>139</Arg_number>
@@ -900,7 +789,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>17</IDInst>
+    <IDInst>16</IDInst>
     <IDFct>1</IDFct>
     <Name>Altimeter Radar</Name>
     <Arg_number>35</Arg_number>
@@ -914,7 +803,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>18</IDInst>
+    <IDInst>17</IDInst>
     <IDFct>1</IDFct>
     <Name>Mach</Name>
     <Arg_number>27</Arg_number>
@@ -928,7 +817,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>19</IDInst>
+    <IDInst>18</IDInst>
     <IDFct>1</IDFct>
     <Name>OilTemperature</Name>
     <Arg_number>45</Arg_number>
@@ -942,7 +831,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>19</IDInst>
+    <IDInst>18</IDInst>
     <IDFct>2</IDFct>
     <Name>OilPressure</Name>
     <Arg_number>44</Arg_number>
@@ -956,7 +845,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>19</IDInst>
+    <IDInst>18</IDInst>
     <IDFct>3</IDFct>
     <Name>EngineFuelPressure</Name>
     <Arg_number>43</Arg_number>
@@ -970,7 +859,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>20</IDInst>
+    <IDInst>19</IDInst>
     <IDFct>1</IDFct>
     <Name>FuelP</Name>
     <Arg_number>46</Arg_number>
@@ -984,7 +873,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>21</IDInst>
+    <IDInst>20</IDInst>
     <IDFct>1</IDFct>
     <Name>CockpitAltitude</Name>
     <Arg_number>39</Arg_number>
@@ -998,7 +887,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>21</IDInst>
+    <IDInst>20</IDInst>
     <IDFct>2</IDFct>
     <Name>PressureDifference</Name>
     <Arg_number>40</Arg_number>
@@ -1012,7 +901,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>22</IDInst>
+    <IDInst>21</IDInst>
     <IDFct>1</IDFct>
     <Name>PressureMainAir</Name>
     <Arg_number>172</Arg_number>
@@ -1026,7 +915,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>23</IDInst>
+    <IDInst>22</IDInst>
     <IDFct>1</IDFct>
     <Name>PressureMain</Name>
     <Arg_number>168</Arg_number>
@@ -1040,7 +929,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>24</IDInst>
+    <IDInst>23</IDInst>
     <IDFct>1</IDFct>
     <Name>PressureAirGears</Name>
     <Arg_number>165</Arg_number>
@@ -1054,7 +943,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>25</IDInst>
+    <IDInst>24</IDInst>
     <IDFct>1</IDFct>
     <Name>PressureAirFlaps</Name>
     <Arg_number>169</Arg_number>
@@ -1067,6 +956,108 @@
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
+  <Lamps>
+    <ID>1</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>76</Arg_number>
+    <Name>76 - NoseGearRet</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>L-39-Gear-Up-Nose-on.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>166</PosX>
+    <PosY>882</PosY>
+    <Size>8</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>2</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>74</Arg_number>
+    <Name>74 - LeftGearRet</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>L-39-Gear-Up-LeftRight-on.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>132</PosX>
+    <PosY>896</PosY>
+    <Size>14</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>3</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>78</Arg_number>
+    <Name>78 - RightGearRet</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>L-39-Gear-Up-LeftRight-on.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>192</PosX>
+    <PosY>896</PosY>
+    <Size>14</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>4</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>77</Arg_number>
+    <Name>77 - NoseGearExt</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>L-39-Gear-Down-on.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>166</PosX>
+    <PosY>918</PosY>
+    <Size>8</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>5</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>75</Arg_number>
+    <Name>75 - LeftGearExt</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>L-39-Gear-Down-on.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>138</PosX>
+    <PosY>931</PosY>
+    <Size>8</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>6</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>79</Arg_number>
+    <Name>79 - RightGearExt</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>L-39-Gear-Down-on.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>194</PosX>
+    <PosY>931</PosY>
+    <Size>8</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Accessories>
+    <ID>1</ID>
+    <Class>Label</Class>
+    <Name>Gear Background</Name>
+    <FilePictureOn>L-39-Gear-Background.png</FilePictureOn>
+    <PosX>52</PosX>
+    <PosY>850</PosY>
+    <Size>235</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
   </Parameter>

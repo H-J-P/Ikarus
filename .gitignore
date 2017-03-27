@@ -1,14 +1,19 @@
+*.pdf
 *.psd
-
 *.dds
 
-Ikarus/Images/.DS_Store
-
-Ikarus/.DS_Store
-
+.DS_Store
 *.config
 
-*.vshost.exe
+_DelSyncFiles*/
+Monitor-test.ikarus
+*vshost*
+L-39C_v1*.*
+Thumbs.db
 
+.vs*/
+Backup*/
 
-Ikarus/Images/Backgounds/A10-Radios-Panel copy.png
+.com.greenworldsoft.syncfolderspro
+*.log
+Log.png

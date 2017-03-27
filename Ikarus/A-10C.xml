@@ -3970,7 +3970,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>418</ID>
-    <DeviceID>51</DeviceID>
+    <DeviceID>74</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>TACAN - Channel Selector (Tens)</Discription>
     <Type>Rotary</Type>
@@ -3978,40 +3978,40 @@
   </Clickabledata>
   <Clickabledata>
     <ID>419</ID>
-    <DeviceID>51</DeviceID>
-    <ButtonID>3</ButtonID>
+    <DeviceID>74</DeviceID>
+    <ButtonID>2</ButtonID>
     <Discription>TACAN - Channel Selector (Ones)</Discription>
     <Type>Rotary</Type>
     <DcsID>257</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>420</ID>
-    <DeviceID>51</DeviceID>
-    <ButtonID>5</ButtonID>
+    <DeviceID>74</DeviceID>
+    <ButtonID>3</ButtonID>
     <Discription>TACAN - Channel Selector (Ones) (button)</Discription>
     <Type>Switch</Type>
     <DcsID>258</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>421</ID>
-    <DeviceID>51</DeviceID>
-    <ButtonID>6</ButtonID>
+    <DeviceID>74</DeviceID>
+    <ButtonID>4</ButtonID>
     <Discription>Test TACAN Signal on HSI</Discription>
     <Type>Switch</Type>
     <DcsID>259</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>422</ID>
-    <DeviceID>51</DeviceID>
-    <ButtonID>7</ButtonID>
+    <DeviceID>74</DeviceID>
+    <ButtonID>5</ButtonID>
     <Discription>TACAN - Signal Volume</Discription>
     <Type>Rotary</Type>
     <DcsID>261</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>423</ID>
-    <DeviceID>51</DeviceID>
-    <ButtonID>8</ButtonID>
+    <DeviceID>74</DeviceID>
+    <ButtonID>6</ButtonID>
     <Discription>TACAN - Mode Dial</Discription>
     <Type>Switch</Type>
     <DcsID>262</DcsID>
@@ -4963,6 +4963,10 @@
   <Devices>
     <DeviceID>73</DeviceID>
     <Discription>DVADR</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>74</DeviceID>
+    <Discription>TACAN_CTRL_PANEL</Discription>
   </Devices>
   <Devices>
     <DeviceID>1000</DeviceID>
