@@ -1,0 +1,184 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <Instruments>
+    <IDInst>1</IDInst>
+    <Name>test</Name>
+    <Class>US_ADI_Sphere</Class>
+    <PosX>100</PosX>
+    <PosY>100</PosY>
+    <Size>400</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>1</IDFct>
+    <Name>pitch</Name>
+    <Arg_number>17</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>2</IDFct>
+    <Name>bank</Name>
+    <Arg_number>18</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>3</IDFct>
+    <Name>yaw / HSI geading</Name>
+    <Arg_number>34</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>4</IDFct>
+    <Name>slipbalkl</Name>
+    <Arg_number>24</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>5</IDFct>
+    <Name>banksteering</Name>
+    <Arg_number>20</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>6</IDFct>
+    <Name>pitchsteering</Name>
+    <Arg_number>21</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>7</IDFct>
+    <Name>turnneedle</Name>
+    <Arg_number>23</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>8</IDFct>
+    <Name>glideslopindicator</Name>
+    <Arg_number>27</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>9</IDFct>
+    <Name>glideslopwarningflag</Name>
+    <Arg_number>26</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>10</IDFct>
+    <Name>attitudewarningflag</Name>
+    <Arg_number>25</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>11</IDFct>
+    <Name>courcewarningflag</Name>
+    <Arg_number>19</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Parameter>
+    <FileBackground>BackGround.png</FileBackground>
+  </Parameter>
+  <Window>
+    <WindowID>1</WindowID>
+    <Name>main</Name>
+    <PosX>0</PosX>
+    <PosY>0</PosY>
+    <Height>1080</Height>
+    <Width>1920</Width>
+    <Background>-</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>false</Refresh>
+  </Window>
+</DataSet1>
