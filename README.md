@@ -1,5 +1,18 @@
-### Ikarus-Source 0.996x Beta
+# Ikarus
 
 Ikarus is a solution like Helios or Hawgtouch, but with a database background and the possiblity to configure it with a editor or in tables very simple.
 
-Please follow this link to the [Wiki](https://github.com/s-d-a/Ikarus/wiki)
+Please follow this link to our [Wiki](https://github.com/s-d-a/Ikarus/wiki)
+
+# Installation:
+
+- Please download Ikarus and unzip it.
+- Download McMicha's DCS-Exportscript from there:
+
+https://github.com/s-d-a/DCS-ExportScripts
+
+Copy the script folder to your folder:
+
+C:\Users\YourUsername\Saved Games\DCS
+
+After that, start Ikarus and DCS and have fun ....
