@@ -221,6 +221,32 @@
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
   </Instruments>
+  <Instruments>
+    <IDInst>18</IDInst>
+    <Name>R_832M Channel</Name>
+    <Class>Display7Segment</Class>
+    <PosX>15</PosX>
+    <PosY>245</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>19</IDInst>
+    <Name>R_832M Frequency</Name>
+    <Class>Display7Segment</Class>
+    <PosX>15</PosX>
+    <PosY>285</PosY>
+    <Size>130</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -974,6 +1000,34 @@
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>1</IDFct>
+    <Name>R_832M Channel</Name>
+    <Arg_number>2000</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>EFEFEF</Input>
+    <Output>2</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>19</IDInst>
+    <IDFct>1</IDFct>
+    <Name>R_832M Frquency</Name>
+    <Arg_number>2001</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>EFEFEF</Input>
+    <Output>8</Output>
+    <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
