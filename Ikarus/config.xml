@@ -5,7 +5,7 @@
     <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-    <File>SpitfireLFMkIX.ikarus</File>
+    <File>Display Test L-39C.ikarus</File>
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
@@ -83,9 +83,6 @@
   </Classnames>
   <Classnames>
     <Classname>BfK4RPM</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>Display</Classname>
   </Classnames>
   <Classnames>
     <Classname>Display7Segment</Classname>
