@@ -4,8 +4,8 @@
     <IDInst>1</IDInst>
     <Name>test</Name>
     <Class>US_ADI_Sphere</Class>
-    <PosX>100</PosX>
-    <PosY>100</PosY>
+    <PosX>1505</PosX>
+    <PosY>614</PosY>
     <Size>400</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -17,8 +17,8 @@
     <IDInst>2</IDInst>
     <Name>Test Display</Name>
     <Class>Display</Class>
-    <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosX>1687</PosX>
+    <PosY>496</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>

@@ -221,6 +221,19 @@
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
   </Instruments>
+  <Instruments>
+    <IDInst>18</IDInst>
+    <Name>Brake pressuge</Name>
+    <Class>L39_BrakeP</Class>
+    <PosX>86</PosX>
+    <PosY>527</PosY>
+    <Size>200</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -1061,6 +1074,34 @@
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Brake pressuge left</Name>
+    <Arg_number>98</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>2</IDFct>
+    <Name>Brake pressuge right</Name>
+    <Arg_number>99</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
   <Lamps>
     <ID>1</ID>
     <Class>LampOnOff</Class>
@@ -1281,7 +1322,7 @@
     <WindowID>1</WindowID>
     <Name>Main Panel</Name>
     <PosX>0</PosX>
-    <PosY>1200</PosY>
+    <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>L-39-Background.png</Background>
