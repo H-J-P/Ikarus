@@ -3,7 +3,7 @@
   <Instruments>
     <IDInst>1</IDInst>
     <Name>test</Name>
-    <Class>US_ADI_Sphere</Class>
+    <Class>AJS37_ADI</Class>
     <PosX>1505</PosX>
     <PosY>614</PosY>
     <Size>400</Size>
@@ -207,5 +207,6 @@
     <Background>-</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>false</Refresh>
+    <LightColor>#95E290</LightColor>
   </Window>
 </DataSet1>
