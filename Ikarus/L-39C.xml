@@ -576,6 +576,30 @@
     <ExportIDWithDescription>366 - Backseat - KPP Arretir</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <DCS_ID>
+    <ExportID>2000</ExportID>
+    <Description>R-828M Preset Channel</Description>
+    <ExportIDWithDescription>2000 - R-828M Preset Channel</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2001</ExportID>
+    <Description>R-828M Frequency</Description>
+    <ExportIDWithDescription>2001 - R-828M Frequency</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>189</ExportID>
+    <Description>RSBN NAV Channel</Description>
+    <ExportIDWithDescription>189 - RSBN NAV Channel</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>190</ExportID>
+    <Description>RSBN LAND Channel</Description>
+    <ExportIDWithDescription>190 - RSBN LAND Channel</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
   <Clickabledata>
     <ID>1</ID>
     <DeviceID>1</DeviceID>
