@@ -1071,7 +1071,7 @@
   <!-- Pilot's Attitude indicator -->
   <Clickabledata>
     <ID>94</ID>
-    <DeviceID>6</DeviceID>
+    <DeviceID>5</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>Pilot's Attitude Indicator Pitch Trim Knob</Discription>
     <DcsID>145</DcsID>
@@ -1079,7 +1079,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>95</ID>
-    <DeviceID>6</DeviceID>
+    <DeviceID>5</DeviceID>
     <ButtonID>2</ButtonID>
     <Discription>Pilot's Attitude Indicator Roll Trim Knob</Discription>
     <DcsID>144</DcsID>
@@ -1088,7 +1088,7 @@
   <!-- Copilot's attutude indicator -->
   <Clickabledata>
     <ID>96</ID>
-    <DeviceID>7</DeviceID>
+    <DeviceID>6</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>Cage Copilot's Attitude Indicator</Discription>
     <DcsID>140</DcsID>
@@ -1096,7 +1096,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>97</ID>
-    <DeviceID>7</DeviceID>
+    <DeviceID>6</DeviceID>
     <ButtonID>2</ButtonID>
     <Discription>Copilot's Attitude Indicator Pitch Trim Knob</Discription>
     <DcsID>146</DcsID>
@@ -1105,7 +1105,7 @@
   <!-- Nav lights -->
   <Clickabledata>
     <ID>98</ID>
-    <DeviceID>8</DeviceID>
+    <DeviceID>7</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>Navigation lights</Discription>
     <DcsID>222</DcsID>
@@ -1113,7 +1113,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>99</ID>
-    <DeviceID>8</DeviceID>
+    <DeviceID>7</DeviceID>
     <ButtonID>2</ButtonID>
     <Discription>Position Lights, STEADY/OFF/FLASH</Discription>
     <DcsID>223</DcsID>
@@ -1121,7 +1121,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>100</ID>
-    <DeviceID>8</DeviceID>
+    <DeviceID>7</DeviceID>
     <ButtonID>3</ButtonID>
     <Discription>Position Lights, DIM/BRIGHT</Discription>
     <DcsID>224</DcsID>
@@ -1129,7 +1129,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>101</ID>
-    <DeviceID>8</DeviceID>
+    <DeviceID>7</DeviceID>
     <ButtonID>4</ButtonID>
     <Discription>Anti-Collision Lights, ON/OFF</Discription>
     <DcsID>225</DcsID>
@@ -1137,7 +1137,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>102</ID>
-    <DeviceID>8</DeviceID>
+    <DeviceID>7</DeviceID>
     <ButtonID>5</ButtonID>
     <Discription>Landing Light</Discription>
     <DcsID>202</DcsID>
@@ -1145,7 +1145,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>103</ID>
-    <DeviceID>8</DeviceID>
+    <DeviceID>7</DeviceID>
     <ButtonID>6</ButtonID>
     <Discription>Search Light</Discription>
     <DcsID>201</DcsID>
@@ -1153,7 +1153,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>104</ID>
-    <DeviceID>8</DeviceID>
+    <DeviceID>7</DeviceID>
     <ButtonID>7</ButtonID>
     <Discription>Landing Light Ctrl</Discription>
     <DcsID>205</DcsID>
@@ -1162,7 +1162,7 @@
   <!-- Light System -->
   <Clickabledata>
     <ID>105</ID>
-    <DeviceID>8</DeviceID>
+    <DeviceID>7</DeviceID>
     <ButtonID>15</ButtonID>
     <Discription>Overhead Console Panel Lights Brightness Rheostat</Discription>
     <DcsID>230</DcsID>
@@ -1170,7 +1170,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>106</ID>
-    <DeviceID>8</DeviceID>
+    <DeviceID>7</DeviceID>
     <ButtonID>16</ButtonID>
     <Discription>Pedestal Lights Brightness Rheostat</Discription>
     <DcsID>231</DcsID>
@@ -1178,7 +1178,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>107</ID>
-    <DeviceID>8</DeviceID>
+    <DeviceID>7</DeviceID>
     <ButtonID>17</ButtonID>
     <Discription>Secondary Instrument Lights Brightness Rheostat</Discription>
     <DcsID>232</DcsID>
@@ -1186,7 +1186,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>108</ID>
-    <DeviceID>8</DeviceID>
+    <DeviceID>7</DeviceID>
     <ButtonID>18</ButtonID>
     <Discription>Engine Instrument Lights Brightness Rheostat</Discription>
     <DcsID>233</DcsID>
@@ -1194,7 +1194,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>109</ID>
-    <DeviceID>8</DeviceID>
+    <DeviceID>7</DeviceID>
     <ButtonID>19</ButtonID>
     <Discription>Copilot Instrument Lights Brightness Rheostat</Discription>
     <DcsID>234</DcsID>
@@ -1202,7 +1202,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>110</ID>
-    <DeviceID>8</DeviceID>
+    <DeviceID>7</DeviceID>
     <ButtonID>20</ButtonID>
     <Discription>Pilot Instrument Lights Brightness Rheostat</Discription>
     <DcsID>235</DcsID>
@@ -1210,7 +1210,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>111</ID>
-    <DeviceID>8</DeviceID>
+    <DeviceID>7</DeviceID>
     <ButtonID>21</ButtonID>
     <Discription>Dome Light Ctrl</Discription>
     <DcsID>226</DcsID>
@@ -2159,15 +2159,15 @@
     <Discription>HYDRO_SYS_INTERFACE</Discription>
   </Devices>
   <Devices>
-    <DeviceID>6</DeviceID>
+    <DeviceID>5</DeviceID>
     <Discription>ADI_PILOT</Discription>
   </Devices>
   <Devices>
-    <DeviceID>7</DeviceID>
+    <DeviceID>6</DeviceID>
     <Discription>ADI_OPERATOR</Discription>
   </Devices>
   <Devices>
-    <DeviceID>8</DeviceID>
+    <DeviceID>7</DeviceID>
     <Discription>NAVLIGHT_SYSTEM</Discription>
   </Devices>
   <Devices>
