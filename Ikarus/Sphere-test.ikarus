@@ -26,6 +26,32 @@
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
   </Instruments>
+  <Instruments>
+    <IDInst>3</IDInst>
+    <Name>L39_BrakeP</Name>
+    <Class>L39_BrakeP</Class>
+    <PosX>1491</PosX>
+    <PosY>410</PosY>
+    <Size>200</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>4</IDInst>
+    <Name>L39_Brake</Name>
+    <Class>L39_Brake</Class>
+    <PosX>1285</PosX>
+    <PosY>419</PosY>
+    <Size>200</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -194,6 +220,48 @@
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
+  <Functions>
+    <IDInst>3</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Left</Name>
+    <Arg_number>10</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>3</IDInst>
+    <IDFct>2</IDFct>
+    <Name>Right</Name>
+    <Arg_number>11</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>4</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Brake</Name>
+    <Arg_number>12</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
   </Parameter>
@@ -207,6 +275,6 @@
     <Background>-</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>false</Refresh>
-    <LightColor>#95E290</LightColor>
+    <LightColor>95E290</LightColor>
   </Window>
 </DataSet1>
