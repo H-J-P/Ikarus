@@ -17,3 +17,5 @@ Backup*/
 .com.greenworldsoft.syncfolderspro
 *.log
 Log.png
+*Temp.*
+*temp.*
