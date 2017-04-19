@@ -277,9 +277,9 @@
     <IDInst>22</IDInst>
     <Name>Brake Pressure</Name>
     <Class>L39_BrakeP</Class>
-    <PosX>10</PosX>
-    <PosY>5</PosY>
-    <Size>150</Size>
+    <PosX>-1</PosX>
+    <PosY>524</PosY>
+    <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -290,9 +290,9 @@
     <IDInst>23</IDInst>
     <Name>Hyd. Pressure</Name>
     <Class>L39_HydraulikP</Class>
-    <PosX>165</PosX>
-    <PosY>5</PosY>
-    <Size>150</Size>
+    <PosX>99</PosX>
+    <PosY>336</PosY>
+    <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -303,9 +303,9 @@
     <IDInst>24</IDInst>
     <Name>ZDV30</Name>
     <Class>L39_ZDV30</Class>
-    <PosX>320</PosX>
-    <PosY>5</PosY>
-    <Size>150</Size>
+    <PosX>197</PosX>
+    <PosY>523</PosY>
+    <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -316,9 +316,9 @@
     <IDInst>25</IDInst>
     <Name>Oxy Blinker</Name>
     <Class>L39_Oxy</Class>
-    <PosX>475</PosX>
-    <PosY>5</PosY>
-    <Size>150</Size>
+    <PosX>1713</PosX>
+    <PosY>876</PosY>
+    <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -329,9 +329,9 @@
     <IDInst>26</IDInst>
     <Name>Oxy Pressure</Name>
     <Class>L39_OxyH</Class>
-    <PosX>630</PosX>
-    <PosY>5</PosY>
-    <Size>150</Size>
+    <PosX>1709</PosX>
+    <PosY>664</PosY>
+    <Size>205</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -1291,9 +1291,37 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
+    <IDInst>24</IDInst>
+    <IDFct>1</IDFct>
+    <Name>VD_20_PRESS</Name>
+    <Arg_number>56</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
     <IDInst>25</IDInst>
     <IDFct>1</IDFct>
     <Name>Pressure</Name>
+    <Arg_number>301</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>26</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Volumen</Name>
     <Arg_number>301</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1309,20 +1337,6 @@
     <IDFct>2</IDFct>
     <Name>Blinker</Name>
     <Arg_number>302</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>24</IDInst>
-    <IDFct>1</IDFct>
-    <Name>RSBN Field Elevation Knob</Name>
-    <Arg_number>201</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>

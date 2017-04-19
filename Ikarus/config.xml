@@ -5,7 +5,7 @@
     <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-    <File>L-39C.ikarus</File>
+    <File>AJS37.ikarus</File>
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
@@ -59,6 +59,54 @@
   </Classnames>
   <Classnames>
     <Classname>A10_UHF</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_ACC</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_ADI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_ALT_stby</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_AOA</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_ASI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_ASI_stby</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_DIST</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_EGT</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_ELEV_TRIM</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_EPR</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_FUEL_Q</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_HSI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_KURS</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_NOZ</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_OXY_Q</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_RPM</Classname>
   </Classnames>
   <Classnames>
     <Classname>BfK4Att</Classname>
