@@ -4,8 +4,8 @@
     <IDInst>1</IDInst>
     <Name>ACC</Name>
     <Class>AJS37_ACC</Class>
-    <PosX>1301</PosX>
-    <PosY>93</PosY>
+    <PosX>1424</PosX>
+    <PosY>107</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -17,9 +17,9 @@
     <IDInst>2</IDInst>
     <Name>ADI</Name>
     <Class>AJS37_ADI</Class>
-    <PosX>372</PosX>
-    <PosY>252</PosY>
-    <Size>350</Size>
+    <PosX>362</PosX>
+    <PosY>235</PosY>
+    <Size>315</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -28,11 +28,11 @@
   </Instruments>
   <Instruments>
     <IDInst>3</IDInst>
-    <Name>Alt Standby</Name>
+    <Name>Alt</Name>
     <Class>AJS37_ALT_stby</Class>
-    <PosX>1101</PosX>
-    <PosY>256</PosY>
-    <Size>200</Size>
+    <PosX>390</PosX>
+    <PosY>575</PosY>
+    <Size>250</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -43,8 +43,8 @@
     <IDInst>4</IDInst>
     <Name>AOA</Name>
     <Class>AJS37_AOA</Class>
-    <PosX>674</PosX>
-    <PosY>2</PosY>
+    <PosX>623</PosX>
+    <PosY>9</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -56,8 +56,8 @@
     <IDInst>5</IDInst>
     <Name>ASI</Name>
     <Class>AJS37_ASI</Class>
-    <PosX>114</PosX>
-    <PosY>367</PosY>
+    <PosX>110</PosX>
+    <PosY>263</PosY>
     <Size>250</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -69,8 +69,8 @@
     <IDInst>6</IDInst>
     <Name>ASI Standby</Name>
     <Class>AJS37_ASI_stby</Class>
-    <PosX>1303</PosX>
-    <PosY>296</PosY>
+    <PosX>1426</PosX>
+    <PosY>311</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -82,8 +82,8 @@
     <IDInst>7</IDInst>
     <Name>Distance</Name>
     <Class>AJS37_DIST</Class>
-    <PosX>1511</PosX>
-    <PosY>403</PosY>
+    <PosX>1631</PosX>
+    <PosY>410</PosY>
     <Size>250</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -95,9 +95,9 @@
     <IDInst>8</IDInst>
     <Name>EGT</Name>
     <Class>AJS37_EGT</Class>
-    <PosX>722</PosX>
-    <PosY>763</PosY>
-    <Size>200</Size>
+    <PosX>1432</PosX>
+    <PosY>921</PosY>
+    <Size>150</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -108,9 +108,9 @@
     <IDInst>9</IDInst>
     <Name>Elev. Trim</Name>
     <Class>AJS37_ELEV_TRIM</Class>
-    <PosX>313</PosX>
-    <PosY>763</PosY>
-    <Size>200</Size>
+    <PosX>4</PosX>
+    <PosY>926</PosY>
+    <Size>150</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -121,8 +121,8 @@
     <IDInst>10</IDInst>
     <Name>EPR</Name>
     <Class>AJS37_EPR</Class>
-    <PosX>1302</PosX>
-    <PosY>705</PosY>
+    <PosX>1430</PosX>
+    <PosY>718</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -134,8 +134,8 @@
     <IDInst>11</IDInst>
     <Name>Fuel Q</Name>
     <Class>AJS37_FUEL_Q</Class>
-    <PosX>1508</PosX>
-    <PosY>655</PosY>
+    <PosX>1632</PosX>
+    <PosY>665</PosY>
     <Size>250</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -147,9 +147,9 @@
     <IDInst>12</IDInst>
     <Name>HSI</Name>
     <Class>AJS37_HSI</Class>
-    <PosX>724</PosX>
-    <PosY>250</PosY>
-    <Size>200</Size>
+    <PosX>687</PosX>
+    <PosY>363</PosY>
+    <Size>280</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -160,8 +160,8 @@
     <IDInst>13</IDInst>
     <Name>Compass</Name>
     <Class>AJS37_KURS</Class>
-    <PosX>1099</PosX>
-    <PosY>461</PosY>
+    <PosX>1221</PosX>
+    <PosY>718</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -173,9 +173,9 @@
     <IDInst>14</IDInst>
     <Name>Nozzle</Name>
     <Class>AJS37_NOZ</Class>
-    <PosX>932</PosX>
-    <PosY>768</PosY>
-    <Size>200</Size>
+    <PosX>1737</PosX>
+    <PosY>918</PosY>
+    <Size>150</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -186,9 +186,9 @@
     <IDInst>15</IDInst>
     <Name>Oxy Q</Name>
     <Class>AJS37_OXY_Q</Class>
-    <PosX>516</PosX>
-    <PosY>764</PosY>
-    <Size>200</Size>
+    <PosX>1585</PosX>
+    <PosY>920</PosY>
+    <Size>150</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -199,8 +199,47 @@
     <IDInst>16</IDInst>
     <Name>RPM</Name>
     <Class>AJS37_RPM</Class>
-    <PosX>1304</PosX>
-    <PosY>502</PosY>
+    <PosX>1429</PosX>
+    <PosY>513</PosY>
+    <Size>200</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>17</IDInst>
+    <Name>Clock</Name>
+    <Class>US_Clock</Class>
+    <PosX>1218</PosX>
+    <PosY>3</PosY>
+    <Size>200</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>18</IDInst>
+    <Name>Alt Stby</Name>
+    <Class>AJS37_ALT_stby</Class>
+    <PosX>1219</PosX>
+    <PosY>513</PosY>
+    <Size>200</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>19</IDInst>
+    <Name>ADI Stby</Name>
+    <Class>US_ADIstby</Class>
+    <PosX>1219</PosX>
+    <PosY>309</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -870,6 +909,132 @@
     <IDInst>16</IDInst>
     <IDFct>2</IDFct>
     <Name>RPM 1</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Hour</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>2</IDFct>
+    <Name>Min</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>3</IDFct>
+    <Name>Sec</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Alt100 Pointer</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>2</IDFct>
+    <Name>Alt1000 Pointer</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>3</IDFct>
+    <Name>Pressure_0</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>4</IDFct>
+    <Name>Pressure_1</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>5</IDFct>
+    <Name>Pressure_2</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>6</IDFct>
+    <Name>Pressure_3</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
