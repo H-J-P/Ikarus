@@ -251,7 +251,7 @@
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
     <Name>Acceleration</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>136</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -293,7 +293,7 @@
     <IDInst>2</IDInst>
     <IDFct>1</IDFct>
     <Name>pitch</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>105</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -307,7 +307,7 @@
     <IDInst>2</IDInst>
     <IDFct>2</IDFct>
     <Name>heading</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>106</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -321,7 +321,7 @@
     <IDInst>2</IDInst>
     <IDFct>3</IDFct>
     <Name>bank</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>107</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -335,7 +335,7 @@
     <IDInst>2</IDInst>
     <IDFct>4</IDFct>
     <Name>slipBall</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>111</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -349,7 +349,7 @@
     <IDInst>2</IDInst>
     <IDFct>5</IDFct>
     <Name>vvi</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>108</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -405,7 +405,7 @@
     <IDInst>3</IDInst>
     <IDFct>1</IDFct>
     <Name>Alt100 Pointer</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>113</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -419,7 +419,7 @@
     <IDInst>3</IDInst>
     <IDFct>2</IDFct>
     <Name>Alt1000 Pointer</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>114</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -433,7 +433,7 @@
     <IDInst>3</IDInst>
     <IDFct>3</IDFct>
     <Name>Pressure_0</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>115</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -447,7 +447,7 @@
     <IDInst>3</IDInst>
     <IDFct>4</IDFct>
     <Name>Pressure_1</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>116</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -461,7 +461,7 @@
     <IDInst>3</IDInst>
     <IDFct>5</IDFct>
     <Name>Pressure_2</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>117</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -475,7 +475,7 @@
     <IDInst>3</IDInst>
     <IDFct>6</IDFct>
     <Name>Pressure_3</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>118</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -489,7 +489,7 @@
     <IDInst>4</IDInst>
     <IDFct>1</IDFct>
     <Name>AOA</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>147</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -503,12 +503,12 @@
     <IDInst>5</IDInst>
     <IDFct>1</IDFct>
     <Name>IAS</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>100</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>0,0.01,0.10,0.15,0.20,0.25,0.30,0.35,0.40,0.45,0.50,0.60,0.70,0.75,0.80,0.85,0.90,0.95,1</Input>
+    <Output>0,21,32,41,66,85,107,118,135,150,169,205,236,252,270,285,303,317,340</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -517,7 +517,7 @@
     <IDInst>5</IDInst>
     <IDFct>2</IDFct>
     <Name>Mach1</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>103</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -531,7 +531,7 @@
     <IDInst>5</IDInst>
     <IDFct>3</IDFct>
     <Name>Mach10</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>102</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -545,7 +545,7 @@
     <IDInst>5</IDInst>
     <IDFct>4</IDFct>
     <Name>Mach100</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>101</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -587,12 +587,12 @@
     <IDInst>6</IDInst>
     <IDFct>1</IDFct>
     <Name>IAS</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>138</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>0.0,0.01,0.05,0.10,0.15,0.20,0.25,0.30,0.40,0.50, 0.60,0.70,0.80,0.90,1.00</Input>
+    <Output>0,25,45,64,78,95,110,120,155,185,215,248,278,306,338</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -601,7 +601,7 @@
     <IDInst>7</IDInst>
     <IDFct>1</IDFct>
     <Name>Distance</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>142</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -629,7 +629,7 @@
     <IDInst>8</IDInst>
     <IDFct>1</IDFct>
     <Name>EGT</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>146</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -685,7 +685,7 @@
     <IDInst>11</IDInst>
     <IDFct>1</IDFct>
     <Name>fuel Q</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>144</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -698,8 +698,8 @@
   <Functions>
     <IDInst>11</IDInst>
     <IDFct>2</IDFct>
-    <Name>joker</Name>
-    <Arg_number>0</Arg_number>
+    <Name>fuel needed</Name>
+    <Arg_number>145</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -713,7 +713,7 @@
     <IDInst>12</IDInst>
     <IDFct>1</IDFct>
     <Name>heading</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>128</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -727,7 +727,7 @@
     <IDInst>12</IDInst>
     <IDFct>2</IDFct>
     <Name>commandedCourse</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>129</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -895,7 +895,7 @@
     <IDInst>16</IDInst>
     <IDFct>1</IDFct>
     <Name>RPM 10</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>139</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -909,7 +909,7 @@
     <IDInst>16</IDInst>
     <IDFct>2</IDFct>
     <Name>RPM 1</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>140</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -965,7 +965,7 @@
     <IDInst>18</IDInst>
     <IDFct>1</IDFct>
     <Name>Alt100 Pointer</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>124</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -979,7 +979,7 @@
     <IDInst>18</IDInst>
     <IDFct>2</IDFct>
     <Name>Alt1000 Pointer</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>125</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -993,7 +993,7 @@
     <IDInst>18</IDInst>
     <IDFct>3</IDFct>
     <Name>Pressure_0</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>115</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1007,7 +1007,7 @@
     <IDInst>18</IDInst>
     <IDFct>4</IDFct>
     <Name>Pressure_1</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>116</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1021,7 +1021,7 @@
     <IDInst>18</IDInst>
     <IDFct>5</IDFct>
     <Name>Pressure_2</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>117</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1035,7 +1035,35 @@
     <IDInst>18</IDInst>
     <IDFct>6</IDFct>
     <Name>Pressure_3</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>118</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>19</IDInst>
+    <IDFct>1</IDFct>
+    <Name>pitch</Name>
+    <Arg_number>121</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>19</IDInst>
+    <IDFct>2</IDFct>
+    <Name>bank</Name>
+    <Arg_number>122</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>

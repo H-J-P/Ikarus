@@ -41,20 +41,7 @@
   </Instruments>
   <Instruments>
     <IDInst>4</IDInst>
-    <Name>PneumaticPressureGauge</Name>
-    <Class>-</Class>
-    <PosX>94</PosX>
-    <PosY>206</PosY>
-    <Size>200</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>5</IDInst>
-    <Name>LeftWheelBrakeGauge</Name>
+    <Name>Supply / Wheel Brake Pressure</Name>
     <Class>Spit_BrakeP</Class>
     <PosX>520</PosX>
     <PosY>859</PosY>
@@ -66,20 +53,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>6</IDInst>
-    <Name>RightWheelBrakeGauge</Name>
-    <Class>Spit_BrakeP</Class>
-    <PosX>1080</PosX>
-    <PosY>861</PosY>
-    <Size>200</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>7</IDInst>
+    <IDInst>5</IDInst>
     <Name>AirspeedGauge</Name>
     <Class>Spit_ASI</Class>
     <PosX>486</PosX>
@@ -92,7 +66,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>8</IDInst>
+    <IDInst>6</IDInst>
     <Name>ADI</Name>
     <Class>Spit_ADI</Class>
     <PosX>767</PosX>
@@ -105,7 +79,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>9</IDInst>
+    <IDInst>7</IDInst>
     <Name>Variometer</Name>
     <Class>Spit_VVI</Class>
     <PosX>1048</PosX>
@@ -118,7 +92,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>10</IDInst>
+    <IDInst>8</IDInst>
     <Name>Altimeter</Name>
     <Class>Spit_Alt</Class>
     <PosX>483</PosX>
@@ -131,7 +105,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>11</IDInst>
+    <IDInst>9</IDInst>
     <Name>DI gauge</Name>
     <Class>Spit_DirectionalGyro</Class>
     <PosX>808</PosX>
@@ -144,7 +118,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>12</IDInst>
+    <IDInst>10</IDInst>
     <Name>Turn and bank indicator</Name>
     <Class>Spit_Turn</Class>
     <PosX>1044</PosX>
@@ -157,7 +131,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>13</IDInst>
+    <IDInst>11</IDInst>
     <Name>Voltmeter</Name>
     <Class>Spit_Volt</Class>
     <PosX>1139</PosX>
@@ -170,7 +144,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>14</IDInst>
+    <IDInst>12</IDInst>
     <Name>Tachometer</Name>
     <Class>Spit_RPM</Class>
     <PosX>1358</PosX>
@@ -183,7 +157,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>15</IDInst>
+    <IDInst>13</IDInst>
     <Name>Boost gauge</Name>
     <Class>Spit_Boost</Class>
     <PosX>1508</PosX>
@@ -196,7 +170,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>16</IDInst>
+    <IDInst>14</IDInst>
     <Name>Oil pressure gauge</Name>
     <Class>Spit_OilP</Class>
     <PosX>1335</PosX>
@@ -209,7 +183,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>17</IDInst>
+    <IDInst>15</IDInst>
     <Name>Oil temperature gauge</Name>
     <Class>Spit_OilT</Class>
     <PosX>1450</PosX>
@@ -222,7 +196,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>18</IDInst>
+    <IDInst>16</IDInst>
     <Name>Radiator temperature gauge</Name>
     <Class>Spit_H2oT</Class>
     <PosX>1654</PosX>
@@ -235,7 +209,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>19</IDInst>
+    <IDInst>17</IDInst>
     <Name>Fuel contents gauge</Name>
     <Class>Spit_FuelQ</Class>
     <PosX>1502</PosX>
@@ -248,7 +222,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>20</IDInst>
+    <IDInst>18</IDInst>
     <Name>Magnetic compass</Name>
     <Class>Spit_Compass</Class>
     <PosX>744</PosX>
@@ -261,7 +235,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>21</IDInst>
+    <IDInst>19</IDInst>
     <Name>Clock</Name>
     <Class>Spit_Clock</Class>
     <PosX>21</PosX>
@@ -281,8 +255,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,0.4</Input>
-    <Output>0,4000</Output>
+    <Input>0.0,0.10,0.15,0.20,0.25,0.30,0.35,1.0</Input>
+    <Output> 0,30,68, 89,129,166,184,301</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -318,47 +292,19 @@
   <Functions>
     <IDInst>4</IDInst>
     <IDFct>1</IDFct>
-    <Name>Pressure</Name>
+    <Name>Pneumatic supply pressure</Name>
     <Arg_number>18</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
-    <Output>0.0,600.0</Output>
+    <Output>0.0,130.0</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
   <Functions>
     <IDInst>5</IDInst>
-    <IDFct>1</IDFct>
-    <Name>Pressure</Name>
-    <Arg_number>19</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,130.0</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>6</IDInst>
-    <IDFct>1</IDFct>
-    <Name>Pressure</Name>
-    <Arg_number>20</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,130.0</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>7</IDInst>
     <IDFct>1</IDFct>
     <Name>Airspeed</Name>
     <Arg_number>21</Arg_number>
@@ -372,22 +318,8 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>8</IDInst>
+    <IDInst>6</IDInst>
     <IDFct>1</IDFct>
-    <Name>Bank</Name>
-    <Arg_number>23</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>-1.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>8</IDInst>
-    <IDFct>2</IDFct>
     <Name>Pitch</Name>
     <Arg_number>24</Arg_number>
     <Value>0</Value>
@@ -400,7 +332,21 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>9</IDInst>
+    <IDInst>6</IDInst>
+    <IDFct>2</IDFct>
+    <Name>Bank</Name>
+    <Arg_number>23</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
     <IDFct>1</IDFct>
     <Name>VVI</Name>
     <Arg_number>25</Arg_number>
@@ -414,7 +360,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>10</IDInst>
+    <IDInst>8</IDInst>
     <IDFct>1</IDFct>
     <Name>Hundreds</Name>
     <Arg_number>26</Arg_number>
@@ -428,7 +374,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>10</IDInst>
+    <IDInst>8</IDInst>
     <IDFct>2</IDFct>
     <Name>Thousands</Name>
     <Arg_number>27</Arg_number>
@@ -442,7 +388,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>10</IDInst>
+    <IDInst>8</IDInst>
     <IDFct>3</IDFct>
     <Name>TensThousands</Name>
     <Arg_number>28</Arg_number>
@@ -456,7 +402,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>10</IDInst>
+    <IDInst>8</IDInst>
     <IDFct>4</IDFct>
     <Name>Pressure</Name>
     <Arg_number>29</Arg_number>
@@ -470,7 +416,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>11</IDInst>
+    <IDInst>9</IDInst>
     <IDFct>1</IDFct>
     <Name>DI gauge</Name>
     <Arg_number>31</Arg_number>
@@ -484,7 +430,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>12</IDInst>
+    <IDInst>10</IDInst>
     <IDFct>1</IDFct>
     <Name>Sideslip</Name>
     <Arg_number>33</Arg_number>
@@ -498,7 +444,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>12</IDInst>
+    <IDInst>10</IDInst>
     <IDFct>2</IDFct>
     <Name>Turn</Name>
     <Arg_number>34</Arg_number>
@@ -512,7 +458,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>13</IDInst>
+    <IDInst>11</IDInst>
     <IDFct>1</IDFct>
     <Name>Volt</Name>
     <Arg_number>35</Arg_number>
@@ -526,7 +472,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>14</IDInst>
+    <IDInst>12</IDInst>
     <IDFct>1</IDFct>
     <Name>Tachometer</Name>
     <Arg_number>37</Arg_number>
@@ -540,7 +486,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>15</IDInst>
+    <IDInst>13</IDInst>
     <IDFct>1</IDFct>
     <Name>Boost</Name>
     <Arg_number>39</Arg_number>
@@ -554,7 +500,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>16</IDInst>
+    <IDInst>14</IDInst>
     <IDFct>1</IDFct>
     <Name>Oil pressure</Name>
     <Arg_number>40</Arg_number>
@@ -568,7 +514,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>17</IDInst>
+    <IDInst>15</IDInst>
     <IDFct>1</IDFct>
     <Name>Oil temperature</Name>
     <Arg_number>41</Arg_number>
@@ -582,7 +528,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>18</IDInst>
+    <IDInst>16</IDInst>
     <IDFct>1</IDFct>
     <Name>Radiator temperature</Name>
     <Arg_number>42</Arg_number>
@@ -596,7 +542,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>19</IDInst>
+    <IDInst>17</IDInst>
     <IDFct>1</IDFct>
     <Name>Fuel</Name>
     <Arg_number>43</Arg_number>
@@ -604,13 +550,13 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>0.0,0.1,1.0</Input>
-    <Output>-1.0,0.0,68.0</Output>
+    <Output>0.0,5.0,68.0</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>20</IDInst>
+    <IDInst>18</IDInst>
     <IDFct>1</IDFct>
     <Name>Roll</Name>
     <Arg_number>71</Arg_number>
@@ -624,7 +570,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>20</IDInst>
+    <IDInst>18</IDInst>
     <IDFct>2</IDFct>
     <Name>Pitch</Name>
     <Arg_number>72</Arg_number>
@@ -638,7 +584,7 @@
     <OldAsciiValue />
   </Functions>
   <Functions>
-    <IDInst>20</IDInst>
+    <IDInst>18</IDInst>
     <IDFct>3</IDFct>
     <Name>Heading</Name>
     <Arg_number>73</Arg_number>
@@ -647,6 +593,90 @@
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0.0,360.0</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>4</IDInst>
+    <IDFct>2</IDFct>
+    <Name>Left wheel brake pressure</Name>
+    <Arg_number>19</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>4</IDInst>
+    <IDFct>3</IDFct>
+    <Name>Right wheel brake pressure</Name>
+    <Arg_number>20</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>19</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Hour</Name>
+    <Arg_number>51</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>19</IDInst>
+    <IDFct>2</IDFct>
+    <Name>Minute</Name>
+    <Arg_number>52</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>19</IDInst>
+    <IDFct>3</IDFct>
+    <Name>Second</Name>
+    <Arg_number>53</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>4</IDFct>
+    <Name>CompassRose</Name>
+    <Arg_number>74</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,360.0</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -664,5 +694,6 @@
     <Background>BackGround.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>false</Refresh>
+    <LightColor />
   </Window>
 </DataSet1>
