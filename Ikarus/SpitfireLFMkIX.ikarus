@@ -30,8 +30,8 @@
     <IDInst>3</IDInst>
     <Name>TrimGauge</Name>
     <Class>Spit_ElevTrim</Class>
-    <PosX>234</PosX>
-    <PosY>599</PosY>
+    <PosX>244</PosX>
+    <PosY>746</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -43,8 +43,8 @@
     <IDInst>4</IDInst>
     <Name>Supply / Wheel Brake Pressure</Name>
     <Class>Spit_BrakeP</Class>
-    <PosX>520</PosX>
-    <PosY>859</PosY>
+    <PosX>25</PosX>
+    <PosY>829</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -535,8 +535,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,0.7</Input>
-    <Output>0.0,140.0</Output>
+    <Input>0.0,0.31,0.38,0.7</Input>
+    <Output>-24,29,66,305</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -681,6 +681,36 @@
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
+  <Lamps>
+    <ID>1</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>48</Arg_number>
+    <Name>48 - Gear Lamp Up</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Spit_Gear_Up_On.PNG</FilePictureOn>
+    <FilePictureOff>Spit_Gear_Up_Off.PNG</FilePictureOff>
+    <PosX>283</PosX>
+    <PosY>611</PosY>
+    <Size>120</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>2</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>49</Arg_number>
+    <Name>49 - Gear Lamp Down</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Spit_Gear_Down_On.PNG</FilePictureOn>
+    <FilePictureOff>Spit_Gear_Down_Off.PNG</FilePictureOff>
+    <PosX>283</PosX>
+    <PosY>662</PosY>
+    <Size>120</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
   <Parameter>
     <FileBackground>BackgroundKA50.png</FileBackground>
   </Parameter>
