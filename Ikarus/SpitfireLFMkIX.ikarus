@@ -4,8 +4,8 @@
     <IDInst>1</IDInst>
     <Name>OxygenDeliveryGauge</Name>
     <Class>Spit_OxyP</Class>
-    <PosX>66</PosX>
-    <PosY>227</PosY>
+    <PosX>99</PosX>
+    <PosY>225</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -17,8 +17,8 @@
     <IDInst>2</IDInst>
     <Name>OxygenSupplyGauge</Name>
     <Class>Spit_OxyQ</Class>
-    <PosX>274</PosX>
-    <PosY>228</PosY>
+    <PosX>301</PosX>
+    <PosY>226</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -30,8 +30,8 @@
     <IDInst>3</IDInst>
     <Name>TrimGauge</Name>
     <Class>Spit_ElevTrim</Class>
-    <PosX>270</PosX>
-    <PosY>558</PosY>
+    <PosX>300</PosX>
+    <PosY>544</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -43,8 +43,8 @@
     <IDInst>4</IDInst>
     <Name>Supply / Wheel Brake Pressure</Name>
     <Class>Spit_BrakeP</Class>
-    <PosX>61</PosX>
-    <PosY>655</PosY>
+    <PosX>99</PosX>
+    <PosY>637</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -56,7 +56,7 @@
     <IDInst>5</IDInst>
     <Name>AirspeedGauge</Name>
     <Class>Spit_ASI</Class>
-    <PosX>484</PosX>
+    <PosX>504</PosX>
     <PosY>70</PosY>
     <Size>305</Size>
     <Rotate>0</Rotate>
@@ -82,7 +82,7 @@
     <IDInst>7</IDInst>
     <Name>Variometer</Name>
     <Class>Spit_VVI</Class>
-    <PosX>1141</PosX>
+    <PosX>1120</PosX>
     <PosY>68</PosY>
     <Size>305</Size>
     <Rotate>0</Rotate>
@@ -95,8 +95,8 @@
     <IDInst>8</IDInst>
     <Name>Altimeter</Name>
     <Class>Spit_Alt</Class>
-    <PosX>489</PosX>
-    <PosY>381</PosY>
+    <PosX>528</PosX>
+    <PosY>398</PosY>
     <Size>305</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -121,8 +121,8 @@
     <IDInst>10</IDInst>
     <Name>Turn and bank indicator</Name>
     <Class>Spit_Turn</Class>
-    <PosX>1128</PosX>
-    <PosY>380</PosY>
+    <PosX>1098</PosX>
+    <PosY>398</PosY>
     <Size>305</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -134,8 +134,8 @@
     <IDInst>11</IDInst>
     <Name>Voltmeter</Name>
     <Class>Spit_Volt</Class>
-    <PosX>274</PosX>
-    <PosY>789</PosY>
+    <PosX>306</PosX>
+    <PosY>24</PosY>
     <Size>190</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -147,8 +147,8 @@
     <IDInst>12</IDInst>
     <Name>Tachometer</Name>
     <Class>Spit_RPM</Class>
-    <PosX>1468</PosX>
-    <PosY>30</PosY>
+    <PosX>1439</PosX>
+    <PosY>-1</PosY>
     <Size>255</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -161,7 +161,7 @@
     <Name>Boost gauge</Name>
     <Class>Spit_Boost</Class>
     <PosX>1638</PosX>
-    <PosY>311</PosY>
+    <PosY>237</PosY>
     <Size>235</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -173,9 +173,9 @@
     <IDInst>14</IDInst>
     <Name>Oil pressure gauge</Name>
     <Class>Spit_OilP</Class>
-    <PosX>1447</PosX>
-    <PosY>795</PosY>
-    <Size>240</Size>
+    <PosX>1414</PosX>
+    <PosY>445</PosY>
+    <Size>230</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -186,9 +186,9 @@
     <IDInst>15</IDInst>
     <Name>Oil temperature gauge</Name>
     <Class>Spit_OilT</Class>
-    <PosX>1504</PosX>
-    <PosY>578</PosY>
-    <Size>200</Size>
+    <PosX>1539</PosX>
+    <PosY>474</PosY>
+    <Size>185</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -199,9 +199,9 @@
     <IDInst>16</IDInst>
     <Name>Radiator temperature gauge</Name>
     <Class>Spit_H2oT</Class>
-    <PosX>1710</PosX>
-    <PosY>577</PosY>
-    <Size>200</Size>
+    <PosX>1729</PosX>
+    <PosY>474</PosY>
+    <Size>185</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -212,8 +212,8 @@
     <IDInst>17</IDInst>
     <Name>Fuel contents gauge</Name>
     <Class>Spit_FuelQ</Class>
-    <PosX>1600</PosX>
-    <PosY>792</PosY>
+    <PosX>1617</PosX>
+    <PosY>680</PosY>
     <Size>235</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -238,8 +238,8 @@
     <IDInst>19</IDInst>
     <Name>Clock</Name>
     <Class>Spit_Clock</Class>
-    <PosX>63</PosX>
-    <PosY>442</PosY>
+    <PosX>100</PosX>
+    <PosY>431</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -690,7 +690,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>Spit_Gear_Up_On.PNG</FilePictureOn>
     <FilePictureOff>Spit_Gear_Up_Off.PNG</FilePictureOff>
-    <PosX>312</PosX>
+    <PosX>342</PosX>
     <PosY>445</PosY>
     <Size>120</Size>
     <Rotate>0</Rotate>
@@ -705,8 +705,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>Spit_Gear_Down_On.PNG</FilePictureOn>
     <FilePictureOff>Spit_Gear_Down_Off.PNG</FilePictureOff>
-    <PosX>311</PosX>
-    <PosY>494</PosY>
+    <PosX>339</PosX>
+    <PosY>493</PosY>
     <Size>120</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
