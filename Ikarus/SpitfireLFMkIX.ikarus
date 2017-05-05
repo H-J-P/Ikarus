@@ -493,8 +493,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,0.25,0.5,1.0</Input>
-    <Output>-70,60,120,240</Output>
+    <Input>0.0,0.49,1.0</Input>
+    <Output>-70,99,240</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -508,7 +508,7 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
-    <Output>0.0,150.0</Output>
+    <Output>0.0,-140.0</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
