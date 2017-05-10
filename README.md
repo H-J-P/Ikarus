@@ -2,9 +2,27 @@
 
 Ikarus is a solution for virtual cockpits for DCS World.
 
-With IKarus can be display many gauges of the DCS aircraft and helicopters.
-With the help of our DCS ExportScriptget the gauges data to display.
+With Ikarus can be display many gauges of the DCS aircrafts and helicopters.
+With the help of our DCS ExportScriptget get data to display with the gauges.
+
 We currently support the following DCS modules:
+- Ka-50
+- A-10C
+- MiG-15bis
+- MiG-21Bis
+- F-86F Sabre
+- UH-1H
+- Mi-8MT
+- P-51D
+- TF-51D
+- Bf-109K-4
+- FW-190D9
+- L-39C
+- L-39ZA
+- F-5E-3
+- SpitfireLFMkIX
+- Su-25T
+- alle Flaming Cliffs Flugzeuge
 
 Please follow this link to our [Wiki](https://github.com/s-d-a/Ikarus/wiki)
 
