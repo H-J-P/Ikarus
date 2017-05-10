@@ -1,13 +1,17 @@
 # Ikarus
 
-Ikarus is a solution like Helios or Hawgtouch, but with a database background and the possiblity to configure it with a editor or in tables very simple.
+Ikarus is a solution for virtual cockpits for DCS World.
+
+With IKarus can be display many gauges of the DCS aircraft and helicopters.
+With the help of our DCS ExportScriptget the gauges data to display.
+We currently support the following DCS modules:
 
 Please follow this link to our [Wiki](https://github.com/s-d-a/Ikarus/wiki)
 
 # Installation:
 
 - Please download Ikarus and unzip it.
-- Download McMicha's DCS-Exportscript from there:
+- Download DCS-Exportscript from there:
 
 https://github.com/s-d-a/DCS-ExportScripts
 
