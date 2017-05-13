@@ -255,8 +255,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>-0.3,0.0,0.8</Input>
+    <Output>-60,0,270</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -270,7 +270,7 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Output>0,270</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -284,7 +284,7 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Output>0,-60</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -615,7 +615,7 @@
     <IDInst>7</IDInst>
     <IDFct>2</IDFct>
     <Name>Miles Flag</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>143</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -634,7 +634,7 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Output>-10,222</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -657,7 +657,7 @@
     <IDInst>9</IDInst>
     <IDFct>1</IDFct>
     <Name>Trimm</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>388</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -857,7 +857,7 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
+    <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
@@ -867,7 +867,7 @@
     <IDInst>14</IDInst>
     <IDFct>1</IDFct>
     <Name>Nozzle</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>30</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -881,12 +881,12 @@
     <IDInst>15</IDInst>
     <IDFct>1</IDFct>
     <Name>Oxy Q</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>151</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Output>-30,200</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -923,7 +923,7 @@
     <IDInst>17</IDInst>
     <IDFct>1</IDFct>
     <Name>Hour</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>130</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -951,7 +951,7 @@
     <IDInst>17</IDInst>
     <IDFct>3</IDFct>
     <Name>Sec</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>133</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
