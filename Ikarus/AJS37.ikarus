@@ -108,8 +108,8 @@
     <IDInst>9</IDInst>
     <Name>Elev. Trim</Name>
     <Class>AJS37_ELEV_TRIM</Class>
-    <PosX>4</PosX>
-    <PosY>926</PosY>
+    <PosX>26</PosX>
+    <PosY>919</PosY>
     <Size>150</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>

@@ -955,6 +955,9 @@
     <Classname>UH1_ADI</Classname>
   </Classnames>
   <Classnames>
+    <Classname>UH1_AirTemp</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>UH1_AltAAU31</Classname>
   </Classnames>
   <Classnames>
@@ -1007,6 +1010,12 @@
   </Classnames>
   <Classnames>
     <Classname>UH1_RadioCompassIndicatorV2</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>UH1_RMI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>UH1_RMI_Green</Classname>
   </Classnames>
   <Classnames>
     <Classname>UH1_RPM</Classname>
@@ -1067,6 +1076,9 @@
   </Classnames>
   <Classnames>
     <Classname>WPALT20</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>WPALT20V2</Classname>
   </Classnames>
   <Classnames>
     <Classname>WPALT30</Classname>

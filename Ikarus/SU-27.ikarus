@@ -107,7 +107,7 @@
   <Instruments>
     <IDInst>9</IDInst>
     <Name>Barometric Alitmeter</Name>
-    <Class>WPALT20</Class>
+    <Class>WPALT20V2</Class>
     <PosX>270</PosX>
     <PosY>560</PosY>
     <Size>200</Size>
