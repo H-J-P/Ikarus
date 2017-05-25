@@ -4,7 +4,7 @@
     <IDInst>1</IDInst>
     <Name>WeaponPanel</Name>
     <Class>SU27WP</Class>
-    <PosX>675</PosX>
+    <PosX>731</PosX>
     <PosY>25</PosY>
     <Size>455</Size>
     <Rotate>0</Rotate>
@@ -2338,10 +2338,11 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>1080</PosY>
+    <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>BackGround.png</Background>
     <BackgroundNight>-</BackgroundNight>
+    <LightColor />
   </Window>
 </DataSet1>

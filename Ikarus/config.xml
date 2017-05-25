@@ -67,6 +67,9 @@
     <Classname>AJS37_ADI</Classname>
   </Classnames>
   <Classnames>
+    <Classname>AJS37_ADIstby</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>AJS37_ALT_stby</Classname>
   </Classnames>
   <Classnames>
