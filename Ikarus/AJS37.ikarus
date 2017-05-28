@@ -2,10 +2,10 @@
 <DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
   <Instruments>
     <IDInst>1</IDInst>
-    <Name>ACC</Name>
+    <Name>Acceleration (g forces)</Name>
     <Class>AJS37_ACC</Class>
-    <PosX>1432</PosX>
-    <PosY>107</PosY>
+    <PosX>1437</PosX>
+    <PosY>64</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -15,7 +15,7 @@
   </Instruments>
   <Instruments>
     <IDInst>2</IDInst>
-    <Name>ADI</Name>
+    <Name>Attitude Director Indicator (ADI)</Name>
     <Class>AJS37_ADI</Class>
     <PosX>314</PosX>
     <PosY>209</PosY>
@@ -41,7 +41,7 @@
   </Instruments>
   <Instruments>
     <IDInst>4</IDInst>
-    <Name>AOA</Name>
+    <Name>Angle Of Attack (AOA) indicator</Name>
     <Class>AJS37_AOA</Class>
     <PosX>496</PosX>
     <PosY>10</PosY>
@@ -54,10 +54,10 @@
   </Instruments>
   <Instruments>
     <IDInst>5</IDInst>
-    <Name>Airspeed Indicated</Name>
+    <Name>Indicated Airspeed (ASI) indicator</Name>
     <Class>AJS37_ASI</Class>
-    <PosX>59</PosX>
-    <PosY>262</PosY>
+    <PosX>60</PosX>
+    <PosY>353</PosY>
     <Size>250</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -67,10 +67,10 @@
   </Instruments>
   <Instruments>
     <IDInst>6</IDInst>
-    <Name>ASI Standby</Name>
+    <Name>Indicated Airspeed (ASI) Standby</Name>
     <Class>AJS37_ASI_stby</Class>
-    <PosX>1437</PosX>
-    <PosY>310</PosY>
+    <PosX>1438</PosX>
+    <PosY>266</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -80,7 +80,7 @@
   </Instruments>
   <Instruments>
     <IDInst>7</IDInst>
-    <Name>Distance</Name>
+    <Name>Distance to target</Name>
     <Class>AJS37_DIST</Class>
     <PosX>1644</PosX>
     <PosY>408</PosY>
@@ -93,10 +93,10 @@
   </Instruments>
   <Instruments>
     <IDInst>8</IDInst>
-    <Name>EGT</Name>
+    <Name>Exhaust Gas Temperature (EGT) indicator</Name>
     <Class>AJS37_EGT</Class>
-    <PosX>1432</PosX>
-    <PosY>921</PosY>
+    <PosX>1437</PosX>
+    <PosY>920</PosY>
     <Size>150</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -106,7 +106,7 @@
   </Instruments>
   <Instruments>
     <IDInst>9</IDInst>
-    <Name>Elev. Trim</Name>
+    <Name>Elevator Trim (Nose up/down) indicator</Name>
     <Class>AJS37_ELEV_TRIM</Class>
     <PosX>26</PosX>
     <PosY>919</PosY>
@@ -119,7 +119,7 @@
   </Instruments>
   <Instruments>
     <IDInst>10</IDInst>
-    <Name>EPR</Name>
+    <Name>Engine Pressure Ratio (Output) indicator</Name>
     <Class>AJS37_EPR</Class>
     <PosX>1438</PosX>
     <PosY>718</PosY>
@@ -132,7 +132,7 @@
   </Instruments>
   <Instruments>
     <IDInst>11</IDInst>
-    <Name>Fuel Q</Name>
+    <Name>Fuel Quant indicator</Name>
     <Class>AJS37_FUEL_Q</Class>
     <PosX>1644</PosX>
     <PosY>665</PosY>
@@ -145,7 +145,7 @@
   </Instruments>
   <Instruments>
     <IDInst>12</IDInst>
-    <Name>CI Instruments</Name>
+    <Name>CI Instruments (HSI)</Name>
     <Class>AJS37_HSI</Class>
     <PosX>697</PosX>
     <PosY>381</PosY>
@@ -171,7 +171,7 @@
   </Instruments>
   <Instruments>
     <IDInst>14</IDInst>
-    <Name>Nozzle</Name>
+    <Name>Nozzle indicator</Name>
     <Class>AJS37_NOZ</Class>
     <PosX>1280</PosX>
     <PosY>921</PosY>
@@ -184,9 +184,9 @@
   </Instruments>
   <Instruments>
     <IDInst>15</IDInst>
-    <Name>Oxy Q</Name>
+    <Name>Oxygen Quant indicator</Name>
     <Class>AJS37_OXY_Q</Class>
-    <PosX>1585</PosX>
+    <PosX>1594</PosX>
     <PosY>920</PosY>
     <Size>150</Size>
     <Rotate>0</Rotate>
@@ -197,10 +197,10 @@
   </Instruments>
   <Instruments>
     <IDInst>16</IDInst>
-    <Name>RPM</Name>
+    <Name>Rotational speed (RPM) indicator</Name>
     <Class>AJS37_RPM</Class>
     <PosX>1438</PosX>
-    <PosY>513</PosY>
+    <PosY>469</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -212,7 +212,7 @@
     <IDInst>17</IDInst>
     <Name>Clock</Name>
     <Class>US_Clock</Class>
-    <PosX>1227</PosX>
+    <PosX>1230</PosX>
     <PosY>3</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
@@ -223,10 +223,10 @@
   </Instruments>
   <Instruments>
     <IDInst>18</IDInst>
-    <Name>Alt Stby</Name>
+    <Name>Altimeter Standby</Name>
     <Class>AJS37_ALT_stby</Class>
     <PosX>1231</PosX>
-    <PosY>512</PosY>
+    <PosY>516</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -236,10 +236,10 @@
   </Instruments>
   <Instruments>
     <IDInst>19</IDInst>
-    <Name>ADI Stby</Name>
-    <Class>US_ADIstby</Class>
+    <Name>Attitude Director Indicator Standby</Name>
+    <Class>AJS37_ADI_stby</Class>
     <PosX>1231</PosX>
-    <PosY>308</PosY>
+    <PosY>313</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -335,7 +335,7 @@
     <IDInst>2</IDInst>
     <IDFct>4</IDFct>
     <Name>slipBall</Name>
-    <Arg_number>111</Arg_number>
+    <Arg_number>1810</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -362,6 +362,34 @@
   <Functions>
     <IDInst>2</IDInst>
     <IDFct>6</IDFct>
+    <Name>Horisontal ILS</Name>
+    <Arg_number>109</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>7</IDFct>
+    <Name>Vertical ILS</Name>
+    <Arg_number>110</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>8</IDFct>
     <Name>vvi_off</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
@@ -375,9 +403,9 @@
   </Functions>
   <Functions>
     <IDInst>2</IDInst>
-    <IDFct>7</IDFct>
+    <IDFct>9</IDFct>
     <Name>ADI off</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>160</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -389,7 +417,7 @@
   </Functions>
   <Functions>
     <IDInst>2</IDInst>
-    <IDFct>8</IDFct>
+    <IDFct>10</IDFct>
     <Name>courceWarningFlag</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
@@ -573,7 +601,7 @@
     <IDInst>5</IDInst>
     <IDFct>6</IDFct>
     <Name>Mach Off Flag</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>2007</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -839,7 +867,7 @@
     <IDInst>12</IDInst>
     <IDFct>10</IDFct>
     <Name>Warning Flag</Name>
-    <Arg_number>40</Arg_number>
+    <Arg_number>163</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1087,6 +1115,201 @@
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
+  <Lamps>
+    <ID>1</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>444</Arg_number>
+    <Name>444 - HUVUDVARNING left</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AJS37-Red-on.png</FilePictureOn>
+    <FilePictureOff>AJS37-Lamps-off.png</FilePictureOff>
+    <PosX>351</PosX>
+    <PosY>160</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>2</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>0</Arg_number>
+    <Name>-</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AJS37-Yellow-on.png</FilePictureOn>
+    <FilePictureOff>AJS37-Lamps-off.png</FilePictureOff>
+    <PosX>400</PosX>
+    <PosY>160</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>3</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>445</Arg_number>
+    <Name>445 - HUVUDVARNING</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AJS37-Red-on.png</FilePictureOn>
+    <FilePictureOff>AJS37-Lamps-off.png</FilePictureOff>
+    <PosX>449</PosX>
+    <PosY>160</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>4</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>401</Arg_number>
+    <Name>401 - SPAK Lamp</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AJS37-Green-on.png</FilePictureOn>
+    <FilePictureOff>AJS37-Lamps-off.png</FilePictureOff>
+    <PosX>65</PosX>
+    <PosY>305</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>5</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>402</Arg_number>
+    <Name>402 - ATT Lamp</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AJS37-Green-on.png</FilePictureOn>
+    <FilePictureOff>AJS37-Lamps-off.png</FilePictureOff>
+    <PosX>95</PosX>
+    <PosY>277</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>6</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>403</Arg_number>
+    <Name>403 - HOJD Lamp</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AJS37-Green-on.png</FilePictureOn>
+    <FilePictureOff>AJS37-Lamps-off.png</FilePictureOff>
+    <PosX>133</PosX>
+    <PosY>259</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>7</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>460</Arg_number>
+    <Name>460 - Gear Lamp Up</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AJS37-Green-on.png</FilePictureOn>
+    <FilePictureOff>AJS37-Lamps-off.png</FilePictureOff>
+    <PosX>10</PosX>
+    <PosY>554</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>8</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>450</Arg_number>
+    <Name>450 - Radar warning lamp</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AJS37-Red-on.png</FilePictureOn>
+    <FilePictureOff>AJS37-Lamps-off.png</FilePictureOff>
+    <PosX>705</PosX>
+    <PosY>388</PosY>
+    <Size>65</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>9</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>461</Arg_number>
+    <Name>461 - FÄLLD LAST</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AJS37-Green-on.png</FilePictureOn>
+    <FilePictureOff>AJS37-Lamps-off.png</FilePictureOff>
+    <PosX>1437</PosX>
+    <PosY>7</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>10</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>462</Arg_number>
+    <Name>462 - TREVAVDR TRANSONIC</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AJS37-Green-on.png</FilePictureOn>
+    <FilePictureOff>AJS37-Lamps-off.png</FilePictureOff>
+    <PosX>1638</PosX>
+    <PosY>68</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>11</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>0</Arg_number>
+    <Name>-</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>LampOn.png</FilePictureOn>
+    <FilePictureOff>AJS37-Lamps-off.png</FilePictureOff>
+    <PosX>1464</PosX>
+    <PosY>670</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>12</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>0</Arg_number>
+    <Name>-</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>LampOn.png</FilePictureOn>
+    <FilePictureOff>AJS37-Lamps-off.png</FilePictureOff>
+    <PosX>1511</PosX>
+    <PosY>670</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>13</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>0</Arg_number>
+    <Name>-</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>LampOn.png</FilePictureOn>
+    <FilePictureOff>AJS37-Lamps-off.png</FilePictureOff>
+    <PosX>1558</PosX>
+    <PosY>670</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
   <Parameter>
     <FileBackground>BackgroundKA50.png</FileBackground>
   </Parameter>
