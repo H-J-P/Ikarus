@@ -145,8 +145,8 @@
   </Instruments>
   <Instruments>
     <IDInst>12</IDInst>
-    <Name>CI Instruments</Name>
-    <Class>AJS37_HSI</Class>
+    <Name>Central indicator</Name>
+    <Class>AJS37_CI</Class>
     <PosX>697</PosX>
     <PosY>381</PosY>
     <Size>280</Size>

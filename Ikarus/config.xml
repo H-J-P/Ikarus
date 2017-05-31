@@ -82,6 +82,9 @@
     <Classname>AJS37_ASI_stby</Classname>
   </Classnames>
   <Classnames>
+    <Classname>AJS37_CI</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>AJS37_DIST</Classname>
   </Classnames>
   <Classnames>
@@ -95,9 +98,6 @@
   </Classnames>
   <Classnames>
     <Classname>AJS37_FUEL_Q</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>AJS37_HSI</Classname>
   </Classnames>
   <Classnames>
     <Classname>AJS37_KURS</Classname>
