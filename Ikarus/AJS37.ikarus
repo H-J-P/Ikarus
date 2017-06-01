@@ -29,10 +29,10 @@
   <Instruments>
     <IDInst>3</IDInst>
     <Name>Altimeter</Name>
-    <Class>AJS37_ALT_stby</Class>
+    <Class>AJS37_ALT</Class>
     <PosX>349</PosX>
     <PosY>619</PosY>
-    <Size>250</Size>
+    <Size>325</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -1362,7 +1362,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37-Red-on.png</FilePictureOn>
     <FilePictureOff>AJS37-Lamps-off.png</FilePictureOff>
-    <PosX>708</PosX>
+    <PosX>707</PosX>
     <PosY>392</PosY>
     <Size>65</Size>
     <Rotate>0</Rotate>
@@ -1568,8 +1568,8 @@
     <Class>Label</Class>
     <Name>HUD</Name>
     <FilePictureOn>DJS37_Hud.png</FilePictureOn>
-    <PosX>764</PosX>
-    <PosY>-60</PosY>
+    <PosX>750</PosX>
+    <PosY>-59</PosY>
     <Size>420</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
