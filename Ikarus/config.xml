@@ -70,6 +70,9 @@
     <Classname>AJS37_ADI_stby</Classname>
   </Classnames>
   <Classnames>
+    <Classname>AJS37_Afterburner</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>AJS37_ALT</Classname>
   </Classnames>
   <Classnames>
