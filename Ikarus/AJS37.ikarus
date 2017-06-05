@@ -1290,6 +1290,20 @@
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
+  <Functions>
+    <IDInst>3</IDInst>
+    <IDFct>7</IDFct>
+    <Name>Alt_Off</Name>
+    <Arg_number>2008</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+  </Functions>
   <Lamps>
     <ID>1</ID>
     <Class>LampOnOff</Class>
@@ -1298,10 +1312,10 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Red-on.png</FilePictureOn>
-    <FilePictureOff>AJS37_Lamps-off.png</FilePictureOff>
+    <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
     <PosX>396</PosX>
-    <PosY>138</PosY>
-    <Size>45</Size>
+    <PosY>145</PosY>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1313,10 +1327,10 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Red-on.png</FilePictureOn>
-    <FilePictureOff>AJS37_Lamps-off.png</FilePictureOff>
-    <PosX>497</PosX>
-    <PosY>139</PosY>
-    <Size>45</Size>
+    <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
+    <PosX>496</PosX>
+    <PosY>145</PosY>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1328,10 +1342,10 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
-    <FilePictureOff>AJS37_Lamps-off.png</FilePictureOff>
-    <PosX>127</PosX>
-    <PosY>273</PosY>
-    <Size>45</Size>
+    <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
+    <PosX>133</PosX>
+    <PosY>277</PosY>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1343,10 +1357,10 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
-    <FilePictureOff>AJS37_Lamps-off.png</FilePictureOff>
-    <PosX>191</PosX>
-    <PosY>231</PosY>
-    <Size>45</Size>
+    <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
+    <PosX>195</PosX>
+    <PosY>238</PosY>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1358,10 +1372,10 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
-    <FilePictureOff>AJS37_Lamps-off.png</FilePictureOff>
-    <PosX>256</PosX>
-    <PosY>198</PosY>
-    <Size>45</Size>
+    <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
+    <PosX>260</PosX>
+    <PosY>202</PosY>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1373,10 +1387,10 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
-    <FilePictureOff>AJS37_Lamps-off.png</FilePictureOff>
+    <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
     <PosX>10</PosX>
     <PosY>554</PosY>
-    <Size>45</Size>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1388,10 +1402,10 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Red-on.png</FilePictureOn>
-    <FilePictureOff>AJS37_Lamps-off.png</FilePictureOff>
-    <PosX>720</PosX>
-    <PosY>391</PosY>
-    <Size>65</Size>
+    <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
+    <PosX>725</PosX>
+    <PosY>396</PosY>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1403,10 +1417,10 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
-    <FilePictureOff>AJS37_Lamps-off.png</FilePictureOff>
+    <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
     <PosX>1426</PosX>
-    <PosY>7</PosY>
-    <Size>45</Size>
+    <PosY>17</PosY>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1418,10 +1432,10 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
-    <FilePictureOff>AJS37_Lamps-off.png</FilePictureOff>
+    <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
     <PosX>1635</PosX>
-    <PosY>94</PosY>
-    <Size>45</Size>
+    <PosY>104</PosY>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1433,10 +1447,10 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
-    <FilePictureOff>AJS37_Lamps-off.png</FilePictureOff>
+    <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
     <PosX>11</PosX>
     <PosY>839</PosY>
-    <Size>45</Size>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1482,7 +1496,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>446</PosX>
+    <PosX>441</PosX>
     <PosY>138</PosY>
     <Size>47</Size>
     <Rotate>0</Rotate>
@@ -1503,8 +1517,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>133</PosX>
-    <PosY>278</PosY>
+    <PosX>136</PosX>
+    <PosY>280</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1524,8 +1538,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>197</PosX>
-    <PosY>237</PosY>
+    <PosX>202</PosX>
+    <PosY>235</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1546,7 +1560,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>262</PosX>
-    <PosY>202</PosY>
+    <PosY>206</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
