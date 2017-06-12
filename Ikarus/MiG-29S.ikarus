@@ -1485,8 +1485,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>0, 0.020, 0.050, 0.100, 0.500, 1.0</Input>
+    <Output>0, 32, 79, 157, 225, 313</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -2049,5 +2049,6 @@
     <Width>1920</Width>
     <Background>BackGround.png</Background>
     <BackgroundNight>-</BackgroundNight>
+    <LightColor />
   </Window>
 </DataSet1>

@@ -1793,8 +1793,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>0, 0.067, 0.100, 0.133, 0.200, 0.267, 0.400, 0.533, 0.667, 1.0</Input>
+    <Output>0, 104, 154, 180, 217, 241, 270, 286, 298, 317</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -2329,5 +2329,6 @@
     <Width>1920</Width>
     <Background>BackGround.png</Background>
     <BackgroundNight>-</BackgroundNight>
+    <LightColor />
   </Window>
 </DataSet1>

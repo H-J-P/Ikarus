@@ -399,8 +399,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>0.0, 0.029, 1.0</Input>
+    <Output>-5, 0, 250</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -413,8 +413,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>0.0, 0.029, 1.0</Input>
+    <Output>-5, 0, 250</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -427,8 +427,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>0.0, 0.156, 1.0</Input>
+    <Output>-15, 0, 100</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -441,8 +441,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>0.0, 0.156, 1.0</Input>
+    <Output>-15, 0, 100</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -469,8 +469,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>0.0, 0.13, 0.38, 0.71, 1.0</Input>
+    <Output>-50, -34, 0, 50, 90</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -483,8 +483,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>0.0, 0.13, 0.38, 0.71, 1.0</Input>
+    <Output>-50, -34, 0, 50, 90</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -665,8 +665,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>0.0, 0.029, 1.0</Input>
+    <Output>-5, 0, 250</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -721,8 +721,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>0.0,1.00.0, 0.075, 0.19, 0.32, 0.395, 0.44, 0.55, 0.825, 1.0</Input>
+    <Output>0,100, 25, 65, 110, 135, 150, 187, 280, 341</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1506,6 +1506,7 @@
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>BackGround.png</Background>
+    <LightColor />
   </Window>
   <Window>
     <WindowID>2</WindowID>

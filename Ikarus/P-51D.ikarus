@@ -260,6 +260,19 @@
     <Reactivate>false</Reactivate>
     <WindowID>2</WindowID>
   </Instruments>
+  <Instruments>
+    <IDInst>21</IDInst>
+    <Name>FuelQ</Name>
+    <Class>P51FuelQFuselage</Class>
+    <PosX>1203</PosX>
+    <PosY>908</PosY>
+    <Size>160</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -736,6 +749,38 @@
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
+  <Functions>
+    <IDInst>21</IDInst>
+    <IDFct>1</IDFct>
+    <Name>FuelQ</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,0.12,0.28,0.40,0.51,0.62,0.72,0.83,0.96,1.00</Input>
+    <Output>0.0,23.0,51.0,75.0,96.0,114,132,154,176,186</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In>-</In>
+    <Out>-</Out>
+  </Functions>
+  <Functions>
+    <IDInst>20</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Fuel</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0,0.12,0.28,0.40,0.51,0.62,0.72,0.83,0.96,1.00</Input>
+    <Output>0.0,23,51,75,96,114,132,154,176,186</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In>-</In>
+    <Out>-</Out>
+  </Functions>
   <Switches>
     <ID>1</ID>
     <Class>SwitchPanelOffOn</Class>
@@ -768,6 +813,7 @@
     <Width>1920</Width>
     <Background>BackGround.png</Background>
     <BackgroundNight>-</BackgroundNight>
+    <LightColor />
   </Window>
   <Window>
     <WindowID>2</WindowID>

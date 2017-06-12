@@ -4,8 +4,8 @@
     <IDInst>1</IDInst>
     <Name>Acceleration (g forces)</Name>
     <Class>AJS37_ACC</Class>
-    <PosX>1424</PosX>
-    <PosY>85</PosY>
+    <PosX>1423</PosX>
+    <PosY>77</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -43,9 +43,9 @@
     <IDInst>4</IDInst>
     <Name>Angle Of Attack (AOA) indicator</Name>
     <Class>AJS37_AOA</Class>
-    <PosX>549</PosX>
-    <PosY>4</PosY>
-    <Size>200</Size>
+    <PosX>572</PosX>
+    <PosY>10</PosY>
+    <Size>175</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -69,8 +69,8 @@
     <IDInst>6</IDInst>
     <Name>Indicated Airspeed (ASI) Standby</Name>
     <Class>AJS37_ASI_stby</Class>
-    <PosX>1427</PosX>
-    <PosY>285</PosY>
+    <PosX>1426</PosX>
+    <PosY>280</PosY>
     <Size>195</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -160,8 +160,8 @@
     <IDInst>13</IDInst>
     <Name>Compass</Name>
     <Class>AJS37_KURS</Class>
-    <PosX>1218</PosX>
-    <PosY>719</PosY>
+    <PosX>1220</PosX>
+    <PosY>731</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -199,8 +199,8 @@
     <IDInst>16</IDInst>
     <Name>Rotational speed (RPM) indicator</Name>
     <Class>AJS37_RPM</Class>
-    <PosX>1428</PosX>
-    <PosY>484</PosY>
+    <PosX>1427</PosX>
+    <PosY>478</PosY>
     <Size>201</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -225,8 +225,8 @@
     <IDInst>18</IDInst>
     <Name>Altimeter Standby</Name>
     <Class>AJS37_ALT_stby</Class>
-    <PosX>1217</PosX>
-    <PosY>516</PosY>
+    <PosX>1219</PosX>
+    <PosY>528</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -239,7 +239,7 @@
     <Name>Attitude Director Indicator Standby</Name>
     <Class>AJS37_ADI_stby</Class>
     <PosX>1217</PosX>
-    <PosY>313</PosY>
+    <PosY>326</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -252,7 +252,7 @@
     <Name>Freq. KHz 1 Pos.</Name>
     <Class>Display7Segment</Class>
     <PosX>278</PosX>
-    <PosY>667</PosY>
+    <PosY>677</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -265,7 +265,7 @@
     <Name>Freq. KHz 2 Pos.</Name>
     <Class>Display7Segment</Class>
     <PosX>256</PosX>
-    <PosY>667</PosY>
+    <PosY>677</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -278,7 +278,7 @@
     <Name>Freq. KHz 3 Pos.</Name>
     <Class>Display7Segment</Class>
     <PosX>234</PosX>
-    <PosY>667</PosY>
+    <PosY>677</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -291,7 +291,7 @@
     <Name>Freq. MHz 1 Pos.</Name>
     <Class>Display7Segment</Class>
     <PosX>192</PosX>
-    <PosY>667</PosY>
+    <PosY>677</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -304,7 +304,7 @@
     <Name>Freq. MHz 2 Pos.</Name>
     <Class>Display7Segment</Class>
     <PosX>170</PosX>
-    <PosY>667</PosY>
+    <PosY>677</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -317,7 +317,7 @@
     <Name>Freq. MHz 3 Pos.</Name>
     <Class>Display7Segment</Class>
     <PosX>148</PosX>
-    <PosY>667</PosY>
+    <PosY>677</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -330,7 +330,7 @@
     <Name>Afterburner indicatore</Name>
     <Class>AJS37_Afterburner</Class>
     <PosX>1429</PosX>
-    <PosY>678</PosY>
+    <PosY>675</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -1313,9 +1313,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Red-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>396</PosX>
-    <PosY>145</PosY>
-    <Size>35</Size>
+    <PosX>426</PosX>
+    <PosY>142</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1328,9 +1328,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Red-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>496</PosX>
-    <PosY>145</PosY>
-    <Size>35</Size>
+    <PosX>534</PosX>
+    <PosY>142</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1341,11 +1341,11 @@
     <Name>401 - SPAK Lamp</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
+    <FilePictureOn>AJS37_Pink-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>133</PosX>
-    <PosY>277</PosY>
-    <Size>35</Size>
+    <PosX>98</PosX>
+    <PosY>270</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1356,11 +1356,11 @@
     <Name>402 - ATT Lamp</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
+    <FilePictureOn>AJS37_Pink-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>195</PosX>
-    <PosY>238</PosY>
-    <Size>35</Size>
+    <PosX>172</PosX>
+    <PosY>234</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1371,11 +1371,11 @@
     <Name>403 - HOJD Lamp</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
+    <FilePictureOn>AJS37_Pink-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>260</PosX>
-    <PosY>202</PosY>
-    <Size>35</Size>
+    <PosX>246</PosX>
+    <PosY>199</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1390,7 +1390,7 @@
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
     <PosX>10</PosX>
     <PosY>554</PosY>
-    <Size>35</Size>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1403,9 +1403,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Red-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>725</PosX>
-    <PosY>396</PosY>
-    <Size>55</Size>
+    <PosX>724</PosX>
+    <PosY>393</PosY>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1418,9 +1418,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>1426</PosX>
-    <PosY>17</PosY>
-    <Size>35</Size>
+    <PosX>1425</PosX>
+    <PosY>7</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1433,9 +1433,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>1635</PosX>
-    <PosY>104</PosY>
-    <Size>35</Size>
+    <PosX>1630</PosX>
+    <PosY>77</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1448,9 +1448,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>11</PosX>
-    <PosY>839</PosY>
-    <Size>35</Size>
+    <PosX>10</PosX>
+    <PosY>841</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1463,7 +1463,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Alpha15-Lamp-On.png</FilePictureOn>
     <FilePictureOff>AJS37_Alpha15-Lamp-Off.png</FilePictureOff>
-    <PosX>250</PosX>
+    <PosX>230</PosX>
     <PosY>276</PosY>
     <Size>75</Size>
     <Rotate>0</Rotate>
@@ -1478,8 +1478,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_AFK_On.png</FilePictureOn>
     <FilePictureOff>AJS37_AFK_Off.png</FilePictureOff>
-    <PosX>180</PosX>
-    <PosY>305</PosY>
+    <PosX>158</PosX>
+    <PosY>310</PosY>
     <Size>68</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1496,9 +1496,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>441</PosX>
-    <PosY>138</PosY>
-    <Size>47</Size>
+    <PosX>473</PosX>
+    <PosY>133</PosY>
+    <Size>57</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -1517,9 +1517,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>136</PosX>
-    <PosY>280</PosY>
-    <Size>35</Size>
+    <PosX>98</PosX>
+    <PosY>270</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -1538,8 +1538,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>202</PosX>
-    <PosY>235</PosY>
+    <PosX>176</PosX>
+    <PosY>236</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1559,8 +1559,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>262</PosX>
-    <PosY>206</PosY>
+    <PosX>248</PosX>
+    <PosY>201</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1571,8 +1571,8 @@
   <Switches>
     <ID>5</ID>
     <Class>SwitchOffOn</Class>
-    <ClickabledataID>105</ClickabledataID>
-    <Name>Minus</Name>
+    <ClickabledataID>90</ClickabledataID>
+    <Name>Radio Manual Frequency Setting Modulation"</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
@@ -1580,23 +1580,65 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>219</PosX>
-    <PosY>787</PosY>
+    <PosX>185</PosX>
+    <PosY>815</PosY>
     <Size>35</Size>
-    <Rotate>0</Rotate>
+    <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
-    <DcsID>366</DcsID>
+    <DcsID>170</DcsID>
+  </Switches>
+  <Switches>
+    <ID>6</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>59</ClickabledataID>
+    <Name>Slav SI</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1203</PosX>
+    <PosY>227</PosY>
+    <Size>30</Size>
+    <Rotate>90</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>323</DcsID>
+  </Switches>
+  <Switches>
+    <ID>7</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>60</ClickabledataID>
+    <Name>HÖJD CISI</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1320</PosX>
+    <PosY>227</PosY>
+    <Size>30</Size>
+    <Rotate>90</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>324</DcsID>
   </Switches>
   <Accessories>
     <ID>1</ID>
     <Class>Label</Class>
     <Name>HUD</Name>
-    <FilePictureOn>DJS37_Hud.png</FilePictureOn>
-    <PosX>750</PosX>
-    <PosY>-59</PosY>
-    <Size>420</Size>
+    <FilePictureOn>AJS37_Hud.png</FilePictureOn>
+    <PosX>748</PosX>
+    <PosY>-45</PosY>
+    <Size>430</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>1</WindowID>
@@ -1605,9 +1647,9 @@
     <ID>2</ID>
     <Class>Label</Class>
     <Name>Master Warning</Name>
-    <FilePictureOn>AJS37-HUVUDVARNING.png</FilePictureOn>
-    <PosX>368</PosX>
-    <PosY>189</PosY>
+    <FilePictureOn>AJS37_HUVUDVARNING.png</FilePictureOn>
+    <PosX>426</PosX>
+    <PosY>188</PosY>
     <Size>160</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
@@ -1617,9 +1659,9 @@
     <ID>3</ID>
     <Class>Label</Class>
     <Name>Last</Name>
-    <FilePictureOn>AJS-37_FÄLLD_LAST.png</FilePictureOn>
-    <PosX>1426</PosX>
-    <PosY>55</PosY>
+    <FilePictureOn>AJS37_FÄLLD_LAST.png</FilePictureOn>
+    <PosX>1424</PosX>
+    <PosY>49</PosY>
     <Size>120</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
@@ -1629,10 +1671,10 @@
     <ID>4</ID>
     <Class>Label</Class>
     <Name>Transonic</Name>
-    <FilePictureOn>AJS-37_TRANSONIC.png</FilePictureOn>
-    <PosX>1635</PosX>
-    <PosY>142</PosY>
-    <Size>110</Size>
+    <FilePictureOn>AJS37_TRANSONIC.png</FilePictureOn>
+    <PosX>1630</PosX>
+    <PosY>120</PosY>
+    <Size>140</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>1</WindowID>
@@ -1641,7 +1683,7 @@
     <ID>5</ID>
     <Class>Label</Class>
     <Name>FM/AM</Name>
-    <FilePictureOn>AJS-37_FM_AM.png</FilePictureOn>
+    <FilePictureOn>AJS37_FM_AM.png</FilePictureOn>
     <PosX>140</PosX>
     <PosY>612</PosY>
     <Size>185</Size>
@@ -1653,10 +1695,10 @@
     <ID>6</ID>
     <Class>Label</Class>
     <Name>ATT</Name>
-    <FilePictureOn>AJS-37_ATT.png</FilePictureOn>
-    <PosX>183</PosX>
-    <PosY>225</PosY>
-    <Size>60</Size>
+    <FilePictureOn>AJS37_ATT.png</FilePictureOn>
+    <PosX>156</PosX>
+    <PosY>217</PosY>
+    <Size>70</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>1</WindowID>
@@ -1665,10 +1707,10 @@
     <ID>7</ID>
     <Class>Label</Class>
     <Name>HÖJD</Name>
-    <FilePictureOn>AJS-37_HÖJD.png</FilePictureOn>
-    <PosX>249</PosX>
-    <PosY>192</PosY>
-    <Size>60</Size>
+    <FilePictureOn>AJS37_HÖJD.png</FilePictureOn>
+    <PosX>230</PosX>
+    <PosY>182</PosY>
+    <Size>70</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>1</WindowID>
@@ -1677,10 +1719,58 @@
     <ID>8</ID>
     <Class>Label</Class>
     <Name>SPAK</Name>
-    <FilePictureOn>AJS-37_SPAK.png</FilePictureOn>
-    <PosX>119</PosX>
-    <PosY>267</PosY>
-    <Size>60</Size>
+    <FilePictureOn>AJS37_SPAK.png</FilePictureOn>
+    <PosX>83</PosX>
+    <PosY>255</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>9</ID>
+    <Class>Label</Class>
+    <Name>FLYGFOTOGEN75</Name>
+    <FilePictureOn>AJS37_FLYGFOTOGEN75.png</FilePictureOn>
+    <PosX>1886</PosX>
+    <PosY>662</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>10</ID>
+    <Class>Label</Class>
+    <Name>MOD_RES_EL</Name>
+    <FilePictureOn>AJS37_MOD_RES_EL.png</FilePictureOn>
+    <PosX>1283</PosX>
+    <PosY>299</PosY>
+    <Size>135</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>11</ID>
+    <Class>Label</Class>
+    <Name>SLAV_CI_HÖJD_CI_SI</Name>
+    <FilePictureOn>AJS37_SLAV_CI_HÖJD_CI_SI.png</FilePictureOn>
+    <PosX>1205</PosX>
+    <PosY>207</PosY>
+    <Size>210</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>12</ID>
+    <Class>Label</Class>
+    <Name>REVAVDR</Name>
+    <FilePictureOn>AJS37_REVAVDR.png</FilePictureOn>
+    <PosX>1673</PosX>
+    <PosY>95</PosY>
+    <Size>95</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>1</WindowID>
