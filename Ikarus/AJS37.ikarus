@@ -1431,7 +1431,7 @@
     <Name>462 - TREVAVDR TRANSONIC</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
+    <FilePictureOn>AJS37_Red-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
     <PosX>1630</PosX>
     <PosY>77</PosY>

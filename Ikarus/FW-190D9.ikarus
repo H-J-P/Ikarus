@@ -106,7 +106,7 @@
   </Instruments>
   <Instruments>
     <IDInst>9</IDInst>
-    <Name>HeadCourse</Name>
+    <Name>HSI</Name>
     <Class>LwHeadCourse</Class>
     <PosX>1120</PosX>
     <PosY>340</PosY>
@@ -942,5 +942,6 @@
     <Width>1920</Width>
     <Background>BackGround.png</Background>
     <BackgroundNight>-</BackgroundNight>
+    <LightColor />
   </Window>
 </DataSet1>
