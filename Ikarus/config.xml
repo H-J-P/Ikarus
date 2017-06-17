@@ -88,6 +88,12 @@
     <Classname>AJS37_ASI_stby</Classname>
   </Classnames>
   <Classnames>
+    <Classname>AJS37_BrakeP</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_CabinP</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>AJS37_CI</Classname>
   </Classnames>
   <Classnames>

@@ -95,9 +95,9 @@
     <IDInst>8</IDInst>
     <Name>Exhaust Gas Temperature (EGT) indicator</Name>
     <Class>AJS37_EGT</Class>
-    <PosX>1584</PosX>
-    <PosY>921</PosY>
-    <Size>150</Size>
+    <PosX>1578</PosX>
+    <PosY>919</PosY>
+    <Size>140</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -108,9 +108,9 @@
     <IDInst>9</IDInst>
     <Name>Elevator Trim (Nose up/down) indicator</Name>
     <Class>AJS37_ELEV_TRIM</Class>
-    <PosX>26</PosX>
-    <PosY>919</PosY>
-    <Size>150</Size>
+    <PosX>2</PosX>
+    <PosY>911</PosY>
+    <Size>140</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -173,9 +173,9 @@
     <IDInst>14</IDInst>
     <Name>Nozzle indicator</Name>
     <Class>AJS37_NOZ</Class>
-    <PosX>1430</PosX>
-    <PosY>922</PosY>
-    <Size>150</Size>
+    <PosX>1433</PosX>
+    <PosY>920</PosY>
+    <Size>140</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -186,9 +186,9 @@
     <IDInst>15</IDInst>
     <Name>Oxygen Quant indicator</Name>
     <Class>AJS37_OXY_Q</Class>
-    <PosX>1737</PosX>
-    <PosY>922</PosY>
-    <Size>150</Size>
+    <PosX>1721</PosX>
+    <PosY>919</PosY>
+    <Size>140</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -251,7 +251,7 @@
     <IDInst>20</IDInst>
     <Name>Freq. KHz 1 Pos.</Name>
     <Class>Display7Segment</Class>
-    <PosX>278</PosX>
+    <PosX>286</PosX>
     <PosY>677</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
@@ -264,7 +264,7 @@
     <IDInst>21</IDInst>
     <Name>Freq. KHz 2 Pos.</Name>
     <Class>Display7Segment</Class>
-    <PosX>256</PosX>
+    <PosX>264</PosX>
     <PosY>677</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
@@ -277,7 +277,7 @@
     <IDInst>22</IDInst>
     <Name>Freq. KHz 3 Pos.</Name>
     <Class>Display7Segment</Class>
-    <PosX>234</PosX>
+    <PosX>243</PosX>
     <PosY>677</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
@@ -290,7 +290,7 @@
     <IDInst>23</IDInst>
     <Name>Freq. MHz 1 Pos.</Name>
     <Class>Display7Segment</Class>
-    <PosX>192</PosX>
+    <PosX>201</PosX>
     <PosY>677</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
@@ -303,7 +303,7 @@
     <IDInst>24</IDInst>
     <Name>Freq. MHz 2 Pos.</Name>
     <Class>Display7Segment</Class>
-    <PosX>170</PosX>
+    <PosX>179</PosX>
     <PosY>677</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
@@ -316,7 +316,7 @@
     <IDInst>25</IDInst>
     <Name>Freq. MHz 3 Pos.</Name>
     <Class>Display7Segment</Class>
-    <PosX>148</PosX>
+    <PosX>157</PosX>
     <PosY>677</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
@@ -332,6 +332,32 @@
     <PosX>1429</PosX>
     <PosY>675</PosY>
     <Size>200</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>27</IDInst>
+    <Name>Brake pressure</Name>
+    <Class>AJS37_BrakeP</Class>
+    <PosX>2</PosX>
+    <PosY>767</PosY>
+    <Size>140</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>28</IDInst>
+    <Name>Cabin pressure</Name>
+    <Class>AJS37_CabinP</Class>
+    <PosX>2</PosX>
+    <PosY>623</PosY>
+    <Size>140</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -1304,6 +1330,38 @@
     <AsciiValue />
     <OldAsciiValue />
   </Functions>
+  <Functions>
+    <IDInst>27</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Brake pressure</Name>
+    <Arg_number>150</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,270</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In>0.1245</In>
+    <Out>34</Out>
+  </Functions>
+  <Functions>
+    <IDInst>28</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Cabin pressure</Name>
+    <Arg_number>2005</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,252</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In>0.1245</In>
+    <Out>31</Out>
+  </Functions>
   <Lamps>
     <ID>1</ID>
     <Class>LampOnOff</Class>
@@ -1388,8 +1446,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>10</PosX>
-    <PosY>554</PosY>
+    <PosX>5</PosX>
+    <PosY>362</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1448,8 +1506,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>10</PosX>
-    <PosY>841</PosY>
+    <PosX>5</PosX>
+    <PosY>562</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1580,7 +1638,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>185</PosX>
+    <PosX>195</PosX>
     <PosY>815</PosY>
     <Size>35</Size>
     <Rotate>90</Rotate>
@@ -1684,8 +1742,8 @@
     <Class>Label</Class>
     <Name>FM/AM</Name>
     <FilePictureOn>AJS37_FM_AM.png</FilePictureOn>
-    <PosX>140</PosX>
-    <PosY>612</PosY>
+    <PosX>147</PosX>
+    <PosY>613</PosY>
     <Size>185</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
@@ -1781,7 +1839,7 @@
   <Window>
     <WindowID>1</WindowID>
     <Name>Frontpanel</Name>
-    <PosX>0</PosX>
+    <PosX>1000</PosX>
     <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
