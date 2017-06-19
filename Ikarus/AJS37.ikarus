@@ -252,7 +252,7 @@
     <Name>Freq. KHz 1 Pos.</Name>
     <Class>Display7Segment</Class>
     <PosX>286</PosX>
-    <PosY>677</PosY>
+    <PosY>700</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -265,7 +265,7 @@
     <Name>Freq. KHz 2 Pos.</Name>
     <Class>Display7Segment</Class>
     <PosX>264</PosX>
-    <PosY>677</PosY>
+    <PosY>700</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -278,7 +278,7 @@
     <Name>Freq. KHz 3 Pos.</Name>
     <Class>Display7Segment</Class>
     <PosX>243</PosX>
-    <PosY>677</PosY>
+    <PosY>700</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -291,7 +291,7 @@
     <Name>Freq. MHz 1 Pos.</Name>
     <Class>Display7Segment</Class>
     <PosX>201</PosX>
-    <PosY>677</PosY>
+    <PosY>700</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -304,7 +304,7 @@
     <Name>Freq. MHz 2 Pos.</Name>
     <Class>Display7Segment</Class>
     <PosX>179</PosX>
-    <PosY>677</PosY>
+    <PosY>700</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -317,7 +317,7 @@
     <Name>Freq. MHz 3 Pos.</Name>
     <Class>Display7Segment</Class>
     <PosX>157</PosX>
-    <PosY>677</PosY>
+    <PosY>700</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -1373,7 +1373,7 @@
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
     <PosX>426</PosX>
     <PosY>142</PosY>
-    <Size>40</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1388,7 +1388,7 @@
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
     <PosX>534</PosX>
     <PosY>142</PosY>
-    <Size>40</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1446,9 +1446,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>5</PosX>
-    <PosY>362</PosY>
-    <Size>40</Size>
+    <PosX>146</PosX>
+    <PosY>912</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1463,7 +1463,7 @@
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
     <PosX>724</PosX>
     <PosY>393</PosY>
-    <Size>60</Size>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1478,7 +1478,7 @@
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
     <PosX>1425</PosX>
     <PosY>7</PosY>
-    <Size>40</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1493,7 +1493,7 @@
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
     <PosX>1630</PosX>
     <PosY>77</PosY>
-    <Size>40</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1506,9 +1506,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>5</PosX>
-    <PosY>562</PosY>
-    <Size>40</Size>
+    <PosX>284</PosX>
+    <PosY>910</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
@@ -1638,8 +1638,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>195</PosX>
-    <PosY>815</PosY>
+    <PosX>192</PosX>
+    <PosY>835</PosY>
     <Size>35</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
@@ -1742,8 +1742,8 @@
     <Class>Label</Class>
     <Name>FM/AM</Name>
     <FilePictureOn>AJS37_FM_AM.png</FilePictureOn>
-    <PosX>147</PosX>
-    <PosY>613</PosY>
+    <PosX>145</PosX>
+    <PosY>634</PosY>
     <Size>185</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
@@ -1839,7 +1839,7 @@
   <Window>
     <WindowID>1</WindowID>
     <Name>Frontpanel</Name>
-    <PosX>1000</PosX>
+    <PosX>0</PosX>
     <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
