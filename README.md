@@ -8,6 +8,7 @@ With the help of our DCS ExportScriptget get data to display with the gauges.
 We currently support the following DCS modules:
 - Ka-50
 - A-10C
+- AJS37 Viggen
 - MiG-15bis
 - MiG-21Bis
 - F-86F Sabre
