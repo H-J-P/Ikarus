@@ -812,8 +812,8 @@
   <Functions>
     <IDInst>20</IDInst>
     <IDFct>1</IDFct>
-    <Name>Attitude_Pitch</Name>
-    <Arg_number>143</Arg_number>
+    <Name>Attitude_Roll</Name>
+    <Arg_number>142</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -828,8 +828,8 @@
   <Functions>
     <IDInst>20</IDInst>
     <IDFct>2</IDFct>
-    <Name>Attitude_Roll</Name>
-    <Arg_number>142</Arg_number>
+    <Name>Attitude_Pitch</Name>
+    <Arg_number>143</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
