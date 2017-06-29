@@ -250,7 +250,7 @@
   <Instruments>
     <IDInst>20</IDInst>
     <Name>Freq. KHz 1 Pos.</Name>
-    <Class>Display7Segment</Class>
+    <Class>DisplayDotMatrix</Class>
     <PosX>288</PosX>
     <PosY>677</PosY>
     <Size>23</Size>
@@ -263,7 +263,7 @@
   <Instruments>
     <IDInst>21</IDInst>
     <Name>Freq. KHz 2 Pos.</Name>
-    <Class>Display7Segment</Class>
+    <Class>DisplayDotMatrix</Class>
     <PosX>264</PosX>
     <PosY>677</PosY>
     <Size>23</Size>
@@ -276,7 +276,7 @@
   <Instruments>
     <IDInst>22</IDInst>
     <Name>Freq. KHz 3 Pos.</Name>
-    <Class>Display7Segment</Class>
+    <Class>DisplayDotMatrix</Class>
     <PosX>241</PosX>
     <PosY>677</PosY>
     <Size>23</Size>
@@ -289,7 +289,7 @@
   <Instruments>
     <IDInst>23</IDInst>
     <Name>Freq. MHz 1 Pos.</Name>
-    <Class>Display7Segment</Class>
+    <Class>DisplayDotMatrix</Class>
     <PosX>203</PosX>
     <PosY>677</PosY>
     <Size>23</Size>
@@ -302,7 +302,7 @@
   <Instruments>
     <IDInst>24</IDInst>
     <Name>Freq. MHz 2 Pos.</Name>
-    <Class>Display7Segment</Class>
+    <Class>DisplayDotMatrix</Class>
     <PosX>179</PosX>
     <PosY>677</PosY>
     <Size>23</Size>
@@ -315,7 +315,7 @@
   <Instruments>
     <IDInst>25</IDInst>
     <Name>Freq. MHz 3 Pos.</Name>
-    <Class>Display7Segment</Class>
+    <Class>DisplayDotMatrix</Class>
     <PosX>155</PosX>
     <PosY>677</PosY>
     <Size>23</Size>
