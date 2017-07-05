@@ -216,7 +216,7 @@
     <PosY>100</PosY>
     <Size>300</Size>
     <Rotate>0</Rotate>
-    <ImageFrame>UH-1H_ADI.png</ImageFrame>
+    <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
@@ -333,7 +333,7 @@
     <PosY>130</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
-    <ImageFrame>UH-1H_ADI.png</ImageFrame>
+    <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>2</WindowID>
