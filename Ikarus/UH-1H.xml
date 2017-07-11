@@ -294,11 +294,6 @@
     <ExportIDWithDescription>3012 - genericRadio Squelch active</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
-  <Arcaze>
-    <Arcaze>LED-Driver-V5.65 (000413300000)</Arcaze>
-    <Active>true</Active>
-    <SerialNumber>000413300000</SerialNumber>
-  </Arcaze>
   <Clickabledata>
     <ID>0</ID>
     <DeviceID>1</DeviceID>

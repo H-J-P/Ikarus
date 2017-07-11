@@ -4102,7 +4102,7 @@
     <Background>F5E_FrontPanelDark.PNG</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>false</Refresh>
-    <LightColor />
+    <LightColor>95E298</LightColor>
   </Window>
   <Window>
     <WindowID>2</WindowID>

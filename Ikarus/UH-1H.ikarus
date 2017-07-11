@@ -1377,8 +1377,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>0.0, 0.075, 0.19, 0.32, 0.395, 0.44, 0.55, 0.825, 1.0</Input>
+    <Output>0, 25, 65, 110, 135, 150, 187, 280, 341</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1650,7 +1650,7 @@
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>BackGround.png</Background>
-    <LightColor />
+    <LightColor>95E298</LightColor>
   </Window>
   <Window>
     <WindowID>2</WindowID>
