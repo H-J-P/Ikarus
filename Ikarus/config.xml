@@ -5,7 +5,7 @@
     <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-    <File>F-15C.ikarus</File>
+    <File>Sphere-test.ikarus</File>
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
@@ -209,6 +209,9 @@
   </Classnames>
   <Classnames>
     <Classname>F5E_ADI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>F5E_ADI_Sphere</Classname>
   </Classnames>
   <Classnames>
     <Classname>F5E_AOA</Classname>
@@ -970,6 +973,9 @@
     <Classname>UH1_ADI</Classname>
   </Classnames>
   <Classnames>
+    <Classname>UH1_ADI_Sphere</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>UH1_AirTemp</Classname>
   </Classnames>
   <Classnames>
@@ -1058,6 +1064,9 @@
   </Classnames>
   <Classnames>
     <Classname>US_ADI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>US_ADI_Sphere</Classname>
   </Classnames>
   <Classnames>
     <Classname>US_ADIstby</Classname>
