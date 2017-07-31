@@ -23,7 +23,7 @@ We currently support the following DCS modules:
 - SpitfireLFMkIX
 - AJS37 Viggen
 - Su-25T
-- all Flaming Cliffs airplanes
+- all Flaming Cliffs aircrafts
 
 Please follow this link to our [Wiki](https://github.com/s-d-a/Ikarus/wiki)
 
