@@ -259,6 +259,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>2</IDInst>
@@ -273,6 +275,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>2</IDInst>
@@ -287,6 +291,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>2</IDInst>
@@ -301,6 +307,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>2</IDInst>
@@ -315,6 +323,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>2</IDInst>
@@ -329,6 +339,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>3</IDInst>
@@ -343,6 +355,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>4</IDInst>
@@ -357,6 +371,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>4</IDInst>
@@ -371,6 +387,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>5</IDInst>
@@ -385,6 +403,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>5</IDInst>
@@ -399,6 +419,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>6</IDInst>
@@ -409,10 +431,12 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Output>-3,326</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>7</IDInst>
@@ -427,6 +451,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>7</IDInst>
@@ -441,6 +467,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>7</IDInst>
@@ -455,6 +483,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>8</IDInst>
@@ -469,6 +499,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>9</IDInst>
@@ -483,6 +515,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>10</IDInst>
@@ -497,6 +531,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>10</IDInst>
@@ -511,6 +547,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -525,6 +563,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>12</IDInst>
@@ -539,6 +579,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>13</IDInst>
@@ -553,6 +595,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>14</IDInst>
@@ -567,6 +611,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>14</IDInst>
@@ -581,6 +627,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>14</IDInst>
@@ -595,6 +643,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>15</IDInst>
@@ -609,6 +659,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>16</IDInst>
@@ -623,6 +675,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>17</IDInst>
@@ -637,6 +691,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>17</IDInst>
@@ -651,6 +707,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>17</IDInst>
@@ -665,6 +723,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>17</IDInst>
@@ -679,6 +739,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>18</IDInst>
@@ -693,6 +755,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>19</IDInst>
@@ -707,6 +771,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>15</IDInst>
@@ -721,6 +787,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>16</IDInst>
@@ -735,6 +803,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Lamps>
     <ID>1</ID>
@@ -818,10 +888,11 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>1200</PosY>
+    <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>BackGround.png</Background>
     <BackgroundNight>-</BackgroundNight>
+    <LightColor />
   </Window>
 </DataSet1>

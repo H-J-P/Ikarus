@@ -21,12 +21,13 @@ We currently support the following DCS modules:
 - L-39ZA
 - F-5E-3
 - SpitfireLFMkIX
+- AJS37 Viggen
 - Su-25T
-- alle Flaming Cliffs Flugzeuge
+- all Flaming Cliffs airplanes
 
 Please follow this link to our [Wiki](https://github.com/s-d-a/Ikarus/wiki)
 
-# Installation:
+### Installation:
 
 - Please download Ikarus and unzip it.
 - Download DCS-Exportscript from there:

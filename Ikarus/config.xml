@@ -67,6 +67,15 @@
     <Classname>AJS37_ADI</Classname>
   </Classnames>
   <Classnames>
+    <Classname>AJS37_ADI_stby</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_Afterburner</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_ALT</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>AJS37_ALT_stby</Classname>
   </Classnames>
   <Classnames>
@@ -77,6 +86,15 @@
   </Classnames>
   <Classnames>
     <Classname>AJS37_ASI_stby</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_BrakeP</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_CabinP</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AJS37_CI</Classname>
   </Classnames>
   <Classnames>
     <Classname>AJS37_DIST</Classname>
@@ -92,9 +110,6 @@
   </Classnames>
   <Classnames>
     <Classname>AJS37_FUEL_Q</Classname>
-  </Classnames>
-  <Classnames>
-    <Classname>AJS37_HSI</Classname>
   </Classnames>
   <Classnames>
     <Classname>AJS37_KURS</Classname>
@@ -194,6 +209,9 @@
   </Classnames>
   <Classnames>
     <Classname>F5E_ADI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>F5E_ADI_Sphere</Classname>
   </Classnames>
   <Classnames>
     <Classname>F5E_AOA</Classname>
@@ -955,6 +973,12 @@
     <Classname>UH1_ADI</Classname>
   </Classnames>
   <Classnames>
+    <Classname>UH1_ADI_Sphere</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>UH1_AirTemp</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>UH1_AltAAU31</Classname>
   </Classnames>
   <Classnames>
@@ -1009,6 +1033,12 @@
     <Classname>UH1_RadioCompassIndicatorV2</Classname>
   </Classnames>
   <Classnames>
+    <Classname>UH1_RMI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>UH1_RMI_Green</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>UH1_RPM</Classname>
   </Classnames>
   <Classnames>
@@ -1034,6 +1064,9 @@
   </Classnames>
   <Classnames>
     <Classname>US_ADI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>US_ADI_Sphere</Classname>
   </Classnames>
   <Classnames>
     <Classname>US_ADIstby</Classname>
@@ -1067,6 +1100,9 @@
   </Classnames>
   <Classnames>
     <Classname>WPALT20</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>WPALT20V2</Classname>
   </Classnames>
   <Classnames>
     <Classname>WPALT30</Classname>
