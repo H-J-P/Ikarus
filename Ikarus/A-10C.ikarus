@@ -42,7 +42,7 @@
   <Instruments>
     <IDInst>4</IDInst>
     <Name>ADI</Name>
-    <Class>US_ADI</Class>
+    <Class>US_ADI_Sphere</Class>
     <PosX>790</PosX>
     <PosY>201</PosY>
     <Size>340</Size>
