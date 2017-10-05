@@ -29,7 +29,7 @@
   <Instruments>
     <IDInst>3</IDInst>
     <Name>ACC</Name>
-    <Class>US_ACC</Class>
+    <Class>F5E_ACC</Class>
     <PosX>432</PosX>
     <PosY>950</PosY>
     <Size>130</Size>
@@ -42,7 +42,7 @@
   <Instruments>
     <IDInst>4</IDInst>
     <Name>ADI</Name>
-    <Class>US_ADI</Class>
+    <Class>US_ADI_Sphere</Class>
     <PosX>790</PosX>
     <PosY>201</PosY>
     <Size>340</Size>
