@@ -1,0 +1,2045 @@
+<?xml version="1.0" standalone="yes"?>
+<DTADataSet>
+  <!-- Gyro voyant -->
+  <DCS_ID>
+    <ExportID>201</ExportID>
+    <Description>Gyro Test</Description>
+    <ExportIDWithDescription>201 - Gyro Test</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>202</ExportID>
+    <Description>Gyro Trim</Description>
+    <ExportIDWithDescription>202 - Gyro Trim</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>203</ExportID>
+    <Description>Gyro BPP</Description>
+    <ExportIDWithDescription>203 - Gyro BPP</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- Flare Dispenser Lamps -->
+  <DCS_ID>
+    <ExportID>233</ExportID>
+    <Description>Flare Dispenser - Power On</Description>
+    <ExportIDWithDescription>233 - Flare Dispenser - Power On</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>231</ExportID>
+    <Description>Flare Dispenser - select Left</Description>
+    <ExportIDWithDescription>231 - Flare Dispenser - select Left</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>232</ExportID>
+    <Description>Flare Dispenser - select Right</Description>
+    <ExportIDWithDescription>232 - Flare Dispenser - select Right</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>227</ExportID>
+    <Description>Flare Dispenser - Status LEU</Description>
+    <ExportIDWithDescription>227 - Flare Dispenser - Status LEU</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>223</ExportID>
+    <Description>Flare Dispenser - Status Left G</Description>
+    <ExportIDWithDescription>223 - Flare Dispenser - Status Left G</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>224</ExportID>
+    <Description>Flare Dispenser - Status Left VIDE</Description>
+    <ExportIDWithDescription>224 - Flare Dispenser - Status Left VIDE</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>225</ExportID>
+    <Description>Flare Dispenser - Status Right G</Description>
+    <ExportIDWithDescription>225 - Flare Dispenser - Status Right G</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>226</ExportID>
+    <Description>Flare Dispenser - Status Right VIDE</Description>
+    <ExportIDWithDescription>226 - Flare Dispenser - Status Right VIDE</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- radar altimetre -->
+  <DCS_ID>
+    <ExportID>97</ExportID>
+    <Description>Radar Altimetre - Alarm Lamp</Description>
+    <ExportIDWithDescription>97 - Radar Altimetre - Alarm Lamp</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- TORQUE -->
+  <DCS_ID>
+    <ExportID>17</ExportID>
+    <Description>Torque - Alarm Lamp</Description>
+    <ExportIDWithDescription>17 - Torque - Alarm Lamp</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- Engine Start -->
+  <DCS_ID>
+    <ExportID>300</ExportID>
+    <Description>Engine - Start</Description>
+    <ExportIDWithDescription>300 - Engine - Start</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>301</ExportID>
+    <Description>Engine - Idle</Description>
+    <ExportIDWithDescription>301 - Engine - Idle</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>302</ExportID>
+    <Description>Engine - Blocked</Description>
+    <ExportIDWithDescription>302 - Engine - Blocked</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>320</ExportID>
+    <Description>Fuel - R.SUPP</Description>
+    <ExportIDWithDescription>320 - Fuel - R.SUPP</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>321</ExportID>
+    <Description>Fuel - R.CONV</Description>
+    <ExportIDWithDescription>321 - Fuel - R.CONV</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>322</ExportID>
+    <Description>Sandfilter</Description>
+    <ExportIDWithDescription>322 - Sandfilter</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- AM Radio -->
+  <DCS_ID>
+    <ExportID>141</ExportID>
+    <Description>AM Radio</Description>
+    <ExportIDWithDescription>141 - AM Radio</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- Intercomp -->
+  <DCS_ID>
+    <ExportID>455</ExportID>
+    <Description>Intercomp - VHF</Description>
+    <ExportIDWithDescription>455 - Intercomp - VHF</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>456</ExportID>
+    <Description>Intercomp - FM1</Description>
+    <ExportIDWithDescription>456 - Intercomp - FM1</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>457</ExportID>
+    <Description>Intercomp - UHF</Description>
+    <ExportIDWithDescription>457 - Intercomp - UHF</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- Alarm lamps -->
+  <DCS_ID>
+    <ExportID>303</ExportID>
+    <Description>Alarm - Master</Description>
+    <ExportIDWithDescription>303 - Alarm - Master</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>1</ExportID>
+    <Description>Alarm - PITOT</Description>
+    <ExportIDWithDescription>1 - Alarm - PITOT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2</ExportID>
+    <Description>Alarm - H.MOT</Description>
+    <ExportIDWithDescription>2 - Alarm - H.MOT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>3</ExportID>
+    <Description>Alarm - H.BTP</Description>
+    <ExportIDWithDescription>3 - Alarm - H.BTP</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>4</ExportID>
+    <Description>Alarm - H.RAL</Description>
+    <ExportIDWithDescription>4 - Alarm - H.RAL</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>5</ExportID>
+    <Description>Alarm - GENE</Description>
+    <ExportIDWithDescription>5 - Alarm - GENE</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>6</ExportID>
+    <Description>Alarm - ALTER.</Description>
+    <ExportIDWithDescription>6 - Alarm - ALTER.</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>7</ExportID>
+    <Description>Alarm - BAT.</Description>
+    <ExportIDWithDescription>7 - Alarm - BAT.</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>8</ExportID>
+    <Description>Alarm - P.A.</Description>
+    <ExportIDWithDescription>8 - Alarm - P.A.</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>9</ExportID>
+    <Description>Alarm - NAV</Description>
+    <ExportIDWithDescription>9 - Alarm - NAV</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>10</ExportID>
+    <Description>Alarm - COMB</Description>
+    <ExportIDWithDescription>10 - Alarm - COMB</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>11</ExportID>
+    <Description>Alarm - B.P.HY.</Description>
+    <ExportIDWithDescription>11 - Alarm - B.P.HY.</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>12</ExportID>
+    <Description>Alarm - LIM</Description>
+    <ExportIDWithDescription>12 - Alarm - LIM</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>13</ExportID>
+    <Description>Alarm - FILT.</Description>
+    <ExportIDWithDescription>13 - Alarm - FILT.</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>183</ExportID>
+    <Description>HOT3 WP Lamps - BON</Description>
+    <ExportIDWithDescription>183 - HOT3 WP Lamps - BON</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>184</ExportID>
+    <Description>HOT3 WP Lamps MAUVAIS</Description>
+    <ExportIDWithDescription>184 - HOT3 WP Lamps - MAUVAIS</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>185</ExportID>
+    <Description>HOT3 WP Lamps - ALIMENTATION</Description>
+    <ExportIDWithDescription>185 - HOT3 WP Lamps - ALIMENTATION</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>186</ExportID>
+    <Description>HOT3 WP Lamps - MISSILE PRET</Description>
+    <ExportIDWithDescription>186 - HOT3 WP Lamps - MISSILE PRET</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>187</ExportID>
+    <Description>HOT3 WP Lamps - TIR AUTOR.</Description>
+    <ExportIDWithDescription>187 - HOT3 WP Lamps - TIR AUTOR.</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>188</ExportID>
+    <Description>HOT3 WP Lamps - DEFAUT</Description>
+    <ExportIDWithDescription>188 - HOT3 WP Lamps - DEFAUT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>189</ExportID>
+    <Description>HOT3 WP Lamps - TEST I</Description>
+    <ExportIDWithDescription>189 - HOT3 WP Lamps - TEST I</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>190</ExportID>
+    <Description>HOT3 WP Lamps - JOUR</Description>
+    <ExportIDWithDescription>190 - HOT3 WP Lamps - JOUR</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>191</ExportID>
+    <Description>HOT3 WP Lamps - LUMINOSITE</Description>
+    <ExportIDWithDescription>191 - HOT3 WP Lamps - LUMINOSITE</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>192</ExportID>
+    <Description>HOT3 WP Lamps - TEST II</Description>
+    <ExportIDWithDescription>192 - HOT3 WP Lamps - TEST II</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>193</ExportID>
+    <Description>HOT3 WP Lamps - NUIT</Description>
+    <ExportIDWithDescription>193 - HOT3 WP Lamps - </ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- Displays -->
+  <DCS_ID>
+    <ExportID>2000</ExportID>
+    <Description>UHF Frequence</Description>
+    <ExportIDWithDescription>2000 - UHF Frequence</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2001</ExportID>
+    <Description>AM Frequence</Description>
+    <ExportIDWithDescription>2001 - AM Frequence</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2002</ExportID>
+    <Description>FM Frequence</Description>
+    <ExportIDWithDescription>2002 - FM Frequence</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2003</ExportID>
+    <Description>FM Channel</Description>
+    <ExportIDWithDescription>2003 - FM Channel</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <!-- Weapon Panel Displays -->
+  <DCS_ID>
+    <ExportID>2004</ExportID>
+    <Description>WP Left</Description>
+    <ExportIDWithDescription>2004 - WP Left</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2005</ExportID>
+    <Description>WP Right</Description>
+    <ExportIDWithDescription>2005 - WP Right</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <!-- generic Radio -->
+  <DCS_ID>
+    <ExportID>3000</ExportID>
+    <Description>genericRadio Preset Channel and Frequency</Description>
+    <ExportIDWithDescription>3000 - genericRadio Preset Channel and Frequency</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>3001</ExportID>
+    <Description>genericRadio Preset Channel</Description>
+    <ExportIDWithDescription>3001 - genericRadio Preset Channel</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>3002</ExportID>
+    <Description>genericRadio Frequency</Description>
+    <ExportIDWithDescription>3002 - genericRadio Frequency</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>3010</ExportID>
+    <Description>genericRadio aktive</Description>
+    <ExportIDWithDescription>3010 - genericRadio aktive</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>3011</ExportID>
+    <Description>genericRadio Preset aktive</Description>
+    <ExportIDWithDescription>3011 - genericRadio Preset aktive</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- Switches -->
+  <!-- Weapon Panel 1 -->
+  <Clickabledata>
+    <ID>1</ID>
+    <DeviceID>26</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>WP1 - Off/On/Standby {-1.0,0.0,1.0}</Discription>
+    <DcsID>354</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>2</ID>
+    <DeviceID>26</DeviceID>
+    <ButtonID>9</ButtonID>
+    <Discription>WP1 - Brightness {0.0 - 1.0} in 0.1 steps</Discription>
+    <DcsID>357</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <!-- Weapon Panel 2 -->
+  <Clickabledata>
+    <ID>3</ID>
+    <DeviceID>26</DeviceID>
+    <ButtonID>11</ButtonID>
+    <Discription>WP2 - Master Arm Left Cover</Discription>
+    <DcsID>373</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>4</ID>
+    <DeviceID>26</DeviceID>
+    <ButtonID>10</ButtonID>
+    <Discription>WP2 - Master Arm Left</Discription>
+    <DcsID>372</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>5</ID>
+    <DeviceID>26</DeviceID>
+    <ButtonID>13</ButtonID>
+    <Discription>WP2 - Master Arm Right Cover</Discription>
+    <DcsID>375</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>6</ID>
+    <DeviceID>26</DeviceID>
+    <ButtonID>12</ButtonID>
+    <Discription>WP2 - Master Arm Right</Discription>
+    <DcsID>374</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>7</ID>
+    <DeviceID>26</DeviceID>
+    <ButtonID>14</ButtonID>
+    <Discription>WP2 - Ripple selection</Discription>
+    <DcsID>376</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- Pilot Sight -->
+  <Clickabledata>
+    <ID>8</ID>
+    <DeviceID>26</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>WP - Pilot Sight</Discription>
+    <DcsID>171</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- WSO LEFT SIDE STICK -->
+  <Clickabledata>
+    <ID>9</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>21</ButtonID>
+    <Discription>WSO STICK - Lasing Button Cover</Discription>
+    <DcsID>255</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>10</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>22</ButtonID>
+    <Discription>WSO STICK - Lasing Button</Discription>
+    <DcsID>256</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>11</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>23</ButtonID>
+    <Discription>WSO STICK - Missile Launch Cover</Discription>
+    <DcsID>257</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>12</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>24</ButtonID>
+    <Discription>WSO STICK - Missile Launch Button</Discription>
+    <DcsID>258</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>13</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>25</ButtonID>
+    <Discription>WSO STICK - Inversed Symbology Toggle</Discription>
+    <DcsID>259</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>14</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>26</ButtonID>
+    <Discription>WSO STICK - Inversed Image Toggle</Discription>
+    <DcsID>260</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>15</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>27</ButtonID>
+    <Discription>WSO STICK - Image Focus down {-1.0,0.0}</Discription>
+    <DcsID>264</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>16</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>28</ButtonID>
+    <Discription>WSO STICK - Image Focus up {0.0,1.0}</Discription>
+    <DcsID>264</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>17</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>29</ButtonID>
+    <Discription>WSO STICK - Gain left {-1.0,0.0}</Discription>
+    <DcsID>262</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>18</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>30</ButtonID>
+    <Discription>WSO STICK - Gain right {0.0,1.0}</Discription>
+    <DcsID>262</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>19</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>31</ButtonID>
+    <Discription>WSO STICK - Image Brightness down {-1.0,0.0}</Discription>
+    <DcsID>263</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>20</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>32</ButtonID>
+    <Discription>WSO STICK - Image Brightness up {0.0,1.0}</Discription>
+    <DcsID>263</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>21</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>33</ButtonID>
+    <Discription>WSO STICK - Symbology Brightness left {-1.0,0.0}</Discription>
+    <DcsID>219</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>22</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>34</ButtonID>
+    <Discription>WSO STICK - Symbology Brightness right {0.0,1.0}</Discription>
+    <DcsID>219</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- GYRO -->
+  <Clickabledata>
+    <ID>23</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>14</ButtonID>
+    <Discription>GYRO - Test Cover</Discription>
+    <DcsID>197</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>24</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>15</ButtonID>
+    <Discription>GYRO - Test Switch On/Off</Discription>
+    <DcsID>198</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>25</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>16</ButtonID>
+    <Discription>GYRO - Left/Center/Right</Discription>
+    <DcsID>199</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>26</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>17</ButtonID>
+    <Discription>GYRO - CM/A/GM/D/GD {0.0,0.25,0.50,0.75,1.0}</Discription>
+    <DcsID>153</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- CLOCK -->
+  <Clickabledata>
+    <ID>27</ID>
+    <DeviceID>20</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>CLOCK - Winder</Discription>
+    <DcsID>45</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>28</ID>
+    <DeviceID>20</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>CLOCK - Winder (Axis) {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>45</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>29</ID>
+    <DeviceID>20</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>CLOCK - Start/Stop</Discription>
+    <DcsID>46</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>30</ID>
+    <DeviceID>20</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>CLOCK - Reset</Discription>
+    <DcsID>47</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- PE BCV (BOITIER DE COMMANDE VIDEO – video command box) -->
+  <Clickabledata>
+    <ID>31</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>BCV - Centering</Discription>
+    <DcsID>362</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>32</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>BCV - VDO/VTH</Discription>
+    <DcsID>364</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>33</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>BCV - Zoom + {-1.0,0.0}</Discription>
+    <DcsID>365</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>34</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>BCV - Zoom - {0.0,1.0}</Discription>
+    <DcsID>365</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>35</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>5</ButtonID>
+    <Discription>BCV - CTH A/V/M {0.0,0.5,1.0}</Discription>
+    <DcsID>366</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>36</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>6</ButtonID>
+    <Discription>BCV - Power </Discription>
+    <DcsID>367</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>37</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>7</ButtonID>
+    <Discription>BCV - Mode A/C/V/PIL/ASS {0.0,0.25,0.50,0.75,1.0}</Discription>
+    <DcsID>370</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- NADIR -->
+  <Clickabledata>
+    <ID>38</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>NADIR - Off/Brightness {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>330</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>39</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>NADIR - Mode Off/Stby/Ground/Sea/Air Speed Sensor/Ground Test {0.0,0.2,0.4,0.6,0.8,1.0}</Discription>
+    <DcsID>331</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>40</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>NADIR - Parameter Wind/Magnetic Heading/Ground Speed/Calculated Time/Current Position/Waypoint {0.0,0.2,0.4,0.6,0.8,1.0}</Discription>
+    <DcsID>332</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>41</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>NADIR - ENT</Discription>
+    <DcsID>333</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>42</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>5</ButtonID>
+    <Discription>NADIR - DES</Discription>
+    <DcsID>334</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>43</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>6</ButtonID>
+    <Discription>NADIR - AUX</Discription>
+    <DcsID>335</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>44</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>7</ButtonID>
+    <Discription>NADIR - IC</Discription>
+    <DcsID>336</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>45</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>8</ButtonID>
+    <Discription>NADIR - DOWN</Discription>
+    <DcsID>337</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>46</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>9</ButtonID>
+    <Discription>NADIR - 0</Discription>
+    <DcsID>351</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>47</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>10</ButtonID>
+    <Discription>NADIR - 1</Discription>
+    <DcsID>338</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>48</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>11</ButtonID>
+    <Discription>NADIR - 2</Discription>
+    <DcsID>339</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>49</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>12</ButtonID>
+    <Discription>NADIR - 3</Discription>
+    <DcsID>340</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>50</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>13</ButtonID>
+    <Discription>NADIR - 4</Discription>
+    <DcsID>342</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>51</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>14</ButtonID>
+    <Discription>NADIR - 5</Discription>
+    <DcsID>343</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>52</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>15</ButtonID>
+    <Discription>NADIR - 6</Discription>
+    <DcsID>344</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>53</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>16</ButtonID>
+    <Discription>NADIR - 7</Discription>
+    <DcsID>346</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>54</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>17</ButtonID>
+    <Discription>NADIR - 8</Discription>
+    <DcsID>347</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>55</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>18</ButtonID>
+    <Discription>NADIR - 9</Discription>
+    <DcsID>348</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>56</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>19</ButtonID>
+    <Discription>NADIR - POL</Discription>
+    <DcsID>341</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>57</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>20</ButtonID>
+    <Discription>NADIR - GEO</Discription>
+    <DcsID>345</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>58</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>21</ButtonID>
+    <Discription>NADIR - POS</Discription>
+    <DcsID>349</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>59</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>22</ButtonID>
+    <Discription>NADIR - GEL</Discription>
+    <DcsID>350</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>60</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>23</ButtonID>
+    <Discription>NADIR - EFF</Discription>
+    <DcsID>352</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- AM_RADIO -->
+  <Clickabledata>
+    <ID>61</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>AM RADIO - Selector {0.0,0.33,0.66,0.99}</Discription>
+    <DcsID>128</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>62</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>AM RADIO - Freq decimals {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>129</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>63</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>AM RADIO - 25/50kHz Selector</Discription>
+    <DcsID>130</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>64</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>AM RADIO - Freq dial {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>131</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <!-- FM_RADIO -->
+  <Clickabledata>
+    <ID>65</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>FM RADIO - Main Selector Off/Traffic/CH Otan/REL/TST{0.0,0.25,0.50,0.75,1.0}</Discription>
+    <DcsID>272</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>66</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>FM RADIO - Chanel Selector 1/2/3/4/5/6/0/RG {0.0,0.143,0.286,0.429,0.572,0.715,0.858,1.0}</Discription>
+    <DcsID>273</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>67</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>FM RADIO - 7</Discription>
+    <DcsID>274</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>68</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>FM RADIO - 8</Discription>
+    <DcsID>275</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>69</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>5</ButtonID>
+    <Discription>FM RADIO - 9</Discription>
+    <DcsID>276</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>70</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>6</ButtonID>
+    <Discription>FM RADIO - 0</Discription>
+    <DcsID>277</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>71</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>7</ButtonID>
+    <Discription>FM RADIO - X</Discription>
+    <DcsID>278</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>72</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>8</ButtonID>
+    <Discription>FM RADIO - 4</Discription>
+    <DcsID>279</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>73</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>9</ButtonID>
+    <Discription>FM RADIO - 5</Discription>
+    <DcsID>280</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>74</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>10</ButtonID>
+    <Discription>FM RADIO - 6</Discription>
+    <DcsID>281</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>75</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>11</ButtonID>
+    <Discription>FM RADIO - RC</Discription>
+    <DcsID>282</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>76</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>12</ButtonID>
+    <Discription>FM RADIO - UP</Discription>
+    <DcsID>283</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>77</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>13</ButtonID>
+    <Discription>FM RADIO - 1</Discription>
+    <DcsID>284</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>78</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>14</ButtonID>
+    <Discription>FM RADIO - 2</Discription>
+    <DcsID>285</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>79</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>15</ButtonID>
+    <Discription>FM RADIO - 3</Discription>
+    <DcsID>286</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>80</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>16</ButtonID>
+    <Discription>FM RADIO - VAL</Discription>
+    <DcsID>287</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>81</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>17</ButtonID>
+    <Discription>FM RADIO - DOWN</Discription>
+    <DcsID>288</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- TV -->
+  <Clickabledata>
+    <ID>82</ID>
+    <DeviceID>13</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>TV - On/Off</Discription>
+    <DcsID>124</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>83</ID>
+    <DeviceID>13</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>TV - Contrast {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>125</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>84</ID>
+    <DeviceID>13</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>TV - Brightness {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>123</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <!-- RWR -->
+  <Clickabledata>
+    <ID>85</ID>
+    <DeviceID>24</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>RWR - Off/On/Croc {-1.0,0.0,1.0}</Discription>
+    <DcsID>148</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>86</ID>
+    <DeviceID>24</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>RWR - Marker</Discription>
+    <DcsID>149</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>87</ID>
+    <DeviceID>24</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>RWR - Page</Discription>
+    <DcsID>150</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>88</ID>
+    <DeviceID>24</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>RWR - Audio {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>121</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>89</ID>
+    <DeviceID>24</DeviceID>
+    <ButtonID>5</ButtonID>
+    <Discription>RWR - Brightness {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>122</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <!-- ADI -->
+  <Clickabledata>
+    <ID>90</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>ADI - Pitch {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>115</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>91</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>ADI - Unlock</Discription>
+    <DcsID>116</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- Standby ADI -->
+  <Clickabledata>
+    <ID>92</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>STDBY ADI - Pitch {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>215</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>93</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>STDBY ADI - Unlock</Discription>
+    <DcsID>216</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- Source selector for main artificial horizon vertical bar -->
+  <Clickabledata>
+    <ID>94</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>7</ButtonID>
+    <Discription>ADI - Source Off/Camera target point/ADF ermitter/NADIR Waypoint {0.0,0.33,0.66,0.99}</Discription>
+    <DcsID>218</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- INTERCOM 1 -->
+  <Clickabledata>
+    <ID>95</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>21</ButtonID>
+    <Discription>INTERCOM - VHF AM Radio</Discription>
+    <DcsID>452</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>96</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>INTERCOM - VHF AM Radio Volume {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>68</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>97</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>22</ButtonID>
+    <Discription>INTERCOM - FM Radio</Discription>
+    <DcsID>453</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>98</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>INTERCOM - FM Radio Volume {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>69</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>99</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>23</ButtonID>
+    <Discription>INTERCOM - UHF Radio</Discription>
+    <DcsID>454</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>100</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>INTERCOM - UHF Radio Volume {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>70</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <!-- TORQUE -->
+  <Clickabledata>
+    <ID>101</ID>
+    <DeviceID>17</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>TORQUE - Test</Discription>
+    <DcsID>58</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>102</ID>
+    <DeviceID>17</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>TORQUE - Bug {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>54</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <!-- LIGHTS -->
+  <Clickabledata>
+    <ID>103</ID>
+    <DeviceID>14</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>LIGHTS - Main Dashboard Lighting {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>22</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>104</ID>
+    <DeviceID>14</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>LIGHTS - Console Lighting {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>21</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>105</ID>
+    <DeviceID>14</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>LIGHTS - UV Lighting {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>145</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>106</ID>
+    <DeviceID>14</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>LIGHTS - NORM/BNL</Discription>
+    <DcsID>23</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>107</ID>
+    <DeviceID>14</DeviceID>
+    <ButtonID>5</ButtonID>
+    <Discription>LIGHTS - Roof Lamp Knob {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>147</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>108</ID>
+    <DeviceID>14</DeviceID>
+    <ButtonID>6</ButtonID>
+    <Discription>LIGHTS - Red Lens On/Off</Discription>
+    <DcsID>154</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- ELECTRIC -->
+  <Clickabledata>
+    <ID>109</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>ELECTRIC - Battery</Discription>
+    <DcsID>264</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>110</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>ELECTRIC - Alternator</Discription>
+    <DcsID>265</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>111</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>ELECTRIC - Generator</Discription>
+    <DcsID>268</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>112</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>ELECTRIC - Voltmeter Test</Discription>
+    <DcsID>62</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>113</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>5</ButtonID>
+    <Discription>ELECTRIC - Pitot</Discription>
+    <DcsID>170</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>114</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>6</ButtonID>
+    <Discription>ELECTRIC - Fuel Pump</Discription>
+    <DcsID>271</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>115</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>7</ButtonID>
+    <Discription>ELECTRIC - Additionnal Fuel Tank</Discription>
+    <DcsID>267</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>116</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>8</ButtonID>
+    <Discription>ELECTRIC - Starter Start/Stop/Air {-1.0,0.0,1.0}</Discription>
+    <DcsID>56</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>117</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>9</ButtonID>
+    <Discription>ELECTRIC - Test</Discription>
+    <DcsID>57</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>118</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>10</ButtonID>
+    <Discription>ELECTRIC - Copilot Wiper {-1.0,0.0,1.0}</Discription>
+    <DcsID>48</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>119</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>11</ButtonID>
+    <Discription>ELECTRIC - Pilot Wiper {-1.0,0.0,1.0}</Discription>
+    <DcsID>49</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>120</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>12</ButtonID>
+    <Discription>ELECTRIC - Left from Pitot</Discription>
+    <DcsID>61</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>121</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>13</ButtonID>
+    <Discription>ELECTRIC - HYD Test</Discription>
+    <DcsID>59</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>122</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>14</ButtonID>
+    <Discription>ELECTRIC - Alter Rearm</Discription>
+    <DcsID>66</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>123</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>15</ButtonID>
+    <Discription>ELECTRIC - Gene Rearm</Discription>
+    <DcsID>67</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>124</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>16</ButtonID>
+    <Discription>ELECTRIC - Convoy Tank On/Off</Discription>
+    <DcsID>63</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>125</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>17</ButtonID>
+    <Discription>ELECTRIC - Sand Filter On/Off</Discription>
+    <DcsID>64</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- NAVLIGHTS -->
+  <Clickabledata>
+    <ID>126</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>NAVLIGHTS - Navigation Lights CLI/OFF/FIX {-1.0,0.0,1.0}</Discription>
+    <DcsID>146</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>127</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>NAVLIGHTS - Anticollision Light NOR/OFF/ATT {-1.0,0.0,1.0}</Discription>
+    <DcsID>228</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>128</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>NAVLIGHTS - Landing Light Off/Vario/On {-1.0,0.0,1.0}</Discription>
+    <DcsID>105</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>129</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>NAVLIGHTS - Landing Light Extend/Retract down {-1.0,0.0}</Discription>
+    <DcsID>106</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>130</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>6</ButtonID>
+    <Discription>NAVLIGHTS - Landing Light Extend/Retract up {0.0,1.0}</Discription>
+    <DcsID>106</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>131</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>8</ButtonID>
+    <Discription>NAVLIGHTS - Panels Lighting On/Off</Discription>
+    <DcsID>382</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>132</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>10</ButtonID>
+    <Discription>NAVLIGHTS - AntiCollision Light Intensity {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>30</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>133</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>11</ButtonID>
+    <Discription>NAVLIGHTS - Formation Lights On/Off</Discription>
+    <DcsID>229</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>134</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>12</ButtonID>
+    <Discription>NAVLIGHTS - Formation Lights Intensity {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>230</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <!-- FLARE DISPENSER -->
+  <Clickabledata>
+    <ID>135</ID>
+    <DeviceID>25</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>FLARE DISPENSER - G/G+D/D {1.0,0.0,-1.0}</Discription>
+    <DcsID>220</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>136</ID>
+    <DeviceID>25</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>FLARE DISPENSER - Mode C/C / SEQ</Discription>
+    <DcsID>221</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>137</ID>
+    <DeviceID>25</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>FLARE DISPENSER - Off/Speed {-1.0,0.0,1.0}</Discription>
+    <DcsID>222</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>138</ID>
+    <DeviceID>25</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>FLARE DISPENSER - Fire Button Cover</Discription>
+    <DcsID>194</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>139</ID>
+    <DeviceID>25</DeviceID>
+    <ButtonID>5</ButtonID>
+    <Discription>FLARE DISPENSER - Fire Button</Discription>
+    <DcsID>195</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- AUTOPILOT -->
+  <Clickabledata>
+    <ID>140</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>AUTOPILOT - On/Off</Discription>
+    <DcsID>31</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>141</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>AUTOPILOT - Pitch On/Off</Discription>
+    <DcsID>32</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>142</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>AUTOPILOT - Roll On/Off</Discription>
+    <DcsID>33</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>143</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>AUTOPILOT - Yaw On/Off</Discription>
+    <DcsID>34</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>144</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>5</ButtonID>
+    <Discription>AUTOPILOT - Mode Speed/OFF/Altitude {-1.0,0.0,1.0}</Discription>
+    <DcsID>35</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>145</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>6</ButtonID>
+    <Discription>AUTOPILOT - Trim On/Off</Discription>
+    <DcsID>60</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>146</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>7</ButtonID>
+    <Discription>AUTOPILOT - Magnetic Brake On/Off</Discription>
+    <DcsID>65</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- WEAPONS -->
+  <Clickabledata>
+    <ID>147</ID>
+    <DeviceID>26</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>WEAPONS - Master arm On/Off</Discription>
+    <DcsID>269</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- ROTORS -->
+  <Clickabledata>
+    <ID>148</ID>
+    <DeviceID>11</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>ROTORS - Rotor Brake {0.0, 1.0} in 0.055 Steps</Discription>
+    <DcsID>556</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <!-- RADIOALTIMETER -->
+  <Clickabledata>
+    <ID>149</ID>
+    <DeviceID>18</DeviceID>
+    <ButtonID></ButtonID>
+    <Discription>RADIOALTIMETER - Alarm altitude {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>96</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>150</ID>
+    <DeviceID>18</DeviceID>
+    <ButtonID></ButtonID>
+    <Discription>RADIOALTIMETER - Test</Discription>
+    <DcsID>100</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>151</ID>
+    <DeviceID>18</DeviceID>
+    <ButtonID></ButtonID>
+    <Discription>RADIOALTIMETER - Off/On {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>91</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <!-- BAROALTIMETER -->
+  <Clickabledata>
+    <ID>152</ID>
+    <DeviceID>19</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>BAROALTIMETER - Baro pressure QFE {0.0, 1.0} in 0.1 Steps</Discription>
+    <DcsID>89</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <!-- FUEL SYSTEM -->
+  <Clickabledata>
+    <ID>153</ID>
+    <DeviceID>10</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>FUEL SYSTEM - Fuel Flow Lever {0.0, 1.0} in 0.2 Steps</Discription>
+    <DcsID>557</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <!-- ADF RADIO -->
+  <Clickabledata>
+    <ID>154</ID>
+    <DeviceID>21</DeviceID>
+    <ButtonID></ButtonID>
+    <Discription>ADF RADIO - Select Nav1/Nav2</Discription>
+    <DcsID>166</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>155</ID>
+    <DeviceID>21</DeviceID>
+    <ButtonID></ButtonID>
+    <Discription>ADF RADIO - Tone Off/On</Discription>
+    <DcsID>167</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>156</ID>
+    <DeviceID>21</DeviceID>
+    <ButtonID></ButtonID>
+    <Discription>ADF RADIO - Mode Off/Ant/ADF/Test {0.0,0.33,0.66,0.99}</Discription>
+    <DcsID>178</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>157</ID>
+    <DeviceID>21</DeviceID>
+    <ButtonID></ButtonID>
+    <Discription>ADF RADIO - Gain {0.0, 1.0} in 0.2 Steps</Discription>
+    <DcsID>179</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>158</ID>
+    <DeviceID>21</DeviceID>
+    <ButtonID></ButtonID>
+    <Discription>ADF RADIO - Nav1 Hundred {0.0, 1.0} in 0.2 Steps</Discription>
+    <DcsID>168</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>159</ID>
+    <DeviceID>21</DeviceID>
+    <ButtonID></ButtonID>
+    <Discription>ADF RADIO - Nav1 Ten {0.0, 1.0} in 0.2 Steps</Discription>
+    <DcsID>169</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>160</ID>
+    <DeviceID>21</DeviceID>
+    <ButtonID></ButtonID>
+    <Discription>ADF RADIO - Nav1 Unit {0.0, 1.0} in 0.2 Steps</Discription>
+    <DcsID>173</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>161</ID>
+    <DeviceID>21</DeviceID>
+    <ButtonID></ButtonID>
+    <Discription>ADF RADIO - Nav2 Hundred {0.0, 1.0} in 0.2 Steps</Discription>
+    <DcsID>174</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>162</ID>
+    <DeviceID>21</DeviceID>
+    <ButtonID></ButtonID>
+    <Discription>ADF RADIO - Nav2 Ten {0.0, 1.0} in 0.2 Steps</Discription>
+    <DcsID>175</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>163</ID>
+    <DeviceID>21</DeviceID>
+    <ButtonID></ButtonID>
+    <Discription>ADF RADIO - Nav2 Unit {0.0, 1.0} in 0.2 Steps</Discription>
+    <DcsID>176</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <!-- UHF RADIO -->
+  <Clickabledata>
+    <ID>164</ID>
+    <DeviceID>31</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>UHF RADIO - MODE 0/FF/NA/SV/DL/G/EN {0.0,0.167,0.334,0.501,0.668,0.835,1.0}</Discription>
+    <DcsID>383</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>165</ID>
+    <DeviceID>31</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>UHF RADIO - DRW</Discription>
+    <DcsID>384</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>166</ID>
+    <DeviceID>31</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>UHF RADIO - VLD</Discription>
+    <DcsID>385</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>167</ID>
+    <DeviceID>31</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>UHF RADIO - PAGE {0.0, 1.0} in 0.2 Steps</Discription>
+    <DcsID>386</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>168</ID>
+    <DeviceID>31</DeviceID>
+    <ButtonID>5</ButtonID>
+    <Discription>UHF RADIO - CONF</Discription>
+    <DcsID>387</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>169</ID>
+    <DeviceID>31</DeviceID>
+    <ButtonID>6</ButtonID>
+    <Discription>UHF RADIO - 1</Discription>
+    <DcsID>388</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>170</ID>
+    <DeviceID>31</DeviceID>
+    <ButtonID>7</ButtonID>
+    <Discription>UHF RADIO - 2</Discription>
+    <DcsID>389</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>171</ID>
+    <DeviceID>31</DeviceID>
+    <ButtonID>8</ButtonID>
+    <Discription>UHF RADIO - 3</Discription>
+    <DcsID>390</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>172</ID>
+    <DeviceID>31</DeviceID>
+    <ButtonID>9</ButtonID>
+    <Discription>UHF RADIO - 4</Discription>
+    <DcsID>391</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>173</ID>
+    <DeviceID>31</DeviceID>
+    <ButtonID>10</ButtonID>
+    <Discription>UHF RADIO - 5</Discription>
+    <DcsID>392</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>174</ID>
+    <DeviceID>31</DeviceID>
+    <ButtonID>11</ButtonID>
+    <Discription>UHF RADIO - 6</Discription>
+    <DcsID>393</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>175</ID>
+    <DeviceID>31</DeviceID>
+    <ButtonID>12</ButtonID>
+    <Discription>UHF RADIO - 7</Discription>
+    <DcsID>394</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>176</ID>
+    <DeviceID>31</DeviceID>
+    <ButtonID>13</ButtonID>
+    <Discription>UHF RADIO - 8</Discription>
+    <DcsID>395</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>177</ID>
+    <DeviceID>31</DeviceID>
+    <ButtonID>14</ButtonID>
+    <Discription>UHF RADIO - 9</Discription>
+    <DcsID>396</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>178</ID>
+    <DeviceID>31</DeviceID>
+    <ButtonID>15</ButtonID>
+    <Discription>UHF RADIO - 0</Discription>
+    <DcsID>397</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <!-- PH SA342M HOT3 -->
+  <Clickabledata>
+    <ID>179</ID>
+    <DeviceID>27</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>HOT3 - Test II/Test I/Off/Day/Night {0.0,0.25,0.50,0.75,1.0}</Discription>
+    <DcsID>180</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>180</ID>
+    <DeviceID>27</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>HOT3 - Station Select 0/1/0/2/0/3/0/4/0 {0.0,0.125,0.250,0,375,0.500,0.625,0.750,0.875,1.0}</Discription>
+    <DcsID>181</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>181</ID>
+    <DeviceID>27</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>HOT3 - Brightness {0.0, 1.0} in 0.1 Steps </Discription>
+    <DcsID>182</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <!-- genericRadio -->
+  <Clickabledata>
+    <ID>182</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>genericRadio selection switch</Discription>
+    <Type>Switch</Type>
+    <DcsID>0</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>183</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>genericRadio Frequency 1 {0.0 to 2.0 in 0.1 steps}</Discription>
+    <Type>Rotary</Type>
+    <DcsID>0</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>184</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>genericRadio Frequency 2 {0.0 to 2.0 in 0.1 steps}</Discription>
+    <Type>Rotary</Type>
+    <DcsID>0</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>185</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>5</ButtonID>
+    <Discription>genericRadio Preset Channel {0.0 to 2.0 in 0.1 steps}</Discription>
+    <Type>Rotary</Type>
+    <DcsID>0</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>186</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>6</ButtonID>
+    <Discription>genericRadio Load Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>0</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>187</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>8</ButtonID>
+    <Discription>genericRadio Manual-Preset Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>0</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>188</ID>
+    <DeviceID>1000</DeviceID>
+    <ButtonID>9</ButtonID>
+    <Discription>genericRadio Power Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>0</DcsID>
+  </Clickabledata>
+  <!-- Devices -->
+  <Devices>
+    <DeviceID>1</DeviceID>
+    <Discription>HEAD_WRAPPER</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>2</DeviceID>
+    <Discription>ELECTRIC</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>3</DeviceID>
+    <Discription>ENGINE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>4</DeviceID>
+    <Discription>INTERCOM</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>5</DeviceID>
+    <Discription>AM_RADIO</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>6</DeviceID>
+    <Discription>MISSION</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>7</DeviceID>
+    <Discription>AUTOPILOT</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>8</DeviceID>
+    <Discription>CONTROLS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>9</DeviceID>
+    <Discription>FLIGHT_CONTROLS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>10</DeviceID>
+    <Discription>FUEL</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>11</DeviceID>
+    <Discription>ROTORS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>12</DeviceID>
+    <Discription>SENSORS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>13</DeviceID>
+    <Discription>TV</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>14</DeviceID>
+    <Discription>LIGHTS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>15</DeviceID>
+    <Discription>NAVLIGHTS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>16</DeviceID>
+    <Discription>PE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>17</DeviceID>
+    <Discription>TORQUE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>18</DeviceID>
+    <Discription>RADAR_ALTIMETER</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>19</DeviceID>
+    <Discription>BARO_ALTIMETER</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>20</DeviceID>
+    <Discription>CLOCK</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>21</DeviceID>
+    <Discription>ADF</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>22</DeviceID>
+    <Discription>ADF_GAUGE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>23</DeviceID>
+    <Discription>NADIR</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>24</DeviceID>
+    <Discription>RWR</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>25</DeviceID>
+    <Discription>FD</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>26</DeviceID>
+    <Discription>WEAPONS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>27</DeviceID>
+    <Discription>PH</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>28</DeviceID>
+    <Discription>FM_RADIO</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>29</DeviceID>
+    <Discription>SOUNDER</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>30</DeviceID>
+    <Discription>MACROS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>31</DeviceID>
+    <Discription>UHF_RADIO</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>32</DeviceID>
+    <Discription>NVG</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>33</DeviceID>
+    <Discription>SYNC_CONTROLLER</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>34</DeviceID>
+    <Discription>IR_SEEKER</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>35</DeviceID>
+    <Discription>RANGE_FINDER</Discription>
+  </Devices>
+</DTADataSet>
