@@ -904,7 +904,7 @@
     <Classname>SA342_Fuel_Sup</Classname>
   </Classnames>
   <Classnames>
-    <Classname>SA342_HSI</Classname>
+    <Classname>SA342_NADIR_ADF</Classname>
   </Classnames>
   <Classnames>
     <Classname>SA342_RPM</Classname>
