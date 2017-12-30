@@ -884,6 +884,54 @@
     <Classname>P51VVI</Classname>
   </Classnames>
   <Classnames>
+    <Classname>SA342_ADI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>SA342_ADI_Stby</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>SA342_ALT</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>SA342_ALT_R</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>SA342_ASI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>SA342_Clock</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>SA342_Fuel_Q</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>SA342_Fuel_Sup</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>SA342_NADIR_ADF</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>SA342_RPM</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>SA342_Temp_Air</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>SA342_Temp_M</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>SA342_Temp_T4</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>SA342_Torque</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>SA342_Volt</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>SA342_VVI</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>Spit_ADI</Classname>
   </Classnames>
   <Classnames>
