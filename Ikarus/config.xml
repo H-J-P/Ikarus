@@ -2,7 +2,7 @@
 <DataSet2 xmlns="http://tempuri.org/DataSet2.xsd">
   <Configuration>
     <CockpitPosX>0</CockpitPosX>
-    <CockpitPosY>1080</CockpitPosY>
+    <CockpitPosY>0</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
     <File>Sphere-test.ikarus</File>
