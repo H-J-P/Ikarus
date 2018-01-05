@@ -2,10 +2,10 @@
 <DataSet2 xmlns="http://tempuri.org/DataSet2.xsd">
   <Configuration>
     <CockpitPosX>0</CockpitPosX>
-    <CockpitPosY>0</CockpitPosY>
+    <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-    <File>Sphere-test.ikarus</File>
+    <File>SA342M.ikarus</File>
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
