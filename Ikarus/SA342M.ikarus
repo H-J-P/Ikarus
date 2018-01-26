@@ -157,19 +157,6 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>13</IDInst>
-    <Name>Outside temperature</Name>
-    <Class>SA342_Temp_Air</Class>
-    <PosX>3</PosX>
-    <PosY>704</PosY>
-    <Size>165</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
     <IDInst>14</IDInst>
     <Name>Oil Temperature</Name>
     <Class>SA342_Temp_T4</Class>
@@ -648,8 +635,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,300</Output>
+    <Input>0.0,0.87,1.0</Input>
+    <Output>0,220,300</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -856,8 +843,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.095,0.181,0.263,0.346,0.424,0.505,0.572,0.665,0.748,0.828,0.909</Input>
-    <Output>    0,   30,   60,   90,  120, 150,   180,  210,  240,  270,  300</Output>
+    <Input>0.0,0.181,0.263,0.346,0.424,0.505,0.572,0.665,0.748,0.8,1.0</Input>
+    <Output>    0,   30,   60,   90,  120, 150,   180,  210,  240,  258,  300</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -872,8 +859,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.095,0.181,0.263,0.346,0.424,0.505,0.572,0.665,0.748,0.828,0.909</Input>
-    <Output>    0,   30,   60,   90,  120, 150,   180,  210,  240,  270,  300</Output>
+    <Input>0.0,0.181,0.263,0.346,0.424,0.505,0.572,0.665,0.748,0.8,1.0</Input>
+    <Output>    0,   30,   60,   90,  120, 150,   180,  210,  240,  258,  300</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -888,8 +875,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,270</Output>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0,160,245</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -904,24 +891,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,270</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>13</IDInst>
-    <IDFct>1</IDFct>
-    <Name>outside temperature</Name>
-    <Arg_number>25</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>-1.0,0.0,1.0</Input>
-    <Output>-90,0,170</Output>
+    <Input>0.0,0.45,1.0</Input>
+    <Output>0,45,270</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -936,8 +907,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,230</Output>
+    <Input>0.0,0.3,1.0</Input>
+    <Output>0,110,230</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
