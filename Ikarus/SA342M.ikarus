@@ -4,8 +4,8 @@
     <IDInst>1</IDInst>
     <Name>ADF</Name>
     <Class>SA342_NADIR_ADF</Class>
-    <PosX>1096</PosX>
-    <PosY>368</PosY>
+    <PosX>1174</PosX>
+    <PosY>365</PosY>
     <Size>310</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -17,9 +17,9 @@
     <IDInst>2</IDInst>
     <Name>CLOCK</Name>
     <Class>SA342_Clock</Class>
-    <PosX>181</PosX>
-    <PosY>857</PosY>
-    <Size>200</Size>
+    <PosX>216</PosX>
+    <PosY>836</PosY>
+    <Size>215</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -30,8 +30,8 @@
     <IDInst>3</IDInst>
     <Name>Baro_Altimeter</Name>
     <Class>SA342_ALT</Class>
-    <PosX>831</PosX>
-    <PosY>326</PosY>
+    <PosX>901</PosX>
+    <PosY>339</PosY>
     <Size>215</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -43,8 +43,8 @@
     <IDInst>4</IDInst>
     <Name>Radar_Altimeter</Name>
     <Class>SA342_ALT_R</Class>
-    <PosX>769</PosX>
-    <PosY>571</PosY>
+    <PosX>859</PosX>
+    <PosY>563</PosY>
     <Size>290</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -56,8 +56,8 @@
     <IDInst>5</IDInst>
     <Name>TORQUE</Name>
     <Class>SA342_Torque</Class>
-    <PosX>1455</PosX>
-    <PosY>330</PosY>
+    <PosX>1510</PosX>
+    <PosY>339</PosY>
     <Size>215</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -69,8 +69,8 @@
     <IDInst>6</IDInst>
     <Name>Fuel Indicator</Name>
     <Class>SA342_Fuel_Q</Class>
-    <PosX>1332</PosX>
-    <PosY>756</PosY>
+    <PosX>1414</PosX>
+    <PosY>755</PosY>
     <Size>150</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -82,8 +82,8 @@
     <IDInst>7</IDInst>
     <Name>Horizon Artificiel Principal</Name>
     <Class>SA342_ADI</Class>
-    <PosX>1091</PosX>
-    <PosY>4</PosY>
+    <PosX>1160</PosX>
+    <PosY>2</PosY>
     <Size>340</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -95,8 +95,8 @@
     <IDInst>8</IDInst>
     <Name>Variometer</Name>
     <Class>SA342_VVI</Class>
-    <PosX>829</PosX>
-    <PosY>88</PosY>
+    <PosX>902</PosX>
+    <PosY>99</PosY>
     <Size>215</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -108,8 +108,8 @@
     <IDInst>9</IDInst>
     <Name>IAS</Name>
     <Class>SA342_ASI</Class>
-    <PosX>1456</PosX>
-    <PosY>95</PosY>
+    <PosX>1511</PosX>
+    <PosY>103</PosY>
     <Size>215</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -121,8 +121,8 @@
     <IDInst>10</IDInst>
     <Name>RPM</Name>
     <Class>SA342_RPM</Class>
-    <PosX>176</PosX>
-    <PosY>635</PosY>
+    <PosX>0</PosX>
+    <PosY>836</PosY>
     <Size>215</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -134,7 +134,7 @@
     <IDInst>11</IDInst>
     <Name>Voltmeter</Name>
     <Class>SA342_Volt</Class>
-    <PosX>1518</PosX>
+    <PosX>1601</PosX>
     <PosY>756</PosY>
     <Size>145</Size>
     <Rotate>0</Rotate>
@@ -147,8 +147,8 @@
     <IDInst>12</IDInst>
     <Name>Engine temperature</Name>
     <Class>SA342_Temp_M</Class>
-    <PosX>1141</PosX>
-    <PosY>756</PosY>
+    <PosX>1212</PosX>
+    <PosY>757</PosY>
     <Size>150</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -160,8 +160,8 @@
     <IDInst>14</IDInst>
     <Name>Oil Temperature</Name>
     <Class>SA342_Temp_T4</Class>
-    <PosX>4</PosX>
-    <PosY>879</PosY>
+    <PosX>434</PosX>
+    <PosY>866</PosY>
     <Size>165</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -173,8 +173,8 @@
     <IDInst>15</IDInst>
     <Name>Fuel Tank Indicator</Name>
     <Class>SA342_Fuel_Sup</Class>
-    <PosX>436</PosX>
-    <PosY>950</PosY>
+    <PosX>602</PosX>
+    <PosY>951</PosY>
     <Size>190</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -186,8 +186,8 @@
     <IDInst>16</IDInst>
     <Name>ADI Stby</Name>
     <Class>SA342_ADI_Stby</Class>
-    <PosX>512</PosX>
-    <PosY>332</PosY>
+    <PosX>639</PosX>
+    <PosY>339</PosY>
     <Size>215</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -891,8 +891,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,0.45,1.0</Input>
-    <Output>0,45,270</Output>
+    <Input>0.0,1.0</Input>
+    <Output>0,270</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -908,7 +908,7 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>0.0,0.3,1.0</Input>
-    <Output>0,110,230</Output>
+    <Output>0,90,230</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1004,7 +1004,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>1303</PosX>
+    <PosX>1387</PosX>
     <PosY>939</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
@@ -1019,7 +1019,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>1355</PosX>
+    <PosX>1438</PosX>
     <PosY>939</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
@@ -1034,7 +1034,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Red-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>1405</PosX>
+    <PosX>1490</PosX>
     <PosY>939</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
@@ -1049,8 +1049,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AJS37_Red-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
-    <PosX>1509</PosX>
-    <PosY>37</PosY>
+    <PosX>1597</PosX>
+    <PosY>42</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1064,8 +1064,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>SA342_WarningPanelPITOT.png</FilePictureOn>
     <FilePictureOff />
-    <PosX>590</PosX>
-    <PosY>41</PosY>
+    <PosX>710</PosX>
+    <PosY>39</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1079,8 +1079,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>SA342_WarningPanelHMOT.png</FilePictureOn>
     <FilePictureOff />
-    <PosX>504</PosX>
-    <PosY>82</PosY>
+    <PosX>624</PosX>
+    <PosY>80</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1094,8 +1094,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>SA342_WarningPanelHBTP.png</FilePictureOn>
     <FilePictureOff />
-    <PosX>590</PosX>
-    <PosY>82</PosY>
+    <PosX>710</PosX>
+    <PosY>81</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1109,8 +1109,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>SA342_WarningPanelHRAL.png</FilePictureOn>
     <FilePictureOff />
-    <PosX>674</PosX>
-    <PosY>82</PosY>
+    <PosX>796</PosX>
+    <PosY>80</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1124,7 +1124,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>SA342_WarningPanelGENE.png</FilePictureOn>
     <FilePictureOff />
-    <PosX>504</PosX>
+    <PosX>624</PosX>
     <PosY>124</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -1139,7 +1139,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>SA342_WarningPanelALTER.png</FilePictureOn>
     <FilePictureOff />
-    <PosX>600</PosX>
+    <PosX>710</PosX>
     <PosY>124</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -1154,8 +1154,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>SA342_WarningPaneBat.png</FilePictureOn>
     <FilePictureOff />
-    <PosX>674</PosX>
-    <PosY>124</PosY>
+    <PosX>796</PosX>
+    <PosY>123</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1169,8 +1169,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>SA342_WarningPanelPA.png</FilePictureOn>
     <FilePictureOff />
-    <PosX>504</PosX>
-    <PosY>165</PosY>
+    <PosX>624</PosX>
+    <PosY>166</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1184,8 +1184,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>SA342_WarningPanelNAV.png</FilePictureOn>
     <FilePictureOff />
-    <PosX>590</PosX>
-    <PosY>165</PosY>
+    <PosX>710</PosX>
+    <PosY>166</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1199,7 +1199,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>SA342_WarningPanelComb.png</FilePictureOn>
     <FilePictureOff />
-    <PosX>674</PosX>
+    <PosX>796</PosX>
     <PosY>165</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -1214,7 +1214,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>SA342_WarningPanelBPHY.png</FilePictureOn>
     <FilePictureOff />
-    <PosX>504</PosX>
+    <PosX>624</PosX>
     <PosY>208</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -1229,7 +1229,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>SA342_WarningPanelLIM.png</FilePictureOn>
     <FilePictureOff />
-    <PosX>590</PosX>
+    <PosX>710</PosX>
     <PosY>208</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -1244,8 +1244,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>SA342_WarningPanelFILT.png</FilePictureOn>
     <FilePictureOff />
-    <PosX>674</PosX>
-    <PosY>208</PosY>
+    <PosX>796</PosX>
+    <PosY>206</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1262,8 +1262,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>875</PosX>
-    <PosY>910</PosY>
+    <PosX>956</PosX>
+    <PosY>912</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1283,8 +1283,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>949</PosX>
-    <PosY>910</PosY>
+    <PosX>1029</PosX>
+    <PosY>912</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1304,8 +1304,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1025</PosX>
-    <PosY>910</PosY>
+    <PosX>1106</PosX>
+    <PosY>912</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1325,8 +1325,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1180</PosX>
-    <PosY>910</PosY>
+    <PosX>1264</PosX>
+    <PosY>911</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1346,8 +1346,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>801</PosX>
-    <PosY>910</PosY>
+    <PosX>883</PosX>
+    <PosY>912</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1367,8 +1367,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1488</PosX>
-    <PosY>910</PosY>
+    <PosX>1571</PosX>
+    <PosY>911</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1388,8 +1388,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1563</PosX>
-    <PosY>910</PosY>
+    <PosX>1649</PosX>
+    <PosY>912</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1409,8 +1409,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1640</PosX>
-    <PosY>910</PosY>
+    <PosX>1727</PosX>
+    <PosY>912</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1430,8 +1430,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1241</PosX>
-    <PosY>938</PosY>
+    <PosX>1328</PosX>
+    <PosY>940</PosY>
     <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1451,7 +1451,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.33,0.66,0.99</Input>
     <Output>0, 30, 60, 90</Output>
-    <PosX>1653</PosX>
+    <PosX>1734</PosX>
     <PosY>598</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
@@ -1472,8 +1472,8 @@
     <FilePicture2On>ussr_white+red_down.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>1448</PosX>
-    <PosY>579</PosY>
+    <PosX>1534</PosX>
+    <PosY>578</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1493,8 +1493,8 @@
     <FilePicture2On>ussr_white+red_down.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>728</PosX>
-    <PosY>907</PosY>
+    <PosX>809</PosX>
+    <PosY>908</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1514,7 +1514,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output> 0, 360</Output>
-    <PosX>535</PosX>
+    <PosX>615</PosX>
     <PosY>578</PosY>
     <Size>100</Size>
     <Rotate>0</Rotate>
@@ -1535,8 +1535,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output> 0, 360</Output>
-    <PosX>628</PosX>
-    <PosY>715</PosY>
+    <PosX>711</PosX>
+    <PosY>716</PosY>
     <Size>130</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1556,8 +1556,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output> 0, 360</Output>
-    <PosX>420</PosX>
-    <PosY>714</PosY>
+    <PosX>504</PosX>
+    <PosY>716</PosY>
     <Size>130</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1577,8 +1577,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>573</PosX>
-    <PosY>727</PosY>
+    <PosX>654</PosX>
+    <PosY>726</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1598,8 +1598,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output> 0, 360</Output>
-    <PosX>1366</PosX>
-    <PosY>270</PosY>
+    <PosX>1434</PosX>
+    <PosY>266</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1619,8 +1619,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output> 0, 360</Output>
-    <PosX>682</PosX>
-    <PosY>504</PosY>
+    <PosX>810</PosX>
+    <PosY>512</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1640,8 +1640,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output> 0, 360</Output>
-    <PosX>1450</PosX>
-    <PosY>498</PosY>
+    <PosX>1510</PosX>
+    <PosY>510</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1661,8 +1661,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output> 0, 360</Output>
-    <PosX>830</PosX>
-    <PosY>502</PosY>
+    <PosX>894</PosX>
+    <PosY>510</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1682,8 +1682,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output> 0, 360</Output>
-    <PosX>777</PosX>
-    <PosY>809</PosY>
+    <PosX>867</PosX>
+    <PosY>799</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1691,12 +1691,117 @@
     <WindowID>1</WindowID>
     <DcsID>96</DcsID>
   </Switches>
+  <Switches>
+    <ID>22</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>85</ClickabledataID>
+    <Name>RWR - Off/On/Croc {-1.0,0.0,1.0}</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>ussr_white+yel_up.png</FilePictureOn>
+    <FilePictureOff>ussr_white+yel_cent.png</FilePictureOff>
+    <FilePicture2On>ussr_white+yel_down.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>361</PosX>
+    <PosY>431</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>148</DcsID>
+  </Switches>
+  <Switches>
+    <ID>23</ID>
+    <Class>Button</Class>
+    <ClickabledataID>86</ClickabledataID>
+    <Name>RWR - Marker</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SAS342_Button_RWR_On.png</FilePictureOn>
+    <FilePictureOff>SAS342_Button_RWR_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>275</PosX>
+    <PosY>462</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>149</DcsID>
+  </Switches>
+  <Switches>
+    <ID>24</ID>
+    <Class>Button</Class>
+    <ClickabledataID>87</ClickabledataID>
+    <Name>RWR - Page</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SAS342_Button_RWR_On.png</FilePictureOn>
+    <FilePictureOff>SAS342_Button_RWR_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>182</PosX>
+    <PosY>419</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>150</DcsID>
+  </Switches>
+  <Switches>
+    <ID>25</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>88</ClickabledataID>
+    <Name>RWR - Audio {0.0, 1.0} in 0.1 Steps</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Knop4.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.01</Input>
+    <Output> 0, 360</Output>
+    <PosX>95</PosX>
+    <PosY>414</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>121</DcsID>
+  </Switches>
+  <Switches>
+    <ID>26</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>89</ClickabledataID>
+    <Name>RWR - Brightness {0.0, 1.0} in 0.1 Steps</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Knop4.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.01</Input>
+    <Output> 0, 360</Output>
+    <PosX>111</PosX>
+    <PosY>68</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>122</DcsID>
+  </Switches>
   <Accessories>
     <ID>1</ID>
     <Class>Label</Class>
     <Name>Warning Panel</Name>
     <FilePictureOn>SA342_WarningPanel.png</FilePictureOn>
-    <PosX>473</PosX>
+    <PosX>594</PosX>
     <PosY>10</PosY>
     <Size>300</Size>
     <Rotate>0</Rotate>
@@ -1708,7 +1813,7 @@
     <Class>Label</Class>
     <Name>Front Panel</Name>
     <FilePictureOn>SA342_Panel.png</FilePictureOn>
-    <PosX>407</PosX>
+    <PosX>487</PosX>
     <PosY>558</PosY>
     <Size>1405</Size>
     <Rotate>0</Rotate>
@@ -1720,9 +1825,9 @@
     <Class>Label</Class>
     <Name>RWR</Name>
     <FilePictureOn>SA342_RWR.png</FilePictureOn>
-    <PosX>0</PosX>
+    <PosX>-18</PosX>
     <PosY>19</PosY>
-    <Size>410</Size>
+    <Size>510</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>1</WindowID>
