@@ -5,11 +5,7 @@
     <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-<<<<<<< HEAD
     <File>SpitfireLFMkIX.ikarus</File>
-=======
-    <File>Sphere-test.ikarus</File>
->>>>>>> 1c10159b8f7ddf9f31c3dffa6d3184b0d856abd6
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
