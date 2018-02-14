@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <Parameter>
+    <FileBackground>BackGround.png</FileBackground>
+  </Parameter>
+  <Window>
+    <WindowID>1</WindowID>
+    <Name>FrontPanel</Name>
+    <PosX>0</PosX>
+    <PosY>0</PosY>
+    <Height>1080</Height>
+    <Width>1920</Width>
+    <Background>AV8BNA_Background.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>false</Refresh>
+    <LightColor>95E295</LightColor>
+  </Window>
+</DataSet1>
