@@ -211,10 +211,10 @@
   <Instruments>
     <IDInst>17</IDInst>
     <Name>Ekran</Name>
-    <Class>Monitor7Segment</Class>
-    <PosX>1127</PosX>
-    <PosY>611</PosY>
-    <Size>127</Size>
+    <Class>MonitorDotMatrix</Class>
+    <PosX>1119</PosX>
+    <PosY>615</PosY>
+    <Size>142</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -1367,7 +1367,7 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>f38501</Input>
-    <Output>8,4</Output>
+    <Output>9,4</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -2381,14 +2381,14 @@
     <Name>PUI800 - Master Arm</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>round_up.png</FilePictureOn>
-    <FilePictureOff>round_down.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>730</PosX>
-    <PosY>486</PosY>
-    <Size>90</Size>
+    <PosX>732</PosX>
+    <PosY>473</PosY>
+    <Size>70</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3114,8 +3114,8 @@
     <Name>UV-26 Amount flares counter/Programming</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>round_up.png</FilePictureOn>
-    <FilePictureOff>round_down.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1</Input>
     <Output>0.0,0.1</Output>
