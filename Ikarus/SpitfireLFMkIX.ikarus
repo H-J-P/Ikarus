@@ -174,8 +174,8 @@
     <Name>Oil pressure gauge</Name>
     <Class>Spit_OilP</Class>
     <PosX>1420</PosX>
-    <PosY>476</PosY>
-    <Size>210</Size>
+    <PosY>482</PosY>
+    <Size>110</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -260,6 +260,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>2</IDInst>
@@ -274,6 +276,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>3</IDInst>
@@ -288,6 +292,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>4</IDInst>
@@ -302,6 +308,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>5</IDInst>
@@ -316,6 +324,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>6</IDInst>
@@ -330,6 +340,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>6</IDInst>
@@ -344,6 +356,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>7</IDInst>
@@ -358,6 +372,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>8</IDInst>
@@ -372,6 +388,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>8</IDInst>
@@ -386,6 +404,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>8</IDInst>
@@ -400,6 +420,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>8</IDInst>
@@ -414,6 +436,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>9</IDInst>
@@ -428,6 +452,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>10</IDInst>
@@ -442,6 +468,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>10</IDInst>
@@ -456,6 +484,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -470,6 +500,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>12</IDInst>
@@ -484,6 +516,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>13</IDInst>
@@ -498,6 +532,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>14</IDInst>
@@ -512,6 +548,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>15</IDInst>
@@ -526,6 +564,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>16</IDInst>
@@ -540,6 +580,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>17</IDInst>
@@ -554,6 +596,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>18</IDInst>
@@ -568,6 +612,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>18</IDInst>
@@ -582,6 +628,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>18</IDInst>
@@ -596,6 +644,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>4</IDInst>
@@ -610,6 +660,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>4</IDInst>
@@ -624,6 +676,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>19</IDInst>
@@ -638,6 +692,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>19</IDInst>
@@ -652,6 +708,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>19</IDInst>
@@ -666,6 +724,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>18</IDInst>
@@ -680,6 +740,8 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+    <In />
+    <Out />
   </Functions>
   <Lamps>
     <ID>1</ID>

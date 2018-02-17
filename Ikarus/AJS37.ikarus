@@ -6,7 +6,7 @@
     <Class>AJS37_CI</Class>
     <PosX>715</PosX>
     <PosY>385</PosY>
-    <Size>265</Size>
+    <Size>485</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -19,7 +19,7 @@
     <Class>AJS37_ACC</Class>
     <PosX>1423</PosX>
     <PosY>77</PosY>
-    <Size>200</Size>
+    <Size>130</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>

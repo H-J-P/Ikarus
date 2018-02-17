@@ -3863,9 +3863,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>52</PosX>
+    <PosX>-3</PosX>
     <PosY>633</PosY>
-    <Size>45</Size>
+    <Size>100</Size>
     <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>

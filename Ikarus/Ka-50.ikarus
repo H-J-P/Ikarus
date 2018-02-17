@@ -3098,9 +3098,9 @@
     <FilePicture2On>round_down.png</FilePicture2On>
     <Input>0.0,0.1,0.2</Input>
     <Output>0.0,0.1,0.2</Output>
-    <PosX>7</PosX>
-    <PosY>217</PosY>
-    <Size>65</Size>
+    <PosX>5</PosX>
+    <PosY>199</PosY>
+    <Size>130</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3119,9 +3119,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1</Input>
     <Output>0.0,0.1</Output>
-    <PosX>150</PosX>
-    <PosY>217</PosY>
-    <Size>65</Size>
+    <PosX>169</PosX>
+    <PosY>185</PosY>
+    <Size>130</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>

@@ -1296,7 +1296,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>125</ID>
-    <DeviceID>11</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>6</ButtonID>
     <Discription>Open Right Doors</Discription>
     <Type>Switch</Type>
@@ -1336,7 +1336,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>130</ID>
-    <DeviceID>14</DeviceID>
+    <DeviceID>15</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>Reset/Test switch {-1, 0, 1}</Discription>
     <Type>Switch</Type>
@@ -1344,7 +1344,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>131</ID>
-    <DeviceID>14</DeviceID>
+    <DeviceID>15</DeviceID>
     <ButtonID>2</ButtonID>
     <Discription>Bright/Dim switch {-1, 0, 1}</Discription>
     <Type>Switch</Type>
