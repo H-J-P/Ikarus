@@ -1778,7 +1778,7 @@
     <Output>0.0,1.0</Output>
     <PosX>195</PosX>
     <PosY>815</PosY>
-    <Size>35</Size>
+    <Size>95</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -1799,7 +1799,7 @@
     <Output>0.0,1.0</Output>
     <PosX>1203</PosX>
     <PosY>227</PosY>
-    <Size>30</Size>
+    <Size>95</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -1820,7 +1820,7 @@
     <Output>0.0,1.0</Output>
     <PosX>1320</PosX>
     <PosY>227</PosY>
-    <Size>30</Size>
+    <Size>95</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>

@@ -2814,10 +2814,10 @@
     <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>999</PosX>
-    <PosY>236</PosY>
-    <Size>50</Size>
-    <Rotate>0</Rotate>
+    <PosX>953</PosX>
+    <PosY>238</PosY>
+    <Size>135</Size>
+    <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
