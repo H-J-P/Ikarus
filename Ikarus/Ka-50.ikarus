@@ -2339,15 +2339,15 @@
     <Name>Rotor RPM warning push-light</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>Ka-50-MasterButton.png</FilePictureOn>
-    <FilePictureOff>Ka-50-MasterButton.png</FilePictureOff>
+    <FilePictureOn>Ka-50-RotorRPMButton.png</FilePictureOn>
+    <FilePictureOff>Ka-50-RotorRPMButton.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>206</PosX>
     <PosY>339</PosY>
-    <Size>25</Size>
-    <Rotate>90</Rotate>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
@@ -2573,7 +2573,7 @@
     <FilePictureOn>Ka-50-ABRIS-Knop.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.01</Input>
+    <Input>0.0,1.0,0.05</Input>
     <Output> 0, 360</Output>
     <PosX>1345</PosX>
     <PosY>733</PosY>
@@ -2699,7 +2699,7 @@
     <FilePictureOn>Ka-50-ABRIS-Knop.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
+    <Input>0.0,1.0,0.1,1</Input>
     <Output>0, 360</Output>
     <PosX>1823</PosX>
     <PosY>735</PosY>
@@ -3098,8 +3098,8 @@
     <FilePicture2On>round_down.png</FilePicture2On>
     <Input>0.0,0.1,0.2</Input>
     <Output>0.0,0.1,0.2</Output>
-    <PosX>5</PosX>
-    <PosY>199</PosY>
+    <PosX>8</PosX>
+    <PosY>215</PosY>
     <Size>130</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
@@ -3114,13 +3114,13 @@
     <Name>UV-26 Amount flares counter/Programming</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>round_up2.png</FilePictureOn>
-    <FilePictureOff>round_down2.png</FilePictureOff>
+    <FilePictureOn>round_up.png</FilePictureOn>
+    <FilePictureOff>round_down.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1</Input>
     <Output>0.0,0.1</Output>
-    <PosX>169</PosX>
-    <PosY>185</PosY>
+    <PosX>162</PosX>
+    <PosY>205</PosY>
     <Size>130</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>

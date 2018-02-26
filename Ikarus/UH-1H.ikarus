@@ -1649,7 +1649,7 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.05,1</Input>
     <Output> 0, 360</Output>
     <PosX>1345</PosX>
     <PosY>117</PosY>
@@ -1670,7 +1670,7 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.05,1</Input>
     <Output> 0, 360</Output>
     <PosX>1345</PosX>
     <PosY>342</PosY>
@@ -1691,7 +1691,7 @@
     <FilePictureOn>F5E-KnopCourse.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.05,1</Input>
     <Output> 0, 360</Output>
     <PosX>1329</PosX>
     <PosY>949</PosY>
@@ -1748,7 +1748,7 @@
     <ID>7</ID>
     <Class>Rotary</Class>
     <ClickabledataID>127</ClickabledataID>
-    <Name>Radar Altimeter Low Altitude Setting</Name>
+    <Name>Radar Altimeter Low Altitude Setting {0.0,1.0} in 0.2 Steps</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>Knop6.PNG</FilePictureOn>
@@ -1768,14 +1768,14 @@
   <Switches>
     <ID>8</ID>
     <Class>Rotary</Class>
-    <ClickabledataID>128</ClickabledataID>
-    <Name>Radar Altimeter Test</Name>
+    <ClickabledataID>129</ClickabledataID>
+    <Name>Radar Altimeter Hight Setting {0.0,1.0} in 0.2 Steps</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>Knop6.PNG</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.2,1</Input>
     <Output> 0, 360</Output>
     <PosX>539</PosX>
     <PosY>544</PosY>

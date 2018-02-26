@@ -248,8 +248,8 @@
   </DCS_ID>
   <DCS_ID>
     <ExportID>2007</ExportID>
-    <Description>ADF ARN83</Description>
-    <ExportIDWithDescription>2007 - ADF ARN83</ExportIDWithDescription>
+    <Description>ADF ARN83 (NOT FUNCTIONAL)</Description>
+    <ExportIDWithDescription>2007 - ADF ARN83 (NOT FUNCTIONAL)</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
   <DCS_ID>
@@ -1314,7 +1314,7 @@
     <ID>127</ID>
     <DeviceID>13</DeviceID>
     <ButtonID>2</ButtonID>
-    <Discription>Radar Altimeter Low Altitude Setting</Discription>
+    <Discription>Radar Altimeter Low Altitude Setting {0.0,1.0} in 0.2 Steps</Discription>
     <Type>Rotary</Type>
     <DcsID>445</DcsID>
   </Clickabledata>
@@ -1330,7 +1330,7 @@
     <ID>129</ID>
     <DeviceID>13</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>Radar Hight Set {0.0,1.0} in 0.2 Steps</Discription>
+    <Discription>Radar Altimeter Hight Setting {0.0,1.0} in 0.2 Steps</Discription>
     <Type>Rotary</Type>
     <DcsID>464</DcsID>
   </Clickabledata>
@@ -1537,7 +1537,7 @@
   <Clickabledata>
     <ID>155</ID>
     <DeviceID>20</DeviceID>
-    <ButtonID>1</ButtonID>
+    <ButtonID>4</ButtonID>
     <Discription>VHF ARC 134 Frequency MHz {0.0, 1.0} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
     <DcsID>5</DcsID>
@@ -1545,15 +1545,15 @@
   <Clickabledata>
     <ID>156</ID>
     <DeviceID>20</DeviceID>
-    <ButtonID>4</ButtonID>
-    <Discription>VHF ARC 134 Power</Discription>
+    <ButtonID>1</ButtonID>
+    <Discription>VHF ARC 134 Power {0.85,1.0}</Discription>
     <Type>Switch</Type>
     <DcsID>7</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>157</ID>
     <DeviceID>20</DeviceID>
-    <ButtonID>3</ButtonID>
+    <ButtonID>5</ButtonID>
     <Discription>VHF ARC 134 Frequency kHz {0.0, 1.0} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
     <DcsID>9</DcsID>
@@ -1561,7 +1561,7 @@
   <Clickabledata>
     <ID>158</ID>
     <DeviceID>20</DeviceID>
-    <ButtonID>5</ButtonID>
+    <ButtonID>3</ButtonID>
     <Discription>VHF ARC 134 Volume {0.0, 0.65} in 0.05 Steps</Discription>
     <Type>Rotary</Type>
     <DcsID>8</DcsID>

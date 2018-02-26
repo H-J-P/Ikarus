@@ -3084,8 +3084,8 @@
     <FilePictureOn>YellowOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0, 360</Output>
     <PosX>712</PosX>
     <PosY>187</PosY>
     <Size>40</Size>
@@ -3210,8 +3210,8 @@
     <FilePictureOn>F5E-KnopCourse.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.01</Input>
-    <Output>0.0,1.0, 0.05818</Output>
+    <Input>0.0,1.0,0.1,1</Input>
+    <Output>0.0, 360</Output>
     <PosX>664</PosX>
     <PosY>536</PosY>
     <Size>50</Size>
@@ -3231,8 +3231,8 @@
     <FilePictureOn>F5E-KnopHeading.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.01</Input>
-    <Output>0.0,1.0, 0.05818</Output>
+    <Input>0.0,1.0,0.1,1</Input>
+    <Output>0.0, 360</Output>
     <PosX>459</PosX>
     <PosY>536</PosY>
     <Size>50</Size>
@@ -3252,8 +3252,8 @@
     <FilePictureOn>F5E-KnopSetIndex.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.01</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1,1</Input>
+    <Output>0.0, 360</Output>
     <PosX>407</PosX>
     <PosY>283</PosY>
     <Size>50</Size>
@@ -3273,8 +3273,8 @@
     <FilePictureOn>Knop3.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0, 360</Output>
     <PosX>145</PosX>
     <PosY>923</PosY>
     <Size>40</Size>
@@ -3294,8 +3294,8 @@
     <FilePictureOn>knob_solo.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1,1</Input>
+    <Output>0.0, 360</Output>
     <PosX>469</PosX>
     <PosY>720</PosY>
     <Size>65</Size>
@@ -3315,8 +3315,8 @@
     <FilePictureOn>TISL_Rotary4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0, 360</Output>
     <PosX>1367</PosX>
     <PosY>805</PosY>
     <Size>70</Size>
@@ -3336,8 +3336,8 @@
     <FilePictureOn>TISL_Rotary1.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0, 360</Output>
     <PosX>1226</PosX>
     <PosY>905</PosY>
     <Size>70</Size>
@@ -3357,8 +3357,8 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0, 360</Output>
     <PosX>839</PosX>
     <PosY>328</PosY>
     <Size>45</Size>
@@ -3378,8 +3378,8 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0, 360</Output>
     <PosX>1124</PosX>
     <PosY>621</PosY>
     <Size>45</Size>
@@ -3399,8 +3399,8 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0, 360</Output>
     <PosX>1062</PosX>
     <PosY>700</PosY>
     <Size>45</Size>
@@ -3420,8 +3420,8 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0, 360</Output>
     <PosX>845</PosX>
     <PosY>700</PosY>
     <Size>45</Size>
@@ -3441,8 +3441,8 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0, 360</Output>
     <PosX>774</PosX>
     <PosY>621</PosY>
     <Size>45</Size>
@@ -3462,8 +3462,8 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0, 360</Output>
     <PosX>773</PosX>
     <PosY>415</PosY>
     <Size>45</Size>
@@ -3483,8 +3483,8 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0, 360</Output>
     <PosX>1400</PosX>
     <PosY>193</PosY>
     <Size>40</Size>
@@ -3504,8 +3504,8 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0, 360</Output>
     <PosX>1400</PosX>
     <PosY>258</PosY>
     <Size>40</Size>
@@ -3525,8 +3525,8 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1,1</Input>
+    <Output>0.0, 360</Output>
     <PosX>214</PosX>
     <PosY>536</PosY>
     <Size>45</Size>
@@ -3567,8 +3567,8 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0, 360</Output>
     <PosX>962</PosX>
     <PosY>975</PosY>
     <Size>40</Size>
@@ -3757,7 +3757,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.3,0.1</Input>
-    <Output>0.0,1.0</Output>
+    <Output>0.0, 360</Output>
     <PosX>822</PosX>
     <PosY>878</PosY>
     <Size>45</Size>
@@ -3944,8 +3944,8 @@
     <FilePictureOn>rot_f5_2_knob.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0, 360</Output>
     <PosX>256</PosX>
     <PosY>40</PosY>
     <Size>45</Size>

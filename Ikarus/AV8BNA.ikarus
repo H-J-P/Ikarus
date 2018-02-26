@@ -1,5 +1,20 @@
 <?xml version="1.0" standalone="yes"?>
 <DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <Lamps>
+    <ID>1</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>0</Arg_number>
+    <Name>-</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Lamps_R_TANK_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_Lamps_R_TANK_Off.png</FilePictureOff>
+    <PosX>0</PosX>
+    <PosY>0</PosY>
+    <Size>120</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
   </Parameter>
