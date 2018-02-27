@@ -355,8 +355,8 @@
     <IDInst>34</IDInst>
     <Name>UHF Preset Channel</Name>
     <Class>F5E_UHFPresetChannel</Class>
-    <PosX>981</PosX>
-    <PosY>756</PosY>
+    <PosX>972</PosX>
+    <PosY>754</PosY>
     <Size>115</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -367,7 +367,7 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
-    <Name>Altimeter_100_footPtr</Name>
+    <Name>Altimeter 100_footPtr</Name>
     <Arg_number>10</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -383,7 +383,7 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>2</IDFct>
-    <Name>Altimeter_10000_footCount</Name>
+    <Name>Altimeter 10000_footCount</Name>
     <Arg_number>11</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -399,7 +399,7 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>3</IDFct>
-    <Name>Altimeter_1000_footCount</Name>
+    <Name>Altimeter 01000_footCount</Name>
     <Arg_number>520</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -415,7 +415,7 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>4</IDFct>
-    <Name>Altimeter_100_footCount</Name>
+    <Name>Altimeter 00100_footCount</Name>
     <Arg_number>521</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -431,7 +431,7 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>5</IDFct>
-    <Name>pressure_setting_0</Name>
+    <Name>Altimeter Pressure_setting_0</Name>
     <Arg_number>59</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -463,7 +463,7 @@
   <Functions>
     <IDInst>3</IDInst>
     <IDFct>1</IDFct>
-    <Name>Pitch</Name>
+    <Name>ADI Pitch</Name>
     <Arg_number>81</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -479,7 +479,7 @@
   <Functions>
     <IDInst>3</IDInst>
     <IDFct>2</IDFct>
-    <Name>Bank</Name>
+    <Name>ADI Bank</Name>
     <Arg_number>30</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -495,7 +495,7 @@
   <Functions>
     <IDInst>3</IDInst>
     <IDFct>3</IDFct>
-    <Name>Attitutewarningflag</Name>
+    <Name>ADI Attitute Warning flag</Name>
     <Arg_number>149</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -543,7 +543,7 @@
   <Functions>
     <IDInst>4</IDInst>
     <IDFct>3</IDFct>
-    <Name>Standby ADI warning flag</Name>
+    <Name>Standby ADI Warning flag</Name>
     <Arg_number>440</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -559,7 +559,7 @@
   <Functions>
     <IDInst>5</IDInst>
     <IDFct>1</IDFct>
-    <Name>IAS</Name>
+    <Name>ASI IAS</Name>
     <Arg_number>8</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -575,7 +575,7 @@
   <Functions>
     <IDInst>5</IDInst>
     <IDFct>2</IDFct>
-    <Name>MACH</Name>
+    <Name>ASI MACH</Name>
     <Arg_number>179</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -719,7 +719,7 @@
   <Functions>
     <IDInst>7</IDInst>
     <IDFct>7</IDFct>
-    <Name>HSI range_counter_100</Name>
+    <Name>HSI Range counter_100</Name>
     <Arg_number>268</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -735,7 +735,7 @@
   <Functions>
     <IDInst>7</IDInst>
     <IDFct>8</IDFct>
-    <Name>HSI range_counter_10</Name>
+    <Name>HSI Range counter_010</Name>
     <Arg_number>269</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -751,7 +751,7 @@
   <Functions>
     <IDInst>7</IDInst>
     <IDFct>9</IDFct>
-    <Name>HSI range_counter_1</Name>
+    <Name>HSI Range counter_001</Name>
     <Arg_number>270</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -783,7 +783,7 @@
   <Functions>
     <IDInst>7</IDInst>
     <IDFct>11</IDFct>
-    <Name>HSI Course_10</Name>
+    <Name>HSI Course_010</Name>
     <Arg_number>276</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -799,7 +799,7 @@
   <Functions>
     <IDInst>7</IDInst>
     <IDFct>12</IDFct>
-    <Name>HSI Course_1</Name>
+    <Name>HSI Course_001</Name>
     <Arg_number>277</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -831,7 +831,7 @@
   <Functions>
     <IDInst>8</IDInst>
     <IDFct>1</IDFct>
-    <Name>EngineLeft</Name>
+    <Name>RPM Engine Left</Name>
     <Arg_number>16</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -847,7 +847,7 @@
   <Functions>
     <IDInst>9</IDInst>
     <IDFct>1</IDFct>
-    <Name>EngineRight</Name>
+    <Name>RPM Engine Right</Name>
     <Arg_number>17</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -863,7 +863,7 @@
   <Functions>
     <IDInst>10</IDInst>
     <IDFct>1</IDFct>
-    <Name>EngineLeftRPMFan</Name>
+    <Name>Nozzle Engine Left RPM Fan</Name>
     <Arg_number>107</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -879,7 +879,7 @@
   <Functions>
     <IDInst>11</IDInst>
     <IDFct>1</IDFct>
-    <Name>EngineRightRPMFan</Name>
+    <Name>Nozzle Engine Right RPM Fan</Name>
     <Arg_number>108</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -895,7 +895,7 @@
   <Functions>
     <IDInst>14</IDInst>
     <IDFct>1</IDFct>
-    <Name>OilP_L</Name>
+    <Name>Oil Pressure Left</Name>
     <Arg_number>112</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -911,7 +911,7 @@
   <Functions>
     <IDInst>17</IDInst>
     <IDFct>1</IDFct>
-    <Name>Utility</Name>
+    <Name>HydPressure Utility</Name>
     <Arg_number>109</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -927,7 +927,7 @@
   <Functions>
     <IDInst>18</IDInst>
     <IDFct>1</IDFct>
-    <Name>Flight</Name>
+    <Name>HydPressure FLTCont</Name>
     <Arg_number>110</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -943,7 +943,7 @@
   <Functions>
     <IDInst>20</IDInst>
     <IDFct>1</IDFct>
-    <Name>Hours</Name>
+    <Name>Analog Clock_Hours</Name>
     <Arg_number>19</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -959,7 +959,7 @@
   <Functions>
     <IDInst>21</IDInst>
     <IDFct>1</IDFct>
-    <Name>Compass Heading </Name>
+    <Name>WhiskeyCompass Heading </Name>
     <Arg_number>610</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -975,7 +975,7 @@
   <Functions>
     <IDInst>21</IDInst>
     <IDFct>2</IDFct>
-    <Name>Compass Pitch</Name>
+    <Name>WhiskeyCompass Pitch</Name>
     <Arg_number>612</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -991,7 +991,7 @@
   <Functions>
     <IDInst>21</IDInst>
     <IDFct>3</IDFct>
-    <Name>Compass Bank</Name>
+    <Name>WhiskeyCompass Bank</Name>
     <Arg_number>611</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1007,7 +1007,7 @@
   <Functions>
     <IDInst>20</IDInst>
     <IDFct>2</IDFct>
-    <Name>Minutes</Name>
+    <Name>Analog Clock_Minutes</Name>
     <Arg_number>18</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1023,7 +1023,7 @@
   <Functions>
     <IDInst>20</IDInst>
     <IDFct>3</IDFct>
-    <Name>Seconds</Name>
+    <Name>Analog Clock_Seconds</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1119,7 +1119,7 @@
   <Functions>
     <IDInst>5</IDInst>
     <IDFct>3</IDFct>
-    <Name>MaxAirspeed</Name>
+    <Name>ASI MaxAirspeed</Name>
     <Arg_number>178</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1135,7 +1135,7 @@
   <Functions>
     <IDInst>5</IDInst>
     <IDFct>4</IDFct>
-    <Name>SetAirspeed</Name>
+    <Name>ASI SetAirspeed</Name>
     <Arg_number>177</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1151,7 +1151,7 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>6</IDFct>
-    <Name>pressure_setting_1</Name>
+    <Name>Altimeter Pressure_setting_1</Name>
     <Arg_number>58</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1167,7 +1167,7 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>7</IDFct>
-    <Name>pressure_setting_2</Name>
+    <Name>Altimeter Pressure_setting_2</Name>
     <Arg_number>57</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1183,7 +1183,7 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>8</IDFct>
-    <Name>pressure_setting_3</Name>
+    <Name>Altimeter Pressure_setting_3</Name>
     <Arg_number>56</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1199,7 +1199,7 @@
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>9</IDFct>
-    <Name>PNEU_flag</Name>
+    <Name>Altimeter Pneu_flag</Name>
     <Arg_number>9</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1215,7 +1215,7 @@
   <Functions>
     <IDInst>8</IDInst>
     <IDFct>2</IDFct>
-    <Name>percent_Left</Name>
+    <Name>RPM Percent Left</Name>
     <Arg_number>425</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1231,7 +1231,7 @@
   <Functions>
     <IDInst>9</IDInst>
     <IDFct>2</IDFct>
-    <Name>percent_Right</Name>
+    <Name>RPM Percent Right</Name>
     <Arg_number>426</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1247,7 +1247,7 @@
   <Functions>
     <IDInst>14</IDInst>
     <IDFct>2</IDFct>
-    <Name>OilP_R</Name>
+    <Name>Oil Pressure Right</Name>
     <Arg_number>113</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1391,7 +1391,7 @@
   <Functions>
     <IDInst>31</IDInst>
     <IDFct>1</IDFct>
-    <Name>Liters</Name>
+    <Name>Oxygen Quantity Liters</Name>
     <Arg_number>390</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1407,7 +1407,7 @@
   <Functions>
     <IDInst>32</IDInst>
     <IDFct>1</IDFct>
-    <Name>100 Mhz</Name>
+    <Name>UHF 100 Mhz</Name>
     <Arg_number>302</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1423,7 +1423,7 @@
   <Functions>
     <IDInst>32</IDInst>
     <IDFct>2</IDFct>
-    <Name>10 Mhz</Name>
+    <Name>UHF 10 Mhz</Name>
     <Arg_number>303</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1439,7 +1439,7 @@
   <Functions>
     <IDInst>32</IDInst>
     <IDFct>3</IDFct>
-    <Name>1 Mhz</Name>
+    <Name>UHF 1 Mhz</Name>
     <Arg_number>304</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1455,7 +1455,7 @@
   <Functions>
     <IDInst>32</IDInst>
     <IDFct>4</IDFct>
-    <Name>0.1 Mhz</Name>
+    <Name>UHF 0.1 Mhz</Name>
     <Arg_number>305</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1471,7 +1471,7 @@
   <Functions>
     <IDInst>32</IDInst>
     <IDFct>5</IDFct>
-    <Name>0.025 Mhz</Name>
+    <Name>UHF 0.025 Mhz</Name>
     <Arg_number>306</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1487,7 +1487,7 @@
   <Functions>
     <IDInst>33</IDInst>
     <IDFct>1</IDFct>
-    <Name>TACAN_digit_pos.hundreds</Name>
+    <Name>TACAN Digit.hundreds</Name>
     <Arg_number>263</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1503,7 +1503,7 @@
   <Functions>
     <IDInst>33</IDInst>
     <IDFct>2</IDFct>
-    <Name>TACAN_digit_pos.tens</Name>
+    <Name>TACAN Digit_pos.tens</Name>
     <Arg_number>264</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1519,7 +1519,7 @@
   <Functions>
     <IDInst>33</IDInst>
     <IDFct>3</IDFct>
-    <Name>TACAN_digit_pos.ones </Name>
+    <Name>TACAN Digit_pos.ones </Name>
     <Arg_number>265</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1535,7 +1535,7 @@
   <Functions>
     <IDInst>33</IDInst>
     <IDFct>4</IDFct>
-    <Name>XYwheel</Name>
+    <Name>TACAN XYwheel</Name>
     <Arg_number>266</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1567,7 +1567,7 @@
   <Functions>
     <IDInst>20</IDInst>
     <IDFct>4</IDFct>
-    <Name>elapsed_time_minutes</Name>
+    <Name>Analog Clock_Elapsed_time_minutes</Name>
     <Arg_number>509</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1583,7 +1583,7 @@
   <Functions>
     <IDInst>20</IDInst>
     <IDFct>5</IDFct>
-    <Name>elapsed_time_seconds</Name>
+    <Name>Analog Clock_Elapsed_time_seconds</Name>
     <Arg_number>37</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
