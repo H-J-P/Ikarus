@@ -55,7 +55,7 @@
   <Instruments>
     <IDInst>5</IDInst>
     <Name>ASI</Name>
-    <Class>F5E_ASI</Class>
+    <Class>F5E_ASI_2</Class>
     <PosX>205</PosX>
     <PosY>83</PosY>
     <Size>255</Size>
@@ -564,8 +564,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0, 0.0435, 0.1, 0.318,  0.397, 0.482, 0.553, 0.6145, 0.668, 0.761, 0.801, 0.877, 0.909, 0.942, 0.972,  1.0</Input>
-    <Output>0.0, 26, 34, 110, 137, 231, 191, 212, 232, 264, 278, 304, 315, 327, 337, 346</Output>
+    <Input>0.0,  0.1, 0.225, 0.394, 0.553,0.664,0.764,0.843,1.0</Input>
+    <Output>0.0, 34, 88, 137, 191, 232,265, 291, 347</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1124,8 +1124,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0, 0.0435, 0.1, 0.318,  0.397, 0.482, 0.553, 0.6145, 0.668, 0.761, 0.801, 0.877, 0.909, 0.942, 0.972,  1.0</Input>
-    <Output>0.0, 26, 34, 110, 137, 231, 191, 212, 232, 264, 278, 304, 315, 327, 337, 346</Output>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -4111,7 +4111,7 @@
   <Window>
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
-    <PosX>0</PosX>
+    <PosX>1200</PosX>
     <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>

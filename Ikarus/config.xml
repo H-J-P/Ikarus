@@ -124,6 +124,45 @@
     <Classname>AJS37_RPM</Classname>
   </Classnames>
   <Classnames>
+    <Classname>AV8BNA_ACCU</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AV8BNA_ADI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AV8BNA_Aileron</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AV8BNA_Alt</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AV8BNA_AOA</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AV8BNA_ASI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AV8BNA_Cabin</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AV8BNA_Chrono</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AV8BNA_Clock</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AV8BNA_Rudder</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AV8BNA_Turn</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AV8BNA_Volts</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AV8BNA_VVI</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>BfK4Att</Classname>
   </Classnames>
   <Classnames>
@@ -218,6 +257,9 @@
   </Classnames>
   <Classnames>
     <Classname>F5E_ASI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>F5E_ASI_2</Classname>
   </Classnames>
   <Classnames>
     <Classname>F5E_CAB_P</Classname>
