@@ -1,0 +1,736 @@
+<?xml version="1.0" standalone="yes"?>
+<DTADataSet>
+  <!-- lamps -->
+  <DCS_ID>
+    <ExportID>196</ExportID>
+    <Description>Master Caution (yellow)</Description>
+    <ExportIDWithDescription>196 - Master Caution (yellow)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>326</ExportID>
+    <Description>L FUEL</Description>
+    <ExportIDWithDescription>326 - L FUEL</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>327</ExportID>
+    <Description>R FUEL</Description>
+    <ExportIDWithDescription>327 - R FUEL</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>328</ExportID>
+    <Description>15 Sek</Description>
+    <ExportIDWithDescription>328 - 15 Sek</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>329</ExportID>
+    <Description>MFS</Description>
+    <ExportIDWithDescription>329 - MFS</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>330</ExportID>
+    <Description>BINGO</Description>
+    <ExportIDWithDescription>330 - BINGO</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>331</ExportID>
+    <Description>H2O</Description>
+    <ExportIDWithDescription>331 - H2O</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>197</ExportID>
+    <Description>Master Warning (red)</Description>
+    <ExportIDWithDescription>197 - Master Warning (red)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>334</ExportID>
+    <Description>FIRE</Description>
+    <ExportIDWithDescription>334 - FIRE</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>335</ExportID>
+    <Description>LAW</Description>
+    <ExportIDWithDescription>335 - LAW</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>336</ExportID>
+    <Description>FLAPS</Description>
+    <ExportIDWithDescription>336 - FLAPS</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>337</ExportID>
+    <Description>L TANK</Description>
+    <ExportIDWithDescription>337 - L TANK</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>338</ExportID>
+    <Description>R TANK</Description>
+    <ExportIDWithDescription>338 - R TANK</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>339</ExportID>
+    <Description>HYD</Description>
+    <ExportIDWithDescription>339 - HYD</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>340</ExportID>
+    <Description>GEAR</Description>
+    <ExportIDWithDescription>340 - GEAR</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>341</ExportID>
+    <Description>OT</Description>
+    <ExportIDWithDescription>341 - OT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>342</ExportID>
+    <Description>JPTL</Description>
+    <ExportIDWithDescription>342 - JPTL</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>343</ExportID>
+    <Description>EFC</Description>
+    <ExportIDWithDescription>343 - EFC</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>344</ExportID>
+    <Description>GEN</Description>
+    <ExportIDWithDescription>344 - GEN</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>276</ExportID>
+    <Description>SAM</Description>
+    <ExportIDWithDescription>276 - SAM</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>277</ExportID>
+    <Description>CW</Description>
+    <ExportIDWithDescription>277 - CW</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>278</ExportID>
+    <Description>AI</Description>
+    <ExportIDWithDescription>278 - AI</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>279</ExportID>
+    <Description>AAA</Description>
+    <ExportIDWithDescription>279 - AAA</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>283</ExportID>
+    <Description>NAV</Description>
+    <ExportIDWithDescription>283 - NAV</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>285</ExportID>
+    <Description>VSTOL</Description>
+    <ExportIDWithDescription>285 - VSTOL</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>281</ExportID>
+    <Description>A/G</Description>
+    <ExportIDWithDescription>281 - A/G</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>451</ExportID>
+    <Description>SEL</Description>
+    <ExportIDWithDescription>451 - SEL</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>452</ExportID>
+    <Description>CMBT</Description>
+    <ExportIDWithDescription>452 - CMBT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>453</ExportID>
+    <Description>STO</Description>
+    <ExportIDWithDescription>453 - STO</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>750</ExportID>
+    <Description>CANOPY FRAME LEFT</Description>
+    <ExportIDWithDescription>750 - CANOPY FRAME LEFT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>751</ExportID>
+    <Description>CANOPY FRAME READY</Description>
+    <ExportIDWithDescription>751 - CANOPY FRAME READY</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>752</ExportID>
+    <Description>CANOPY FRAME RIGHT</Description>
+    <ExportIDWithDescription>752 - CANOPY FRAME RIGHT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>446</ExportID>
+    <Description>GEAR LEVER</Description>
+    <ExportIDWithDescription>446 - GEAR LEVER</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>560</ExportID>
+    <Description>OXY</Description>
+    <ExportIDWithDescription>560 - OXY</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>561</ExportID>
+    <Description>WSLD</Description>
+    <ExportIDWithDescription>561 - WSLD</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>562</ExportID>
+    <Description>HYD 1</Description>
+    <ExportIDWithDescription>562 - HYD 1</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>563</ExportID>
+    <Description>HYD 2</Description>
+    <ExportIDWithDescription>563 - HYD 2</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>564</ExportID>
+    <Description>L PUMP</Description>
+    <ExportIDWithDescription>564 - L PUMP</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>565</ExportID>
+    <Description>R PUMP</Description>
+    <ExportIDWithDescription>565 - R PUMP</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>566</ExportID>
+    <Description>L TRANS</Description>
+    <ExportIDWithDescription>566 - L TRANS</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>567</ExportID>
+    <Description>R TRANS</Description>
+    <ExportIDWithDescription>567 - R TRANS</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>568</ExportID>
+    <Description>FLAPS 1</Description>
+    <ExportIDWithDescription>568 - FLAPS 1</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>569</ExportID>
+    <Description>FLAPS 2</Description>
+    <ExportIDWithDescription>569 - FLAPS 2</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>570</ExportID>
+    <Description>AUT FLP</Description>
+    <ExportIDWithDescription>570 - AUT FLP</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>571</ExportID>
+    <Description>PROP</Description>
+    <ExportIDWithDescription>571 - PROP</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>572</ExportID>
+    <Description>LIDS</Description>
+    <ExportIDWithDescription>572 - LIDS</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>573</ExportID>
+    <Description>OIL</Description>
+    <ExportIDWithDescription>573 - OIL</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>574</ExportID>
+    <Description>APU GEN</Description>
+    <ExportIDWithDescription>574 - APU GEN</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>575</ExportID>
+    <Description>--</Description>
+    <ExportIDWithDescription>575 - --</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>576</ExportID>
+    <Description>GPS</Description>
+    <ExportIDWithDescription>576 - GPS</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>577</ExportID>
+    <Description>DEP RES</Description>
+    <ExportIDWithDescription>577 - DEP RES</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>578</ExportID>
+    <Description>DC</Description>
+    <ExportIDWithDescription>578 - DC</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>579</ExportID>
+    <Description>STBY TR</Description>
+    <ExportIDWithDescription>579 - STBY TR</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>580</ExportID>
+    <Description>CS COOL</Description>
+    <ExportIDWithDescription>580 - CS COOL</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>581</ExportID>
+    <Description>LOAD</Description>
+    <ExportIDWithDescription>581 - LOAD</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>582</ExportID>
+    <Description>CANOPY</Description>
+    <ExportIDWithDescription>582 - CANOPY</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>583</ExportID>
+    <Description>INS</Description>
+    <ExportIDWithDescription>583 - INS</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>584</ExportID>
+    <Description>SKID</Description>
+    <ExportIDWithDescription>584 - SKID</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>585</ExportID>
+    <Description>EFC</Description>
+    <ExportIDWithDescription>585 - EFC</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>586</ExportID>
+    <Description>NWS</Description>
+    <ExportIDWithDescription>586 - NWS</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>587</ExportID>
+    <Description>AFC</Description>
+    <ExportIDWithDescription>587 - AFC</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>588</ExportID>
+    <Description>C AUT</Description>
+    <ExportIDWithDescription>588 - C AUT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>589</ExportID>
+    <Description>H2O SEL</Description>
+    <ExportIDWithDescription>589 - H2O SEL</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>590</ExportID>
+    <Description>APU</Description>
+    <ExportIDWithDescription>590 - APU</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>591</ExportID>
+    <Description></Description>
+    <ExportIDWithDescription>591 - PITCH</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>592</ExportID>
+    <Description>IFF</Description>
+    <ExportIDWithDescription>592 - IFF</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>593</ExportID>
+    <Description>SPD BRK</Description>
+    <ExportIDWithDescription>593 - SPD BRK</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>594</ExportID>
+    <Description>DROOP</Description>
+    <ExportIDWithDescription>594 - DROOP</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>595</ExportID>
+    <Description>ROLL</Description>
+    <ExportIDWithDescription>595 - ROLL</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>596</ExportID>
+    <Description>AFT BAY</Description>
+    <ExportIDWithDescription>596 - AFT BAY</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>597</ExportID>
+    <Description>AV BIT -----MAYBE NOT WORKING !-----</Description>
+    <ExportIDWithDescription>597 - AV BIT -----MAYBE NOT WORKING !-----</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>598</ExportID>
+    <Description>--</Description>
+    <ExportIDWithDescription>598 - --</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>599</ExportID>
+    <Description>YAW</Description>
+    <ExportIDWithDescription>599 - YAW</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>600</ExportID>
+    <Description>CW NOGO</Description>
+    <ExportIDWithDescription>600 - CW NOGO</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>601</ExportID>
+    <Description>P JAM</Description>
+    <ExportIDWithDescription>601 - P JAM</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>602</ExportID>
+    <Description>JAM HOT</Description>
+    <ExportIDWithDescription>602 - JAM HOT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>603</ExportID>
+    <Description>ENG EXC</Description>
+    <ExportIDWithDescription>603 - ENG EXC</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>604</ExportID>
+    <Description>P NOGO</Description>
+    <ExportIDWithDescription>604 - P NOGO</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>605</ExportID>
+    <Description>CW JAM</Description>
+    <ExportIDWithDescription>605 - CW JAM</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>606</ExportID>
+    <Description>REPLY</Description>
+    <ExportIDWithDescription>606 - REPLY</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>406</ExportID>
+    <Description>SET FLAG 1</Description>
+    <ExportIDWithDescription>406 - SET FLAG 1</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>408</ExportID>
+    <Description>SET FLAG 2</Description>
+    <ExportIDWithDescription>408 - SET FLAG 2</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>410</ExportID>
+    <Description>SET FLAG 3</Description>
+    <ExportIDWithDescription>410 - SET FLAG 3</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>412</ExportID>
+    <Description>SET FLAG 4</Description>
+    <ExportIDWithDescription>412 - SET FLAG 4</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>414</ExportID>
+    <Description>SET FLAG 5</Description>
+    <ExportIDWithDescription>414 - SET FLAG 5</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>416</ExportID>
+    <Description>SET FLAG 6</Description>
+    <ExportIDWithDescription>416 - SET FLAG 6</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>418</ExportID>
+    <Description>SET FLAG 7</Description>
+    <ExportIDWithDescription>418 - SET FLAG 7</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>462</ExportID>
+    <Description>NOSE GEAR (YELLOW)</Description>
+    <ExportIDWithDescription>462 - NOSE GEAR (YELLOW)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>463</ExportID>
+    <Description>NOSE GEAR(GREEN)</Description>
+    <ExportIDWithDescription>463 - NOSE GEAR (GREEN)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>464</ExportID>
+    <Description>LEFR GEAR (YELLOW)</Description>
+    <ExportIDWithDescription>464 - LEFR GEAR (YELLOW)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>465</ExportID>
+    <Description>LEFT GEAR (GREEN)</Description>
+    <ExportIDWithDescription>465 - LEFT GEAR (GREEN)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>466</ExportID>
+    <Description>RIGHT GEAR (YELLOW)</Description>
+    <ExportIDWithDescription>466 - RIGHT GEAR (YELLOW)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>467</ExportID>
+    <Description>RIGHT GEAR (GREEN)</Description>
+    <ExportIDWithDescription>467 - RIGHT GEAR (GREEN)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>469</ExportID>
+    <Description>MAIN GEAR (YELLOW)</Description>
+    <ExportIDWithDescription>469 - MAIN GEAR (YELLOW)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>468</ExportID>
+    <Description>MAIN GEAR (GREEN)</Description>
+    <ExportIDWithDescription>468 - MAIN GEAR (GREEN)</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- Devices -->
+  <Devices>
+    <DeviceID>1</DeviceID>
+    <Discription>ELECTRIC</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>2</DeviceID>
+    <Discription>COMM1</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>3</DeviceID>
+    <Discription>COMM2</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>4</DeviceID>
+    <Discription>INTERCOM</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>5</DeviceID>
+    <Discription>TACAN</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>6</DeviceID>
+    <Discription>AWLS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>7</DeviceID>
+    <Discription>RSC</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>8</DeviceID>
+    <Discription>ACNIP</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>9</DeviceID>
+    <Discription>DECS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>10</DeviceID>
+    <Discription>ADC</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>11</DeviceID>
+    <Discription>MSC</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>12</DeviceID>
+    <Discription>NAV_INS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>13</DeviceID>
+    <Discription>VREST</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>14</DeviceID>
+    <Discription>NAVFLIR</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>15</DeviceID>
+    <Discription>TGTPOD</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>16</DeviceID>
+    <Discription>DMT</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>17</DeviceID>
+    <Discription>RWR</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>18</DeviceID>
+    <Discription>RWRCONTROL</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>19</DeviceID>
+    <Discription>FLIGHTINSTRUMENTS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>20</DeviceID>
+    <Discription>EDP</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>21</DeviceID>
+    <Discription>FQIS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>22</DeviceID>
+    <Discription>HUDCONTROL</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>23</DeviceID>
+    <Discription>UFCCONTROL</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>24</DeviceID>
+    <Discription>ODUCONTROL</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>25</DeviceID>
+    <Discription>MPCD_LEFT</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>26</DeviceID>
+    <Discription>MPCD_RIGHT</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>27</DeviceID>
+    <Discription>FLIGHTCONTROLS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>28</DeviceID>
+    <Discription>SMC</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>29</DeviceID>
+    <Discription>EWS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>30</DeviceID>
+    <Discription>CBTSYST</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>31</DeviceID>
+    <Discription>TVWPNS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>32</DeviceID>
+    <Discription>LTEXT</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>33</DeviceID>
+    <Discription>LTINT</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>34</DeviceID>
+    <Discription>LTWCA</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>35</DeviceID>
+    <Discription>ECS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>36</DeviceID>
+    <Discription>HYDRAULIC</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>37</DeviceID>
+    <Discription>NETWORKINTERFACE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>38</DeviceID>
+    <Discription>ANVIS9</Discription>
+  </Devices>
+  <!-- Switches example -->
+  <Clickabledata>
+    <ID>0</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>Test</Discription>
+    <Type>Switch</Type>
+    <DcsID>1</DcsID>
+  </Clickabledata>
+</DTADataSet>
