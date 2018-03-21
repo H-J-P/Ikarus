@@ -5,12 +5,13 @@
     <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-    <File>AV8BNA.ikarus</File>
+    <File>A-10C.ikarus</File>
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
     <LogAllActions>true</LogAllActions>
     <TestMode>false</TestMode>
+    <GaugesShadow>true</GaugesShadow>
   </Configuration>
   <Classnames>
     <Classname>A10_ACP</Classname>
