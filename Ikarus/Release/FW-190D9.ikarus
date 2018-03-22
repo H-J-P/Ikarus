@@ -1,0 +1,1039 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <Instruments>
+    <IDInst>1</IDInst>
+    <Name>SZ500</Name>
+    <Class>LwSZ500</Class>
+    <PosX>550</PosX>
+    <PosY>60</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>2</IDInst>
+    <Name>SZ500</Name>
+    <Class>LwSZ500</Class>
+    <PosX>610</PosX>
+    <PosY>60</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>3</IDInst>
+    <Name>SZ500</Name>
+    <Class>LwSZ500</Class>
+    <PosX>730</PosX>
+    <PosY>60</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>4</IDInst>
+    <Name>SZ500</Name>
+    <Class>LwSZ500</Class>
+    <PosX>790</PosX>
+    <PosY>60</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>5</IDInst>
+    <Name>IAS</Name>
+    <Class>FWD9IAS</Class>
+    <PosX>280</PosX>
+    <PosY>340</PosY>
+    <Size>255</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>6</IDInst>
+    <Name>Att</Name>
+    <Class>FWD9Att</Class>
+    <PosX>530</PosX>
+    <PosY>310</PosY>
+    <Size>340</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>7</IDInst>
+    <Name>VVI</Name>
+    <Class>FWD9VVI</Class>
+    <PosX>860</PosX>
+    <PosY>340</PosY>
+    <Size>255</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>8</IDInst>
+    <Name>AFN2</Name>
+    <Class>LwAFN2</Class>
+    <PosX>1200</PosX>
+    <PosY>80</PosY>
+    <Size>255</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>9</IDInst>
+    <Name>HSI</Name>
+    <Class>LwHeadCourse</Class>
+    <PosX>1120</PosX>
+    <PosY>340</PosY>
+    <Size>255</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>10</IDInst>
+    <Name>Manifold_Pressure</Name>
+    <Class>LwMAP</Class>
+    <PosX>1380</PosX>
+    <PosY>340</PosY>
+    <Size>255</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>11</IDInst>
+    <Name>Alt</Name>
+    <Class>LwAlt</Class>
+    <PosX>200</PosX>
+    <PosY>600</PosY>
+    <Size>255</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>12</IDInst>
+    <Name>Engine_RPM</Name>
+    <Class>LwRPM</Class>
+    <PosX>1470</PosX>
+    <PosY>600</PosY>
+    <Size>255</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>13</IDInst>
+    <Name>Oil_Pressure; Fuel_Pressure;</Name>
+    <Class>LwDblP</Class>
+    <PosX>470</PosX>
+    <PosY>670</PosY>
+    <Size>173</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>14</IDInst>
+    <Name>Coolant_Temperature</Name>
+    <Class>LwH20Temp</Class>
+    <PosX>670</PosX>
+    <PosY>670</PosY>
+    <Size>173</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>15</IDInst>
+    <Name>Oil Temperature</Name>
+    <Class>LwOilTemp</Class>
+    <PosX>870</PosX>
+    <PosY>670</PosY>
+    <Size>173</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>16</IDInst>
+    <Name>MW50_Pressure</Name>
+    <Class>LwMW50P</Class>
+    <PosX>1070</PosX>
+    <PosY>670</PosY>
+    <Size>173</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>17</IDInst>
+    <Name>Fuel</Name>
+    <Class>FWD9Fuel</Class>
+    <PosX>1270</PosX>
+    <PosY>670</PosY>
+    <Size>173</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>18</IDInst>
+    <Name>Gear</Name>
+    <Class>FWD9Gear</Class>
+    <PosX>100</PosX>
+    <PosY>870</PosY>
+    <Size>130</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>19</IDInst>
+    <Name>Trim</Name>
+    <Class>LwTrim</Class>
+    <PosX>270</PosX>
+    <PosY>870</PosY>
+    <Size>173</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>20</IDInst>
+    <Name>Clock</Name>
+    <Class>LwClock</Class>
+    <PosX>1200</PosX>
+    <PosY>870</PosY>
+    <Size>173</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>21</IDInst>
+    <Name>Oxygen_Flow_Blinker</Name>
+    <Class>LwBlink</Class>
+    <PosX>1400</PosX>
+    <PosY>870</PosY>
+    <Size>173</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>22</IDInst>
+    <Name>Oxygen_Pressure</Name>
+    <Class>LwO2P</Class>
+    <PosX>1600</PosX>
+    <PosY>870</PosY>
+    <Size>173</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Ammo counter 1</Name>
+    <Arg_number>52</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>2</IDFct>
+    <Name>Ammo counter 1</Name>
+    <Arg_number>50</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Ammo counter 2</Name>
+    <Arg_number>55</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Ammo counter 2</Name>
+    <Arg_number>164</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>3</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Ammo counter 3</Name>
+    <Arg_number>58</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>3</IDInst>
+    <IDFct>2</IDFct>
+    <Name>Ammo counter 3</Name>
+    <Arg_number>165</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>4</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Ammo counter 4</Name>
+    <Arg_number>61</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>4</IDInst>
+    <IDFct>2</IDFct>
+    <Name>Ammo counter 4</Name>
+    <Arg_number>166</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>5</IDInst>
+    <IDFct>1</IDFct>
+    <Name>AirspeedNeedle</Name>
+    <Arg_number>36</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input> 0.0, 0.038, 0.088, 0.150, 0.216, 0.278, 0.333, 0.395, 0.530, 0.660, 0.777, 0.836, 0.892, 0.938, 0.988 </Input>
+    <Output>0, 15, 35, 60, 86, 112, 135, 159, 213, 269, 319, 344, 368, 388, 410</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>1</IDFct>
+    <Name>AHorizon_Bank</Name>
+    <Arg_number>38</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>2</IDFct>
+    <Name>AHorizon_Pitch</Name>
+    <Arg_number>37</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>3</IDFct>
+    <Name>TurnNeedle</Name>
+    <Arg_number>40</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>4</IDFct>
+    <Name>Slipball</Name>
+    <Arg_number>41</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>5</IDFct>
+    <Name>Horizon Cage</Name>
+    <Arg_number>39</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,0.511</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>1</IDFct>
+    <Name>VVI</Name>
+    <Arg_number>42</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-1, -0.770, -0.558, -0.338, 0.338, 0.558, 0.770, 1.0 </Input>
+    <Output>-135, -106,  -76, -47, 47, 76, 105, 134 </Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>8</IDInst>
+    <IDFct>1</IDFct>
+    <Name>AFN2_Horizontal_Needle</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>8</IDInst>
+    <IDFct>2</IDFct>
+    <Name>AFN2_Vertical_Needle</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>8</IDInst>
+    <IDFct>3</IDFct>
+    <Name>AFN2_Signal_Lamp</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>9</IDInst>
+    <IDFct>1</IDFct>
+    <Name>CompassHeading</Name>
+    <Arg_number>45</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>9</IDInst>
+    <IDFct>2</IDFct>
+    <Name>CommandedCourse</Name>
+    <Arg_number>44</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Manifold_Pressure</Name>
+    <Arg_number>46</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>-3,326</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>11</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Altimeter_km</Name>
+    <Arg_number>35</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0,70,140</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>11</IDInst>
+    <IDFct>2</IDFct>
+    <Name>Altimeter_m</Name>
+    <Arg_number>32</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>11</IDInst>
+    <IDFct>3</IDFct>
+    <Name>Altimeter_Pressure</Name>
+    <Arg_number>33</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>12</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Engine RPM</Name>
+    <Arg_number>47</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0, 0.032, 0.082, 0.206, 0.390, 0.601, 0.789, 0.961, 0.983</Input>
+    <Output>-5, 0, 15, 49, 100, 159, 210, 258, 265</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>13</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Oil_Pressure</Name>
+    <Arg_number>95</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>13</IDInst>
+    <IDFct>2</IDFct>
+    <Name>Fuel_Pressure</Name>
+    <Arg_number>94</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>14</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Coolant_Temperature</Name>
+    <Arg_number>96</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.070, 0.131, 0.206, 0.289, 0.377, 0.468, 0.564, 0.655, 0.738, 0.811, 0.892, 0.946, 1.0</Input>
+    <Output>5, 10, 17, 25, 34, 43, 52, 61, 69, 75, 82, 88, 94</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>15</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Oil Temperature</Name>
+    <Arg_number>97</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.070, 0.131, 0.206, 0.289, 0.377, 0.468, 0.564, 0.655, 0.738, 0.811, 0.892, 0.946, 1.0</Input>
+    <Output>5, 10, 17, 25, 34, 43, 52, 61, 69, 75, 82, 88, 94</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>16</IDInst>
+    <IDFct>1</IDFct>
+    <Name>MW50_Pressure</Name>
+    <Arg_number>106</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0, 0.068, 0.169, 0.273, 0.680, 0.780, 0.880, 1.0</Input>
+    <Output>0, 18, 47, 75, 185, 213, 240, 270</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>1</IDFct>
+    <Name>FuelScaleUpper</Name>
+    <Arg_number>98</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0, 0.130, 0.308, 0.500, 0.700, 0.870, 1.0</Input>
+    <Output>0.0, 9.00, 25.0, 43.0, 59.0, 74.0, 87</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>1</IDFct>
+    <Name>L_GEAR_UP</Name>
+    <Arg_number>68</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>2</IDFct>
+    <Name>L_GEAR_DOWN</Name>
+    <Arg_number>69</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>3</IDFct>
+    <Name>R_GEAR_UP</Name>
+    <Arg_number>70</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>4</IDFct>
+    <Name>R_GEAR_DOWN</Name>
+    <Arg_number>71</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>5</IDFct>
+    <Name>FLAPS_UP</Name>
+    <Arg_number>72</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>6</IDFct>
+    <Name>FLAPS_START</Name>
+    <Arg_number>73</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>7</IDFct>
+    <Name>FLAPS_DOWN</Name>
+    <Arg_number>74</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>19</IDInst>
+    <IDFct>1</IDFct>
+    <Name>TrimmNeedle</Name>
+    <Arg_number>76</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>20</IDInst>
+    <IDFct>1</IDFct>
+    <Name>CLOCK_currtime_hours</Name>
+    <Arg_number>21</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>20</IDInst>
+    <IDFct>2</IDFct>
+    <Name>CLOCK_currtime_minutes</Name>
+    <Arg_number>22</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>20</IDInst>
+    <IDFct>3</IDFct>
+    <Name>CLOCK_currtime_seconds</Name>
+    <Arg_number>23</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>20</IDInst>
+    <IDFct>4</IDFct>
+    <Name>CLOCK_chrono_minutes</Name>
+    <Arg_number>27</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>20</IDInst>
+    <IDFct>5</IDFct>
+    <Name>Turnable Bezel</Name>
+    <Arg_number>24</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>21</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Oxygen_Flow_Blinker</Name>
+    <Arg_number>113</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>22</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Oxygen_Pressure</Name>
+    <Arg_number>112</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Parameter>
+    <FileBackground>BackGround.png</FileBackground>
+  </Parameter>
+  <Window>
+    <WindowID>1</WindowID>
+    <Name>Front Panel</Name>
+    <PosX>0</PosX>
+    <PosY>0</PosY>
+    <Height>1080</Height>
+    <Width>1920</Width>
+    <Background>BackGround.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <LightColor />
+  </Window>
+</DataSet1>
