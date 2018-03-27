@@ -1,4 +1,4 @@
-### Ikarus-Source 1.2.2.x
+### Ikarus-Source 1.2.3.x
 
 Ikarus is a solution like Helios or Hawgtouch, but with a database background and the possiblity to configure it with a editor or in tables very simple.
 
