@@ -1543,7 +1543,7 @@
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
-  <Lamps>
+    <Lamps>
     <ID>12</ID>
     <Class>LampOnOff</Class>
     <Arg_number>29</Arg_number>
@@ -1603,6 +1603,5 @@
     <Width>1920</Width>
     <Background>L-39-Background.png</Background>
     <BackgroundNight>-</BackgroundNight>
-    <LightColor />
   </Window>
 </DataSet1>
