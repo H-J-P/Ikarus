@@ -169,6 +169,58 @@
     <Reactivate>false</Reactivate>
     <WindowID>3</WindowID>
   </Instruments>
+  <Instruments>
+    <IDInst>14</IDInst>
+    <Name>Fuel Total</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1566</PosX>
+    <PosY>823</PosY>
+    <Size>90</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>15</IDInst>
+    <Name>Fuel Left</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1450</PosX>
+    <PosY>872</PosY>
+    <Size>80</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>16</IDInst>
+    <Name>Fuel Right</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1654</PosX>
+    <PosY>872</PosY>
+    <Size>80</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>17</IDInst>
+    <Name>Fuel Bingo</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1551</PosX>
+    <PosY>923</PosY>
+    <Size>80</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -628,6 +680,70 @@
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>14</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Fuel Total</Name>
+    <Arg_number>2010</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>5</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>15</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Fuel Left</Name>
+    <Arg_number>2011</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>4</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>16</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Fuel Right</Name>
+    <Arg_number>2012</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>4</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Fuel Bingo</Name>
+    <Arg_number>2013</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>4</Output>
+    <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
     <In />
@@ -1975,6 +2091,678 @@
     <WindowID>1</WindowID>
     <DcsID>199</DcsID>
   </Switches>
+  <Switches>
+    <ID>5</ID>
+    <Class>Button</Class>
+    <ClickabledataID>976</ClickabledataID>
+    <Name>UFC Button 1</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_1_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_1_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>847</PosX>
+    <PosY>123</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>302</DcsID>
+  </Switches>
+  <Switches>
+    <ID>6</ID>
+    <Class>Button</Class>
+    <ClickabledataID>977</ClickabledataID>
+    <Name>UFC Button 2/N</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_2_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_2_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>903</PosX>
+    <PosY>123</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>303</DcsID>
+  </Switches>
+  <Switches>
+    <ID>7</ID>
+    <Class>Button</Class>
+    <ClickabledataID>978</ClickabledataID>
+    <Name>UFC Button 3</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_3_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_3_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>962</PosX>
+    <PosY>123</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>304</DcsID>
+  </Switches>
+  <Switches>
+    <ID>8</ID>
+    <Class>Button</Class>
+    <ClickabledataID>764</ClickabledataID>
+    <Name>UFC Clear Entry Button</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_CLR_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_CLR_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1019</PosX>
+    <PosY>123</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>305</DcsID>
+  </Switches>
+  <Switches>
+    <ID>9</ID>
+    <Class>Button</Class>
+    <ClickabledataID>979</ClickabledataID>
+    <Name>UFC Button 4/W</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_4_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_4_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>847</PosX>
+    <PosY>176</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>306</DcsID>
+  </Switches>
+  <Switches>
+    <ID>10</ID>
+    <Class>Button</Class>
+    <ClickabledataID>980</ClickabledataID>
+    <Name>UFC Button 5</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_5_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_5_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>903</PosX>
+    <PosY>176</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>307</DcsID>
+  </Switches>
+  <Switches>
+    <ID>11</ID>
+    <Class>Button</Class>
+    <ClickabledataID>981</ClickabledataID>
+    <Name>UFC Button 6/E</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_6_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_6_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>962</PosX>
+    <PosY>176</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>308</DcsID>
+  </Switches>
+  <Switches>
+    <ID>12</ID>
+    <Class>Button</Class>
+    <ClickabledataID>779</ClickabledataID>
+    <Name>UFC Save Data Button</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_SVE_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_SVE_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1019</PosX>
+    <PosY>176</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>309</DcsID>
+  </Switches>
+  <Switches>
+    <ID>13</ID>
+    <Class>Button</Class>
+    <ClickabledataID>982</ClickabledataID>
+    <Name>UFC Button 7</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_7_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_7_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>847</PosX>
+    <PosY>232</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>310</DcsID>
+  </Switches>
+  <Switches>
+    <ID>14</ID>
+    <Class>Button</Class>
+    <ClickabledataID>983</ClickabledataID>
+    <Name>UFC Button 8/S</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_8_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_8_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>903</PosX>
+    <PosY>232</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>311</DcsID>
+  </Switches>
+  <Switches>
+    <ID>15</ID>
+    <Class>Button</Class>
+    <ClickabledataID>984</ClickabledataID>
+    <Name>UFC Button 9</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_9_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_9_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>962</PosX>
+    <PosY>232</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>312</DcsID>
+  </Switches>
+  <Switches>
+    <ID>16</ID>
+    <Class>Button</Class>
+    <ClickabledataID>987</ClickabledataID>
+    <Name>UFC Button -</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_Space_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_Space_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1019</PosX>
+    <PosY>232</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>313</DcsID>
+  </Switches>
+  <Switches>
+    <ID>17</ID>
+    <Class>Button</Class>
+    <ClickabledataID>763</ClickabledataID>
+    <Name>UFC ENTER Data Button</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_ENT_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_ENT_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>847</PosX>
+    <PosY>292</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>314</DcsID>
+  </Switches>
+  <Switches>
+    <ID>18</ID>
+    <Class>Button</Class>
+    <ClickabledataID>985</ClickabledataID>
+    <Name>UFC Button 0</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_0_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_0_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>903</PosX>
+    <PosY>292</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>315</DcsID>
+  </Switches>
+  <Switches>
+    <ID>19</ID>
+    <Class>Button</Class>
+    <ClickabledataID>986</ClickabledataID>
+    <Name>UFC Button .</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_Dot_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_Dot_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>962</PosX>
+    <PosY>292</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>316</DcsID>
+  </Switches>
+  <Switches>
+    <ID>20</ID>
+    <Class>Button</Class>
+    <ClickabledataID>770</ClickabledataID>
+    <Name>UFC Radalt/TACAN/AWL/IFF ON/OFF Toggle</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_OnOff_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_OnOff_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1019</PosX>
+    <PosY>292</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>317</DcsID>
+  </Switches>
+  <Switches>
+    <ID>21</ID>
+    <Class>Button</Class>
+    <ClickabledataID>767</ClickabledataID>
+    <Name>UFC IFF Function Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_IFF_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_IFF_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>847</PosX>
+    <PosY>349</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>318</DcsID>
+  </Switches>
+  <Switches>
+    <ID>22</ID>
+    <Class>Button</Class>
+    <ClickabledataID>768</ClickabledataID>
+    <Name>UFC TACAN Function Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_TCN_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_TCN_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>903</PosX>
+    <PosY>349</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>319</DcsID>
+  </Switches>
+  <Switches>
+    <ID>23</ID>
+    <Class>Button</Class>
+    <ClickabledataID>769</ClickabledataID>
+    <Name>UFC All Weather Landing Function Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_AWL_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_AWL_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>962</PosX>
+    <PosY>349</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>320</DcsID>
+  </Switches>
+  <Switches>
+    <ID>24</ID>
+    <Class>Button</Class>
+    <ClickabledataID>774</ClickabledataID>
+    <Name>UFC Weapons Function Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_WPN_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_WPN_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1019</PosX>
+    <PosY>349</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>321</DcsID>
+  </Switches>
+  <Switches>
+    <ID>25</ID>
+    <Class>Button</Class>
+    <ClickabledataID>773</ClickabledataID>
+    <Name>UFC Waypoint Overfly INS Update Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_WOF_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_WOF_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>847</PosX>
+    <PosY>404</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>322</DcsID>
+  </Switches>
+  <Switches>
+    <ID>26</ID>
+    <Class>Button</Class>
+    <ClickabledataID>777</ClickabledataID>
+    <Name>UFC Radar Beacon Function Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_BCN_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_BCN_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>903</PosX>
+    <PosY>404</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>323</DcsID>
+  </Switches>
+  <Switches>
+    <ID>27</ID>
+    <Class>Button</Class>
+    <ClickabledataID>766</ClickabledataID>
+    <Name>UFC Altitude Function Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_ALT_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_ALT_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>962</PosX>
+    <PosY>404</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>324</DcsID>
+  </Switches>
+  <Switches>
+    <ID>28</ID>
+    <Class>Button</Class>
+    <ClickabledataID>771</ClickabledataID>
+    <Name>UFC EMCON ON/OFF Toggle</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_EMCON_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_EMCON_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1019</PosX>
+    <PosY>404</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>325</DcsID>
+  </Switches>
+  <Switches>
+    <ID>29</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>781</ClickabledataID>
+    <Name>UFC Comm 1 Volume Control</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0,360</Output>
+    <PosX>786</PosX>
+    <PosY>188</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>298</DcsID>
+  </Switches>
+  <Switches>
+    <ID>30</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>782</ClickabledataID>
+    <Name>UFC Comm 2 Volume Control</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0,360</Output>
+    <PosX>1084</PosX>
+    <PosY>188</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>299</DcsID>
+  </Switches>
+  <Switches>
+    <ID>31</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>783</ClickabledataID>
+    <Name>UFC Comm 1 Channel Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary5.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0,360</Output>
+    <PosX>1084</PosX>
+    <PosY>350</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>300</DcsID>
+  </Switches>
+  <Switches>
+    <ID>32</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>784</ClickabledataID>
+    <Name>UFC Comm 2 Channel Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary5.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0,360</Output>
+    <PosX>770</PosX>
+    <PosY>350</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>301</DcsID>
+  </Switches>
+  <Switches>
+    <ID>33</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>780</ClickabledataID>
+    <Name>UFC Display Brightness Control</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>1081</PosX>
+    <PosY>50</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>295</DcsID>
+  </Switches>
+  <Switches>
+    <ID>34</ID>
+    <Class>Button</Class>
+    <ClickabledataID>778</ClickabledataID>
+    <Name>UFC I/P Button</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1079</PosX>
+    <PosY>118</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>297</DcsID>
+  </Switches>
+  <Switches>
+    <ID>35</ID>
+    <Class>Button</Class>
+    <ClickabledataID>765</ClickabledataID>
+    <Name>UFC Timer Function Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_TMR_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_TMR_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>787</PosX>
+    <PosY>61</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>294</DcsID>
+  </Switches>
+  <Switches>
+    <ID>36</ID>
+    <Class>Button</Class>
+    <ClickabledataID>772</ClickabledataID>
+    <Name>UFC Target-Of-Opportunity Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_UFC_TOO_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_UFC_TOO_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>788</PosX>
+    <PosY>120</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>296</DcsID>
+  </Switches>
   <Accessories>
     <ID>1</ID>
     <Class>Label</Class>
@@ -1993,7 +2781,7 @@
   <Window>
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
-    <PosX>0</PosX>
+    <PosX>1920</PosX>
     <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>

@@ -364,6 +364,19 @@
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
   </Instruments>
+  <Instruments>
+    <IDInst>35</IDInst>
+    <Name>Pitch Trim</Name>
+    <Class>F5E_PitchTrim</Class>
+    <PosX>79</PosX>
+    <PosY>102</PosY>
+    <Size>120</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -1590,6 +1603,22 @@
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>35</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Pitch Trim</Name>
+    <Arg_number>52</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>-0.1,0.0,1.0</Input>
+    <Output>-17,0,163</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
