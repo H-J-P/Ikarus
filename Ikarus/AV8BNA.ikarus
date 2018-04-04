@@ -95,48 +95,48 @@
     <IDInst>8</IDInst>
     <Name>ACCU</Name>
     <Class>AV8BNA_ACCU</Class>
-    <PosX>28</PosX>
-    <PosY>224</PosY>
-    <Size>165</Size>
+    <PosX>200</PosX>
+    <PosY>897</PosY>
+    <Size>150</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>3</WindowID>
+    <WindowID>2</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>9</IDInst>
     <Name>Aileron</Name>
     <Class>AV8BNA_Aileron</Class>
-    <PosX>47</PosX>
-    <PosY>78</PosY>
-    <Size>110</Size>
+    <PosX>272</PosX>
+    <PosY>175</PosY>
+    <Size>80</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>3</WindowID>
+    <WindowID>5</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>10</IDInst>
     <Name>Cabin Pressure</Name>
     <Class>AV8BNA_Cabin</Class>
-    <PosX>11</PosX>
-    <PosY>402</PosY>
-    <Size>185</Size>
+    <PosX>196</PosX>
+    <PosY>742</PosY>
+    <Size>155</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>3</WindowID>
+    <WindowID>2</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>11</IDInst>
     <Name>Chronometer</Name>
     <Class>AV8BNA_Chrono</Class>
-    <PosX>201</PosX>
-    <PosY>403</PosY>
-    <Size>185</Size>
+    <PosX>4</PosX>
+    <PosY>1</PosY>
+    <Size>180</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -147,34 +147,34 @@
     <IDInst>12</IDInst>
     <Name>Rudder</Name>
     <Class>AV8BNA_Rudder</Class>
-    <PosX>236</PosX>
-    <PosY>80</PosY>
-    <Size>110</Size>
+    <PosX>272</PosX>
+    <PosY>257</PosY>
+    <Size>80</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>3</WindowID>
+    <WindowID>5</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>13</IDInst>
     <Name>Battery Volts</Name>
     <Class>AV8BNA_Volts</Class>
-    <PosX>215</PosX>
-    <PosY>224</PosY>
-    <Size>165</Size>
+    <PosX>12</PosX>
+    <PosY>18</PosY>
+    <Size>125</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>3</WindowID>
+    <WindowID>4</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>14</IDInst>
     <Name>Fuel Total</Name>
     <Class>DisplayDotMatrix</Class>
     <PosX>1566</PosX>
-    <PosY>823</PosY>
+    <PosY>820</PosY>
     <Size>90</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -186,8 +186,8 @@
     <IDInst>15</IDInst>
     <Name>Fuel Left</Name>
     <Class>DisplayDotMatrix</Class>
-    <PosX>1450</PosX>
-    <PosY>872</PosY>
+    <PosX>1449</PosX>
+    <PosY>869</PosY>
     <Size>80</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -200,7 +200,7 @@
     <Name>Fuel Right</Name>
     <Class>DisplayDotMatrix</Class>
     <PosX>1654</PosX>
-    <PosY>872</PosY>
+    <PosY>869</PosY>
     <Size>80</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -212,14 +212,209 @@
     <IDInst>17</IDInst>
     <Name>Fuel Bingo</Name>
     <Class>DisplayDotMatrix</Class>
-    <PosX>1551</PosX>
-    <PosY>923</PosY>
+    <PosX>1550</PosX>
+    <PosY>918</PosY>
     <Size>80</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>18</IDInst>
+    <Name>DUCT</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1388</PosX>
+    <PosY>72</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>19</IDInst>
+    <Name>RPM</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1481</PosX>
+    <PosY>70</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>20</IDInst>
+    <Name>FF</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1387</PosX>
+    <PosY>128</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>21</IDInst>
+    <Name>JPT</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1495</PosX>
+    <PosY>128</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>22</IDInst>
+    <Name>Stab</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1396</PosX>
+    <PosY>188</PosY>
+    <Size>43</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>23</IDInst>
+    <Name>H2O</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1494</PosX>
+    <PosY>189</PosY>
+    <Size>43</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>24</IDInst>
+    <Name>Mode</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>143</PosX>
+    <PosY>809</PosY>
+    <Size>65</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>25</IDInst>
+    <Name>Fuz</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>213</PosX>
+    <PosY>809</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>26</IDInst>
+    <Name>InVT</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>423</PosX>
+    <PosY>809</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>27</IDInst>
+    <Name>Mult</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>368</PosX>
+    <PosY>809</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>28</IDInst>
+    <Name>QTY</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>284</PosX>
+    <PosY>809</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>29</IDInst>
+    <Name>Flaps</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>32</PosX>
+    <PosY>942</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>30</IDInst>
+    <Name>Brake</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>105</PosX>
+    <PosY>781</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>2</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>31</IDInst>
+    <Name>Hyd1</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>50</PosX>
+    <PosY>850</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>2</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>32</IDInst>
+    <Name>Hyd2</Name>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>108</PosX>
+    <PosY>850</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>2</WindowID>
   </Instruments>
   <Functions>
     <IDInst>1</IDInst>
@@ -749,6 +944,246 @@
     <In />
     <Out />
   </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>1</IDFct>
+    <Name>DUCT</Name>
+    <Arg_number>2001</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>3</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>19</IDInst>
+    <IDFct>1</IDFct>
+    <Name>RPM</Name>
+    <Arg_number>2002</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>4</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>20</IDInst>
+    <IDFct>1</IDFct>
+    <Name>FF</Name>
+    <Arg_number>2003</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>3</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>21</IDInst>
+    <IDFct>1</IDFct>
+    <Name>JPT</Name>
+    <Arg_number>2004</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>3</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>22</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Stab</Name>
+    <Arg_number>2005</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>2</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>23</IDInst>
+    <IDFct>1</IDFct>
+    <Name>H2O</Name>
+    <Arg_number>2006</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>2</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>24</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Mode</Name>
+    <Arg_number>2018</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>3</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>25</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Fuz</Name>
+    <Arg_number>2019</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>2</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>26</IDInst>
+    <IDFct>1</IDFct>
+    <Name>InVT</Name>
+    <Arg_number>2020</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>3</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>27</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Mult</Name>
+    <Arg_number>2021</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>1</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>28</IDInst>
+    <IDFct>1</IDFct>
+    <Name>QTY</Name>
+    <Arg_number>2022</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>2</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>29</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Flaps</Name>
+    <Arg_number>2014</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>2</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>30</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Brake</Name>
+    <Arg_number>2015</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>3</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>31</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Hyd1</Name>
+    <Arg_number>2016</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>3</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>32</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Hyd2</Name>
+    <Arg_number>2017</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>ABF9AB</Input>
+    <Output>3</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
   <Lamps>
     <ID>1</ID>
     <Class>LampOnOff</Class>
@@ -1043,8 +1478,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AV8BNA_Gear_Orange_N_On.png</FilePictureOn>
     <FilePictureOff>AV8BNA_Gear_Orange_N_Off.png</FilePictureOff>
-    <PosX>43</PosX>
-    <PosY>831</PosY>
+    <PosX>34</PosX>
+    <PosY>745</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1058,8 +1493,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AV8BNA_Gear_Green_N_On.png</FilePictureOn>
     <FilePictureOff>AV8BNA_Gear_Green_N_Off.png</FilePictureOff>
-    <PosX>43</PosX>
-    <PosY>806</PosY>
+    <PosX>35</PosX>
+    <PosY>715</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1073,8 +1508,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AV8BNA_Gear_Orange_L_On.png</FilePictureOn>
     <FilePictureOff>AV8BNA_Gear_Orange_L_Off.png</FilePictureOff>
-    <PosX>21</PosX>
-    <PosY>892</PosY>
+    <PosX>5</PosX>
+    <PosY>808</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1088,8 +1523,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AV8BNA_Gear_Green_L_On.png</FilePictureOn>
     <FilePictureOff>AV8BNA_Gear_Green_L_Off.png</FilePictureOff>
-    <PosX>21</PosX>
-    <PosY>866</PosY>
+    <PosX>6</PosX>
+    <PosY>779</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1103,8 +1538,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AV8BNA_Gear_Orange_R_On.png</FilePictureOn>
     <FilePictureOff>AV8BNA_Gear_Orange_R_Off.png</FilePictureOff>
-    <PosX>69</PosX>
-    <PosY>892</PosY>
+    <PosX>61</PosX>
+    <PosY>808</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1118,8 +1553,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AV8BNA_Gear_Green_R_On.png</FilePictureOn>
     <FilePictureOff>AV8BNA_Gear_Green_R_Off.png</FilePictureOff>
-    <PosX>69</PosX>
-    <PosY>866</PosY>
+    <PosX>62</PosX>
+    <PosY>780</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1133,8 +1568,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AV8BNA_Gear_Green_M_On.png</FilePictureOn>
     <FilePictureOff>AV8BNA_Gear_Green_M_Off.png</FilePictureOff>
-    <PosX>44</PosX>
-    <PosY>927</PosY>
+    <PosX>33</PosX>
+    <PosY>844</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1148,8 +1583,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>AV8BNA_Gear_Orange_M_On.png</FilePictureOn>
     <FilePictureOff>AV8BNA_Gear_Orange_M_Off.png</FilePictureOff>
-    <PosX>43</PosX>
-    <PosY>953</PosY>
+    <PosX>32</PosX>
+    <PosY>873</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -2021,8 +2456,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>2</Input>
     <Output>0</Output>
-    <PosX>1163</PosX>
-    <PosY>631</PosY>
+    <PosX>323</PosX>
+    <PosY>963</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -2033,7 +2468,7 @@
     <ID>2</ID>
     <Class>SwitchPanelOffOn</Class>
     <ClickabledataID>0</ClickabledataID>
-    <Name>Instruments Panel</Name>
+    <Name>Stop Watch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>flat_up2.png</FilePictureOn>
@@ -2041,8 +2476,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>3</Input>
     <Output>0</Output>
-    <PosX>684</PosX>
-    <PosY>537</PosY>
+    <PosX>224</PosX>
+    <PosY>963</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -2763,6 +3198,3027 @@
     <WindowID>1</WindowID>
     <DcsID>296</DcsID>
   </Switches>
+  <Switches>
+    <ID>37</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>864</ClickabledataID>
+    <Name>SMC Master Arm Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>56</PosX>
+    <PosY>582</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>287</DcsID>
+  </Switches>
+  <Switches>
+    <ID>38</ID>
+    <Class>Button</Class>
+    <ClickabledataID>856</ClickabledataID>
+    <Name>SMC Select Station 1 Toggle</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>273</PosX>
+    <PosY>937</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>407</DcsID>
+  </Switches>
+  <Switches>
+    <ID>39</ID>
+    <Class>Button</Class>
+    <ClickabledataID>857</ClickabledataID>
+    <Name>SMC Select Station 2 Toggle</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>313</PosX>
+    <PosY>937</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>409</DcsID>
+  </Switches>
+  <Switches>
+    <ID>40</ID>
+    <Class>Button</Class>
+    <ClickabledataID>858</ClickabledataID>
+    <Name>SMC Select Station 3 Toggle</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>353</PosX>
+    <PosY>937</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>411</DcsID>
+  </Switches>
+  <Switches>
+    <ID>41</ID>
+    <Class>Button</Class>
+    <ClickabledataID>859</ClickabledataID>
+    <Name>SMC Select Station 4 Toggle</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>392</PosX>
+    <PosY>937</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>413</DcsID>
+  </Switches>
+  <Switches>
+    <ID>42</ID>
+    <Class>Button</Class>
+    <ClickabledataID>860</ClickabledataID>
+    <Name>SMC Select Station 5 Toggle</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>432</PosX>
+    <PosY>937</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>415</DcsID>
+  </Switches>
+  <Switches>
+    <ID>43</ID>
+    <Class>Button</Class>
+    <ClickabledataID>861</ClickabledataID>
+    <Name>SMC Select Station 6 Toggle</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>472</PosX>
+    <PosY>937</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>417</DcsID>
+  </Switches>
+  <Switches>
+    <ID>44</ID>
+    <Class>Button</Class>
+    <ClickabledataID>862</ClickabledataID>
+    <Name>SMC Select Station 7 Toggle</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>513</PosX>
+    <PosY>937</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>419</DcsID>
+  </Switches>
+  <Switches>
+    <ID>45</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>863</ClickabledataID>
+    <Name>SMC Ground IR Cool Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>558</PosX>
+    <PosY>875</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>420</DcsID>
+  </Switches>
+  <Switches>
+    <ID>46</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>854</ClickabledataID>
+    <Name>SMC Jettison Mode Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary_Jett.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>-1.0,-0.5,0.0,0.5,1.0</Input>
+    <Output>-90, -45, 0, 45, 90</Output>
+    <PosX>171</PosX>
+    <PosY>902</PosY>
+    <Size>75</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>404</DcsID>
+  </Switches>
+  <Switches>
+    <ID>47</ID>
+    <Class>Button</Class>
+    <ClickabledataID>855</ClickabledataID>
+    <Name>SMC Jettison Stores</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output> 0.0,1.0</Output>
+    <PosX>194</PosX>
+    <PosY>926</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>405</DcsID>
+  </Switches>
+  <Switches>
+    <ID>48</ID>
+    <Class>SwitchOn_Off_On</Class>
+    <ClickabledataID>846</ClickabledataID>
+    <Name>SMC Armament Mode Control</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>149</PosX>
+    <PosY>813</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>396</DcsID>
+  </Switches>
+  <Switches>
+    <ID>49</ID>
+    <Class>SwitchOn_Off_On</Class>
+    <ClickabledataID>847</ClickabledataID>
+    <Name>SMC Fuzing Control</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>226</PosX>
+    <PosY>813</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>397</DcsID>
+  </Switches>
+  <Switches>
+    <ID>50</ID>
+    <Class>SwitchOn_Off_On</Class>
+    <ClickabledataID>848</ClickabledataID>
+    <Name>SMC Quantity Selector (Tens)</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>269</PosX>
+    <PosY>813</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>398</DcsID>
+  </Switches>
+  <Switches>
+    <ID>51</ID>
+    <Class>SwitchOn_Off_On</Class>
+    <ClickabledataID>849</ClickabledataID>
+    <Name>SMC Quantity Selector (Units)</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>312</PosX>
+    <PosY>813</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>399</DcsID>
+  </Switches>
+  <Switches>
+    <ID>52</ID>
+    <Class>SwitchOn_Off_On</Class>
+    <ClickabledataID>850</ClickabledataID>
+    <Name>SMC Multiple Release Control</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>354</PosX>
+    <PosY>813</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>400</DcsID>
+  </Switches>
+  <Switches>
+    <ID>53</ID>
+    <Class>SwitchOn_Off_On</Class>
+    <ClickabledataID>851</ClickabledataID>
+    <Name>SMC Release Interval Control (Hundreds)</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>398</PosX>
+    <PosY>817</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>401</DcsID>
+  </Switches>
+  <Switches>
+    <ID>54</ID>
+    <Class>SwitchOn_Off_On</Class>
+    <ClickabledataID>852</ClickabledataID>
+    <Name>SMC Release Interval Control (Tens)</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>442</PosX>
+    <PosY>817</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>402</DcsID>
+  </Switches>
+  <Switches>
+    <ID>55</ID>
+    <Class>SwitchOn_Off_On</Class>
+    <ClickabledataID>853</ClickabledataID>
+    <Name>SMC Release Interval Control (Units)</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>484</PosX>
+    <PosY>817</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>403</DcsID>
+  </Switches>
+  <Switches>
+    <ID>56</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>845</ClickabledataID>
+    <Name>SMC Manual Release Control Knob</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary3a.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.333,0.666,1.0</Input>
+    <Output> 0, 45, 90, 135</Output>
+    <PosX>533</PosX>
+    <PosY>815</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>395</DcsID>
+  </Switches>
+  <Switches>
+    <ID>57</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>755</ClickabledataID>
+    <Name>HUD Symbology Reject Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>771</PosX>
+    <PosY>481</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>288</DcsID>
+  </Switches>
+  <Switches>
+    <ID>58</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>756</ClickabledataID>
+    <Name>HUD Off/Brightness Control</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>839</PosX>
+    <PosY>510</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>289</DcsID>
+  </Switches>
+  <Switches>
+    <ID>59</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>757</ClickabledataID>
+    <Name>HUD Display Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>910</PosX>
+    <PosY>481</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>290</DcsID>
+  </Switches>
+  <Switches>
+    <ID>60</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>758</ClickabledataID>
+    <Name>HUD Video Brightness Control</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>981</PosX>
+    <PosY>510</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>291</DcsID>
+  </Switches>
+  <Switches>
+    <ID>61</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>759</ClickabledataID>
+    <Name>HUD Video Contrast Control</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>1043</PosX>
+    <PosY>510</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>292</DcsID>
+  </Switches>
+  <Switches>
+    <ID>62</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>760</ClickabledataID>
+    <Name>HUD Altitude Selector Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1102</PosX>
+    <PosY>481</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>293</DcsID>
+  </Switches>
+  <Switches>
+    <ID>63</ID>
+    <Class>Button</Class>
+    <ClickabledataID>786</ClickabledataID>
+    <Name>ODU Option 1</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>366</PosX>
+    <PosY>43</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>250</DcsID>
+  </Switches>
+  <Switches>
+    <ID>64</ID>
+    <Class>Button</Class>
+    <ClickabledataID>787</ClickabledataID>
+    <Name>ODU Option 2</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>366</PosX>
+    <PosY>99</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>251</DcsID>
+  </Switches>
+  <Switches>
+    <ID>65</ID>
+    <Class>Button</Class>
+    <ClickabledataID>788</ClickabledataID>
+    <Name>ODU Option 3</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>366</PosX>
+    <PosY>156</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>252</DcsID>
+  </Switches>
+  <Switches>
+    <ID>66</ID>
+    <Class>Button</Class>
+    <ClickabledataID>789</ClickabledataID>
+    <Name>ODU Option 4</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>178</PosX>
+    <PosY>98</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>248</DcsID>
+  </Switches>
+  <Switches>
+    <ID>67</ID>
+    <Class>Button</Class>
+    <ClickabledataID>790</ClickabledataID>
+    <Name>ODU Option 5</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>179</PosX>
+    <PosY>157</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>249</DcsID>
+  </Switches>
+  <Switches>
+    <ID>68</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>793</ClickabledataID>
+    <Name>Fuel Totalizer Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary3b.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>-1.0,-0.666,-0.333,0.0,0.333,0.666,1.0</Input>
+    <Output>-90,-60,-30, 0, 30, 60, 90</Output>
+    <PosX>1790</PosX>
+    <PosY>868</PosY>
+    <Size>80</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>379</DcsID>
+  </Switches>
+  <Switches>
+    <ID>69</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>794</ClickabledataID>
+    <Name>Bingo Fuel Set Knob</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Knop4.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>1650</PosX>
+    <PosY>947</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>380</DcsID>
+  </Switches>
+  <Switches>
+    <ID>70</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>868</ClickabledataID>
+    <Name>RWR Power/Volume Button</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>1807</PosX>
+    <PosY>396</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>273</DcsID>
+  </Switches>
+  <Switches>
+    <ID>71</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>866</ClickabledataID>
+    <Name>EWS Decoy Dispenser Control</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.25,0.5,0.75,1.0</Input>
+    <Output> 0, 70, 130,190,270</Output>
+    <PosX>1810</PosX>
+    <PosY>505</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>274</DcsID>
+  </Switches>
+  <Switches>
+    <ID>72</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>867</ClickabledataID>
+    <Name>EWS Jammer Control</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.25,0.5,0.75,1.0</Input>
+    <Output> 0, 80, 130,180,270</Output>
+    <PosX>1815</PosX>
+    <PosY>611</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>275</DcsID>
+  </Switches>
+  <Switches>
+    <ID>73</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>886</ClickabledataID>
+    <Name>NAV Course Setting</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Knop4.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>802</PosX>
+    <PosY>609</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>364</DcsID>
+  </Switches>
+  <Switches>
+    <ID>74</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>887</ClickabledataID>
+    <Name>Barometric Pressure Calibration</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Knop4.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>1157</PosX>
+    <PosY>956</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>653</DcsID>
+  </Switches>
+  <Switches>
+    <ID>75</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>888</ClickabledataID>
+    <Name>Backup ADI Cage/Pitch Adjust Knob</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Knop4.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>-1.0,1.0,0.1</Input>
+    <Output>-90, 90</Output>
+    <PosX>1111</PosX>
+    <PosY>818</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>351</DcsID>
+  </Switches>
+  <Switches>
+    <ID>76</ID>
+    <Class>Button</Class>
+    <ClickabledataID>795</ClickabledataID>
+    <Name>MPCD Left Button 1</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>243</PosX>
+    <PosY>330</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>200</DcsID>
+  </Switches>
+  <Switches>
+    <ID>77</ID>
+    <Class>Button</Class>
+    <ClickabledataID>796</ClickabledataID>
+    <Name>MPCD Left Button 2</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>298</PosX>
+    <PosY>330</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>201</DcsID>
+  </Switches>
+  <Switches>
+    <ID>78</ID>
+    <Class>Button</Class>
+    <ClickabledataID>797</ClickabledataID>
+    <Name>MPCD Left Button 3</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>358</PosX>
+    <PosY>330</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>202</DcsID>
+  </Switches>
+  <Switches>
+    <ID>79</ID>
+    <Class>Button</Class>
+    <ClickabledataID>798</ClickabledataID>
+    <Name>MPCD Left Button 4</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>418</PosX>
+    <PosY>330</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>203</DcsID>
+  </Switches>
+  <Switches>
+    <ID>80</ID>
+    <Class>Button</Class>
+    <ClickabledataID>799</ClickabledataID>
+    <Name>MPCD Left Button 5</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>475</PosX>
+    <PosY>330</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>204</DcsID>
+  </Switches>
+  <Switches>
+    <ID>81</ID>
+    <Class>Button</Class>
+    <ClickabledataID>800</ClickabledataID>
+    <Name>MPCD Left Button 6</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>586</PosX>
+    <PosY>431</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>205</DcsID>
+  </Switches>
+  <Switches>
+    <ID>82</ID>
+    <Class>Button</Class>
+    <ClickabledataID>801</ClickabledataID>
+    <Name>MPCD Left Button 7</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>586</PosX>
+    <PosY>486</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>206</DcsID>
+  </Switches>
+  <Switches>
+    <ID>83</ID>
+    <Class>Button</Class>
+    <ClickabledataID>802</ClickabledataID>
+    <Name>MPCD Left Button 8</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>586</PosX>
+    <PosY>540</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>207</DcsID>
+  </Switches>
+  <Switches>
+    <ID>84</ID>
+    <Class>Button</Class>
+    <ClickabledataID>803</ClickabledataID>
+    <Name>MPCD Left Button 9</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>586</PosX>
+    <PosY>595</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>208</DcsID>
+  </Switches>
+  <Switches>
+    <ID>85</ID>
+    <Class>Button</Class>
+    <ClickabledataID>804</ClickabledataID>
+    <Name>MPCD Left Button 10</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>586</PosX>
+    <PosY>648</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>209</DcsID>
+  </Switches>
+  <Switches>
+    <ID>86</ID>
+    <Class>Button</Class>
+    <ClickabledataID>805</ClickabledataID>
+    <Name>MPCD Left Button 11</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>478</PosX>
+    <PosY>746</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>210</DcsID>
+  </Switches>
+  <Switches>
+    <ID>87</ID>
+    <Class>Button</Class>
+    <ClickabledataID>806</ClickabledataID>
+    <Name>MPCD Left Button 12</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>417</PosX>
+    <PosY>746</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>211</DcsID>
+  </Switches>
+  <Switches>
+    <ID>88</ID>
+    <Class>Button</Class>
+    <ClickabledataID>807</ClickabledataID>
+    <Name>MPCD Left Button 13</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>357</PosX>
+    <PosY>746</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>212</DcsID>
+  </Switches>
+  <Switches>
+    <ID>89</ID>
+    <Class>Button</Class>
+    <ClickabledataID>808</ClickabledataID>
+    <Name>MPCD Left Button 14</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>297</PosX>
+    <PosY>746</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>213</DcsID>
+  </Switches>
+  <Switches>
+    <ID>90</ID>
+    <Class>Button</Class>
+    <ClickabledataID>809</ClickabledataID>
+    <Name>MPCD Left Button 15</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>240</PosX>
+    <PosY>746</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>214</DcsID>
+  </Switches>
+  <Switches>
+    <ID>91</ID>
+    <Class>Button</Class>
+    <ClickabledataID>810</ClickabledataID>
+    <Name>MPCD Left Button 16</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>130</PosX>
+    <PosY>649</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>215</DcsID>
+  </Switches>
+  <Switches>
+    <ID>92</ID>
+    <Class>Button</Class>
+    <ClickabledataID>811</ClickabledataID>
+    <Name>MPCD Left Button 17</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>130</PosX>
+    <PosY>593</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>216</DcsID>
+  </Switches>
+  <Switches>
+    <ID>93</ID>
+    <Class>Button</Class>
+    <ClickabledataID>812</ClickabledataID>
+    <Name>MPCD Left Button 18</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>130</PosX>
+    <PosY>539</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>217</DcsID>
+  </Switches>
+  <Switches>
+    <ID>94</ID>
+    <Class>Button</Class>
+    <ClickabledataID>813</ClickabledataID>
+    <Name>MPCD Left Button 19</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>130</PosX>
+    <PosY>484</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>218</DcsID>
+  </Switches>
+  <Switches>
+    <ID>95</ID>
+    <Class>Button</Class>
+    <ClickabledataID>814</ClickabledataID>
+    <Name>MPCD Left Button 20</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>130</PosX>
+    <PosY>431</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>219</DcsID>
+  </Switches>
+  <Switches>
+    <ID>96</ID>
+    <Class>Button</Class>
+    <ClickabledataID>820</ClickabledataID>
+    <Name>MPCD Right Button 1</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1393</PosX>
+    <PosY>328</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>224</DcsID>
+  </Switches>
+  <Switches>
+    <ID>97</ID>
+    <Class>Button</Class>
+    <ClickabledataID>821</ClickabledataID>
+    <Name>MPCD Right Button 2</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1453</PosX>
+    <PosY>328</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>225</DcsID>
+  </Switches>
+  <Switches>
+    <ID>98</ID>
+    <Class>Button</Class>
+    <ClickabledataID>822</ClickabledataID>
+    <Name>MPCD Right Button 3</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1512</PosX>
+    <PosY>328</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>226</DcsID>
+  </Switches>
+  <Switches>
+    <ID>99</ID>
+    <Class>Button</Class>
+    <ClickabledataID>823</ClickabledataID>
+    <Name>MPCD Right Button 4</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1573</PosX>
+    <PosY>328</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>227</DcsID>
+  </Switches>
+  <Switches>
+    <ID>100</ID>
+    <Class>Button</Class>
+    <ClickabledataID>824</ClickabledataID>
+    <Name>MPCD Right Button 5</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1632</PosX>
+    <PosY>328</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>228</DcsID>
+  </Switches>
+  <Switches>
+    <ID>101</ID>
+    <Class>Button</Class>
+    <ClickabledataID>825</ClickabledataID>
+    <Name>MPCD Right Button 6</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1741</PosX>
+    <PosY>431</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>229</DcsID>
+  </Switches>
+  <Switches>
+    <ID>102</ID>
+    <Class>Button</Class>
+    <ClickabledataID>826</ClickabledataID>
+    <Name>MPCD Right Button 7</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1741</PosX>
+    <PosY>482</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>230</DcsID>
+  </Switches>
+  <Switches>
+    <ID>103</ID>
+    <Class>Button</Class>
+    <ClickabledataID>827</ClickabledataID>
+    <Name>MPCD Right Button 8</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1741</PosX>
+    <PosY>538</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>231</DcsID>
+  </Switches>
+  <Switches>
+    <ID>104</ID>
+    <Class>Button</Class>
+    <ClickabledataID>828</ClickabledataID>
+    <Name>MPCD Right Button 9</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1741</PosX>
+    <PosY>594</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>232</DcsID>
+  </Switches>
+  <Switches>
+    <ID>105</ID>
+    <Class>Button</Class>
+    <ClickabledataID>829</ClickabledataID>
+    <Name>MPCD Right Button 10</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1741</PosX>
+    <PosY>645</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>233</DcsID>
+  </Switches>
+  <Switches>
+    <ID>106</ID>
+    <Class>Button</Class>
+    <ClickabledataID>830</ClickabledataID>
+    <Name>MPCD Right Button 11</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1634</PosX>
+    <PosY>744</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>234</DcsID>
+  </Switches>
+  <Switches>
+    <ID>107</ID>
+    <Class>Button</Class>
+    <ClickabledataID>831</ClickabledataID>
+    <Name>MPCD Right Button 12</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1572</PosX>
+    <PosY>744</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>235</DcsID>
+  </Switches>
+  <Switches>
+    <ID>108</ID>
+    <Class>Button</Class>
+    <ClickabledataID>832</ClickabledataID>
+    <Name>MPCD Right Button 13</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1512</PosX>
+    <PosY>744</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>236</DcsID>
+  </Switches>
+  <Switches>
+    <ID>109</ID>
+    <Class>Button</Class>
+    <ClickabledataID>833</ClickabledataID>
+    <Name>MPCD Right Button 14</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1450</PosX>
+    <PosY>744</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>237</DcsID>
+  </Switches>
+  <Switches>
+    <ID>110</ID>
+    <Class>Button</Class>
+    <ClickabledataID>834</ClickabledataID>
+    <Name>MPCD Right Button 15</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1390</PosX>
+    <PosY>744</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>238</DcsID>
+  </Switches>
+  <Switches>
+    <ID>111</ID>
+    <Class>Button</Class>
+    <ClickabledataID>835</ClickabledataID>
+    <Name>MPCD Right Button 16</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1286</PosX>
+    <PosY>647</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>239</DcsID>
+  </Switches>
+  <Switches>
+    <ID>112</ID>
+    <Class>Button</Class>
+    <ClickabledataID>836</ClickabledataID>
+    <Name>MPCD Right Button 17</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1286</PosX>
+    <PosY>594</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>240</DcsID>
+  </Switches>
+  <Switches>
+    <ID>113</ID>
+    <Class>Button</Class>
+    <ClickabledataID>837</ClickabledataID>
+    <Name>MPCD Right Button 18</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1286</PosX>
+    <PosY>538</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>241</DcsID>
+  </Switches>
+  <Switches>
+    <ID>114</ID>
+    <Class>Button</Class>
+    <ClickabledataID>838</ClickabledataID>
+    <Name>MPCD Right Button 19</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1286</PosX>
+    <PosY>483</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>242</DcsID>
+  </Switches>
+  <Switches>
+    <ID>115</ID>
+    <Class>Button</Class>
+    <ClickabledataID>839</ClickabledataID>
+    <Name>MPCD Right Button 20</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1286</PosX>
+    <PosY>428</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>243</DcsID>
+  </Switches>
+  <Switches>
+    <ID>116</ID>
+    <Class>SwitchOn_Off_On</Class>
+    <ClickabledataID>817</ClickabledataID>
+    <Name>MPCD Left Display Gain</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_Rocker_Upper.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_Rocker_Mid.png</FilePictureOff>
+    <FilePicture2On>AV8BNA_MPCD_Rocker_Lower.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>132</PosX>
+    <PosY>708</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>222</DcsID>
+  </Switches>
+  <Switches>
+    <ID>117</ID>
+    <Class>SwitchOn_Off_On</Class>
+    <ClickabledataID>818</ClickabledataID>
+    <Name>MPCD Left Display Contrast</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_Rocker_Upper.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_Rocker_Mid.png</FilePictureOff>
+    <FilePicture2On>AV8BNA_MPCD_Rocker_Lower.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>589</PosX>
+    <PosY>708</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>223</DcsID>
+  </Switches>
+  <Switches>
+    <ID>118</ID>
+    <Class>SwitchOn_Off_On</Class>
+    <ClickabledataID>842</ClickabledataID>
+    <Name>MPCD Right Display Gain</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_Rocker_Upper.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_Rocker_Mid.png</FilePictureOff>
+    <FilePicture2On>AV8BNA_MPCD_Rocker_Lower.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>1288</PosX>
+    <PosY>706</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>246</DcsID>
+  </Switches>
+  <Switches>
+    <ID>119</ID>
+    <Class>SwitchOn_Off_On</Class>
+    <ClickabledataID>843</ClickabledataID>
+    <Name>MPCD Right Display Contrast</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_MPCD_Rocker_Upper.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_Rocker_Mid.png</FilePictureOff>
+    <FilePicture2On>AV8BNA_MPCD_Rocker_Lower.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>1746</PosX>
+    <PosY>703</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>247</DcsID>
+  </Switches>
+  <Switches>
+    <ID>120</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>819</ClickabledataID>
+    <Name>MPCD Left Off/Brightness Control</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0,360</Output>
+    <PosX>355</PosX>
+    <PosY>281</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>194</DcsID>
+  </Switches>
+  <Switches>
+    <ID>121</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>844</ClickabledataID>
+    <Name>MPCD Right Off/Brightness Control</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0,360</Output>
+    <PosX>1507</PosX>
+    <PosY>279</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>195</DcsID>
+  </Switches>
+  <Switches>
+    <ID>122</ID>
+    <Class>SwitchPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>Right Panel</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>flat_up2.png</FilePictureOn>
+    <FilePictureOff>flat_down2.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>4</Input>
+    <Output>0</Output>
+    <PosX>373</PosX>
+    <PosY>963</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
+  <Switches>
+    <ID>123</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>875</ClickabledataID>
+    <Name>Flaps Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>82</PosX>
+    <PosY>923</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>454</DcsID>
+  </Switches>
+  <Switches>
+    <ID>124</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>876</ClickabledataID>
+    <Name>Flaps Power Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>50</PosX>
+    <PosY>965</PosY>
+    <Size>105</Size>
+    <Rotate>-90</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>457</DcsID>
+  </Switches>
+  <Switches>
+    <ID>125</ID>
+    <Class>SwitchPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>Left Panel </Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>flat_up2.png</FilePictureOn>
+    <FilePictureOff>flat_down2.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>5</Input>
+    <Output>0</Output>
+    <PosX>176</PosX>
+    <PosY>963</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
+  <Switches>
+    <ID>126</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>899</ClickabledataID>
+    <Name>RPS/YAW Trim Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>114</PosX>
+    <PosY>213</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>471</DcsID>
+  </Switches>
+  <Switches>
+    <ID>127</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>900</ClickabledataID>
+    <Name>Trim Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>202</PosX>
+    <PosY>212</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>472</DcsID>
+  </Switches>
+  <Switches>
+    <ID>128</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>903</ClickabledataID>
+    <Name>Q Feel Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>44</PosX>
+    <PosY>355</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>475</DcsID>
+  </Switches>
+  <Switches>
+    <ID>129</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>902</ClickabledataID>
+    <Name>Alt Hold Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>161</PosX>
+    <PosY>355</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>476</DcsID>
+  </Switches>
+  <Switches>
+    <ID>130</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>904</ClickabledataID>
+    <Name>AFC Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>277</PosX>
+    <PosY>355</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>477</DcsID>
+  </Switches>
+  <Switches>
+    <ID>131</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>905</ClickabledataID>
+    <Name>SAS Yaw Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>44</PosX>
+    <PosY>447</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>478</DcsID>
+  </Switches>
+  <Switches>
+    <ID>132</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>906</ClickabledataID>
+    <Name>SAS Roll Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>161</PosX>
+    <PosY>446</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>479</DcsID>
+  </Switches>
+  <Switches>
+    <ID>133</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>907</ClickabledataID>
+    <Name>SAS Pitch Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>276</PosX>
+    <PosY>446</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>480</DcsID>
+  </Switches>
+  <Switches>
+    <ID>134</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>908</ClickabledataID>
+    <Name>Fuel Proportioner</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>79</PosX>
+    <PosY>574</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>504</DcsID>
+  </Switches>
+  <Switches>
+    <ID>135</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>909</ClickabledataID>
+    <Name>Fuel Pump L Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>165</PosX>
+    <PosY>574</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>505</DcsID>
+  </Switches>
+  <Switches>
+    <ID>136</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>910</ClickabledataID>
+    <Name>Fuel Pump R Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>249</PosX>
+    <PosY>574</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>506</DcsID>
+  </Switches>
+  <Switches>
+    <ID>137</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>911</ClickabledataID>
+    <Name>Air Refueling Probe Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>80</PosX>
+    <PosY>679</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>507</DcsID>
+  </Switches>
+  <Switches>
+    <ID>138</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>912</ClickabledataID>
+    <Name>Fuel Dump L Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>165</PosX>
+    <PosY>666</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>508</DcsID>
+  </Switches>
+  <Switches>
+    <ID>139</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>913</ClickabledataID>
+    <Name>Fuel Dump R Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>253</PosX>
+    <PosY>665</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>509</DcsID>
+  </Switches>
+  <Switches>
+    <ID>140</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>916</ClickabledataID>
+    <Name>Formation Lights Knob</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary3c.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>65</PosX>
+    <PosY>851</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>510</DcsID>
+  </Switches>
+  <Switches>
+    <ID>141</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>917</ClickabledataID>
+    <Name>Position Lights Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>168</PosX>
+    <PosY>830</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>511</DcsID>
+  </Switches>
+  <Switches>
+    <ID>142</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>918</ClickabledataID>
+    <Name>Anti-Collision Lights Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>230</PosX>
+    <PosY>830</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>512</DcsID>
+  </Switches>
+  <Switches>
+    <ID>143</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>919</ClickabledataID>
+    <Name>External Auxiliary Lights Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>290</PosX>
+    <PosY>830</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>513</DcsID>
+  </Switches>
+  <Switches>
+    <ID>144</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>931</ClickabledataID>
+    <Name>DC Test Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>133</PosX>
+    <PosY>162</PosY>
+    <Size>100</Size>
+    <Rotate>90</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>609</DcsID>
+  </Switches>
+  <Switches>
+    <ID>145</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>932</ClickabledataID>
+    <Name>APU Generator Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>72</PosX>
+    <PosY>237</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>610</DcsID>
+  </Switches>
+  <Switches>
+    <ID>146</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>933</ClickabledataID>
+    <Name>Engine Start Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>150</PosX>
+    <PosY>237</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>611</DcsID>
+  </Switches>
+  <Switches>
+    <ID>147</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>934</ClickabledataID>
+    <Name>Generator Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>231</PosX>
+    <PosY>242</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>612</DcsID>
+  </Switches>
+  <Switches>
+    <ID>148</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>935</ClickabledataID>
+    <Name>Battery Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>310</PosX>
+    <PosY>243</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>613</DcsID>
+  </Switches>
+  <Switches>
+    <ID>149</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>937</ClickabledataID>
+    <Name>V/UHF RSC Volume Knob</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary3c.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>74</PosX>
+    <PosY>364</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>614</DcsID>
+  </Switches>
+  <Switches>
+    <ID>150</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>938</ClickabledataID>
+    <Name>V/UHF RSC Chan/Freq Knob</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary3c.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>304</PosX>
+    <PosY>365</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>615</DcsID>
+  </Switches>
+  <Switches>
+    <ID>151</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>944</ClickabledataID>
+    <Name>ACNIP Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>190</PosX>
+    <PosY>518</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>621</DcsID>
+  </Switches>
+  <Switches>
+    <ID>152</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>945</ClickabledataID>
+    <Name>KY-1 Cipher Type Selector Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>246</PosX>
+    <PosY>517</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>622</DcsID>
+  </Switches>
+  <Switches>
+    <ID>153</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>946</ClickabledataID>
+    <Name>KY-2 Cipher Type Selector Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>302</PosX>
+    <PosY>517</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>623</DcsID>
+  </Switches>
+  <Switches>
+    <ID>154</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>947</ClickabledataID>
+    <Name>KY-1 Code/Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>138</PosX>
+    <PosY>609</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>624</DcsID>
+  </Switches>
+  <Switches>
+    <ID>155</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>948</ClickabledataID>
+    <Name>KY-2 Code/Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>82</PosX>
+    <PosY>609</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>625</DcsID>
+  </Switches>
+  <Switches>
+    <ID>156</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>949</ClickabledataID>
+    <Name>ACNIP Radio Selector Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>189</PosX>
+    <PosY>608</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>626</DcsID>
+  </Switches>
+  <Switches>
+    <ID>157</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>950</ClickabledataID>
+    <Name>KY-58 Codes Clear Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>245</PosX>
+    <PosY>609</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>627</DcsID>
+  </Switches>
+  <Switches>
+    <ID>158</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>951</ClickabledataID>
+    <Name>KY-58 Remote Codes Load Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>302</PosX>
+    <PosY>609</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>628</DcsID>
+  </Switches>
+  <Switches>
+    <ID>159</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>952</ClickabledataID>
+    <Name>ICS Aux Volume Knob</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary3c.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>112</PosX>
+    <PosY>716</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>629</DcsID>
+  </Switches>
+  <Switches>
+    <ID>160</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>953</ClickabledataID>
+    <Name>ICS Ground Volume Knob</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary3c.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>112</PosX>
+    <PosY>764</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>630</DcsID>
+  </Switches>
+  <Switches>
+    <ID>161</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>954</ClickabledataID>
+    <Name>ICS Mic Operational Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>189</PosX>
+    <PosY>701</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>631</DcsID>
+  </Switches>
+  <Switches>
+    <ID>162</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>956</ClickabledataID>
+    <Name>IFF Operational Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>245</PosX>
+    <PosY>700</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>632</DcsID>
+  </Switches>
+  <Switches>
+    <ID>163</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>957</ClickabledataID>
+    <Name>IFF Crypto Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>302</PosX>
+    <PosY>701</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>633</DcsID>
+  </Switches>
+  <Switches>
+    <ID>164</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>958</ClickabledataID>
+    <Name>Compass Light/Test Lights</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>4</PosX>
+    <PosY>834</PosY>
+    <Size>100</Size>
+    <Rotate>180</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>634</DcsID>
+  </Switches>
+  <Switches>
+    <ID>165</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>959</ClickabledataID>
+    <Name>Instruments Lights</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary3c.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>152</PosX>
+    <PosY>856</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>635</DcsID>
+  </Switches>
+  <Switches>
+    <ID>166</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>960</ClickabledataID>
+    <Name>Console Lights</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary3c.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>273</PosX>
+    <PosY>856</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>636</DcsID>
+  </Switches>
+  <Switches>
+    <ID>167</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>961</ClickabledataID>
+    <Name>Flood Lights</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary3c.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>127</PosX>
+    <PosY>967</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>637</DcsID>
+  </Switches>
+  <Switches>
+    <ID>168</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>962</ClickabledataID>
+    <Name>Annunciator Lights</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary3c.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>274</PosX>
+    <PosY>974</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>638</DcsID>
+  </Switches>
+  <Switches>
+    <ID>169</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>880</ClickabledataID>
+    <Name>H2O Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>162</PosX>
+    <PosY>18</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>449</DcsID>
+  </Switches>
+  <Switches>
+    <ID>170</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>871</ClickabledataID>
+    <Name>Anti-Skid Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>226</PosX>
+    <PosY>18</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>459</DcsID>
+  </Switches>
+  <Switches>
+    <ID>171</ID>
+    <Class>SwitchPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>Miscelaneous Switch Panel</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>flat_up2.png</FilePictureOn>
+    <FilePictureOff>flat_down2.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>6</Input>
+    <Output>0</Output>
+    <PosX>274</PosX>
+    <PosY>963</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
+  <Switches>
+    <ID>172</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>890</ClickabledataID>
+    <Name>Video Recorder System Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>204</PosX>
+    <PosY>11</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>422</DcsID>
+  </Switches>
+  <Switches>
+    <ID>173</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>891</ClickabledataID>
+    <Name>Video Recorder System Display Selector Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>267</PosX>
+    <PosY>11</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>423</DcsID>
+  </Switches>
+  <Switches>
+    <ID>174</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>892</ClickabledataID>
+    <Name>DMT Toggle On/Off</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>204</PosX>
+    <PosY>108</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>424</DcsID>
+  </Switches>
+  <Switches>
+    <ID>175</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>893</ClickabledataID>
+    <Name>Dual Processor Mode Selector Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>266</PosX>
+    <PosY>109</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>425</DcsID>
+  </Switches>
+  <Switches>
+    <ID>176</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>894</ClickabledataID>
+    <Name>Probe Heat Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>204</PosX>
+    <PosY>213</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>426</DcsID>
+  </Switches>
+  <Switches>
+    <ID>177</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>895</ClickabledataID>
+    <Name>Mission Computer Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>266</PosX>
+    <PosY>213</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>427</DcsID>
+  </Switches>
+  <Switches>
+    <ID>178</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>898</ClickabledataID>
+    <Name>INS Mode Knob</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_Rotary3b.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7</Input>
+    <Output> 0, 45, 90, 135, 180, 225, 270, 315</Output>
+    <PosX>75</PosX>
+    <PosY>179</PosY>
+    <Size>85</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>421</DcsID>
+  </Switches>
+  <Switches>
+    <ID>179</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>896</ClickabledataID>
+    <Name>FLIR Power Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>74</PosX>
+    <PosY>35</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>429</DcsID>
+  </Switches>
+  <Switches>
+    <ID>180</ID>
+    <Class>Button</Class>
+    <ClickabledataID>865</ClickabledataID>
+    <Name>EWS Launch Flare Salvo</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>AV8BNA_FLR_SAL_On.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_FLR_SAL_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>58</PosX>
+    <PosY>504</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>286</DcsID>
+  </Switches>
   <Accessories>
     <ID>1</ID>
     <Class>Label</Class>
@@ -2775,13 +6231,181 @@
     <Active>true</Active>
     <WindowID>1</WindowID>
   </Accessories>
+  <Accessories>
+    <ID>2</ID>
+    <Class>Label</Class>
+    <Name>Flaps</Name>
+    <FilePictureOn>AV8BNA_Flaps.png</FilePictureOn>
+    <PosX>19</PosX>
+    <PosY>913</PosY>
+    <Size>115</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>3</ID>
+    <Class>Label</Class>
+    <Name>GEAR</Name>
+    <FilePictureOn>AV8BNA_Gear.png</FilePictureOn>
+    <PosX>-8</PosX>
+    <PosY>691</PosY>
+    <Size>135</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>4</ID>
+    <Class>Label</Class>
+    <Name>Brake</Name>
+    <FilePictureOn>AV8BNA_Brake.png</FilePictureOn>
+    <PosX>15</PosX>
+    <PosY>742</PosY>
+    <Size>180</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>2</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>5</ID>
+    <Class>Label</Class>
+    <Name>Right Panel Elec.</Name>
+    <FilePictureOn>AV8BNA_Elec_Panel.png</FilePictureOn>
+    <PosX>23</PosX>
+    <PosY>118</PosY>
+    <Size>375</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>4</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>6</ID>
+    <Class>Label</Class>
+    <Name>Left Panel TRIM</Name>
+    <FilePictureOn>AV8BNA_Trim.png</FilePictureOn>
+    <PosX>2</PosX>
+    <PosY>97</PosY>
+    <Size>370</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>5</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>7</ID>
+    <Class>Label</Class>
+    <Name>Left Panel SAAS</Name>
+    <FilePictureOn>AV8BNA_SAAHS Kopie.png</FilePictureOn>
+    <PosX>2</PosX>
+    <PosY>340</PosY>
+    <Size>370</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>5</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>8</ID>
+    <Class>Label</Class>
+    <Name>Left Panel Fuel</Name>
+    <FilePictureOn>AV8BNA_FUEL Kopie.png</FilePictureOn>
+    <PosX>1</PosX>
+    <PosY>564</PosY>
+    <Size>370</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>5</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>9</ID>
+    <Class>Label</Class>
+    <Name>Left Panel Lights </Name>
+    <FilePictureOn>Av8BNA_EXTLT.png</FilePictureOn>
+    <PosX>1</PosX>
+    <PosY>794</PosY>
+    <Size>370</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>5</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>10</ID>
+    <Class>Label</Class>
+    <Name>Right Panel VHF</Name>
+    <FilePictureOn>AV8BNA_VHF_Panel.png</FilePictureOn>
+    <PosX>23</PosX>
+    <PosY>346</PosY>
+    <Size>375</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>4</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>11</ID>
+    <Class>Label</Class>
+    <Name>Right Panel ACNIP</Name>
+    <FilePictureOn>AV8BNA_ACNIP.png</FilePictureOn>
+    <PosX>23</PosX>
+    <PosY>491</PosY>
+    <Size>375</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>4</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>12</ID>
+    <Class>Label</Class>
+    <Name>Right Panel Inst. Lt.</Name>
+    <FilePictureOn>AV8BNA_INTR_LT.png</FilePictureOn>
+    <PosX>23</PosX>
+    <PosY>815</PosY>
+    <Size>375</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>4</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>13</ID>
+    <Class>Label</Class>
+    <Name>Left Panel Antiskid</Name>
+    <FilePictureOn>AV8BNA_Antiskid.png</FilePictureOn>
+    <PosX>158</PosX>
+    <PosY>19</PosY>
+    <Size>120</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>5</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>14</ID>
+    <Class>Label</Class>
+    <Name>Stribes</Name>
+    <FilePictureOn>AV8BNA_Stribes.png</FilePictureOn>
+    <PosX>180</PosX>
+    <PosY>1012</PosY>
+    <Size>240</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>15</ID>
+    <Class>Label</Class>
+    <Name>Miscelaneous Switch Panel</Name>
+    <FilePictureOn>AV8BNA_Misc_Panel.png</FilePictureOn>
+    <PosX>0</PosX>
+    <PosY>0</PosY>
+    <Size>340</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>6</WindowID>
+  </Accessories>
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
   </Parameter>
   <Window>
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
-    <PosX>1920</PosX>
+    <PosX>0</PosX>
     <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
@@ -2793,9 +6417,9 @@
   <Window>
     <WindowID>2</WindowID>
     <Name>Annuciator Panel</Name>
-    <PosX>1300</PosX>
-    <PosY>40</PosY>
-    <Height>713</Height>
+    <PosX>1520</PosX>
+    <PosY>0</PosY>
+    <Height>1055</Height>
     <Width>400</Width>
     <Background>AV8BNA_AnnuciatorPanel.png</Background>
     <BackgroundNight>-</BackgroundNight>
@@ -2803,12 +6427,45 @@
   </Window>
   <Window>
     <WindowID>3</WindowID>
-    <Name>Instruments Panel</Name>
-    <PosX>790</PosX>
-    <PosY>0</PosY>
-    <Height>600</Height>
-    <Width>400</Width>
+    <Name>Watch Panel</Name>
+    <PosX>684</PosX>
+    <PosY>897</PosY>
+    <Height>200</Height>
+    <Width>200</Width>
     <Background>AV8BNA_InstrumentsPanel.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
+  </Window>
+  <Window>
+    <WindowID>4</WindowID>
+    <Name>Right Panel</Name>
+    <PosX>1520</PosX>
+    <PosY>0</PosY>
+    <Height>1080</Height>
+    <Width>400</Width>
+    <Background>AV8BNA_Elec_Background.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
+  </Window>
+  <Window>
+    <WindowID>5</WindowID>
+    <Name>Left Panel</Name>
+    <PosX>0</PosX>
+    <PosY>0</PosY>
+    <Height>980</Height>
+    <Width>400</Width>
+    <Background>AV8BNA_Elec_Background.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
+  </Window>
+  <Window>
+    <WindowID>6</WindowID>
+    <Name>Miscelaneous Switch Panel</Name>
+    <PosX>770</PosX>
+    <PosY>750</PosY>
+    <Height>330</Height>
+    <Width>360</Width>
+    <Background>AV8BNA_Elec_Background.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
   </Window>

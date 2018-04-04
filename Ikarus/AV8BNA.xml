@@ -1792,7 +1792,7 @@
     <ButtonID>509</ButtonID>
     <Discription>Fuel Dump R Switch</Discription>
     <Type>Switch</Type>
-    <DcsID>508</DcsID>
+    <DcsID>509</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>914</ID>
