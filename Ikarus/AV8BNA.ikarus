@@ -95,9 +95,9 @@
     <IDInst>8</IDInst>
     <Name>ACCU</Name>
     <Class>AV8BNA_ACCU</Class>
-    <PosX>200</PosX>
-    <PosY>897</PosY>
-    <Size>150</Size>
+    <PosX>205</PosX>
+    <PosY>853</PosY>
+    <Size>135</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -121,9 +121,9 @@
     <IDInst>10</IDInst>
     <Name>Cabin Pressure</Name>
     <Class>AV8BNA_Cabin</Class>
-    <PosX>196</PosX>
-    <PosY>742</PosY>
-    <Size>155</Size>
+    <PosX>198</PosX>
+    <PosY>700</PosY>
+    <Size>150</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -3378,9 +3378,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>558</PosX>
-    <PosY>875</PosY>
-    <Size>45</Size>
+    <PosX>560</PosX>
+    <PosY>883</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3441,9 +3441,9 @@
     <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>149</PosX>
-    <PosY>813</PosY>
-    <Size>45</Size>
+    <PosX>152</PosX>
+    <PosY>820</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3462,9 +3462,9 @@
     <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>226</PosX>
-    <PosY>813</PosY>
-    <Size>45</Size>
+    <PosX>228</PosX>
+    <PosY>819</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3483,9 +3483,9 @@
     <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>269</PosX>
-    <PosY>813</PosY>
-    <Size>45</Size>
+    <PosX>272</PosX>
+    <PosY>819</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3504,9 +3504,9 @@
     <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>312</PosX>
-    <PosY>813</PosY>
-    <Size>45</Size>
+    <PosX>314</PosX>
+    <PosY>819</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3525,9 +3525,9 @@
     <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>354</PosX>
-    <PosY>813</PosY>
-    <Size>45</Size>
+    <PosX>357</PosX>
+    <PosY>819</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3546,9 +3546,9 @@
     <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>398</PosX>
-    <PosY>817</PosY>
-    <Size>45</Size>
+    <PosX>401</PosX>
+    <PosY>823</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3567,9 +3567,9 @@
     <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>442</PosX>
-    <PosY>817</PosY>
-    <Size>45</Size>
+    <PosX>444</PosX>
+    <PosY>823</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3588,9 +3588,9 @@
     <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>484</PosX>
-    <PosY>817</PosY>
-    <Size>45</Size>
+    <PosX>486</PosX>
+    <PosY>823</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -5036,8 +5036,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>50</PosX>
-    <PosY>965</PosY>
+    <PosX>48</PosX>
+    <PosY>966</PosY>
     <Size>105</Size>
     <Rotate>-90</Rotate>
     <Event>false</Event>
@@ -5177,14 +5177,14 @@
     <Name>SAS Yaw Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>44</PosX>
-    <PosY>447</PosY>
-    <Size>40</Size>
+    <PosX>42</PosX>
+    <PosY>442</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -5198,14 +5198,14 @@
     <Name>SAS Roll Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>161</PosX>
-    <PosY>446</PosY>
-    <Size>40</Size>
+    <PosX>158</PosX>
+    <PosY>441</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -5219,14 +5219,14 @@
     <Name>SAS Pitch Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>276</PosX>
-    <PosY>446</PosY>
-    <Size>40</Size>
+    <PosX>273</PosX>
+    <PosY>442</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -5303,14 +5303,14 @@
     <Name>Air Refueling Probe Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>80</PosX>
-    <PosY>679</PosY>
-    <Size>40</Size>
+    <PosX>78</PosX>
+    <PosY>672</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -5324,14 +5324,14 @@
     <Name>Fuel Dump L Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>165</PosX>
-    <PosY>666</PosY>
-    <Size>40</Size>
+    <PosX>163</PosX>
+    <PosY>660</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -5345,14 +5345,14 @@
     <Name>Fuel Dump R Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>253</PosX>
-    <PosY>665</PosY>
-    <Size>40</Size>
+    <PosX>251</PosX>
+    <PosY>659</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -5471,14 +5471,14 @@
     <Name>APU Generator Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>72</PosX>
-    <PosY>237</PosY>
-    <Size>40</Size>
+    <PosX>67</PosX>
+    <PosY>224</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -5492,14 +5492,14 @@
     <Name>Engine Start Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>150</PosX>
-    <PosY>237</PosY>
-    <Size>40</Size>
+    <PosX>146</PosX>
+    <PosY>225</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -5534,14 +5534,14 @@
     <Name>Battery Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>310</PosX>
-    <PosY>243</PosY>
-    <Size>40</Size>
+    <PosX>306</PosX>
+    <PosY>231</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -5618,14 +5618,14 @@
     <Name>KY-1 Cipher Type Selector Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>246</PosX>
-    <PosY>517</PosY>
-    <Size>40</Size>
+    <PosX>241</PosX>
+    <PosY>503</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -5639,14 +5639,14 @@
     <Name>KY-2 Cipher Type Selector Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>302</PosX>
-    <PosY>517</PosY>
-    <Size>40</Size>
+    <PosX>297</PosX>
+    <PosY>503</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -5665,7 +5665,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>138</PosX>
+    <PosX>81</PosX>
     <PosY>609</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
@@ -5686,8 +5686,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>82</PosX>
-    <PosY>609</PosY>
+    <PosX>137</PosX>
+    <PosY>607</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5723,8 +5723,8 @@
     <Name>KY-58 Codes Clear Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
@@ -5744,9 +5744,9 @@
     <Name>KY-58 Remote Codes Load Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>switch_up2.png</FilePictureOn>
-    <FilePictureOff>switch_mid2.png</FilePictureOff>
-    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_cnt2.png</FilePictureOff>
+    <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
     <PosX>302</PosX>
@@ -5828,8 +5828,8 @@
     <Name>IFF Operational Mode Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
@@ -5849,9 +5849,9 @@
     <Name>IFF Crypto Mode Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>switch_up2.png</FilePictureOn>
-    <FilePictureOff>switch_mid2.png</FilePictureOff>
-    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_cnt2.png</FilePictureOff>
+    <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
     <PosX>302</PosX>
@@ -5981,7 +5981,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>162</PosX>
-    <PosY>18</PosY>
+    <PosY>17</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6219,6 +6219,27 @@
     <WindowID>1</WindowID>
     <DcsID>286</DcsID>
   </Switches>
+  <Switches>
+    <ID>181</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>988</ClickabledataID>
+    <Name>Manual Fuel Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>13</PosX>
+    <PosY>624</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>484</DcsID>
+  </Switches>
   <Accessories>
     <ID>1</ID>
     <Class>Label</Class>
@@ -6295,7 +6316,7 @@
     <ID>7</ID>
     <Class>Label</Class>
     <Name>Left Panel SAAS</Name>
-    <FilePictureOn>AV8BNA_SAAHS Kopie.png</FilePictureOn>
+    <FilePictureOn>AV8BNA_SAAHS.png</FilePictureOn>
     <PosX>2</PosX>
     <PosY>340</PosY>
     <Size>370</Size>
@@ -6307,7 +6328,7 @@
     <ID>8</ID>
     <Class>Label</Class>
     <Name>Left Panel Fuel</Name>
-    <FilePictureOn>AV8BNA_FUEL Kopie.png</FilePictureOn>
+    <FilePictureOn>AV8BNA_FUEL.png</FilePictureOn>
     <PosX>1</PosX>
     <PosY>564</PosY>
     <Size>370</Size>
@@ -6380,8 +6401,8 @@
     <Class>Label</Class>
     <Name>Stribes</Name>
     <FilePictureOn>AV8BNA_Stribes.png</FilePictureOn>
-    <PosX>180</PosX>
-    <PosY>1012</PosY>
+    <PosX>175</PosX>
+    <PosY>965</PosY>
     <Size>240</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
@@ -6417,9 +6438,9 @@
   <Window>
     <WindowID>2</WindowID>
     <Name>Annuciator Panel</Name>
-    <PosX>1520</PosX>
+    <PosX>1470</PosX>
     <PosY>0</PosY>
-    <Height>1055</Height>
+    <Height>1000</Height>
     <Width>400</Width>
     <Background>AV8BNA_AnnuciatorPanel.png</Background>
     <BackgroundNight>-</BackgroundNight>

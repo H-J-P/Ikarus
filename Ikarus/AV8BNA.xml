@@ -1573,18 +1573,18 @@
   <Clickabledata>
     <ID>882</ID>
     <DeviceID>11</DeviceID>
-    <ButtonID>282</ButtonID>
+    <ButtonID>1121</ButtonID>
     <Discription>Stopwatch Start/Stop</Discription>
     <Type>Switch</Type>
-    <DcsID>282</DcsID>
+    <DcsID>1121</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>883</ID>
     <DeviceID>11</DeviceID>
-    <ButtonID>284</ButtonID>
+    <ButtonID>1122</ButtonID>
     <Discription>Stopwatch Lap/Reset</Discription>
     <Type>Switch</Type>
-    <DcsID>284</DcsID>
+    <DcsID>1122</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>884</ID>
@@ -2345,6 +2345,14 @@
     <Discription>UFC Button -</Discription>
     <Type>Switch</Type>
     <DcsID>313</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>988</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>484</ButtonID>
+    <Discription>Manual Fuel Switch</Discription>
+    <Type>Switch</Type>
+    <DcsID>484</DcsID>
   </Clickabledata>
   <Devices>
     <DeviceID>1</DeviceID>
