@@ -473,7 +473,7 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
-    <Output>0,310</Output>
+    <Output>-10,310</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -489,7 +489,7 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
-    <Output>0,310</Output>
+    <Output>-10,310</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -4024,13 +4024,13 @@
     <Name>MPCD Left Button 1</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>243</PosX>
-    <PosY>330</PosY>
+    <PosX>130</PosX>
+    <PosY>649</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4045,13 +4045,13 @@
     <Name>MPCD Left Button 2</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>298</PosX>
-    <PosY>330</PosY>
+    <PosX>130</PosX>
+    <PosY>594</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4066,13 +4066,13 @@
     <Name>MPCD Left Button 3</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>358</PosX>
-    <PosY>330</PosY>
+    <PosX>130</PosX>
+    <PosY>541</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4087,13 +4087,13 @@
     <Name>MPCD Left Button 4</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>418</PosX>
-    <PosY>330</PosY>
+    <PosX>130</PosX>
+    <PosY>486</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4108,13 +4108,13 @@
     <Name>MPCD Left Button 5</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>475</PosX>
-    <PosY>330</PosY>
+    <PosX>130</PosX>
+    <PosY>430</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4129,13 +4129,13 @@
     <Name>MPCD Left Button 6</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>586</PosX>
-    <PosY>431</PosY>
+    <PosX>241</PosX>
+    <PosY>330</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4150,13 +4150,13 @@
     <Name>MPCD Left Button 7</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>586</PosX>
-    <PosY>486</PosY>
+    <PosX>295</PosX>
+    <PosY>330</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4171,13 +4171,13 @@
     <Name>MPCD Left Button 8</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>586</PosX>
-    <PosY>540</PosY>
+    <PosX>353</PosX>
+    <PosY>330</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4192,13 +4192,13 @@
     <Name>MPCD Left Button 9</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>586</PosX>
-    <PosY>595</PosY>
+    <PosX>417</PosX>
+    <PosY>330</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4213,13 +4213,13 @@
     <Name>MPCD Left Button 10</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>586</PosX>
-    <PosY>648</PosY>
+    <PosX>482</PosX>
+    <PosY>330</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4234,13 +4234,13 @@
     <Name>MPCD Left Button 11</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>478</PosX>
-    <PosY>746</PosY>
+    <PosX>585</PosX>
+    <PosY>430</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4255,13 +4255,13 @@
     <Name>MPCD Left Button 12</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>417</PosX>
-    <PosY>746</PosY>
+    <PosX>585</PosX>
+    <PosY>487</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4276,13 +4276,13 @@
     <Name>MPCD Left Button 13</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>357</PosX>
-    <PosY>746</PosY>
+    <PosX>585</PosX>
+    <PosY>541</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4297,13 +4297,13 @@
     <Name>MPCD Left Button 14</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>297</PosX>
-    <PosY>746</PosY>
+    <PosX>585</PosX>
+    <PosY>596</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4318,13 +4318,13 @@
     <Name>MPCD Left Button 15</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>240</PosX>
-    <PosY>746</PosY>
+    <PosX>585</PosX>
+    <PosY>650</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4339,13 +4339,13 @@
     <Name>MPCD Left Button 16</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>130</PosX>
-    <PosY>649</PosY>
+    <PosX>479</PosX>
+    <PosY>747</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4360,13 +4360,13 @@
     <Name>MPCD Left Button 17</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>130</PosX>
-    <PosY>593</PosY>
+    <PosX>419</PosX>
+    <PosY>747</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4381,13 +4381,13 @@
     <Name>MPCD Left Button 18</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>130</PosX>
-    <PosY>539</PosY>
+    <PosX>358</PosX>
+    <PosY>747</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4402,13 +4402,13 @@
     <Name>MPCD Left Button 19</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>130</PosX>
-    <PosY>484</PosY>
+    <PosX>298</PosX>
+    <PosY>747</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4423,13 +4423,13 @@
     <Name>MPCD Left Button 20</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>130</PosX>
-    <PosY>431</PosY>
+    <PosX>237</PosX>
+    <PosY>747</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4444,13 +4444,13 @@
     <Name>MPCD Right Button 1</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1393</PosX>
-    <PosY>328</PosY>
+    <PosX>1286</PosX>
+    <PosY>647</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4465,13 +4465,13 @@
     <Name>MPCD Right Button 2</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1453</PosX>
-    <PosY>328</PosY>
+    <PosX>1286</PosX>
+    <PosY>593</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4486,13 +4486,13 @@
     <Name>MPCD Right Button 3</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1512</PosX>
-    <PosY>328</PosY>
+    <PosX>1286</PosX>
+    <PosY>536</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4507,13 +4507,13 @@
     <Name>MPCD Right Button 4</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1573</PosX>
-    <PosY>328</PosY>
+    <PosX>1286</PosX>
+    <PosY>485</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4528,13 +4528,13 @@
     <Name>MPCD Right Button 5</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1632</PosX>
-    <PosY>328</PosY>
+    <PosX>1286</PosX>
+    <PosY>430</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4549,13 +4549,13 @@
     <Name>MPCD Right Button 6</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1741</PosX>
-    <PosY>431</PosY>
+    <PosX>1391</PosX>
+    <PosY>327</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4570,13 +4570,13 @@
     <Name>MPCD Right Button 7</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1741</PosX>
-    <PosY>482</PosY>
+    <PosX>1456</PosX>
+    <PosY>327</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4591,13 +4591,13 @@
     <Name>MPCD Right Button 8</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1741</PosX>
-    <PosY>538</PosY>
+    <PosX>1515</PosX>
+    <PosY>327</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4612,13 +4612,13 @@
     <Name>MPCD Right Button 9</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1741</PosX>
-    <PosY>594</PosY>
+    <PosX>1572</PosX>
+    <PosY>327</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4633,13 +4633,13 @@
     <Name>MPCD Right Button 10</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1741</PosX>
-    <PosY>645</PosY>
+    <PosX>1635</PosX>
+    <PosY>327</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4654,13 +4654,13 @@
     <Name>MPCD Right Button 11</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1634</PosX>
-    <PosY>744</PosY>
+    <PosX>1740</PosX>
+    <PosY>429</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4675,13 +4675,13 @@
     <Name>MPCD Right Button 12</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1572</PosX>
-    <PosY>744</PosY>
+    <PosX>1740</PosX>
+    <PosY>483</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4696,13 +4696,13 @@
     <Name>MPCD Right Button 13</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1512</PosX>
-    <PosY>744</PosY>
+    <PosX>1740</PosX>
+    <PosY>539</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4717,13 +4717,13 @@
     <Name>MPCD Right Button 14</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1450</PosX>
-    <PosY>744</PosY>
+    <PosX>1740</PosX>
+    <PosY>593</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4738,13 +4738,13 @@
     <Name>MPCD Right Button 15</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1390</PosX>
-    <PosY>744</PosY>
+    <PosX>1740</PosX>
+    <PosY>647</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4759,13 +4759,13 @@
     <Name>MPCD Right Button 16</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1286</PosX>
-    <PosY>647</PosY>
+    <PosX>1633</PosX>
+    <PosY>743</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4780,13 +4780,13 @@
     <Name>MPCD Right Button 17</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1286</PosX>
-    <PosY>594</PosY>
+    <PosX>1574</PosX>
+    <PosY>743</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4801,13 +4801,13 @@
     <Name>MPCD Right Button 18</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1286</PosX>
-    <PosY>538</PosY>
+    <PosX>1513</PosX>
+    <PosY>743</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4822,13 +4822,13 @@
     <Name>MPCD Right Button 19</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1286</PosX>
-    <PosY>483</PosY>
+    <PosX>1452</PosX>
+    <PosY>743</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4843,13 +4843,13 @@
     <Name>MPCD Right Button 20</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_MPCD_W_ButtonOn.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_MPCD_W_ButtonOff.png</FilePictureOff>
+    <FilePictureOn>AV8BNA_MPCD_S_ButtonOn.png</FilePictureOn>
+    <FilePictureOff>AV8BNA_MPCD_S_ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1286</PosX>
-    <PosY>428</PosY>
+    <PosX>1392</PosX>
+    <PosY>743</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
