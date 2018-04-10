@@ -416,6 +416,19 @@
     <Reactivate>false</Reactivate>
     <WindowID>2</WindowID>
   </Instruments>
+  <Instruments>
+    <IDInst>33</IDInst>
+    <Name>Compass</Name>
+    <Class>US_Compass</Class>
+    <PosX>20</PosX>
+    <PosY>109</PosY>
+    <Size>115</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -1179,6 +1192,54 @@
     <Input>ABF9AB</Input>
     <Output>3</Output>
     <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>33</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Heading</Name>
+    <Arg_number>753</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>-180,180</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>33</IDInst>
+    <IDFct>2</IDFct>
+    <Name>Pitch</Name>
+    <Arg_number>754</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>-180,180</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>33</IDInst>
+    <IDFct>3</IDFct>
+    <Name>Bank</Name>
+    <Arg_number>755</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>-180,180</Output>
+    <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
     <In />

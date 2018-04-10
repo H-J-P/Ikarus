@@ -1163,6 +1163,9 @@
     <Classname>US_ADI_Sphere</Classname>
   </Classnames>
   <Classnames>
+    <Classname>US_ADI_Sphere2</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>US_ADIstby</Classname>
   </Classnames>
   <Classnames>
@@ -1173,6 +1176,9 @@
   </Classnames>
   <Classnames>
     <Classname>US_Clock</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>US_Compass</Classname>
   </Classnames>
   <Classnames>
     <Classname>US_HSI</Classname>
