@@ -705,7 +705,7 @@
     <IDInst>6</IDInst>
     <IDFct>2</IDFct>
     <Name>Turn Ball</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>362</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -721,7 +721,7 @@
     <IDInst>6</IDInst>
     <IDFct>3</IDFct>
     <Name>Turn Flag</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>361</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1205,8 +1205,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>-180,180</Output>
+    <Input>0.00, 0.25, 0.50, 0.50, 0.75, 1.00</Input>
+    <Output> 0.0,   72,  153, -153,  -72,  0.0</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1222,7 +1222,7 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
-    <Output>-180,180</Output>
+    <Output> 0.0,   90</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1238,7 +1238,7 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
-    <Output>-180,180</Output>
+    <Output> 0.0,   90</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
