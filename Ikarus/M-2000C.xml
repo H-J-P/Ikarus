@@ -163,7 +163,7 @@
   <Clickabledata>
     <ID>21</ID>
     <DeviceID>6</DeviceID>
-    <ButtonID>283</ButtonID>
+    <ButtonID>234</ButtonID>
     <Discription>Master Arm Switch</Discription>
     <Type>Switch</Type>
     <DcsID>234</DcsID>
@@ -188,7 +188,7 @@
     <ID>24</ID>
     <DeviceID>6</DeviceID>
     <ButtonID>235</ButtonID>
-    <Discription>PCA Button</Discription>
+    <Discription>PCA Button 1</Discription>
     <Type>Switch</Type>
     <DcsID>235</DcsID>
   </Clickabledata>
@@ -196,7 +196,7 @@
     <ID>25</ID>
     <DeviceID>6</DeviceID>
     <ButtonID>237</ButtonID>
-    <Discription>PCA Button</Discription>
+    <Discription>PCA Button 2</Discription>
     <Type>Switch</Type>
     <DcsID>237</DcsID>
   </Clickabledata>
@@ -204,7 +204,7 @@
     <ID>26</ID>
     <DeviceID>6</DeviceID>
     <ButtonID>239</ButtonID>
-    <Discription>PCA Button</Discription>
+    <Discription>PCA Button 3</Discription>
     <Type>Switch</Type>
     <DcsID>239</DcsID>
   </Clickabledata>
@@ -212,7 +212,7 @@
     <ID>27</ID>
     <DeviceID>6</DeviceID>
     <ButtonID>241</ButtonID>
-    <Discription>PCA Button</Discription>
+    <Discription>PCA Button 4</Discription>
     <Type>Switch</Type>
     <DcsID>241</DcsID>
   </Clickabledata>
@@ -220,7 +220,7 @@
     <ID>28</ID>
     <DeviceID>6</DeviceID>
     <ButtonID>243</ButtonID>
-    <Discription>PCA Button</Discription>
+    <Discription>PCA Button 5</Discription>
     <Type>Switch</Type>
     <DcsID>243</DcsID>
   </Clickabledata>
@@ -236,7 +236,7 @@
     <ID>30</ID>
     <DeviceID>6</DeviceID>
     <ButtonID>250</ButtonID>
-    <Discription>Weapons Selector</Discription>
+    <Discription>Weapons Selector Button 1</Discription>
     <Type>Switch</Type>
     <DcsID>250</DcsID>
   </Clickabledata>
@@ -244,7 +244,7 @@
     <ID>31</ID>
     <DeviceID>6</DeviceID>
     <ButtonID>253</ButtonID>
-    <Discription>Weapons Selector</Discription>
+    <Discription>Weapons Selector Button 2</Discription>
     <Type>Switch</Type>
     <DcsID>253</DcsID>
   </Clickabledata>
@@ -252,7 +252,7 @@
     <ID>32</ID>
     <DeviceID>6</DeviceID>
     <ButtonID>256</ButtonID>
-    <Discription>Weapons Selector</Discription>
+    <Discription>Weapons Selector Button 3</Discription>
     <Type>Switch</Type>
     <DcsID>256</DcsID>
   </Clickabledata>
@@ -260,7 +260,7 @@
     <ID>33</ID>
     <DeviceID>6</DeviceID>
     <ButtonID>259</ButtonID>
-    <Discription>Weapons Selector</Discription>
+    <Discription>Weapons Selector Button 4</Discription>
     <Type>Switch</Type>
     <DcsID>259</DcsID>
   </Clickabledata>
@@ -268,7 +268,7 @@
     <ID>34</ID>
     <DeviceID>6</DeviceID>
     <ButtonID>262</ButtonID>
-    <Discription>Weapons Selector</Discription>
+    <Discription>Weapons Selector Button 5</Discription>
     <Type>Switch</Type>
     <DcsID>262</DcsID>
   </Clickabledata>

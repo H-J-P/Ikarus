@@ -152,6 +152,9 @@
     <Classname>AV8BNA_Clock</Classname>
   </Classnames>
   <Classnames>
+    <Classname>AV8BNA_Nozzle</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>AV8BNA_Rudder</Classname>
   </Classnames>
   <Classnames>

@@ -429,6 +429,19 @@
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
   </Instruments>
+  <Instruments>
+    <IDInst>34</IDInst>
+    <Name>Nozzle</Name>
+    <Class>AV8BNA_Nozzle</Class>
+    <PosX>1557</PosX>
+    <PosY>73</PosY>
+    <Size>130</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -1239,6 +1252,22 @@
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output> 0.0,   90</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>34</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Nozzle Position</Name>
+    <Arg_number>271</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,180</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
