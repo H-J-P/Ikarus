@@ -155,6 +155,9 @@
     <Classname>AV8BNA_Nozzle</Classname>
   </Classnames>
   <Classnames>
+    <Classname>AV8BNA_Nozzle2</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>AV8BNA_Rudder</Classname>
   </Classnames>
   <Classnames>
