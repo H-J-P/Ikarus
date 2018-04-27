@@ -641,6 +641,30 @@
     <Classname>LwVVI</Classname>
   </Classnames>
   <Classnames>
+    <Classname>M2KC_ACC</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_ADI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_ALT</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_ASI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_CLOCK</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_LOX</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_N2T</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_VVI</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>MI8_ALT</Classname>
   </Classnames>
   <Classnames>
