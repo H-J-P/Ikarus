@@ -15,11 +15,11 @@
   </Instruments>
   <Instruments>
     <IDInst>2</IDInst>
-    <Name>ADI (Placeholder)</Name>
+    <Name>ADI</Name>
     <Class>M2KC_ADI</Class>
-    <PosX>401</PosX>
-    <PosY>387</PosY>
-    <Size>235</Size>
+    <PosX>392</PosX>
+    <PosY>369</PosY>
+    <Size>255</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -30,9 +30,9 @@
     <IDInst>3</IDInst>
     <Name>Altimeter</Name>
     <Class>M2KC_ALT</Class>
-    <PosX>266</PosX>
-    <PosY>645</PosY>
-    <Size>180</Size>
+    <PosX>265</PosX>
+    <PosY>644</PosY>
+    <Size>185</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -82,9 +82,9 @@
     <IDInst>7</IDInst>
     <Name>Engine</Name>
     <Class>M2KC_N2T</Class>
-    <PosX>1595</PosX>
-    <PosY>421</PosY>
-    <Size>135</Size>
+    <PosX>1581</PosX>
+    <PosY>378</PosY>
+    <Size>155</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -95,9 +95,61 @@
     <IDInst>8</IDInst>
     <Name>VVI</Name>
     <Class>M2KC_VVI</Class>
+    <PosX>256</PosX>
+    <PosY>506</PosY>
+    <Size>135</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>9</IDInst>
+    <Name>ADI Stby</Name>
+    <Class>M2KC_ADI_stby</Class>
     <PosX>457</PosX>
-    <PosY>646</PosY>
+    <PosY>645</PosY>
     <Size>185</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>10</IDInst>
+    <Name>HSI</Name>
+    <Class>M2KC_HSI</Class>
+    <PosX>1296</PosX>
+    <PosY>622</PosY>
+    <Size>260</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>11</IDInst>
+    <Name>AOA</Name>
+    <Class>M2KC_AOA</Class>
+    <PosX>546</PosX>
+    <PosY>28</PosY>
+    <Size>120</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>12</IDInst>
+    <Name>Fuel</Name>
+    <Class>M2KC_Fuel</Class>
+    <PosX>1581</PosX>
+    <PosY>701</PosY>
+    <Size>215</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -256,8 +308,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,345</Output>
+    <Input>0.0,0.3,0.6,0.9</Input>
+    <Output>0,180,293,345</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -272,7 +324,7 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
+    <Input>0.0,0.22</Input>
     <Output>0,345</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
@@ -416,8 +468,488 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>-1.0,0.0,1.0</Input>
-    <Output>-165,0,165</Output>
+    <Input>-1.0,-0.2,-0.08,0.0,0.08,0.2,1.0</Input>
+    <Output>-165,-90,-45,0,45,90,165</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>1</IDFct>
+    <Name>pitch</Name>
+    <Arg_number>316</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>2</IDFct>
+    <Name>bank</Name>
+    <Arg_number>317</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>3</IDFct>
+    <Name>heading</Name>
+    <Arg_number>318</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0,180,360</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>4</IDFct>
+    <Name>slip ball</Name>
+    <Arg_number>320</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>5</IDFct>
+    <Name>off flag</Name>
+    <Arg_number>319</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>6</IDFct>
+    <Name>ILS bar course</Name>
+    <Arg_number>322</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
+    <IDFct>7</IDFct>
+    <Name>ILS bar alt</Name>
+    <Arg_number>323</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>9</IDInst>
+    <IDFct>1</IDFct>
+    <Name>pitch</Name>
+    <Arg_number>327</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>9</IDInst>
+    <IDFct>2</IDFct>
+    <Name>bank</Name>
+    <Arg_number>326</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>9</IDInst>
+    <IDFct>3</IDFct>
+    <Name>off flag</Name>
+    <Arg_number>329</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>1</IDFct>
+    <Name>HDG Indicator</Name>
+    <Arg_number>333</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>2</IDFct>
+    <Name>Needle</Name>
+    <Arg_number>334</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>3</IDFct>
+    <Name>Needle small</Name>
+    <Arg_number>335</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>4</IDFct>
+    <Name>DME Drum X000</Name>
+    <Arg_number>336</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>5</IDFct>
+    <Name>DME Drum 0X00</Name>
+    <Arg_number>337</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>6</IDFct>
+    <Name>DME Drum 00X0</Name>
+    <Arg_number>338</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>7</IDFct>
+    <Name>DME Drum 000X</Name>
+    <Arg_number>339</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>8</IDFct>
+    <Name>Compass rose</Name>
+    <Arg_number>342</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>9</IDFct>
+    <Name>HSIflag1</Name>
+    <Arg_number>344</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>10</IDFct>
+    <Name>HSIflag2</Name>
+    <Arg_number>345</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>11</IDFct>
+    <Name>HSIflag_CAP</Name>
+    <Arg_number>346</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>11</IDInst>
+    <IDFct>1</IDFct>
+    <Name>AOA</Name>
+    <Arg_number>331</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>12</IDInst>
+    <IDFct>1</IDFct>
+    <Name>JAUG Drum X00</Name>
+    <Arg_number>349</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>12</IDInst>
+    <IDFct>2</IDFct>
+    <Name>JAUG Drum 0X0</Name>
+    <Arg_number>350</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>12</IDInst>
+    <IDFct>3</IDFct>
+    <Name>JAUG Drum 00X</Name>
+    <Arg_number>351</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>12</IDInst>
+    <IDFct>4</IDFct>
+    <Name>DETOT Drum X00</Name>
+    <Arg_number>352</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>12</IDInst>
+    <IDFct>5</IDFct>
+    <Name>DETOT Drum 0X0</Name>
+    <Arg_number>353</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>12</IDInst>
+    <IDFct>6</IDFct>
+    <Name>DETOT Drum 00X</Name>
+    <Arg_number>354</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>12</IDInst>
+    <IDFct>7</IDFct>
+    <Name>v-needle left</Name>
+    <Arg_number>358</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>12</IDInst>
+    <IDFct>8</IDFct>
+    <Name>v-needle right</Name>
+    <Arg_number>359</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -430,7 +962,7 @@
   <Window>
     <WindowID>1</WindowID>
     <Name>Main</Name>
-    <PosX>0</PosX>
+    <PosX>1000</PosX>
     <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>

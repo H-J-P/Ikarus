@@ -1,5 +1,851 @@
 <?xml version="1.0" standalone="yes"?>
 <DTADataSet>
+  <DCS_ID>
+    <ExportID>185</ExportID>
+    <Description>LIM, MIP,</Description>
+    <ExportIDWithDescription>185 - LIM, MIP,</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>186</ExportID>
+    <Description>IFF, MIP, Acc</Description>
+    <ExportIDWithDescription>186 - IFF, MIP, Acc</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>187</ExportID>
+    <Description>LED green, ADI</Description>
+    <ExportIDWithDescription>187 - LED green, ADI</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>188</ExportID>
+    <Description>LED green, ADI</Description>
+    <ExportIDWithDescription>188 - LED green, ADI</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>229</ExportID>
+    <Description>RWR V</Description>
+    <ExportIDWithDescription>229 - RWR V</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>230</ExportID>
+    <Description>RWR BR</Description>
+    <ExportIDWithDescription>230 - RWR BR</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>231</ExportID>
+    <Description>RWR DA</Description>
+    <ExportIDWithDescription>231 - RWR DA</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>232</ExportID>
+    <Description>RWR D2M</Description>
+    <ExportIDWithDescription>232 - RWR D2M</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>233</ExportID>
+    <Description>RWR LL</Description>
+    <ExportIDWithDescription>233 - RWR LL</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>267</ExportID>
+    <Description>Autopilot button P light</Description>
+    <ExportIDWithDescription>267 - Autopilot button P light</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>268</ExportID>
+    <Description>Autopilot button MIS light</Description>
+    <ExportIDWithDescription>268 - Autopilot button MIS light</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>270</ExportID>
+    <Description>Autopilot button AUT light</Description>
+    <ExportIDWithDescription>270 - Autopilot button AUT light</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>271</ExportID>
+    <Description>Autopilot button MAN light</Description>
+    <ExportIDWithDescription>271 - Autopilot button MAN light</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>273</ExportID>
+    <Description>Autopilot button MAG-P light</Description>
+    <ExportIDWithDescription>273 - Autopilot button MAG-P light</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>274</ExportID>
+    <Description>Autopilot button MAG-MAG light</Description>
+    <ExportIDWithDescription>274 - Autopilot button MAG-MAG light</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>280</ExportID>
+    <Description>button TOT light</Description>
+    <ExportIDWithDescription>280 - button TOT light</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>281</ExportID>
+    <Description>button PAP light</Description>
+    <ExportIDWithDescription>281 - button PAP light</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>236</ExportID>
+    <Description>Weapon panel 1. line B1 S</Description>
+    <ExportIDWithDescription>236 - Weapon panel 1. line B1 S</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>238</ExportID>
+    <Description>Weapon panel 1. line B2 S</Description>
+    <ExportIDWithDescription>238 - Weapon panel 1. line B2 S</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>240</ExportID>
+    <Description>Weapon panel 1. line B3 S</Description>
+    <ExportIDWithDescription>240 - Weapon panel 1. line B3 S</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>242</ExportID>
+    <Description>Weapon panel 1. line B4 S</Description>
+    <ExportIDWithDescription>242 - Weapon panel 1. line B4 S</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>244</ExportID>
+    <Description>Weapon panel 1. line B5 S</Description>
+    <ExportIDWithDescription>244 - Weapon panel 1. line B5 S</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>251</ExportID>
+    <Description>Weapon panel 2. line B1 S</Description>
+    <ExportIDWithDescription>251 - Weapon panel 2. line B1 S</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>252</ExportID>
+    <Description>Weapon panel 2. line B1 P</Description>
+    <ExportIDWithDescription>252 - Weapon panel 2. line B1 P</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>254</ExportID>
+    <Description>Weapon panel 2. line B2 S</Description>
+    <ExportIDWithDescription>254 - Weapon panel 2. line B2 S</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>255</ExportID>
+    <Description>Weapon panel 2. line B2 P</Description>
+    <ExportIDWithDescription>255 - Weapon panel 2. line B2 P</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>257</ExportID>
+    <Description>Weapon panel 2. line B3 S</Description>
+    <ExportIDWithDescription>257 - Weapon panel 2. line B3 S</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>258</ExportID>
+    <Description>Weapon panel 2. line B3 P</Description>
+    <ExportIDWithDescription>258 - Weapon panel 2. line B3 P</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>260</ExportID>
+    <Description>Weapon panel 2. line B4 S</Description>
+    <ExportIDWithDescription>260 - Weapon panel 2. line B4 S</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>261</ExportID>
+    <Description>Weapon panel 2. line B4 P</Description>
+    <ExportIDWithDescription>261 - Weapon panel 2. line B4 P</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>263</ExportID>
+    <Description>Weapon panel 2. line B5 S</Description>
+    <ExportIDWithDescription>263 - Weapon panel 2. line B5 S</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>264</ExportID>
+    <Description>Weapon panel 2. line B5 P</Description>
+    <ExportIDWithDescription>264 - Weapon panel 2. line B5 P</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>246</ExportID>
+    <Description>button KL1 light</Description>
+    <ExportIDWithDescription>246 - button KL1 light</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>247</ExportID>
+    <Description>button KL2 light</Description>
+    <ExportIDWithDescription>247 - button KL2 light</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>321</ExportID>
+    <Description>ADI ILS light</Description>
+    <ExportIDWithDescription>321 - ADI ILS light</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>374</ExportID>
+    <Description>Fire light 1</Description>
+    <ExportIDWithDescription>374 - Fire light 1</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>375</ExportID>
+    <Description>Fire light 2</Description>
+    <ExportIDWithDescription>375 - Fire light 2</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>283</ExportID>
+    <Description>AUTOPILOT P</Description>
+    <ExportIDWithDescription>283 - AUTOPILOT P</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>284</ExportID>
+    <Description>AUTOPILOT A</Description>
+    <ExportIDWithDescription>284 - AUTOPILOT A</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>286</ExportID>
+    <Description>AUTOPILOT Alt 1</Description>
+    <ExportIDWithDescription>286 - AUTOPILOT Alt 1</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>287</ExportID>
+    <Description>AUTOPILOT blank Alt</Description>
+    <ExportIDWithDescription>287 - AUTOPILOT blank Alt</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>289</ExportID>
+    <Description>AUTOPILOT Alt 2</Description>
+    <ExportIDWithDescription>289 - AUTOPILOT Alt 2</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>290</ExportID>
+    <Description>AUTOPILOT AFF</Description>
+    <ExportIDWithDescription>290 - AUTOPILOT AFF</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>292</ExportID>
+    <Description>AUTOPILOT blank1</Description>
+    <ExportIDWithDescription>292 - AUTOPILOT blank1</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>293</ExportID>
+    <Description>AUTOPILOT blank2</Description>
+    <ExportIDWithDescription>293 - AUTOPILOT blank2</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>295</ExportID>
+    <Description>AUTOPILOT left</Description>
+    <ExportIDWithDescription>295 - AUTOPILOT left</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>296</ExportID>
+    <Description>AUTOPILOT blank L</Description>
+    <ExportIDWithDescription>296 - AUTOPILOT blank L</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>298</ExportID>
+    <Description>AUTOPILOT blank G</Description>
+    <ExportIDWithDescription>298 - AUTOPILOT blank G</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>373</ExportID>
+    <Description>Afterburner light</Description>
+    <ExportIDWithDescription>373 - Afterburner light</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>376</ExportID>
+    <Description>Starter light</Description>
+    <ExportIDWithDescription>376 - Starter light</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>198</ExportID>
+    <Description>Tranfere</Description>
+    <ExportIDWithDescription>198 - Tranfere</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>199</ExportID>
+    <Description>Master-warning</Description>
+    <ExportIDWithDescription>199 - Master-warning</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>200</ExportID>
+    <Description>Master-caution</Description>
+    <ExportIDWithDescription>200 - Master-caution</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>362</ExportID>
+    <Description>Fuel Left RL</Description>
+    <ExportIDWithDescription>362 - Fuel Left RL</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>363</ExportID>
+    <Description>Fuel Center RL</Description>
+    <ExportIDWithDescription>363 - Fuel Center RL</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>364</ExportID>
+    <Description>Fuel Right RL</Description>
+    <ExportIDWithDescription>364 - Fuel Right RL</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>365</ExportID>
+    <Description>Fuel Left AV</Description>
+    <ExportIDWithDescription>365 - Fuel Left AV</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>366</ExportID>
+    <Description>Fuel Right AV</Description>
+    <ExportIDWithDescription>366 - Fuel Right AV</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>367</ExportID>
+    <Description>Fuel Left V</Description>
+    <ExportIDWithDescription>367 - Fuel Left V</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>368</ExportID>
+    <Description>Fuel Right V</Description>
+    <ExportIDWithDescription>368 - Fuel Right V</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>405</ExportID>
+    <Description>Gearhandle Innenleuchte, red</Description>
+    <ExportIDWithDescription>405 - Gearhandle Innenleuchte, red</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>410</ExportID>
+    <Description>„A“ Warnlamp</Description>
+    <ExportIDWithDescription>410 - „A“ Warnlamp</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>411</ExportID>
+    <Description>„F“ Warnlamp</Description>
+    <ExportIDWithDescription>411 - „F“ Warnlamp</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>412</ExportID>
+    <Description>„DIRA“ Warnlamp, blau</Description>
+    <ExportIDWithDescription>412 - „DIRA“ Warnlamp, blau</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>413</ExportID>
+    <Description>„FREIN“</Description>
+    <ExportIDWithDescription>413 - „FREIN“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>414</ExportID>
+    <Description>„Cross“</Description>
+    <ExportIDWithDescription>414 - „Cross“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>415</ExportID>
+    <Description>„SPAD“</Description>
+    <ExportIDWithDescription>415 - „SPAD“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>416</ExportID>
+    <Description>Red Warnlamp under „BIP“</Description>
+    <ExportIDWithDescription>416 - Red Warnlamp under „BIP“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>417</ExportID>
+    <Description>Left Gear</Description>
+    <ExportIDWithDescription>417 - Left Gear</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>418</ExportID>
+    <Description>Nose Gear</Description>
+    <ExportIDWithDescription>418 - Nose Gear</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>419</ExportID>
+    <Description>Right Gear</Description>
+    <ExportIDWithDescription>419 - Right Gear</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>677</ExportID>
+    <Description>COM left green lamp</Description>
+    <ExportIDWithDescription>677 - COM left green lamp</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>519</ExportID>
+    <Description>Oxy flow lamp</Description>
+    <ExportIDWithDescription>519 - Oxy flow lamp</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>490</ExportID>
+    <Description>Left consule „VAL”</Description>
+    <ExportIDWithDescription>490 - Left consule „VAL”</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>492</ExportID>
+    <Description>Left consule „A“</Description>
+    <ExportIDWithDescription>492 - Left consule „A“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>494</ExportID>
+    <Description>Left consule „DEC“</Description>
+    <ExportIDWithDescription>494 - Left consule „DEC“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>496</ExportID>
+    <Description>Left consule „VISU“</Description>
+    <ExportIDWithDescription>496 - Left consule „VISU“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>505</ExportID>
+    <Description>Left consule „PSIC“</Description>
+    <ExportIDWithDescription>505 - Left consule „PSIC“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>510</ExportID>
+    <Description>Left consule „ELEC“</Description>
+    <ExportIDWithDescription>510 - Left consule „ELEC“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>511</ExportID>
+    <Description>Left consule „HYD“</Description>
+    <ExportIDWithDescription>511 - Left consule „HYD“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>512</ExportID>
+    <Description>Left consule Red</Description>
+    <ExportIDWithDescription>512 - Left consule Red</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>513</ExportID>
+    <Description>Left consule Green</Description>
+    <ExportIDWithDescription>513 - Left consule Green</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>525</ExportID>
+    <Description>WP BATT</Description>
+    <ExportIDWithDescription>525 - WP BATT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>526</ExportID>
+    <Description>TR</Description>
+    <ExportIDWithDescription>526 - TR</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>527</ExportID>
+    <Description>ALT 1</Description>
+    <ExportIDWithDescription>527 - ALT 1</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>528</ExportID>
+    <Description>ALT 2</Description>
+    <ExportIDWithDescription>528 - ALT 2</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>529</ExportID>
+    <Description>HUILLE</Description>
+    <ExportIDWithDescription>529 - HUILLE</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>530</ExportID>
+    <Description>T7</Description>
+    <ExportIDWithDescription>530 - T7</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>531</ExportID>
+    <Description>CALC C</Description>
+    <ExportIDWithDescription>531 - CALC C</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>532</ExportID>
+    <Description>SOURIS</Description>
+    <ExportIDWithDescription>532 - SOURIS</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>533</ExportID>
+    <Description>PELLE</Description>
+    <ExportIDWithDescription>533 - PELLE</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>534</ExportID>
+    <Description>B.P</Description>
+    <ExportIDWithDescription>534 - B.P</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>535</ExportID>
+    <Description>BP.G</Description>
+    <ExportIDWithDescription>535 - BP.G</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>536</ExportID>
+    <Description>BP.D</Description>
+    <ExportIDWithDescription>536 - BP.D</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>537</ExportID>
+    <Description>TRANSF</Description>
+    <ExportIDWithDescription>537 - TRANSF</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>538</ExportID>
+    <Description>NIVEAU</Description>
+    <ExportIDWithDescription>538 - NIVEAU</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>539</ExportID>
+    <Description>HYD 1</Description>
+    <ExportIDWithDescription>539 - HYD 1</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>540</ExportID>
+    <Description>HYD 2</Description>
+    <ExportIDWithDescription>540 - HYD 2</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>541</ExportID>
+    <Description>HYD 3</Description>
+    <ExportIDWithDescription>541 - HYD 3</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>542</ExportID>
+    <Description>EP</Description>
+    <ExportIDWithDescription>542 - EP</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>543</ExportID>
+    <Description>BINGO</Description>
+    <ExportIDWithDescription>543 - BINGO</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>544</ExportID>
+    <Description>P.CAB</Description>
+    <ExportIDWithDescription>544 - P.CAB</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>545</ExportID>
+    <Description>TEMP</Description>
+    <ExportIDWithDescription>545 - TEMP</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>546</ExportID>
+    <Description>REG O2</Description>
+    <ExportIDWithDescription>546 - REG O2</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>547</ExportID>
+    <Description>5nm O2</Description>
+    <ExportIDWithDescription>547 - 5nm O2</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>548</ExportID>
+    <Description>O2 HA</Description>
+    <ExportIDWithDescription>548 - O2 HA</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>549</ExportID>
+    <Description>ANEMO</Description>
+    <ExportIDWithDescription>549 - ANEMO</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>550</ExportID>
+    <Description>CC</Description>
+    <ExportIDWithDescription>550 - CC</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>551</ExportID>
+    <Description>DSV</Description>
+    <ExportIDWithDescription>551 - DSV</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>552</ExportID>
+    <Description>CONDIT</Description>
+    <ExportIDWithDescription>552 - CONDIT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>553</ExportID>
+    <Description>CONF</Description>
+    <ExportIDWithDescription>553 - CONF</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>554</ExportID>
+    <Description>PA</Description>
+    <ExportIDWithDescription>554 - PA</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>555</ExportID>
+    <Description>MAN</Description>
+    <ExportIDWithDescription>555 - MAN</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>556</ExportID>
+    <Description>DOM</Description>
+    <ExportIDWithDescription>556 - DOM</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>557</ExportID>
+    <Description>BECS</Description>
+    <ExportIDWithDescription>557 - BECS</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>558</ExportID>
+    <Description>U.S.EL</Description>
+    <ExportIDWithDescription>558 - U.S.EL</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>559</ExportID>
+    <Description>ZEICHEN</Description>
+    <ExportIDWithDescription>559 - ZEICHEN</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>560</ExportID>
+    <Description>GAIN</Description>
+    <ExportIDWithDescription>560 - GAIN</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>561</ExportID>
+    <Description>RPM</Description>
+    <ExportIDWithDescription>561 - RPM</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>562</ExportID>
+    <Description>DECOL</Description>
+    <ExportIDWithDescription>562 - DECOL</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>563</ExportID>
+    <Description>PARK.</Description>
+    <ExportIDWithDescription>563 - PARK.</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>564</ExportID>
+    <Description>Right Console “PRET”</Description>
+    <ExportIDWithDescription>564 - Right Console “PRET”</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>565</ExportID>
+    <Description>„ALN“</Description>
+    <ExportIDWithDescription>565 - „ALN“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>566</ExportID>
+    <Description>„MIP“</Description>
+    <ExportIDWithDescription>566 - „MIP“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>567</ExportID>
+    <Description>„N.DEG“</Description>
+    <ExportIDWithDescription>567 - „N.DEG“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>568</ExportID>
+    <Description>„SEC“</Description>
+    <ExportIDWithDescription>568 - „SEC“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>569</ExportID>
+    <Description>„UNI“</Description>
+    <ExportIDWithDescription>569 - „UNI“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>669</ExportID>
+    <Description>„M01”</Description>
+    <ExportIDWithDescription>669 - „M01”</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>670</ExportID>
+    <Description>„M02“</Description>
+    <ExportIDWithDescription>670 - „M02“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>671</ExportID>
+    <Description>„M03“</Description>
+    <ExportIDWithDescription>671 - „M03“</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>571</ExportID>
+    <Description>“PREP”</Description>
+    <ExportIDWithDescription>571 - “PREP”</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>573</ExportID>
+    <Description>“DEST”</Description>
+    <ExportIDWithDescription>573 - “DEST”</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>577</ExportID>
+    <Description>“BAD”</Description>
+    <ExportIDWithDescription>577 - “BAD”</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>579</ExportID>
+    <Description>“REC”</Description>
+    <ExportIDWithDescription>579 - “REC”</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>581</ExportID>
+    <Description>“VAL”</Description>
+    <ExportIDWithDescription>581 - “VAL”</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>583</ExportID>
+    <Description>“MRC”</Description>
+    <ExportIDWithDescription>583 - “MRC”</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>595</ExportID>
+    <Description>“EFF”</Description>
+    <ExportIDWithDescription>595 - “EFF”</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>597</ExportID>
+    <Description>“INS”</Description>
+    <ExportIDWithDescription>597 - “INS”</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>668</ExportID>
+    <Description>“ENC”</Description>
+    <ExportIDWithDescription>668 - “ENC”</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>632</ExportID>
+    <Description>TACAN "C"</Description>
+    <ExportIDWithDescription>632 - TACAN "C"</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>634</ExportID>
+    <Description>TACAN "F"</Description>
+    <ExportIDWithDescription>634 - TACAN "F"</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
   <Clickabledata>
     <ID>0</ID>
     <DeviceID>4</DeviceID>

@@ -5,7 +5,7 @@
     <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-    <File>AV8BNA.ikarus</File>
+    <File>M-2000C.ikarus</File>
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
@@ -647,13 +647,25 @@
     <Classname>M2KC_ADI</Classname>
   </Classnames>
   <Classnames>
+    <Classname>M2KC_ADI_stby</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>M2KC_ALT</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_AOA</Classname>
   </Classnames>
   <Classnames>
     <Classname>M2KC_ASI</Classname>
   </Classnames>
   <Classnames>
     <Classname>M2KC_CLOCK</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_ALT</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_Fuel</Classname>
   </Classnames>
   <Classnames>
     <Classname>M2KC_LOX</Classname>
