@@ -3578,7 +3578,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>2</Input>
     <Output>0</Output>
-    <PosX>998</PosX>
+    <PosX>1007</PosX>
     <PosY>979</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
@@ -3599,8 +3599,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>3</Input>
     <Output>0</Output>
-    <PosX>1046</PosX>
-    <PosY>979</PosY>
+    <PosX>1051</PosX>
+    <PosY>978</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5006,7 +5006,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>4</Input>
     <Output>0</Output>
-    <PosX>887</PosX>
+    <PosX>918</PosX>
     <PosY>980</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
@@ -6664,7 +6664,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>5</Input>
     <Output>0</Output>
-    <PosX>840</PosX>
+    <PosX>874</PosX>
     <PosY>980</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
@@ -7818,7 +7818,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>6</Input>
     <Output>0</Output>
-    <PosX>943</PosX>
+    <PosX>963</PosX>
     <PosY>980</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
@@ -8903,28 +8903,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>7</Input>
     <Output>0</Output>
-    <PosX>793</PosX>
-    <PosY>979</PosY>
-    <Size>40</Size>
-    <Rotate>0</Rotate>
-    <Event>false</Event>
-    <DontReset>false</DontReset>
-    <WindowID>1</WindowID>
-  </Switches>
-  <Switches>
-    <ID>265</ID>
-    <Class>SwitchPanelOffOn</Class>
-    <ClickabledataID>0</ClickabledataID>
-    <Name>Touchpanel</Name>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>8</Input>
-    <Output>0</Output>
-    <PosX>1094</PosX>
-    <PosY>979</PosY>
+    <PosX>829</PosX>
+    <PosY>978</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -9035,6 +9015,27 @@
     <DontReset>false</DontReset>
     <WindowID>8</WindowID>
     <DcsID>45</DcsID>
+  </Switches>
+  <Switches>
+    <ID>271</ID>
+    <Class>SwitchOn_Off_On</Class>
+    <ClickabledataID>329</ClickabledataID>
+    <Name>Canopy Close</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
+    <PosX>1746</PosX>
+    <PosY>4</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>712</DcsID>
   </Switches>
   <Accessories>
     <ID>1</ID>
@@ -9174,17 +9175,6 @@
     <Height>1024</Height>
     <Width>768</Width>
     <Background>Kneeboard.png</Background>
-    <BackgroundNight>-</BackgroundNight>
-    <Refresh>true</Refresh>
-  </Window>
-  <Window>
-    <WindowID>8</WindowID>
-    <Name>Touchpanel</Name>
-    <PosX>1920</PosX>
-    <PosY>0</PosY>
-    <Height>512</Height>
-    <Width>512</Width>
-    <Background>TestPanel.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
   </Window>
