@@ -3578,7 +3578,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>2</Input>
     <Output>0</Output>
-    <PosX>1007</PosX>
+    <PosX>1008</PosX>
     <PosY>979</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
@@ -3599,8 +3599,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>3</Input>
     <Output>0</Output>
-    <PosX>1051</PosX>
-    <PosY>978</PosY>
+    <PosX>1052</PosX>
+    <PosY>979</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -8903,8 +8903,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>7</Input>
     <Output>0</Output>
-    <PosX>829</PosX>
-    <PosY>978</PosY>
+    <PosX>828</PosX>
+    <PosY>980</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
