@@ -3618,8 +3618,8 @@
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_cnt2.png</FilePictureOff>
     <FilePicture2On>flat_down2.png</FilePicture2On>
-    <Input>-1.0,0.0,1.0</Input>
-    <Output>-1.0,0.0,1.0</Output>
+    <Input>0.0,0.1,0.2</Input>
+    <Output>0.0,0.1,0.2</Output>
     <PosX>212</PosX>
     <PosY>589</PosY>
     <Size>45</Size>
@@ -3639,8 +3639,8 @@
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_cnt2.png</FilePictureOff>
     <FilePicture2On>flat_down2.png</FilePicture2On>
-    <Input>-1.0,0.0,1.0</Input>
-    <Output>-1.0,0.0,1.0</Output>
+    <Input>0.0,0.1,0.2</Input>
+    <Output>0.0,0.1,0.2</Output>
     <PosX>295</PosX>
     <PosY>590</PosY>
     <Size>45</Size>
@@ -3660,8 +3660,8 @@
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_cnt2.png</FilePictureOff>
     <FilePicture2On>flat_down2.png</FilePicture2On>
-    <Input>-1.0,0.0,1.0</Input>
-    <Output>-1.0,0.0,1.0</Output>
+    <Input>0.0,0.1,0.2</Input>
+    <Output>0.0,0.1,0.2</Output>
     <PosX>211</PosX>
     <PosY>698</PosY>
     <Size>45</Size>
@@ -3745,7 +3745,7 @@
     <FilePictureOff>round_cnt2.png</FilePictureOff>
     <FilePicture2On>round_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
-    <Output>-1.0,0.0,1.0</Output>
+    <Output>0.0,0.1,0.2</Output>
     <PosX>189</PosX>
     <PosY>812</PosY>
     <Size>45</Size>
@@ -3807,8 +3807,8 @@
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_cnt2.png</FilePictureOff>
     <FilePicture2On>flat_down2.png</FilePicture2On>
-    <Input>-1.0,0.0,1.0</Input>
-    <Output>-1.0,0.0,1.0</Output>
+    <Input>0.0,0.1,0.2</Input>
+    <Output>0.0,0.1,0.2</Output>
     <PosX>327</PosX>
     <PosY>928</PosY>
     <Size>45</Size>
@@ -3849,8 +3849,8 @@
     <FilePictureOn>sw_lng-lgt_up.png</FilePictureOn>
     <FilePictureOff>sw_lng-lgt_cent.png</FilePictureOff>
     <FilePicture2On>sw_lng-lgt_down.png</FilePicture2On>
-    <Input>-1.0,0.0,1.0</Input>
-    <Output>-1.0,0.0,1.0</Output>
+    <Input>0.0,0.1,0.2</Input>
+    <Output>0.0,0.1,0.2</Output>
     <PosX>75</PosX>
     <PosY>609</PosY>
     <Size>110</Size>

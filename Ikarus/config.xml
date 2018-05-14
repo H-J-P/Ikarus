@@ -5,7 +5,7 @@
     <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-    <File>M-2000C.ikarus</File>
+    <File>A-10C.ikarus</File>
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
@@ -653,10 +653,16 @@
     <Classname>M2KC_ALT</Classname>
   </Classnames>
   <Classnames>
+    <Classname>M2KC_AP_Altitude</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>M2KC_AOA</Classname>
   </Classnames>
   <Classnames>
     <Classname>M2KC_ASI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_BingoFuel</Classname>
   </Classnames>
   <Classnames>
     <Classname>M2KC_CLOCK</Classname>
