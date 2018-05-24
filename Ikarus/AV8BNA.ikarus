@@ -3174,8 +3174,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output>0,360</Output>
-    <PosX>1084</PosX>
-    <PosY>350</PosY>
+    <PosX>768</PosX>
+    <PosY>345</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -3195,8 +3195,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output>0,360</Output>
-    <PosX>770</PosX>
-    <PosY>350</PosY>
+    <PosX>1083</PosX>
+    <PosY>346</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
