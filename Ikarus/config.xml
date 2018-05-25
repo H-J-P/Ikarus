@@ -665,6 +665,9 @@
     <Classname>M2KC_BingoFuel</Classname>
   </Classnames>
   <Classnames>
+    <Classname>M2KC_Cabin</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>M2KC_CLOCK</Classname>
   </Classnames>
   <Classnames>

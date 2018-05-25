@@ -182,6 +182,32 @@
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
   </Instruments>
+  <Instruments>
+    <IDInst>15</IDInst>
+    <Name>Cabin climb</Name>
+    <Class>M2KC_Cabin</Class>
+    <PosX>274</PosX>
+    <PosY>138</PosY>
+    <Size>200</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>6</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>16</IDInst>
+    <Name>Kneeboard</Name>
+    <Class>Kneeboard</Class>
+    <PosX>6</PosX>
+    <PosY>3</PosY>
+    <Size>805</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>7</WindowID>
+  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -1062,6 +1088,38 @@
     <In />
     <Out />
   </Functions>
+  <Functions>
+    <IDInst>15</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Cabin needle</Name>
+    <Arg_number>399</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,350</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>16</IDInst>
+    <IDFct>1</IDFct>
+    <Name>-</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
   <Lamps>
     <ID>1</ID>
     <Class>LampOnOff</Class>
@@ -1476,8 +1534,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>M2KC_Fire_PC_On.png</FilePictureOn>
     <FilePictureOff>M2KC_Fire_PC_Off.png</FilePictureOff>
-    <PosX>1800</PosX>
-    <PosY>763</PosY>
+    <PosX>1798</PosX>
+    <PosY>765</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1491,8 +1549,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>M2KC_Fire_SEC_On.png</FilePictureOn>
     <FilePictureOff>M2KC_Fire_SEC_Off.png</FilePictureOff>
-    <PosX>1800</PosX>
-    <PosY>702</PosY>
+    <PosX>1798</PosX>
+    <PosY>711</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -2202,6 +2260,156 @@
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
+  <Lamps>
+    <ID>77</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>410</Arg_number>
+    <Name>410 - „A“ Warnlamp</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_A_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_A_Off.png</FilePictureOff>
+    <PosX>91</PosX>
+    <PosY>106</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <WindowID>4</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>78</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>411</Arg_number>
+    <Name>411 - „F“ Warnlamp</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_F_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_F_Off.png</FilePictureOff>
+    <PosX>149</PosX>
+    <PosY>106</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <WindowID>4</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>79</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>412</Arg_number>
+    <Name>412 - „DIRA“ Warnlamp, blau</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_DIRAV_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_DIRAV_Off.png</FilePictureOff>
+    <PosX>55</PosX>
+    <PosY>141</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <WindowID>4</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>80</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>413</Arg_number>
+    <Name>413 - „FREIN“</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_FREIN_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_FREIN_Off.png</FilePictureOff>
+    <PosX>177</PosX>
+    <PosY>140</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <WindowID>4</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>81</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>414</Arg_number>
+    <Name>414 - „Cross“</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_CROSS_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_CROSS_Off.png</FilePictureOff>
+    <PosX>54</PosX>
+    <PosY>177</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <WindowID>4</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>82</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>415</Arg_number>
+    <Name>415 - „SPAD“</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_SPAD_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_SPAD_Off.png</FilePictureOff>
+    <PosX>177</PosX>
+    <PosY>177</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <WindowID>4</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>83</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>416</Arg_number>
+    <Name>416 - Red Warnlamp under „BIP“</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Airbrake_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Airbrake_Off.png</FilePictureOff>
+    <PosX>118</PosX>
+    <PosY>207</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <WindowID>4</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>84</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>417</Arg_number>
+    <Name>417 - Left Gear</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Gear_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Gear_Off.png</FilePictureOff>
+    <PosX>88</PosX>
+    <PosY>210</PosY>
+    <Size>25</Size>
+    <Rotate>0</Rotate>
+    <WindowID>4</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>85</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>418</Arg_number>
+    <Name>418 - Nose Gear</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Gear_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Gear_Off.png</FilePictureOff>
+    <PosX>131</PosX>
+    <PosY>227</PosY>
+    <Size>25</Size>
+    <Rotate>0</Rotate>
+    <WindowID>4</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>86</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>419</Arg_number>
+    <Name>419 - Right Gear</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Gear_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Gear_Off.png</FilePictureOff>
+    <PosX>174</PosX>
+    <PosY>209</PosY>
+    <Size>25</Size>
+    <Rotate>0</Rotate>
+    <WindowID>4</WindowID>
+  </Lamps>
   <Switches>
     <ID>1</ID>
     <Class>SwitchPanelOffOn</Class>
@@ -2647,8 +2855,8 @@
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
-    <Input>-1.0,0.0,1.0</Input>
-    <Output>-1.0,0.0,1.0</Output>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>1076</PosX>
     <PosY>182</PosY>
     <Size>45</Size>
@@ -2668,8 +2876,8 @@
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
-    <Input>-1.0,0.0,1.0</Input>
-    <Output>-1.0,0.0,1.0</Output>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>1076</PosX>
     <PosY>303</PosY>
     <Size>45</Size>
@@ -2826,6 +3034,165 @@
     <WindowID>1</WindowID>
     <DcsID>220</DcsID>
   </Switches>
+  <Switches>
+    <ID>31</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>177</ClickabledataID>
+    <Name>Refuel Transfer Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
+    <PosX>1675</PosX>
+    <PosY>923</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>193</DcsID>
+  </Switches>
+  <Switches>
+    <ID>32</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>83</ClickabledataID>
+    <Name>Main Battery Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>40</PosX>
+    <PosY>85</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>2</WindowID>
+    <DcsID>520</DcsID>
+  </Switches>
+  <Switches>
+    <ID>33</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>84</ClickabledataID>
+    <Name>Electric Power Transfer Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>131</PosX>
+    <PosY>85</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>2</WindowID>
+    <DcsID>521</DcsID>
+  </Switches>
+  <Switches>
+    <ID>34</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>85</ClickabledataID>
+    <Name>Alternator 1 Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>226</PosX>
+    <PosY>84</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>2</WindowID>
+    <DcsID>522</DcsID>
+  </Switches>
+  <Switches>
+    <ID>35</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>86</ClickabledataID>
+    <Name>Alternator 2 Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>318</PosX>
+    <PosY>85</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>2</WindowID>
+    <DcsID>523</DcsID>
+  </Switches>
+  <Switches>
+    <ID>36</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>87</ClickabledataID>
+    <Name>Lights Test Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>410</PosX>
+    <PosY>130</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>2</WindowID>
+    <DcsID>524</DcsID>
+  </Switches>
+  <Switches>
+    <ID>37</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>179</ClickabledataID>
+    <Name>Hydraulic System Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>357</PosX>
+    <PosY>13</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>6</WindowID>
+    <DcsID>395</DcsID>
+  </Switches>
+  <Accessories>
+    <ID>1</ID>
+    <Class>Label</Class>
+    <Name>Gear</Name>
+    <FilePictureOn>M2KC_Gear.png</FilePictureOn>
+    <PosX>43</PosX>
+    <PosY>88</PosY>
+    <Size>195</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>4</WindowID>
+  </Accessories>
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
   </Parameter>
@@ -2866,11 +3233,11 @@
   <Window>
     <WindowID>4</WindowID>
     <Name>GearPanel</Name>
-    <PosX>20</PosX>
-    <PosY>430</PosY>
-    <Height>611</Height>
-    <Width>500</Width>
-    <Background>PanelBackground.png</Background>
+    <PosX>0</PosX>
+    <PosY>780</PosY>
+    <Height>400</Height>
+    <Width>300</Width>
+    <Background>-</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
   </Window>
@@ -2898,11 +3265,11 @@
   </Window>
   <Window>
     <WindowID>7</WindowID>
-    <Name>Clippboard</Name>
-    <PosX>710</PosX>
-    <PosY>430</PosY>
-    <Height>611</Height>
-    <Width>500</Width>
+    <Name>Kneeboard</Name>
+    <PosX>510</PosX>
+    <PosY>0</PosY>
+    <Height>1080</Height>
+    <Width>800</Width>
     <Background>PanelBackground.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>

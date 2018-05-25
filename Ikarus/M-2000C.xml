@@ -2247,12 +2247,28 @@
     <DcsID>706</DcsID>
   </Clickabledata>
   <Clickabledata>
+    <ID>177</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>193</ButtonID>
+    <Discription>Refuel Transfer Switch</Discription>
+    <Type>Switch</Type>
+    <DcsID>193</DcsID>
+  </Clickabledata>
+  <Clickabledata>
     <ID>178</ID>
     <DeviceID>16</DeviceID>
     <ButtonID>707</ButtonID>
     <Discription>VHF Radio Volume</Discription>
     <Type>Rotary</Type>
     <DcsID>707</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>179</ID>
+    <DeviceID>14</DeviceID>
+    <ButtonID>395</ButtonID>
+    <Discription>Hydraulic System Selector</Discription>
+    <Type>Switch</Type>
+    <DcsID>395</DcsID>
   </Clickabledata>
   <Devices>
     <DeviceID>1</DeviceID>
