@@ -498,8 +498,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>-10,310</Output>
+    <Input>0.0,0.1,0.2,0.3,0.5,0.7,0.95</Input>
+    <Output>-20,0,36,72,144,216,306</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -514,8 +514,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>-10,310</Output>
+    <Input>0.0,0.1,0.2,0.3,0.5,0.7,0.95</Input>
+    <Output>-20,0,36,72,144,216,306</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
