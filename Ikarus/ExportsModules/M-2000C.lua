@@ -633,9 +633,8 @@ function ExportScript.ProcessIkarusDCSConfigLowImportance(mainPanelDevice)
 	ExportScript.Tools.SendData("ExportID", "Format")
 	ExportScript.Tools.SendData(2000, string.format("%7.3f", lUHFRadio:get_frequency()/1000000)) <- special function for get frequency data
 	]]
-	--> McMicha
-	
-		-- ECM_CHF
+
+	-- ECM_CHF
 	local lECM_CHF = list_indication(3)
 	lECM_CHF = lECM_CHF:gsub("-----------------------------------------", "")
 	lECM_CHF = lECM_CHF:gsub("text_ECM_CHF", "")
@@ -814,14 +813,15 @@ function ExportScript.ProcessIkarusDCSConfigLowImportance(mainPanelDevice)
 
 	-- PCN_UR (Navigation, wahrscheinlich die Koordinatenanzeige)
 	local lPCNUR = list_indication(10)
-	if ExportScript.Config.Debug then
+	--if ExportScript.Config.Debug then
 		ExportScript.Tools.WriteToLog('PCN_UR : '..ExportScript.Tools.dump(lPCNUR))
-	end
+	--end
 
-	local to1, to2, from1, from2, lPCN_sub_L, lPCN_sub_R, lPCN_main_L, lPCN_main_R = nil, nil, nil, nil, "", "", "", ""
+	local to1, to2, from1, from2, lPCN_sub_L_T, lPCN_sub_R_T, lPCN_sub_L_B, lPCN_sub_R_B, lPCN_main_L, lPCN_main_R = nil, nil, nil, nil, "", "", "", "", "", ""
 	-- PCN_PLUS_L/R, lPCN_L/R_INT: Modus mit Int Anzeige
 	-- PCN_NORD, PCN_EST, lPCN_L/R_LG: Modus mit longitude latitude Anzeige
 	-- PCN_R_DEG: Modus 
+	-- PCN_R_TD: Modus 
 	to1, to2 = lPCNUR:find("PCN_UR")
 	if (to1 ~= nil) then
 		to1, to2 = lPCNUR:find("text_PCN_._INT")
@@ -830,7 +830,7 @@ function ExportScript.ProcessIkarusDCSConfigLowImportance(mainPanelDevice)
 			if (from2 ~= nil) then
 				to1, to2 = lPCNUR:find("%c", from2+2)
 				if (to1 ~= nil) then
-					lPCN_sub_L = lPCNUR:sub(from2+1, to1-1)
+					lPCN_sub_L_T = lPCNUR:sub(from2+1, to1-1)
 				end
 			end
 
@@ -838,7 +838,7 @@ function ExportScript.ProcessIkarusDCSConfigLowImportance(mainPanelDevice)
 			if (from2 ~= nil) then
 				to1, to2 = lPCNUR:find("%c", from2+2)
 				if (to1 ~= nil) then
-					lPCN_sub_R = lPCNUR:sub(from2+1, to1-1)
+					lPCN_sub_R_T = lPCNUR:sub(from2+1, to1-1)
 				end
 			end
 
@@ -865,7 +865,15 @@ function ExportScript.ProcessIkarusDCSConfigLowImportance(mainPanelDevice)
 			if (from2 ~= nil) then
 				to1, to2 = lPCNUR:find("%c", from2+2)
 				if (to1 ~= nil) then
-					lPCN_sub_L = lPCNUR:sub(from2+1, to1-1)
+					lPCN_sub_L_T = lPCNUR:sub(from2+1, to1-1)
+				end
+			end
+
+			from1, from2 = lPCNUR:find("text_PCN_SOUTH%c")  -- search text ????
+			if (from2 ~= nil) then
+				to1, to2 = lPCNUR:find("%c", from2+2)
+				if (to1 ~= nil) then
+					lPCN_sub_L_B = lPCNUR:sub(from2+1, to1-1)
 				end
 			end
 
@@ -873,7 +881,15 @@ function ExportScript.ProcessIkarusDCSConfigLowImportance(mainPanelDevice)
 			if (from2 ~= nil) then
 				to1, to2 = lPCNUR:find("%c", from2+2)
 				if (to1 ~= nil) then
-					lPCN_sub_R = lPCNUR:sub(from2+1, to1-1)
+					lPCN_sub_R_T = lPCNUR:sub(from2+1, to1-1)
+				end
+			end
+
+			from1, from2 = lPCNUR:find("text_PCN_OUEST%c")
+			if (from2 ~= nil) then
+				to1, to2 = lPCNUR:find("%c", from2+2)
+				if (to1 ~= nil) then
+					lPCN_sub_R_B = lPCNUR:sub(from2+1, to1-1)
 				end
 			end
 
@@ -894,8 +910,20 @@ function ExportScript.ProcessIkarusDCSConfigLowImportance(mainPanelDevice)
 			end
 		end
 
-		to1, to2 = lPCNUR:find("text_PCN_._DEG")
+		to1, to2 = lPCNUR:find("text_PCN_R_DEG")
 		if (to1 ~= nil) then -- Deg Modus
+
+			from1, from2 = lPCNUR:find("text_PCN_R_DEG%c")
+			if (from2 ~= nil) then
+				to1, to2 = lPCNUR:find("%c", from2+2)
+				if (to1 ~= nil) then
+					lPCN_main_R = lPCNUR:sub(from2+1, to1-1)
+				end
+			end
+		end
+
+		to1, to2 = lPCNUR:find("text_PCN_R_TD")
+		if (to1 ~= nil) then -- TD Modus
 			from1, from2 = lPCNUR:find("text_PCN_L_DEG%c")
 			if (from2 ~= nil) then
 				to1, to2 = lPCNUR:find("%c", from2+2)
@@ -904,7 +932,7 @@ function ExportScript.ProcessIkarusDCSConfigLowImportance(mainPanelDevice)
 				end
 			end
 
-			from1, from2 = lPCNUR:find("text_PCN_R_DEG%c")
+			from1, from2 = lPCNUR:find("text_PCN_R_TD%c")
 			if (from2 ~= nil) then
 				to1, to2 = lPCNUR:find("%c", from2+2)
 				if (to1 ~= nil) then
@@ -916,16 +944,20 @@ function ExportScript.ProcessIkarusDCSConfigLowImportance(mainPanelDevice)
 
 	if ExportScript.Config.Debug then
 		 -- string with max 1 charachters
-		ExportScript.Tools.WriteToLog("lPCN_sub_L: "..string.format("%s", lPCN_sub_L))
-		ExportScript.Tools.WriteToLog("lPCN_sub_R: "..string.format("%s", lPCN_sub_R))
+		ExportScript.Tools.WriteToLog("lPCN_sub_L_T: "..string.format("%s", lPCN_sub_L_T))
+		ExportScript.Tools.WriteToLog("lPCN_sub_R_T: "..string.format("%s", lPCN_sub_R_T))
+		ExportScript.Tools.WriteToLog("lPCN_sub_L_B: "..string.format("%s", lPCN_sub_L_B))
+		ExportScript.Tools.WriteToLog("lPCN_sub_R_B: "..string.format("%s", lPCN_sub_R_B))
 		 -- string with max 9 charachters
 		ExportScript.Tools.WriteToLog("lPCN_main_L: "..string.format("%s", lPCN_main_L))
 		ExportScript.Tools.WriteToLog("lPCN_main_R: "..string.format("%s", lPCN_main_R))
 	end
-	ExportScript.Tools.SendData(2024, string.format("%s", lPCN_sub_L))
-	ExportScript.Tools.SendData(2025, string.format("%s", lPCN_sub_R))
-	ExportScript.Tools.SendData(2026, string.format("%s", lPCN_main_L))
-	ExportScript.Tools.SendData(2027, string.format("%s", lPCN_main_R))
+	ExportScript.Tools.SendData(2024, string.format("%s", lPCN_sub_L_T))
+	ExportScript.Tools.SendData(2025, string.format("%s", lPCN_sub_R_T))
+	ExportScript.Tools.SendData(2026, string.format("%s", lPCN_sub_L_B))
+	ExportScript.Tools.SendData(2027, string.format("%s", lPCN_sub_R_B))
+	ExportScript.Tools.SendData(2028, string.format("%s", lPCN_main_L))
+	ExportScript.Tools.SendData(2029, string.format("%s", lPCN_main_R))
 
 	-- PCN_BR (Naviagation, wahrscheinlich die Wegpunktanzeige)
 	local lPCNBR = list_indication(11)
@@ -958,9 +990,8 @@ function ExportScript.ProcessIkarusDCSConfigLowImportance(mainPanelDevice)
 		ExportScript.Tools.WriteToLog("lPCN_BR1: "..string.format("%s", lPCN_BR1))
 		ExportScript.Tools.WriteToLog("lPCN_BR2: "..string.format("%s", lPCN_BR2))
 	end
-	ExportScript.Tools.SendData(2028, string.format("%s", lPCN_BR1))
-	ExportScript.Tools.SendData(2029, string.format("%s", lPCN_BR2))
-	
+	ExportScript.Tools.SendData(2030, string.format("%s", lPCN_BR1))
+	ExportScript.Tools.SendData(2031, string.format("%s", lPCN_BR2))
 end
 
 function ExportScript.ProcessDACConfigLowImportance(mainPanelDevice)
@@ -976,7 +1007,28 @@ function ExportScript.ProcessDACConfigLowImportance(mainPanelDevice)
 	ExportScript.Tools.SendDataDAC("2000", string.format("%7.3f", UHF_RADIO:get_frequency()/1000000), 2) -- export to Hardware '2' Config
 	]]
 
-		-- ECM_CHF
+	--=====================================================================================
+	--[[
+	ExportScript.Tools.WriteToLog('list_cockpit_params(): '..ExportScript.Tools.dump(list_cockpit_params()))
+	ExportScript.Tools.WriteToLog('CMSP: '..ExportScript.Tools.dump(list_indication(7)))
+	
+	local ltmp1 = 0
+	for ltmp2 = 0, 30, 1 do
+		ltmp1 = list_indication(ltmp2)
+		ExportScript.Tools.WriteToLog(ltmp2..': '..ExportScript.Tools.dump(ltmp1))
+		--ExportScript.Tools.WriteToLog(ltmp2..' (metatable): '..ExportScript.Tools.dump(getmetatable(ltmp1)))
+	end
+	
+
+	local ltmp1 = 0
+	for ltmp2 = 1, 60, 1 do
+		ltmp1 = GetDevice(ltmp2)
+		ExportScript.Tools.WriteToLog(ltmp2..': '..ExportScript.Tools.dump(ltmp1))
+		ExportScript.Tools.WriteToLog(ltmp2..' (metatable): '..ExportScript.Tools.dump(getmetatable(ltmp1)))
+	end
+	]]
+
+	-- ECM_CHF
 	local lECM_CHF = list_indication(3)
 	lECM_CHF = lECM_CHF:gsub("-----------------------------------------", "")
 	lECM_CHF = lECM_CHF:gsub("text_ECM_CHF", "")
@@ -1113,9 +1165,7 @@ function ExportScript.ProcessDACConfigLowImportance(mainPanelDevice)
 
 	ExportScript.Tools.WriteToLog('list_cockpit_params(): '..ExportScript.Tools.dump(list_cockpit_params()))
 ]]
-
 end
-
 
 -----------------------------
 --     Custom functions    --
