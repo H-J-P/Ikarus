@@ -653,10 +653,10 @@
     <Classname>M2KC_ALT</Classname>
   </Classnames>
   <Classnames>
-    <Classname>M2KC_AP_Altitude</Classname>
+    <Classname>M2KC_AOA</Classname>
   </Classnames>
   <Classnames>
-    <Classname>M2KC_AOA</Classname>
+    <Classname>M2KC_AP_Altitude</Classname>
   </Classnames>
   <Classnames>
     <Classname>M2KC_ASI</Classname>
@@ -671,10 +671,10 @@
     <Classname>M2KC_CLOCK</Classname>
   </Classnames>
   <Classnames>
-    <Classname>M2KC_ALT</Classname>
+    <Classname>M2KC_Fuel</Classname>
   </Classnames>
   <Classnames>
-    <Classname>M2KC_Fuel</Classname>
+    <Classname>M2KC_HSI</Classname>
   </Classnames>
   <Classnames>
     <Classname>M2KC_LOX</Classname>

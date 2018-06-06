@@ -570,6 +570,180 @@
     <ExportIDWithDescription>468 - MAIN GEAR (GREEN)</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <DCS_ID>
+    <ExportID>2001</ExportID>
+    <Description>ENGINE DISPLAY DUCT</Description>
+    <ExportIDWithDescription>2001 - ENGINE DISPLAY DUCT</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2002</ExportID>
+    <Description>ENGINE DISPLAY RPM</Description>
+    <ExportIDWithDescription>2002 - ENGINE DISPLAY RPM</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2003</ExportID>
+    <Description>ENGINE DISPLAY FF</Description>
+    <ExportIDWithDescription>2003 - ENGINE DISPLAY FF</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2004</ExportID>
+    <Description>ENGINE DISPLAY JPT</Description>
+    <ExportIDWithDescription>2004 - ENGINE DISPLAY JPT</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2005</ExportID>
+    <Description>ENGINE DISPLAY STAB</Description>
+    <ExportIDWithDescription>2005 - ENGINE DISPLAY STAB</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2006</ExportID>
+    <Description>ENGINE DISPLAY H2O</Description>
+    <ExportIDWithDescription>2006 - ENGINE DISPLAY H2O</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2010</ExportID>
+    <Description>Fuel Total</Description>
+    <ExportIDWithDescription>2010 - Fuel Total</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2011</ExportID>
+    <Description>Fuel Left</Description>
+    <ExportIDWithDescription>2011 - Fuel Left</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2012</ExportID>
+    <Description>Fuel Right</Description>
+    <ExportIDWithDescription>2012 - Fuel Right</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2013</ExportID>
+    <Description>Fuel Bingo</Description>
+    <ExportIDWithDescription>2013 - Fuel Bingo</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2014</ExportID>
+    <Description>Flap Position</Description>
+    <ExportIDWithDescription>2014 - Flap Position</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2015</ExportID>
+    <Description>Brake</Description>
+    <ExportIDWithDescription>2015 - Brake</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2016</ExportID>
+    <Description>HYD1</Description>
+    <ExportIDWithDescription>2016 - HYD1</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2017</ExportID>
+    <Description>HYD2</Description>
+    <ExportIDWithDescription>2017 - HYD2</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2018</ExportID>
+    <Description>AMARMENT PANEL Mode</Description>
+    <ExportIDWithDescription>2018 - AMARMENT PANEL Mode</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2019</ExportID>
+    <Description>AMARMENT PANEL FUZ</Description>
+    <ExportIDWithDescription>2019 - AMARMENT PANEL FUZ</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2020</ExportID>
+    <Description>AMARMENT PANEL InVT</Description>
+    <ExportIDWithDescription>2020 - AMARMENT PANEL InVT</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2021</ExportID>
+    <Description>AMARMENT PANEL MULT</Description>
+    <ExportIDWithDescription>2021 - AMARMENT PANEL MULT</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2022</ExportID>
+    <Description>AMARMENT PANEL QTY</Description>
+    <ExportIDWithDescription>2022 - AMARMENT PANEL QTY</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2023</ExportID>
+    <Description>UFC Chnl1</Description>
+    <ExportIDWithDescription>2023 - UFC Chnl1</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2024</ExportID>
+    <Description>UFC Chnl2</Description>
+    <ExportIDWithDescription>2024 - UFC Chnl2</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2025</ExportID>
+    <Description>UFC Display</Description>
+    <ExportIDWithDescription>2025 - UFC Display</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2026</ExportID>
+    <Description>ODU Text1</Description>
+    <ExportIDWithDescription>2026 - ODU Text1</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2027</ExportID>
+    <Description>ODU Text2</Description>
+    <ExportIDWithDescription>2027 - ODU Text2</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2028</ExportID>
+    <Description>ODU Text3</Description>
+    <ExportIDWithDescription>2028 - ODU Text3</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2029</ExportID>
+    <Description>ODU Text4</Description>
+    <ExportIDWithDescription>2029 - ODU Text4</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2030</ExportID>
+    <Description>ODU Text5</Description>
+    <ExportIDWithDescription>2030 - ODU Text5</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2031</ExportID>
+    <Description>UVHF_Channel</Description>
+    <ExportIDWithDescription>2031 - UVHF_Channel</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2032</ExportID>
+    <Description>UHF_Freq_Left</Description>
+    <ExportIDWithDescription>2032 - UHF_Freq_Left</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
   <Clickabledata>
     <ID>0</ID>
     <DeviceID>11</DeviceID>

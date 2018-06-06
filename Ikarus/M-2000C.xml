@@ -846,6 +846,156 @@
     <ExportIDWithDescription>634 - TACAN "F"</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <DCS_ID>
+    <ExportID>2001</ExportID>
+    <Description>ECM_CHF</Description>
+    <ExportIDWithDescription>2001 - ECM_CHF</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2002</ExportID>
+    <Description>ECM_FLR</Description>
+    <ExportIDWithDescription>2002 - ECM_FLR</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2003</ExportID>
+    <Description>FUEL</Description>
+    <ExportIDWithDescription>2003 - FUEL</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2010</ExportID>
+    <Description>PCA_UR1</Description>
+    <ExportIDWithDescription>2010 - PCA_UR1</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2011</ExportID>
+    <Description>PCA_UR2</Description>
+    <ExportIDWithDescription>2011 - PCA_UR2</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2012</ExportID>
+    <Description>PCA_UR3</Description>
+    <ExportIDWithDescription>2012 - PCA_UR3</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2013</ExportID>
+    <Description>PCA_UR4</Description>
+    <ExportIDWithDescription>2013 - PCA_UR4</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2014</ExportID>
+    <Description>PCA_UR5</Description>
+    <ExportIDWithDescription>2014 - PCA_UR5</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2015</ExportID>
+    <Description>PCA_BR1</Description>
+    <ExportIDWithDescription>2015 - PCA_BR1</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2016</ExportID>
+    <Description>PCA_BR2</Description>
+    <ExportIDWithDescription>2016 - PCA_BR2</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2017</ExportID>
+    <Description>PCA_BR3</Description>
+    <ExportIDWithDescription>2017 - PCA_BR3</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2018</ExportID>
+    <Description>PCA_BR4</Description>
+    <ExportIDWithDescription>2018 - PCA_BR4</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2019</ExportID>
+    <Description>PCA_BR5</Description>
+    <ExportIDWithDescription>2019 - PCA_BR5</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2020</ExportID>
+    <Description>COM1</Description>
+    <ExportIDWithDescription>2020 - COM1</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2021</ExportID>
+    <Description>COM2</Description>
+    <ExportIDWithDescription>2021 - COM2</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2022</ExportID>
+    <Description>PPA1</Description>
+    <ExportIDWithDescription>2022 - PPA1</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2023</ExportID>
+    <Description>PPA2</Description>
+    <ExportIDWithDescription>2023 - PPA2</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2024</ExportID>
+    <Description>PCN_sub_L_T</Description>
+    <ExportIDWithDescription>2024 - PCN_sub_L_T</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2025</ExportID>
+    <Description>PCN_sub_R_T</Description>
+    <ExportIDWithDescription>2025 - PCN_sub_R_T</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2026</ExportID>
+    <Description>PCN_sub_L_B</Description>
+    <ExportIDWithDescription>2026 - PCN_sub_L_B</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2027</ExportID>
+    <Description>PCN_sub_R_B</Description>
+    <ExportIDWithDescription>2027 - PCN_sub_R_B</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2028</ExportID>
+    <Description>PCN_main_L</Description>
+    <ExportIDWithDescription>2028 - PCN_main_L</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2029</ExportID>
+    <Description>PCN_main_R</Description>
+    <ExportIDWithDescription>2029 - PCN_main_R</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2030</ExportID>
+    <Description>PCN_BR1</Description>
+    <ExportIDWithDescription>2030 - PCN_BR1</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2031</ExportID>
+    <Description>PCN_BR2</Description>
+    <ExportIDWithDescription>2031 - PCN_BR2</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
   <Clickabledata>
     <ID>0</ID>
     <DeviceID>4</DeviceID>

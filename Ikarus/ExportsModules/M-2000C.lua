@@ -148,9 +148,11 @@ ExportScript.ConfigEveryFrameArguments =
 	[338] = "%.4f",	--Drum 00X0 
 	[339] = "%.4f",	--Drum 000X
 	[342] = "%.4f",	--Compass rose
-	[344] = "%.1f",	--HSIflag1
-	[345] = "%.1f",	--HSIflag2
-	[346] = "%.1f",	--HSIflag_CAP
+	[344] = "%.1f",	--HSI Flag 1
+	[345] = "%.1f",	--HSI Flag 2
+	[346] = "%.1f",	--HSI Flag CAP
+	[341] = "%.1f",	--HSI Mode
+	[343] = "%.1f",	--DME Off Flag
 
 -- ACC indicator
 	[347] = "%.4f",	--needle

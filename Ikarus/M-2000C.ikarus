@@ -781,8 +781,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,0.5,1.0</Input>
-    <Output>0,127,276</Output>
+    <Input>0.0,0.2,0.4,,0.6,0.8,1.1</Input>
+    <Output>0,54,106,149,195,276</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -1144,7 +1144,7 @@
   <Functions>
     <IDInst>10</IDInst>
     <IDFct>9</IDFct>
-    <Name>HSIflag1</Name>
+    <Name>HSI Flag 1</Name>
     <Arg_number>344</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1160,7 +1160,7 @@
   <Functions>
     <IDInst>10</IDInst>
     <IDFct>10</IDFct>
-    <Name>HSIflag2</Name>
+    <Name>HSI Flag 2</Name>
     <Arg_number>345</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1176,7 +1176,7 @@
   <Functions>
     <IDInst>10</IDInst>
     <IDFct>11</IDFct>
-    <Name>HSIflag_CAP</Name>
+    <Name>HSI Flag CAP</Name>
     <Arg_number>346</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -1840,6 +1840,38 @@
     <Input>58EB66</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>12</IDFct>
+    <Name>HSI Mode</Name>
+    <Arg_number>341</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>10</IDInst>
+    <IDFct>13</IDFct>
+    <Name>DME Off Flag</Name>
+    <Arg_number>343</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
     <In />
@@ -3924,7 +3956,7 @@
   <Window>
     <WindowID>1</WindowID>
     <Name>Main</Name>
-    <PosX>0</PosX>
+    <PosX>-700</PosX>
     <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
