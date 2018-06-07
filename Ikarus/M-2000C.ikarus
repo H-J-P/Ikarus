@@ -1197,8 +1197,8 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Input>0.0,0.05,0.1,0.15,0.2,0.3</Input>
+    <Output>0,-62,-127,-190,-238,-335</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -3956,7 +3956,7 @@
   <Window>
     <WindowID>1</WindowID>
     <Name>Main</Name>
-    <PosX>-700</PosX>
+    <PosX>0</PosX>
     <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
