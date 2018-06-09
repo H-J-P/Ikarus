@@ -76,6 +76,7 @@ ExportScript.ConfigEveryFrameArguments =
 	[293] = "%.1f",	--blank2
 	[295] = "%.1f", --left
 	[296] = "%.1f",	--blank L
+	[297] = "%.1f",	--G
 	[298] = "%.1f",	--blank G
 
 -- div. lights

@@ -283,6 +283,12 @@
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
+    <ExportID>297</ExportID>
+    <Description>AUTOPILOT G</Description>
+    <ExportIDWithDescription>297 - AUTOPILOT G</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
     <ExportID>298</ExportID>
     <Description>AUTOPILOT blank G</Description>
     <ExportIDWithDescription>298 - AUTOPILOT blank G</ExportIDWithDescription>

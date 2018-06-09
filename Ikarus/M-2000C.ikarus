@@ -3167,6 +3167,186 @@
     <Rotate>0</Rotate>
     <WindowID>4</WindowID>
   </Lamps>
+  <Lamps>
+    <ID>87</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>283</Arg_number>
+    <Name>283 - AUTOPILOT P</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Autopilot_P_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Autopilot_P_Off.png</FilePictureOff>
+    <PosX>128</PosX>
+    <PosY>429</PosY>
+    <Size>70</Size>
+    <Rotate>-44</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>88</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>284</Arg_number>
+    <Name>284 - AUTOPILOT A</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Autopilot_A_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Autopilot_A_Off.png</FilePictureOff>
+    <PosX>128</PosX>
+    <PosY>429</PosY>
+    <Size>70</Size>
+    <Rotate>-44</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>89</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>286</Arg_number>
+    <Name>286 - AUTOPILOT Alt 1</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Autopilot_Alt_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Autopilot_Alt_Off.png</FilePictureOff>
+    <PosX>179</PosX>
+    <PosY>382</PosY>
+    <Size>70</Size>
+    <Rotate>-44</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>90</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>287</Arg_number>
+    <Name>287 - AUTOPILOT blank Alt</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Autopilot_Yellow_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Autopilot_Yellow_Off.png</FilePictureOff>
+    <PosX>179</PosX>
+    <PosY>382</PosY>
+    <Size>70</Size>
+    <Rotate>-44</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>91</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>289</Arg_number>
+    <Name>289 - AUTOPILOT Alt 2</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Autopilot_Alt_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Autopilot_Alt_Off.png</FilePictureOff>
+    <PosX>227</PosX>
+    <PosY>334</PosY>
+    <Size>70</Size>
+    <Rotate>-44</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>92</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>290</Arg_number>
+    <Name>290 - AUTOPILOT AFF</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Autopilot_AFF_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Autopilot_AFF_Off.png</FilePictureOff>
+    <PosX>227</PosX>
+    <PosY>334</PosY>
+    <Size>70</Size>
+    <Rotate>-44</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>93</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>292</Arg_number>
+    <Name>292 - AUTOPILOT blank1</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Autopilot_Green_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Autopilot_Green_Off.png</FilePictureOff>
+    <PosX>275</PosX>
+    <PosY>286</PosY>
+    <Size>70</Size>
+    <Rotate>-44</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>94</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>293</Arg_number>
+    <Name>293 - AUTOPILOT blank2</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Autopilot_Yellow_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Autopilot_Yellow_Off.png</FilePictureOff>
+    <PosX>275</PosX>
+    <PosY>286</PosY>
+    <Size>70</Size>
+    <Rotate>-44</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>95</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>295</Arg_number>
+    <Name>295 - AUTOPILOT left</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Autopilot_L_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Autopilot_L_Off.png</FilePictureOff>
+    <PosX>323</PosX>
+    <PosY>239</PosY>
+    <Size>70</Size>
+    <Rotate>-44</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>96</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>296</Arg_number>
+    <Name>296 - AUTOPILOT blank L</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Autopilot_YLD_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Autopilot_YLD_Off.png</FilePictureOff>
+    <PosX>323</PosX>
+    <PosY>239</PosY>
+    <Size>70</Size>
+    <Rotate>-44</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>97</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>297</Arg_number>
+    <Name>297 - AUTOPILOT G</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Autopilot_G_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Autopilot_G_Off.png</FilePictureOff>
+    <PosX>323</PosX>
+    <PosY>239</PosY>
+    <Size>70</Size>
+    <Rotate>-44</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>98</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>298</Arg_number>
+    <Name>298 - AUTOPILOT blank G</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Autopilot_YRD_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Autopilot_YRD_Off.png</FilePictureOff>
+    <PosX>323</PosX>
+    <PosY>239</PosY>
+    <Size>70</Size>
+    <Rotate>-44</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
   <Switches>
     <ID>1</ID>
     <Class>SwitchPanelOffOn</Class>
@@ -3937,6 +4117,111 @@
     <DontReset>false</DontReset>
     <WindowID>6</WindowID>
     <DcsID>395</DcsID>
+  </Switches>
+  <Switches>
+    <ID>38</ID>
+    <Class>Button</Class>
+    <ClickabledataID>45</ClickabledataID>
+    <Name>Autopilot Master</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>138</PosX>
+    <PosY>439</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>282</DcsID>
+  </Switches>
+  <Switches>
+    <ID>39</ID>
+    <Class>Button</Class>
+    <ClickabledataID>46</ClickabledataID>
+    <Name>Autopilot - Altitude Hold</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>188</PosX>
+    <PosY>390</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>285</DcsID>
+  </Switches>
+  <Switches>
+    <ID>40</ID>
+    <Class>Button</Class>
+    <ClickabledataID>47</ClickabledataID>
+    <Name>Autopilot - Selected Altitude Hold</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>235</PosX>
+    <PosY>341</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>288</DcsID>
+  </Switches>
+  <Switches>
+    <ID>41</ID>
+    <Class>Button</Class>
+    <ClickabledataID>48</ClickabledataID>
+    <Name>Autopilot - Approach Hold</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>332</PosX>
+    <PosY>249</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>294</DcsID>
+  </Switches>
+  <Switches>
+    <ID>42</ID>
+    <Class>Button</Class>
+    <ClickabledataID>49</ClickabledataID>
+    <Name>Autopilot - Lights Test</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Button3On.png</FilePictureOn>
+    <FilePictureOff>Button3Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>108</PosX>
+    <PosY>475</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>302</DcsID>
   </Switches>
   <Accessories>
     <ID>1</ID>
