@@ -2426,6 +2426,30 @@
     <Type>Switch</Type>
     <DcsID>395</DcsID>
   </Clickabledata>
+  <Clickabledata>
+    <ID>180</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>328</ButtonID>
+    <Discription>Backup ADI Cage/Pitch Adjust Knob</Discription>
+    <Type>Switch</Type>
+    <DcsID>328</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>181</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>360</ButtonID>
+    <Discription>Bingo Fuel 1,000 kg Selector</Discription>
+    <Type>Rotary</Type>
+    <DcsID>360</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>182</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>361</ButtonID>
+    <Discription>Bingo Fuel 100 kg Selector</Discription>
+    <Type>Rotary</Type>
+    <DcsID>361</DcsID>
+  </Clickabledata>
   <Devices>
     <DeviceID>1</DeviceID>
     <Discription>FLIGHTINST</Discription>
