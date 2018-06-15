@@ -781,7 +781,7 @@
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,0.2,0.4,,0.6,0.8,1.1</Input>
+    <Input>0.0,0.2,0.4,0.6,0.8,1.1</Input>
     <Output>0,54,106,149,195,276</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
