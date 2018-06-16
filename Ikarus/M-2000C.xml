@@ -2450,6 +2450,14 @@
     <Type>Rotary</Type>
     <DcsID>361</DcsID>
   </Clickabledata>
+  <Clickabledata>
+    <ID>183</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>309</ButtonID>
+    <Discription>Barometric Pressure Calibration</Discription>
+    <Type>Rotary</Type>
+    <DcsID>309</DcsID>
+  </Clickabledata>
   <Devices>
     <DeviceID>1</DeviceID>
     <Discription>FLIGHTINST</Discription>

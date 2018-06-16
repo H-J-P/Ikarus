@@ -586,6 +586,10 @@ ExportScript.ConfigArguments =
 	[705] = "%.1f",	--Marker Signal Volume
 	[706] = "%.1f",	--V/UHF Radio Volume
 	[707] = "%.1f",	--VHF Radio Volume
+	
+-- ALT
+	[309] = "%.1f",	--Barometric Pressure Calibration
+
 }
 
 -----------------------------

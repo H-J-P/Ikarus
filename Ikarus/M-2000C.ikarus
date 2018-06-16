@@ -173,9 +173,9 @@
     <IDInst>14</IDInst>
     <Name>Bingo Fuel</Name>
     <Class>M2KC_BingoFuel</Class>
-    <PosX>1730</PosX>
-    <PosY>522</PosY>
-    <Size>145</Size>
+    <PosX>1751</PosX>
+    <PosY>528</PosY>
+    <Size>135</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -238,8 +238,8 @@
     <IDInst>19</IDInst>
     <Name>Fuel</Name>
     <Class>Display7Segment</Class>
-    <PosX>1760</PosX>
-    <PosY>535</PosY>
+    <PosX>1775</PosX>
+    <PosY>538</PosY>
     <Size>80</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -4580,8 +4580,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output> 0, 360</Output>
-    <PosX>606</PosX>
-    <PosY>794</PosY>
+    <PosX>604</PosX>
+    <PosY>792</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4664,9 +4664,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output> 0, 1.0</Output>
-    <PosX>1810</PosX>
-    <PosY>607</PosY>
-    <Size>75</Size>
+    <PosX>1777</PosX>
+    <PosY>590</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -4685,9 +4685,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output> 0, 1.0</Output>
-    <PosX>1776</PosX>
-    <PosY>608</PosY>
-    <Size>75</Size>
+    <PosX>1826</PosX>
+    <PosY>590</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -4706,9 +4706,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output>0.0,1.0</Output>
-    <PosX>76</PosX>
-    <PosY>542</PosY>
-    <Size>100</Size>
+    <PosX>80</PosX>
+    <PosY>539</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -4727,9 +4727,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output>0.0,1.0</Output>
-    <PosX>118</PosX>
-    <PosY>534</PosY>
-    <Size>100</Size>
+    <PosX>125</PosX>
+    <PosY>539</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -4750,12 +4750,33 @@
     <Output>0.0,1.0</Output>
     <PosX>168</PosX>
     <PosY>539</PosY>
-    <Size>100</Size>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
     <DcsID>301</DcsID>
+  </Switches>
+  <Switches>
+    <ID>63</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>183</ClickabledataID>
+    <Name>Barometric Pressure Calibration</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>Knop4.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>261</PosX>
+    <PosY>790</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>309</DcsID>
   </Switches>
   <Accessories>
     <ID>1</ID>
