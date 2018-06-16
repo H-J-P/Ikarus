@@ -493,8 +493,11 @@ ExportScript.ConfigArguments =
 	[593] = "%.1f",	--INS Button 0
 	[594] = "%.1f",	--INS Clear Button
 	[596] = "%.1f",	--INS ENTER Button
+
+	-- PSM
 	[627] = "%.1f",	--INS Mode Selector
 	[629] = "%.1f",	--INS Operational Mode
+	[665] = "%.1f",	--INS Auxiliary Heading/Horizon
 	
 -- EW PANEL
 	[605] = "%.1f",	--EW Mode Selector Switch

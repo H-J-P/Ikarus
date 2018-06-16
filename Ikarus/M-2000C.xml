@@ -2458,6 +2458,14 @@
     <Type>Rotary</Type>
     <DcsID>309</DcsID>
   </Clickabledata>
+  <Clickabledata>
+    <ID>184</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>665</ButtonID>
+    <Discription>INS Auxiliary Heading/Horizon</Discription>
+    <Type>Rotary</Type>
+    <DcsID>665</DcsID>
+  </Clickabledata>
   <Devices>
     <DeviceID>1</DeviceID>
     <Discription>FLIGHTINST</Discription>
