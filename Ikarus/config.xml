@@ -5,7 +5,7 @@
     <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-    <File>F-5E-3.ikarus</File>
+    <File>M-2000C.ikarus</File>
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
@@ -150,6 +150,12 @@
   </Classnames>
   <Classnames>
     <Classname>AV8BNA_Clock</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AV8BNA_Nozzle</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>AV8BNA_Nozzle2</Classname>
   </Classnames>
   <Classnames>
     <Classname>AV8BNA_Rudder</Classname>
@@ -633,6 +639,51 @@
   </Classnames>
   <Classnames>
     <Classname>LwVVI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_ACC</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_ADI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_ADI_stby</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_ALT</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_AOA</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_AP_Altitude</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_ASI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_BingoFuel</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_Cabin</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_CLOCK</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_Fuel</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_HSI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_LOX</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_N2T</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>M2KC_VVI</Classname>
   </Classnames>
   <Classnames>
     <Classname>MI8_ALT</Classname>
@@ -1163,6 +1214,9 @@
     <Classname>US_ADI_Sphere</Classname>
   </Classnames>
   <Classnames>
+    <Classname>US_ADI_Sphere2</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>US_ADIstby</Classname>
   </Classnames>
   <Classnames>
@@ -1173,6 +1227,9 @@
   </Classnames>
   <Classnames>
     <Classname>US_Clock</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>US_Compass</Classname>
   </Classnames>
   <Classnames>
     <Classname>US_HSI</Classname>

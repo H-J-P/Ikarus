@@ -611,20 +611,6 @@
   </Functions>
   <Functions>
     <IDInst>2</IDInst>
-    <IDFct>4</IDFct>
-    <Name>-</Name>
-    <Arg_number>400</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-  </Functions>
-  <Functions>
-    <IDInst>2</IDInst>
     <IDFct>5</IDFct>
     <Name>St left back side</Name>
     <Arg_number>451</Arg_number>
