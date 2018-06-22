@@ -1002,6 +1002,42 @@
     <ExportIDWithDescription>2031 - PCN_BR2</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
+  <DCS_ID>
+    <ExportID>2032</ExportID>
+    <Description>Mode 1. Drum</Description>
+    <ExportIDWithDescription>2032 - Mode 1. Drum</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2033</ExportID>
+    <Description>Mode 2. Drum</Description>
+    <ExportIDWithDescription>2033 - Mode 2. Drum</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2034</ExportID>
+    <Description>Mode 3. Drum</Description>
+    <ExportIDWithDescription>2034 - Mode 3. Drum</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2035</ExportID>
+    <Description>Mode 4. Drum</Description>
+    <ExportIDWithDescription>2035 - Mode 4. Drum</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2036</ExportID>
+    <Description>Mode VOR ILS</Description>
+    <ExportIDWithDescription>2036 - Mode VOR ILS</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2037</ExportID>
+    <Description>Mode TACAN</Description>
+    <ExportIDWithDescription>2037 - Mode TACAN</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
   <Clickabledata>
     <ID>0</ID>
     <DeviceID>4</DeviceID>
@@ -2465,6 +2501,46 @@
     <Discription>INS Auxiliary Heading/Horizon</Discription>
     <Type>Rotary</Type>
     <DcsID>665</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>185</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>576</ButtonID>
+    <Discription>Offset Waypoint/Target</Discription>
+    <Type>Switch</Type>
+    <DcsID>576</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>186</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>578</ButtonID>
+    <Discription>INS Update</Discription>
+    <Type>Switch</Type>
+    <DcsID>578</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>187</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>580</ButtonID>
+    <Discription>Validate Data Entry</Discription>
+    <Type>Switch</Type>
+    <DcsID>580</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>188</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>582</ButtonID>
+    <Discription>Mark Position</Discription>
+    <Type>Switch</Type>
+    <DcsID>582</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>189</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>667</ButtonID>
+    <Discription>AUTO Navigation</Discription>
+    <Type>Switch</Type>
+    <DcsID>667</DcsID>
   </Clickabledata>
   <Devices>
     <DeviceID>1</DeviceID>

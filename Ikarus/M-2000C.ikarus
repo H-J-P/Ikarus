@@ -69,14 +69,14 @@
     <IDInst>6</IDInst>
     <Name>LOX</Name>
     <Class>M2KC_LOX</Class>
-    <PosX>23</PosX>
-    <PosY>890</PosY>
-    <Size>155</Size>
+    <PosX>24</PosX>
+    <PosY>141</PosY>
+    <Size>180</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>3</WindowID>
+    <WindowID>6</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>7</IDInst>
@@ -433,9 +433,9 @@
     <IDInst>34</IDInst>
     <Name>PCN sub l t</Name>
     <Class>DisplayDotMatrix</Class>
-    <PosX>167</PosX>
-    <PosY>110</PosY>
-    <Size>20</Size>
+    <PosX>40</PosX>
+    <PosY>8</PosY>
+    <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -446,9 +446,9 @@
     <IDInst>35</IDInst>
     <Name>PCN sub r t</Name>
     <Class>DisplayDotMatrix</Class>
-    <PosX>327</PosX>
-    <PosY>110</PosY>
-    <Size>20</Size>
+    <PosX>232</PosX>
+    <PosY>8</PosY>
+    <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -459,9 +459,9 @@
     <IDInst>36</IDInst>
     <Name>PCN sub l b</Name>
     <Class>DisplayDotMatrix</Class>
-    <PosX>167</PosX>
-    <PosY>130</PosY>
-    <Size>20</Size>
+    <PosX>40</PosX>
+    <PosY>32</PosY>
+    <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -472,9 +472,9 @@
     <IDInst>37</IDInst>
     <Name>PCN sub r b</Name>
     <Class>DisplayDotMatrix</Class>
-    <PosX>327</PosX>
-    <PosY>130</PosY>
-    <Size>20</Size>
+    <PosX>232</PosX>
+    <PosY>32</PosY>
+    <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -485,9 +485,9 @@
     <IDInst>38</IDInst>
     <Name>PCN main l</Name>
     <Class>Display7Segment</Class>
-    <PosX>190</PosX>
-    <PosY>110</PosY>
-    <Size>130</Size>
+    <PosX>72</PosX>
+    <PosY>12</PosY>
+    <Size>155</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -498,9 +498,9 @@
     <IDInst>39</IDInst>
     <Name>PCN main r</Name>
     <Class>Display7Segment</Class>
-    <PosX>345</PosX>
-    <PosY>110</PosY>
-    <Size>130</Size>
+    <PosX>264</PosX>
+    <PosY>12</PosY>
+    <Size>155</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -511,8 +511,8 @@
     <IDInst>40</IDInst>
     <Name>PCN BR1</Name>
     <Class>Display7Segment</Class>
-    <PosX>33</PosX>
-    <PosY>230</PosY>
+    <PosX>43</PosX>
+    <PosY>63</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -524,8 +524,86 @@
     <IDInst>41</IDInst>
     <Name>PCN BR2</Name>
     <Class>Display7Segment</Class>
-    <PosX>130</PosX>
-    <PosY>230</PosY>
+    <PosX>154</PosX>
+    <PosY>65</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>3</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>42</IDInst>
+    <Name>Mode 1. Drum</Name>
+    <Class>Display7Segment</Class>
+    <PosX>160</PosX>
+    <PosY>425</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>3</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>43</IDInst>
+    <Name>Mode 2. Drum</Name>
+    <Class>Display7Segment</Class>
+    <PosX>200</PosX>
+    <PosY>425</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>3</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>44</IDInst>
+    <Name>Mode 3. Drum</Name>
+    <Class>Display7Segment</Class>
+    <PosX>242</PosX>
+    <PosY>425</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>3</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>45</IDInst>
+    <Name>Mode 4. Drum</Name>
+    <Class>Display7Segment</Class>
+    <PosX>285</PosX>
+    <PosY>425</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>3</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>46</IDInst>
+    <Name>VOR ILS</Name>
+    <Class>Display7Segment</Class>
+    <PosX>57</PosX>
+    <PosY>721</PosY>
+    <Size>80</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>3</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>47</IDInst>
+    <Name>TACAN</Name>
+    <Class>Display7Segment</Class>
+    <PosX>282</PosX>
+    <PosY>713</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -1872,6 +1950,102 @@
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>42</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Mode 1. Drum</Name>
+    <Arg_number>2032</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>1</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>43</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Mode 2. Drum</Name>
+    <Arg_number>2033</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>1</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>44</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Mode 3. Drum</Name>
+    <Arg_number>2034</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>1</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>45</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Mode 4. Drum</Name>
+    <Arg_number>2035</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>1</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>46</IDInst>
+    <IDFct>1</IDFct>
+    <Name>VOR ILS</Name>
+    <Arg_number>2036</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>5</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>47</IDInst>
+    <IDFct>1</IDFct>
+    <Name>TACAN</Name>
+    <Arg_number>2037</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>4</Output>
+    <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
     <In />
@@ -3482,6 +3656,276 @@
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
+  <Lamps>
+    <ID>108</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>571</Arg_number>
+    <Name>571 - “PREP”</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_PREP_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_PREP_Off.png</FilePictureOff>
+    <PosX>75</PosX>
+    <PosY>149</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>109</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>573</Arg_number>
+    <Name>573 - “DEST”</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_DEST_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_DEST_Off.png</FilePictureOff>
+    <PosX>216</PosX>
+    <PosY>149</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>110</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>577</Arg_number>
+    <Name>577 - “BAD”</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_BAD_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_BAD_Off.png</FilePictureOff>
+    <PosX>216</PosX>
+    <PosY>217</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>111</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>579</Arg_number>
+    <Name>579 - “REC”</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_REC_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_REC_Off.png</FilePictureOff>
+    <PosX>217</PosX>
+    <PosY>267</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>112</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>583</Arg_number>
+    <Name>583 - “MRC”</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_MRQ_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_MRQ_Off.png</FilePictureOff>
+    <PosX>217</PosX>
+    <PosY>317</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>113</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>581</Arg_number>
+    <Name>581 - “VAL”</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_VAL_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_VAL_Off.png</FilePictureOff>
+    <PosX>133</PosX>
+    <PosY>317</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>114</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>595</Arg_number>
+    <Name>595 - “EFF”</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_EFF_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_EFF_Off.png</FilePictureOff>
+    <PosX>289</PosX>
+    <PosY>316</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>115</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>597</Arg_number>
+    <Name>597 - “INS”</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_INS_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_INS_Off.png</FilePictureOff>
+    <PosX>395</PosX>
+    <PosY>318</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>116</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>668</Arg_number>
+    <Name>668 - “ENC”</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_ENC_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_ENC_Off.png</FilePictureOff>
+    <PosX>125</PosX>
+    <PosY>153</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>117</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>564</Arg_number>
+    <Name>564 - Right Console “PRET”</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_PRET_On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>256</PosX>
+    <PosY>86</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>118</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>565</Arg_number>
+    <Name>565 - „ALN“</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_ALN_On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>291</PosX>
+    <PosY>86</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>119</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>566</Arg_number>
+    <Name>566 - „MIP“</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_MIP_On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>326</PosX>
+    <PosY>86</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>120</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>567</Arg_number>
+    <Name>567 - „N.DEG“</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_NDEG_On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>361</PosX>
+    <PosY>86</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>121</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>568</Arg_number>
+    <Name>568 - „SEC“</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_SEC_On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>396</PosX>
+    <PosY>86</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>122</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>569</Arg_number>
+    <Name>569 - „UNI“</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_UNI_On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>292</PosX>
+    <PosY>100</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>123</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>669</Arg_number>
+    <Name>669 - „M01”</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_M91_On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>291</PosX>
+    <PosY>71</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>124</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>670</Arg_number>
+    <Name>670 - „M02“</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_M92_On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>325</PosX>
+    <PosY>71</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>125</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>671</Arg_number>
+    <Name>671 - „M03“</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_M93_On.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>360</PosX>
+    <PosY>71</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <WindowID>3</WindowID>
+  </Lamps>
   <Switches>
     <ID>1</ID>
     <Class>SwitchPanelOffOn</Class>
@@ -3513,10 +3957,10 @@
     <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>3</Input>
-    <Output>0</Output>
+    <Output>1</Output>
     <PosX>1874</PosX>
     <PosY>967</PosY>
-    <Size>35</Size>
+    <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -4665,7 +5109,7 @@
     <Input>0.0,1.0,0.1</Input>
     <Output> 0, 1.0</Output>
     <PosX>1777</PosX>
-    <PosY>590</PosY>
+    <PosY>603</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4686,7 +5130,7 @@
     <Input>0.0,1.0,0.1</Input>
     <Output> 0, 1.0</Output>
     <PosX>1826</PosX>
-    <PosY>590</PosY>
+    <PosY>603</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4707,7 +5151,7 @@
     <Input>0.0,1.0,0.1</Input>
     <Output>0.0,1.0</Output>
     <PosX>80</PosX>
-    <PosY>539</PosY>
+    <PosY>545</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4728,7 +5172,7 @@
     <Input>0.0,1.0,0.1</Input>
     <Output>0.0,1.0</Output>
     <PosX>125</PosX>
-    <PosY>539</PosY>
+    <PosY>545</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4749,7 +5193,7 @@
     <Input>0.0,1.0,0.1</Input>
     <Output>0.0,1.0</Output>
     <PosX>168</PosX>
-    <PosY>539</PosY>
+    <PosY>545</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4778,6 +5222,468 @@
     <WindowID>1</WindowID>
     <DcsID>309</DcsID>
   </Switches>
+  <Switches>
+    <ID>64</ID>
+    <Class>Button</Class>
+    <ClickabledataID>88</ClickabledataID>
+    <Name>INS PREP Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>71</PosX>
+    <PosY>146</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>570</DcsID>
+  </Switches>
+  <Switches>
+    <ID>65</ID>
+    <Class>Button</Class>
+    <ClickabledataID>89</ClickabledataID>
+    <Name>INS DEST Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>214</PosX>
+    <PosY>147</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>572</DcsID>
+  </Switches>
+  <Switches>
+    <ID>66</ID>
+    <Class>Button</Class>
+    <ClickabledataID>101</ClickabledataID>
+    <Name>INS Clear Button</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>284</PosX>
+    <PosY>313</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>594</DcsID>
+  </Switches>
+  <Switches>
+    <ID>67</ID>
+    <Class>Button</Class>
+    <ClickabledataID>102</ClickabledataID>
+    <Name>INS ENTER Button</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>392</PosX>
+    <PosY>315</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>596</DcsID>
+  </Switches>
+  <Switches>
+    <ID>68</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>90</ClickabledataID>
+    <Name>INS Parameter Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_Rotary.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0</Input>
+    <Output> -135,-115, -90, -67.5, -45, 0, 35, 60, 90,135,180</Output>
+    <PosX>64</PosX>
+    <PosY>203</PosY>
+    <Size>90</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>574</DcsID>
+  </Switches>
+  <Switches>
+    <ID>69</ID>
+    <Class>Button</Class>
+    <ClickabledataID>91</ClickabledataID>
+    <Name>INS Button 1</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_1_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_1_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>287</PosX>
+    <PosY>149</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>584</DcsID>
+  </Switches>
+  <Switches>
+    <ID>70</ID>
+    <Class>Button</Class>
+    <ClickabledataID>92</ClickabledataID>
+    <Name>INS Button 2</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_2_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_2_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>341</PosX>
+    <PosY>149</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>585</DcsID>
+  </Switches>
+  <Switches>
+    <ID>71</ID>
+    <Class>Button</Class>
+    <ClickabledataID>93</ClickabledataID>
+    <Name>INS Button 3</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_3_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_3_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>394</PosX>
+    <PosY>149</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>586</DcsID>
+  </Switches>
+  <Switches>
+    <ID>72</ID>
+    <Class>Button</Class>
+    <ClickabledataID>94</ClickabledataID>
+    <Name>INS Button 4</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_4_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_4_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>287</PosX>
+    <PosY>204</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>587</DcsID>
+  </Switches>
+  <Switches>
+    <ID>73</ID>
+    <Class>Button</Class>
+    <ClickabledataID>95</ClickabledataID>
+    <Name>INS Button 5</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_5_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_5_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>341</PosX>
+    <PosY>204</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>588</DcsID>
+  </Switches>
+  <Switches>
+    <ID>74</ID>
+    <Class>Button</Class>
+    <ClickabledataID>96</ClickabledataID>
+    <Name>INS Button 6</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_6_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_6_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>393</PosX>
+    <PosY>204</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>589</DcsID>
+  </Switches>
+  <Switches>
+    <ID>75</ID>
+    <Class>Button</Class>
+    <ClickabledataID>97</ClickabledataID>
+    <Name>INS Button 7</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_7_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_7_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>287</PosX>
+    <PosY>259</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>590</DcsID>
+  </Switches>
+  <Switches>
+    <ID>76</ID>
+    <Class>Button</Class>
+    <ClickabledataID>98</ClickabledataID>
+    <Name>INS Button 8</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_8_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_8_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>341</PosX>
+    <PosY>259</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>591</DcsID>
+  </Switches>
+  <Switches>
+    <ID>77</ID>
+    <Class>Button</Class>
+    <ClickabledataID>99</ClickabledataID>
+    <Name>INS Button 9</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_9_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_9_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>393</PosX>
+    <PosY>259</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>592</DcsID>
+  </Switches>
+  <Switches>
+    <ID>78</ID>
+    <Class>Button</Class>
+    <ClickabledataID>100</ClickabledataID>
+    <Name>INS Button 0</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_PCN_0_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_PCN_0_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>342</PosX>
+    <PosY>313</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>593</DcsID>
+  </Switches>
+  <Switches>
+    <ID>79</ID>
+    <Class>Button</Class>
+    <ClickabledataID>186</ClickabledataID>
+    <Name>INS Update</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>126</PosX>
+    <PosY>140</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>578</DcsID>
+  </Switches>
+  <Switches>
+    <ID>80</ID>
+    <Class>Button</Class>
+    <ClickabledataID>188</ClickabledataID>
+    <Name>Mark Position</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>222</PosX>
+    <PosY>306</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>582</DcsID>
+  </Switches>
+  <Switches>
+    <ID>81</ID>
+    <Class>Button</Class>
+    <ClickabledataID>187</ClickabledataID>
+    <Name>Validate Data Entry</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>136</PosX>
+    <PosY>308</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>580</DcsID>
+  </Switches>
+  <Switches>
+    <ID>82</ID>
+    <Class>Button</Class>
+    <ClickabledataID>185</ClickabledataID>
+    <Name>Offset Waypoint/Target</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>220</PosX>
+    <PosY>208</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>576</DcsID>
+  </Switches>
+  <Switches>
+    <ID>83</ID>
+    <Class>Button</Class>
+    <ClickabledataID>189</ClickabledataID>
+    <Name>AUTO Navigation</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>221</PosX>
+    <PosY>258</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>667</DcsID>
+  </Switches>
+  <Switches>
+    <ID>84</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>103</ClickabledataID>
+    <Name>INS Mode Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_C.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2,0.3,0.4</Input>
+    <Output> 0, 45, 90, 135, 180</Output>
+    <PosX>71</PosX>
+    <PosY>882</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>627</DcsID>
+  </Switches>
+  <Switches>
+    <ID>85</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>104</ClickabledataID>
+    <Name>INS Operational Mode</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_C.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2,0.3,0.4</Input>
+    <Output> 0, 45, 90, 135, 180</Output>
+    <PosX>365</PosX>
+    <PosY>906</PosY>
+    <Size>65</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>629</DcsID>
+  </Switches>
   <Accessories>
     <ID>1</ID>
     <Class>Label</Class>
@@ -4789,6 +5695,66 @@
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>4</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>2</ID>
+    <Class>Label</Class>
+    <Name>PCN</Name>
+    <FilePictureOn>M2KC_PCN.png</FilePictureOn>
+    <PosX>2</PosX>
+    <PosY>0</PosY>
+    <Size>475</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>3</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>3</ID>
+    <Class>Label</Class>
+    <Name>PSM</Name>
+    <FilePictureOn>M2KC_PSM.png</FilePictureOn>
+    <PosX>1</PosX>
+    <PosY>857</PosY>
+    <Size>475</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>3</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>4</ID>
+    <Class>Label</Class>
+    <Name>Mode</Name>
+    <FilePictureOn>M2KC_Mode.png</FilePictureOn>
+    <PosX>2</PosX>
+    <PosY>374</PosY>
+    <Size>475</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>3</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>5</ID>
+    <Class>Label</Class>
+    <Name>Mode2</Name>
+    <FilePictureOn>M2KC_Mode2.png</FilePictureOn>
+    <PosX>2</PosX>
+    <PosY>526</PosY>
+    <Size>475</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>3</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>6</ID>
+    <Class>Label</Class>
+    <Name>ILS TACAN</Name>
+    <FilePictureOn>M2KC_ILS_TACAN.png</FilePictureOn>
+    <PosX>2</PosX>
+    <PosY>678</PosY>
+    <Size>420</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>3</WindowID>
   </Accessories>
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
@@ -4843,8 +5809,8 @@
     <Name>LeftPanel</Name>
     <PosX>20</PosX>
     <PosY>0</PosY>
-    <Height>1080</Height>
-    <Width>500</Width>
+    <Height>250</Height>
+    <Width>220</Width>
     <Background>PanelBackground.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>

@@ -306,7 +306,7 @@ ExportScript.ConfigEveryFrameArguments =
 	[562] = "%.1f",	--  DECOL	
 	[563] = "%.1f",	--  PARK.
 	
--- Lamps Right Console
+-- PCN
 	[564] = "%.1f",	--	“PRET”  grüne Doppelanzeige, unten
 	[565] = "%.1f",	--	„ALN“
 	[566] = "%.1f",	--	„MIP“
@@ -327,11 +327,11 @@ ExportScript.ConfigEveryFrameArguments =
 	[597] = "%.1f",	--	“INS” runde WL
 	[668] = "%.1f",	--  “ENC” WL gelb/grün
 
--- VIERER ANZEIGE
-	[601] = "%.4f",	--	1. Drum
-	[602] = "%.4f",	--	2.
-	[603] = "%.4f",	--	3.
-	[604] = "%.4f",	--	4.
+-- Mode
+	[601] = "%.1f",	--	1. Drum
+	[602] = "%.1f",	--	2.
+	[603] = "%.1f",	--	3.
+	[604] = "%.1f",	--	4.
 
 -- VOR ILS 
 	[611] = "%.4f",	--	1. Drum
@@ -344,7 +344,6 @@ ExportScript.ConfigEveryFrameArguments =
 	[620] = "%.1f",	--	X/Y
 	[621] = "%.4f",	--	Drum XX0 left (--;1-12;--)
 	[622] = "%.4f",	--	Drum 00X right	(0;1-9;0)
-
 
 	[632] = "%.1f",	--	Taster mit Warnlampe “C”
 	[634] = "%.1f",	--	Taster mit Warnlampe “F”
@@ -481,6 +480,13 @@ ExportScript.ConfigArguments =
 	[570] = "%.1f",	--INS PREP Switch
 	[572] = "%.1f",	--INS DEST Switch
 	[574] = "%.1f",	--INS Parameter Selector
+
+	[576] = "%.1f",	--Offset Waypoint/Target
+	[578] = "%.1f",	--INS Update
+	[580] = "%.1f",	--Validate Data Entry
+	[582] = "%.1f",	--Mark Position
+	[667] = "%.1f",	--AUTO Navigation
+	
 	[584] = "%.1f",	--INS Button 1
 	[585] = "%.1f",	--INS Button 2
 	[586] = "%.1f",	--INS Button 3
@@ -494,7 +500,7 @@ ExportScript.ConfigArguments =
 	[594] = "%.1f",	--INS Clear Button
 	[596] = "%.1f",	--INS ENTER Button
 
-	-- PSM
+-- PSM
 	[627] = "%.1f",	--INS Mode Selector
 	[629] = "%.1f",	--INS Operational Mode
 	[665] = "%.1f",	--INS Auxiliary Heading/Horizon
@@ -1002,6 +1008,55 @@ function ExportScript.ProcessIkarusDCSConfigLowImportance(mainPanelDevice)
 	end
 	ExportScript.Tools.SendData(2030, string.format("%s", lPCN_BR1))
 	ExportScript.Tools.SendData(2031, string.format("%s", lPCN_BR2))
+	
+-- Mode
+--[[
+	[601] = "%.1f",	--	1. Drum
+	[602] = "%.1f",	--	2.
+	[603] = "%.1f",	--	3.
+	[604] = "%.1f",	--	4.
+]]
+	digits = {}
+	digits[1] = string.format("%1.0f",mainPanelDevice:get_argument_value(601) * 10)
+	digits[2] = string.format("%1.0f",mainPanelDevice:get_argument_value(602) * 10)
+	digits[3] = string.format("%1.0f",mainPanelDevice:get_argument_value(603) * 10)
+	digits[4] = string.format("%1.0f",mainPanelDevice:get_argument_value(604) * 10)
+	
+	ExportScript.Tools.SendData(2032, digits[1])
+	ExportScript.Tools.SendData(2033, digits[2])
+	ExportScript.Tools.SendData(2034, digits[3])
+	ExportScript.Tools.SendData(2035, digits[4])
+
+-- VOR ILS 
+--[[
+	[611] = "%.4f",	--	1. Drum
+	[612] = "%.4f",	--	2.
+	[613] = "%.4f",	--	3.
+	[614] = "%.4f",	--	4.
+	[615] = "%.4f",	--	5.
+]]	
+	digits = {}
+	digits[1] = string.format("%1.0f",mainPanelDevice:get_argument_value(611) * 10)
+	digits[2] = string.format("%1.0f",mainPanelDevice:get_argument_value(612) * 10)
+	digits[3] = string.format("%1.0f",mainPanelDevice:get_argument_value(613) * 10)
+	digits[4] = string.format("%1.0f",mainPanelDevice:get_argument_value(614) * 10)
+	digits[5] = string.format("%1.0f",mainPanelDevice:get_argument_value(615) * 10)
+	
+	ExportScript.Tools.SendData(2036, digits[1]..digits[2]..digits[3]..digits[4]..digits[5])
+
+-- TACAN
+--[[
+	[620] = "%.1f",	--	X/Y
+	[621] = "%.4f",	--	Drum XX0 left (--;1-12;--)
+	[622] = "%.4f",	--	Drum 00X right	(0;1-9;0)
+]]
+	digits = {}
+	digits[1] = string.format("%1.0f",mainPanelDevice:get_argument_value(620) * 10)
+	digits[2] = string.format("%1.0f",mainPanelDevice:get_argument_value(621) * 10)
+	digits[3] = string.format("%1.0f",mainPanelDevice:get_argument_value(622) * 10)
+
+	ExportScript.Tools.SendData(2037, digits[1]..digits[2]..digits[3])
+	
 end
 
 function ExportScript.ProcessDACConfigLowImportance(mainPanelDevice)
@@ -1144,6 +1199,55 @@ function ExportScript.ProcessDACConfigLowImportance(mainPanelDevice)
 	end
 	ExportScript.Tools.SendDataDAC(2022, string.format("%s", lPPA1))
 	ExportScript.Tools.SendDataDAC(2023, string.format("%s", lPPA2))
+
+-- Mode
+--[[
+	[601] = "%.1f",	--	1. Drum
+	[602] = "%.1f",	--	2.
+	[603] = "%.1f",	--	3.
+	[604] = "%.1f",	--	4.
+]]
+	digits = {}
+	digits[1] = string.format("%1.0f",mainPanelDevice:get_argument_value(601) * 10)
+	digits[2] = string.format("%1.0f",mainPanelDevice:get_argument_value(602) * 10)
+	digits[3] = string.format("%1.0f",mainPanelDevice:get_argument_value(603) * 10)
+	digits[4] = string.format("%1.0f",mainPanelDevice:get_argument_value(604) * 10)
+	
+	ExportScript.Tools.SendDataDAC(2032, digits[1])
+	ExportScript.Tools.SendDataDAC(2033, digits[2])
+	ExportScript.Tools.SendDataDAC(2034, digits[3])
+	ExportScript.Tools.SendDataDAC(2035, digits[4])
+
+-- VOR ILS 
+--[[
+	[611] = "%.4f",	--	1. Drum
+	[612] = "%.4f",	--	2.
+	[613] = "%.4f",	--	3.
+	[614] = "%.4f",	--	4.
+	[615] = "%.4f",	--	5.
+]]	
+	digits = {}
+	digits[1] = string.format("%1.0f",mainPanelDevice:get_argument_value(611) * 10)
+	digits[2] = string.format("%1.0f",mainPanelDevice:get_argument_value(612) * 10)
+	digits[3] = string.format("%1.0f",mainPanelDevice:get_argument_value(613) * 10)
+	digits[4] = string.format("%1.0f",mainPanelDevice:get_argument_value(614) * 10)
+	digits[5] = string.format("%1.0f",mainPanelDevice:get_argument_value(615) * 10)
+	
+	ExportScript.Tools.SendDataDAC(2036, digits[1]..digits[2]..digits[3]..digits[4]..digits[5])
+
+-- TACAN
+--[[
+	[620] = "%.1f",	--	X/Y
+	[621] = "%.4f",	--	Drum XX0 left (--;1-12;--)
+	[622] = "%.4f",	--	Drum 00X right	(0;1-9;0)
+]]
+	digits = {}
+	digits[1] = string.format("%1.0f",mainPanelDevice:get_argument_value(620) * 10)
+	digits[2] = string.format("%1.0f",mainPanelDevice:get_argument_value(621) * 10)
+	digits[3] = string.format("%1.0f",mainPanelDevice:get_argument_value(622) * 10)
+
+	ExportScript.Tools.SendDataDAC(2037, digits[1]..digits[2]..digits[3])
+	
 
 --[[
 	local TmpDevice18 = GetDevice(18)
