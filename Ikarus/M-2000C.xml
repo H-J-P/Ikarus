@@ -1882,7 +1882,7 @@
     <ID>106</ID>
     <DeviceID>13</DeviceID>
     <ButtonID>606</ButtonID>
-    <Discription>BR Switch</Discription>
+    <Discription>BR Power Switch</Discription>
     <Type>Switch</Type>
     <DcsID>606</DcsID>
   </Clickabledata>
@@ -1890,7 +1890,7 @@
     <ID>107</ID>
     <DeviceID>13</DeviceID>
     <ButtonID>607</ButtonID>
-    <Discription>RWR Switch</Discription>
+    <Discription>RWR Power Switch</Discription>
     <Type>Switch</Type>
     <DcsID>607</DcsID>
   </Clickabledata>
@@ -1898,7 +1898,7 @@
     <ID>108</ID>
     <DeviceID>13</DeviceID>
     <ButtonID>608</ButtonID>
-    <Discription>D2M Switch</Discription>
+    <Discription>D2M Power Switch</Discription>
     <Type>Switch</Type>
     <DcsID>608</DcsID>
   </Clickabledata>
@@ -1906,7 +1906,7 @@
     <ID>109</ID>
     <DeviceID>13</DeviceID>
     <ButtonID>609</ButtonID>
-    <Discription>LL (Jammer) Switch</Discription>
+    <Discription>Decoy Release Mode Switch</Discription>
     <Type>Switch</Type>
     <DcsID>609</DcsID>
   </Clickabledata>
@@ -1914,7 +1914,7 @@
     <ID>110</ID>
     <DeviceID>13</DeviceID>
     <ButtonID>610</ButtonID>
-    <Discription>Jammer Strength</Discription>
+    <Discription>Decoy Release Program Knob</Discription>
     <Type>Switch</Type>
     <DcsID>610</DcsID>
   </Clickabledata>
@@ -2541,6 +2541,62 @@
     <Discription>AUTO Navigation</Discription>
     <Type>Switch</Type>
     <DcsID>667</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>190</ID>
+    <DeviceID>11</DeviceID>
+    <ButtonID>601</ButtonID>
+    <Discription>Radar IFF Code-4 Selector</Discription>
+    <Type>Rotary</Type>
+    <DcsID>601</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>191</ID>
+    <DeviceID>11</DeviceID>
+    <ButtonID>602</ButtonID>
+    <Discription>Radar IFF Code-3 Selector</Discription>
+    <Type>Rotary</Type>
+    <DcsID>602</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>192</ID>
+    <DeviceID>11</DeviceID>
+    <ButtonID>603</ButtonID>
+    <Discription>Radar IFF Code-2 Selector</Discription>
+    <Type>Rotary</Type>
+    <DcsID>603</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>193</ID>
+    <DeviceID>11</DeviceID>
+    <ButtonID>604</ButtonID>
+    <Discription>Radar IFF Code-1 Selector</Discription>
+    <Type>Rotary</Type>
+    <DcsID>604</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>194</ID>
+    <DeviceID>11</DeviceID>
+    <ButtonID>598</ButtonID>
+    <Discription>Radar IFF Mode Switch</Discription>
+    <Type>Switch</Type>
+    <DcsID>598</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>195</ID>
+    <DeviceID>11</DeviceID>
+    <ButtonID>599</ButtonID>
+    <Discription>Radar IFF L/R Selector</Discription>
+    <Type>Switch</Type>
+    <DcsID>599</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>196</ID>
+    <DeviceID>11</DeviceID>
+    <ButtonID>600</ButtonID>
+    <Discription>Radar IFF Power Switch</Discription>
+    <Type>Switch</Type>
+    <DcsID>600</DcsID>
   </Clickabledata>
   <Devices>
     <DeviceID>1</DeviceID>

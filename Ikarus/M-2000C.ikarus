@@ -56,22 +56,22 @@
     <IDInst>5</IDInst>
     <Name>Clock</Name>
     <Class>M2KC_CLOCK</Class>
-    <PosX>17</PosX>
-    <PosY>50</PosY>
-    <Size>170</Size>
+    <PosX>3</PosX>
+    <PosY>191</PosY>
+    <Size>175</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>5</WindowID>
+    <WindowID>6</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>6</IDInst>
     <Name>LOX</Name>
     <Class>M2KC_LOX</Class>
-    <PosX>24</PosX>
-    <PosY>141</PosY>
-    <Size>180</Size>
+    <PosX>3</PosX>
+    <PosY>12</PosY>
+    <Size>155</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -186,9 +186,9 @@
     <IDInst>15</IDInst>
     <Name>Cabin climb</Name>
     <Class>M2KC_Cabin</Class>
-    <PosX>274</PosX>
-    <PosY>138</PosY>
-    <Size>200</Size>
+    <PosX>180</PosX>
+    <PosY>13</PosY>
+    <Size>170</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -610,6 +610,32 @@
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>3</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>48</IDInst>
+    <Name>Channel UHF</Name>
+    <Class>Display7Segment</Class>
+    <PosX>395</PosX>
+    <PosY>75</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>5</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>49</IDInst>
+    <Name>Channel VUHF</Name>
+    <Class>Display7Segment</Class>
+    <PosX>382</PosX>
+    <PosY>265</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>5</WindowID>
   </Instruments>
   <Functions>
     <IDInst>1</IDInst>
@@ -2045,6 +2071,38 @@
     <Offset>0</Offset>
     <Input>58EB66</Input>
     <Output>4</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>48</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Channel UHF</Name>
+    <Arg_number>2022</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>2</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>49</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Channel VUHF</Name>
+    <Arg_number>2023</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -3957,10 +4015,10 @@
     <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>3</Input>
-    <Output>1</Output>
+    <Output>0</Output>
     <PosX>1874</PosX>
     <PosY>967</PosY>
-    <Size>30</Size>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3997,7 +4055,7 @@
     <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>5</Input>
-    <Output>0</Output>
+    <Output>1</Output>
     <PosX>1794</PosX>
     <PosY>967</PosY>
     <Size>35</Size>
@@ -4688,8 +4746,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>357</PosX>
-    <PosY>13</PosY>
+    <PosX>238</PosX>
+    <PosY>195</PosY>
     <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -5652,8 +5710,8 @@
     <FilePictureOn>M2KC_Rotary_C.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1,0.2,0.3,0.4</Input>
-    <Output> 0, 45, 90, 135, 180</Output>
+    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7</Input>
+    <Output> -150, -120, -90, -60, -30, 0, 30, 60</Output>
     <PosX>71</PosX>
     <PosY>882</PosY>
     <Size>70</Size>
@@ -5674,15 +5732,855 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2,0.3,0.4</Input>
-    <Output> 0, 45, 90, 135, 180</Output>
-    <PosX>365</PosX>
-    <PosY>906</PosY>
+    <Output> 0, 27,55, 90, 135</Output>
+    <PosX>364</PosX>
+    <PosY>908</PosY>
     <Size>65</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
     <DcsID>629</DcsID>
+  </Switches>
+  <Switches>
+    <ID>86</ID>
+    <Class>Drum</Class>
+    <ClickabledataID>190</ClickabledataID>
+    <Name>Radar IFF Code-4 Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>171</PosX>
+    <PosY>392</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>601</DcsID>
+  </Switches>
+  <Switches>
+    <ID>87</ID>
+    <Class>Drum</Class>
+    <ClickabledataID>191</ClickabledataID>
+    <Name>Radar IFF Code-3 Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 1.0</Output>
+    <PosX>214</PosX>
+    <PosY>392</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>602</DcsID>
+  </Switches>
+  <Switches>
+    <ID>88</ID>
+    <Class>Drum</Class>
+    <ClickabledataID>192</ClickabledataID>
+    <Name>Radar IFF Code-2 Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 1.0</Output>
+    <PosX>257</PosX>
+    <PosY>392</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>603</DcsID>
+  </Switches>
+  <Switches>
+    <ID>89</ID>
+    <Class>Drum</Class>
+    <ClickabledataID>193</ClickabledataID>
+    <Name>Radar IFF Code-1 Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 1.0</Output>
+    <PosX>299</PosX>
+    <PosY>392</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>604</DcsID>
+  </Switches>
+  <Switches>
+    <ID>90</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>194</ClickabledataID>
+    <Name>Radar IFF Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_C.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.2,0.4,0.6,0.8,1.0</Input>
+    <Output> 0, 30, 60, 90, 120, 150</Output>
+    <PosX>70</PosX>
+    <PosY>399</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>598</DcsID>
+  </Switches>
+  <Switches>
+    <ID>91</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>195</ClickabledataID>
+    <Name>Radar IFF L/R Selector</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>44</PosX>
+    <PosY>479</PosY>
+    <Size>35</Size>
+    <Rotate>90</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>599</DcsID>
+  </Switches>
+  <Switches>
+    <ID>92</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>196</ClickabledataID>
+    <Name>Radar IFF Power Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_C.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2</Input>
+    <Output>45, 90, 135</Output>
+    <PosX>354</PosX>
+    <PosY>410</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>600</DcsID>
+  </Switches>
+  <Switches>
+    <ID>93</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>105</ClickabledataID>
+    <Name>EW Mode Selector Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_G.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>45, 90, 135</Output>
+    <PosX>51</PosX>
+    <PosY>559</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>605</DcsID>
+  </Switches>
+  <Switches>
+    <ID>94</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>106</ClickabledataID>
+    <Name>BR Power Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>142</PosX>
+    <PosY>555</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>606</DcsID>
+  </Switches>
+  <Switches>
+    <ID>95</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>107</ClickabledataID>
+    <Name>RWR Power Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>186</PosX>
+    <PosY>556</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>607</DcsID>
+  </Switches>
+  <Switches>
+    <ID>96</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>108</ClickabledataID>
+    <Name>D2M Power Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>230</PosX>
+    <PosY>556</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>608</DcsID>
+  </Switches>
+  <Switches>
+    <ID>97</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>109</ClickabledataID>
+    <Name>Decoy Release Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>276</PosX>
+    <PosY>555</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>609</DcsID>
+  </Switches>
+  <Switches>
+    <ID>98</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>110</ClickabledataID>
+    <Name>Decoy Release Program Knob</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_C.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0</Input>
+    <Output> -150, -120, -90, -60, -30, 0, 30, 60, 90, 120, 150</Output>
+    <PosX>359</PosX>
+    <PosY>574</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>610</DcsID>
+  </Switches>
+  <Switches>
+    <ID>99</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>158</ClickabledataID>
+    <Name>TACAN Channel Change Tens</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_A.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.076923</Input>
+    <Output> 0, 360</Output>
+    <PosX>231</PosX>
+    <PosY>688</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>623</DcsID>
+  </Switches>
+  <Switches>
+    <ID>100</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>159</ClickabledataID>
+    <Name>TACAN X/Y Select</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_A.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>90, 135</Output>
+    <PosX>239</PosX>
+    <PosY>756</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>624</DcsID>
+  </Switches>
+  <Switches>
+    <ID>101</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>160</ClickabledataID>
+    <Name>TACAN Channel Change Ones</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_A.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>362</PosX>
+    <PosY>685</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>625</DcsID>
+  </Switches>
+  <Switches>
+    <ID>102</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>161</ClickabledataID>
+    <Name>TACAN Mode Select</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_A.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.33,0.66,0.99</Input>
+    <Output> -60, -30, 0, 30</Output>
+    <PosX>333</PosX>
+    <PosY>761</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>626</DcsID>
+  </Switches>
+  <Switches>
+    <ID>103</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>154</ClickabledataID>
+    <Name>VOR/ILS Frequency Change Whole</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_B.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.1,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>33</PosX>
+    <PosY>789</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>616</DcsID>
+  </Switches>
+  <Switches>
+    <ID>104</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>155</ClickabledataID>
+    <Name>VOR/ILS Power Dial</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>6</PosX>
+    <PosY>696</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>617</DcsID>
+  </Switches>
+  <Switches>
+    <ID>105</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>156</ClickabledataID>
+    <Name>VOR/ILS Frequency Change Decimal</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_B.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.05</Input>
+    <Output> 0, 360</Output>
+    <PosX>112</PosX>
+    <PosY>789</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>618</DcsID>
+  </Switches>
+  <Switches>
+    <ID>106</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>157</ClickabledataID>
+    <Name>VOR/ILS Test Dial</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>165</PosX>
+    <PosY>694</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>619</DcsID>
+  </Switches>
+  <Switches>
+    <ID>107</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>135</ClickabledataID>
+    <Name>UHF Power 5W/25W Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>3</PosX>
+    <PosY>26</PosY>
+    <Size>35</Size>
+    <Rotate>180</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>429</DcsID>
+  </Switches>
+  <Switches>
+    <ID>108</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>136</ClickabledataID>
+    <Name>UHF SIL Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>138</PosX>
+    <PosY>28</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>430</DcsID>
+  </Switches>
+  <Switches>
+    <ID>109</ID>
+    <Class>SwitchOff_On</Class>
+    <ClickabledataID>137</ClickabledataID>
+    <Name>UHF E-A2 Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>194</PosX>
+    <PosY>33</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>431</DcsID>
+  </Switches>
+  <Switches>
+    <ID>110</ID>
+    <Class>Button</Class>
+    <ClickabledataID>138</ClickabledataID>
+    <Name>UHF CDE Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Button_Green_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Button_Green_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>71</PosX>
+    <PosY>133</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>432</DcsID>
+  </Switches>
+  <Switches>
+    <ID>111</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>139</ClickabledataID>
+    <Name>UHF Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_C.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2,0.3,0.4</Input>
+    <Output> -47,  42, 132, 220</Output>
+    <PosX>125</PosX>
+    <PosY>125</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>433</DcsID>
+  </Switches>
+  <Switches>
+    <ID>112</ID>
+    <Class>Button</Class>
+    <ClickabledataID>140</ClickabledataID>
+    <Name>UHF TEST Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Button_Red_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Button_Red_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>198</PosX>
+    <PosY>133</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>434</DcsID>
+  </Switches>
+  <Switches>
+    <ID>113</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>141</ClickabledataID>
+    <Name>UHF Knob</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_D.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.05</Input>
+    <Output> 0, 360</Output>
+    <PosX>271</PosX>
+    <PosY>57</PosY>
+    <Size>85</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>435</DcsID>
+  </Switches>
+  <Switches>
+    <ID>114</ID>
+    <Class>Button</Class>
+    <ClickabledataID>142</ClickabledataID>
+    <Name>U/VHF TEST Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Button_Red_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Button_Red_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>91</PosX>
+    <PosY>234</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>437</DcsID>
+  </Switches>
+  <Switches>
+    <ID>115</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>143</ClickabledataID>
+    <Name>U/VHF E+A2 Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>177</PosX>
+    <PosY>201</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>438</DcsID>
+  </Switches>
+  <Switches>
+    <ID>116</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>144</ClickabledataID>
+    <Name>U/VHF SIL Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>267</PosX>
+    <PosY>201</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>439</DcsID>
+  </Switches>
+  <Switches>
+    <ID>117</ID>
+    <Class>Drum</Class>
+    <ClickabledataID>145</ClickabledataID>
+    <Name>U/VHF Select 100 MHz</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Empty.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.3,0.1</Input>
+    <Output> 0.0,1.0</Output>
+    <PosX>69</PosX>
+    <PosY>289</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>440</DcsID>
+  </Switches>
+  <Switches>
+    <ID>118</ID>
+    <Class>Drum</Class>
+    <ClickabledataID>146</ClickabledataID>
+    <Name>U/VHF Select 10 MHz</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Empty.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0.0,1.0</Output>
+    <PosX>112</PosX>
+    <PosY>289</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>441</DcsID>
+  </Switches>
+  <Switches>
+    <ID>119</ID>
+    <Class>Drum</Class>
+    <ClickabledataID>147</ClickabledataID>
+    <Name>U/VHF Select 1 MHz</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Empty.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0.0,1.0</Output>
+    <PosX>155</PosX>
+    <PosY>289</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>442</DcsID>
+  </Switches>
+  <Switches>
+    <ID>120</ID>
+    <Class>Drum</Class>
+    <ClickabledataID>148</ClickabledataID>
+    <Name>U/VHF Select 100 KHz</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Empty.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0.0,1.0</Output>
+    <PosX>198</PosX>
+    <PosY>289</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>443</DcsID>
+  </Switches>
+  <Switches>
+    <ID>121</ID>
+    <Class>Drum</Class>
+    <ClickabledataID>149</ClickabledataID>
+    <Name>U/VHF Select 25 KHz</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Empty.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.25</Input>
+    <Output> 0.0,1.0</Output>
+    <PosX>244</PosX>
+    <PosY>288</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>444</DcsID>
+  </Switches>
+  <Switches>
+    <ID>122</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>150</ClickabledataID>
+    <Name>U/VHF Knob</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_D.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.05</Input>
+    <Output> 0, 360</Output>
+    <PosX>369</PosX>
+    <PosY>346</PosY>
+    <Size>90</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>445</DcsID>
+  </Switches>
+  <Switches>
+    <ID>123</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>151</ClickabledataID>
+    <Name>U/VHF Mode Switch 1</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_C.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.25,0.5,0.75,1.0</Input>
+    <Output>-43, 10, 90, 148, 218</Output>
+    <PosX>83</PosX>
+    <PosY>393</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>446</DcsID>
+  </Switches>
+  <Switches>
+    <ID>124</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>152</ClickabledataID>
+    <Name>U/VHF Power 5W/25W Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>180</PosX>
+    <PosY>369</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>447</DcsID>
+  </Switches>
+  <Switches>
+    <ID>125</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>153</ClickabledataID>
+    <Name>U/VHF Manual/Preset</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Rotary_C.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output> 90, 160, 210</Output>
+    <PosX>253</PosX>
+    <PosY>395</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>448</DcsID>
   </Switches>
   <Accessories>
     <ID>1</ID>
@@ -5756,6 +6654,66 @@
     <Active>true</Active>
     <WindowID>3</WindowID>
   </Accessories>
+  <Accessories>
+    <ID>7</ID>
+    <Class>Label</Class>
+    <Name>VRILLE</Name>
+    <FilePictureOn>M2KC_VRILLE.png</FilePictureOn>
+    <PosX>289</PosX>
+    <PosY>434</PosY>
+    <Size>65</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>8</ID>
+    <Class>Label</Class>
+    <Name>UHF Radio</Name>
+    <FilePictureOn>M2KC_UHF_Radio.png</FilePictureOn>
+    <PosX>-1</PosX>
+    <PosY>23</PosY>
+    <Size>535</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>5</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>9</ID>
+    <Class>Label</Class>
+    <Name>VUHF Radio</Name>
+    <FilePictureOn>M2KC_VUHF_Radio.png</FilePictureOn>
+    <PosX>1</PosX>
+    <PosY>207</PosY>
+    <Size>530</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>5</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>10</ID>
+    <Class>Label</Class>
+    <Name>Pelles</Name>
+    <FilePictureOn>M2KC_Pelles_Souris.png</FilePictureOn>
+    <PosX>89</PosX>
+    <PosY>582</PosY>
+    <Size>335</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>5</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>12</ID>
+    <Class>Label</Class>
+    <Name>VolumeControl</Name>
+    <FilePictureOn>M2KC_VolumeControl.png</FilePictureOn>
+    <PosX>49</PosX>
+    <PosY>703</PosY>
+    <Size>415</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>5</WindowID>
+  </Accessories>
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
   </Parameter>
@@ -5785,10 +6743,10 @@
   <Window>
     <WindowID>3</WindowID>
     <Name>RightPanel</Name>
-    <PosX>1300</PosX>
+    <PosX>1260</PosX>
     <PosY>0</PosY>
     <Height>1080</Height>
-    <Width>500</Width>
+    <Width>530</Width>
     <Background>PanelBackground.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
@@ -5807,10 +6765,10 @@
   <Window>
     <WindowID>5</WindowID>
     <Name>LeftPanel</Name>
-    <PosX>20</PosX>
+    <PosX>0</PosX>
     <PosY>0</PosY>
-    <Height>250</Height>
-    <Width>220</Width>
+    <Height>1080</Height>
+    <Width>530</Width>
     <Background>PanelBackground.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
@@ -5818,10 +6776,10 @@
   <Window>
     <WindowID>6</WindowID>
     <Name>CenterPanel</Name>
-    <PosX>710</PosX>
-    <PosY>430</PosY>
-    <Height>611</Height>
-    <Width>500</Width>
+    <PosX>750</PosX>
+    <PosY>650</PosY>
+    <Height>400</Height>
+    <Width>380</Width>
     <Background>PanelBackground.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>

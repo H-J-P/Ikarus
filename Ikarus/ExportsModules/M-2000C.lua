@@ -500,6 +500,11 @@ ExportScript.ConfigArguments =
 	[594] = "%.1f",	--INS Clear Button
 	[596] = "%.1f",	--INS ENTER Button
 
+-- RADAR IFF
+	[598] = "%.1f",	--Radar IFF Mode Switch
+	[599] = "%.1f",	--Radar IFF L/R Selector
+	[600] = "%.1f",	--Radar IFF Power Switch
+	
 -- PSM
 	[627] = "%.1f",	--INS Mode Selector
 	[629] = "%.1f",	--INS Operational Mode
@@ -510,8 +515,8 @@ ExportScript.ConfigArguments =
 	[606] = "%.1f",	--BR Switch
 	[607] = "%.1f",	--RWR Switch
 	[608] = "%.1f",	--D2M Switch
-	[609] = "%.1f",	--LL (Jammer) Switch
-	[610] = "%.1f",	--Jammer Strength
+	[609] = "%.1f",	--Decoy Release Mode Switch
+	[610] = "%.1f",	--Decoy Release Program Knob
 	[194] = "%.1f",	--ECM Box Mode Switch
 	[195] = "%.1f",	--ECM Box Switch
 	[196] = "%.1f",	--ECM Box Lighs Switch
@@ -1009,7 +1014,7 @@ function ExportScript.ProcessIkarusDCSConfigLowImportance(mainPanelDevice)
 	ExportScript.Tools.SendData(2030, string.format("%s", lPCN_BR1))
 	ExportScript.Tools.SendData(2031, string.format("%s", lPCN_BR2))
 	
--- Mode
+-- Radar IFF Mode
 --[[
 	[601] = "%.1f",	--	1. Drum
 	[602] = "%.1f",	--	2.

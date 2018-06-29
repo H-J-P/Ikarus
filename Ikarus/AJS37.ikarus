@@ -1776,9 +1776,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>195</PosX>
-    <PosY>815</PosY>
-    <Size>95</Size>
+    <PosX>175</PosX>
+    <PosY>810</PosY>
+    <Size>50</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -1797,9 +1797,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1203</PosX>
-    <PosY>227</PosY>
-    <Size>95</Size>
+    <PosX>1177</PosX>
+    <PosY>215</PosY>
+    <Size>50</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -1818,9 +1818,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>1320</PosX>
-    <PosY>227</PosY>
-    <Size>95</Size>
+    <PosX>1295</PosX>
+    <PosY>215</PosY>
+    <Size>50</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
