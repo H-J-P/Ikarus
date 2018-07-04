@@ -231,11 +231,11 @@ ExportScript.ConfigEveryFrameArguments =
 
 -- Com
 	[436] = "%.4f",	-- 	Preset display (1-20)
-	[440] = "%.4f",	--	Drum X000 (0-9-0)  COM Panel
-	[441] = "%.4f",	--	Drum 0X00.00
-	[442] = "%.4f",	--	Drum 00X0.00
-	[443] = "%.4f",	--	Drum 000X.00
-	[444] = "%.4f",	--	Drum 0000.XX  (00-25-50-75-00)
+	--[440] = "%.4f",	--	Drum X000 (0-9-0)  COM Panel
+	--[441] = "%.4f",	--	Drum 0X00.00
+	--[442] = "%.4f",	--	Drum 00X0.00
+	--[443] = "%.4f",	--	Drum 000X.00
+	--[444] = "%.4f",	--	Drum 0000.XX  (00-25-50-75-00)
 	[190] = "%.4f",	--	Drum X0 Preset  (0-1-2)
 	[189] = "%.4f",	--	Drum 0X Preset (0-9-0)
 	[675] = "%.1f",	--	TEST Button COM Panel, red		
@@ -798,6 +798,13 @@ function ExportScript.ProcessIkarusDCSConfigLowImportance(mainPanelDevice)
 	ExportScript.Tools.SendData(2020, string.format("%s", lCOM1))
 	ExportScript.Tools.SendData(2021, string.format("%s", lCOM2))
 
+	ExportScript.Tools.SendData(2038, strsub (string.format("%s", lCOM2), 1, 1))
+	ExportScript.Tools.SendData(2039, strsub (string.format("%s", lCOM2), 2, 1))
+	ExportScript.Tools.SendData(2040, strsub (string.format("%s", lCOM2), 3, 1))
+	ExportScript.Tools.SendData(2041, strsub (string.format("%s", lCOM2), 4, 1))
+	ExportScript.Tools.SendData(2042, strsub (string.format("%s", lCOM2), 5, 1))
+	ExportScript.Tools.SendData(2043, strsub (string.format("%s", lCOM2), 6, 2))
+	
 	-- PPA (vielelicht die Bomben Anzeige unten rechts)
 	local lPPA = list_indication(8)
 	if ExportScript.Config.Debug then

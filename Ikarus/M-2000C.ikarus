@@ -615,9 +615,9 @@
     <IDInst>48</IDInst>
     <Name>Channel UHF</Name>
     <Class>Display7Segment</Class>
-    <PosX>395</PosX>
-    <PosY>75</PosY>
-    <Size>60</Size>
+    <PosX>397</PosX>
+    <PosY>80</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -628,14 +628,131 @@
     <IDInst>49</IDInst>
     <Name>Channel VUHF</Name>
     <Class>Display7Segment</Class>
-    <PosX>382</PosX>
-    <PosY>265</PosY>
-    <Size>60</Size>
+    <PosX>398</PosX>
+    <PosY>255</PosY>
+    <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>5</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>50</IDInst>
+    <Name>VUHF Drum X000.00</Name>
+    <Class>Display7Segment</Class>
+    <PosX>100</PosX>
+    <PosY>316</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>5</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>51</IDInst>
+    <Name>VUHF Drum 0X00.00</Name>
+    <Class>Display7Segment</Class>
+    <PosX>142</PosX>
+    <PosY>316</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>5</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>52</IDInst>
+    <Name>VUHF Drum 00X0.00</Name>
+    <Class>Display7Segment</Class>
+    <PosX>186</PosX>
+    <PosY>316</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>5</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>53</IDInst>
+    <Name>VUHF Drum 000X.00</Name>
+    <Class>Display7Segment</Class>
+    <PosX>232</PosX>
+    <PosY>316</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>5</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>54</IDInst>
+    <Name>VUHF Drum 0000.XX</Name>
+    <Class>Display7Segment</Class>
+    <PosX>270</PosX>
+    <PosY>316</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>5</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>55</IDInst>
+    <Name>Drum X000</Name>
+    <Class>Display7Segment</Class>
+    <PosX>913</PosX>
+    <PosY>971</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>56</IDInst>
+    <Name>Drum 0X00</Name>
+    <Class>Display7Segment</Class>
+    <PosX>975</PosX>
+    <PosY>971</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>57</IDInst>
+    <Name>Drum 00X0</Name>
+    <Class>Display7Segment</Class>
+    <PosX>1039</PosX>
+    <PosY>971</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>58</IDInst>
+    <Name>Drum 000X</Name>
+    <Class>Display7Segment</Class>
+    <PosX>1103</PosX>
+    <PosY>971</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
   </Instruments>
   <Functions>
     <IDInst>1</IDInst>
@@ -2081,7 +2198,7 @@
     <IDInst>48</IDInst>
     <IDFct>1</IDFct>
     <Name>Channel UHF</Name>
-    <Arg_number>2022</Arg_number>
+    <Arg_number>436</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -2097,13 +2214,157 @@
     <IDInst>49</IDInst>
     <IDFct>1</IDFct>
     <Name>Channel VUHF</Name>
-    <Arg_number>2023</Arg_number>
+    <Arg_number>189</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>1</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>50</IDInst>
+    <IDFct>1</IDFct>
+    <Name>VUHF Drum X000.00</Name>
+    <Arg_number>2038</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>1</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>51</IDInst>
+    <IDFct>1</IDFct>
+    <Name>VUHF Drum 0X00.00</Name>
+    <Arg_number>2039</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>1</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>52</IDInst>
+    <IDFct>1</IDFct>
+    <Name>VUHF Drum 00X0.00</Name>
+    <Arg_number>2040</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>1</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>53</IDInst>
+    <IDFct>1</IDFct>
+    <Name>VUHF Drum 000X.00</Name>
+    <Arg_number>2041</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>1</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>54</IDInst>
+    <IDFct>1</IDFct>
+    <Name>VUHF Drum 0000.XX</Name>
+    <Arg_number>2043</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>58EB66</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>55</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Drum X000</Name>
+    <Arg_number>224</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>1</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>56</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Drum 0X00</Name>
+    <Arg_number>225</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>1</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>57</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Drum 00X0</Name>
+    <Arg_number>226</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>1</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>58</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Drum 000X</Name>
+    <Arg_number>227</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>58EB66</Input>
+    <Output>1</Output>
+    <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
     <In />
@@ -4008,14 +4269,14 @@
     <ID>2</ID>
     <Class>SwitchPanelOffOn</Class>
     <ClickabledataID>0</ClickabledataID>
-    <Name>RightPanel</Name>
+    <Name>RightPanel NAV</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>3</Input>
-    <Output>0</Output>
+    <Output>1</Output>
     <PosX>1874</PosX>
     <PosY>967</PosY>
     <Size>35</Size>
@@ -4048,14 +4309,14 @@
     <ID>4</ID>
     <Class>SwitchPanelOffOn</Class>
     <ClickabledataID>0</ClickabledataID>
-    <Name>LeftPanel</Name>
+    <Name>LeftPanel COM</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>5</Input>
-    <Output>1</Output>
+    <Output>0</Output>
     <PosX>1794</PosX>
     <PosY>967</PosY>
     <Size>35</Size>
@@ -5010,8 +5271,8 @@
   <Switches>
     <ID>51</ID>
     <Class>Button</Class>
-    <ClickabledataID>36</ClickabledataID>
-    <Name>AUTO/MAN Button</Name>
+    <ClickabledataID>35</ClickabledataID>
+    <Name>S530 Standby</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>M2KC_Button5_On.png</FilePictureOn>
@@ -5026,7 +5287,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
-    <DcsID>269</DcsID>
+    <DcsID>266</DcsID>
   </Switches>
   <Switches>
     <ID>52</ID>
@@ -5598,8 +5859,8 @@
   <Switches>
     <ID>79</ID>
     <Class>Button</Class>
-    <ClickabledataID>186</ClickabledataID>
-    <Name>INS Update</Name>
+    <ClickabledataID>189</ClickabledataID>
+    <Name>AUTO Navigation</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>-</FilePictureOn>
@@ -5614,7 +5875,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
-    <DcsID>578</DcsID>
+    <DcsID>667</DcsID>
   </Switches>
   <Switches>
     <ID>80</ID>
@@ -5682,8 +5943,8 @@
   <Switches>
     <ID>83</ID>
     <Class>Button</Class>
-    <ClickabledataID>189</ClickabledataID>
-    <Name>AUTO Navigation</Name>
+    <ClickabledataID>186</ClickabledataID>
+    <Name>INS Update</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>-</FilePictureOn>
@@ -5698,7 +5959,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
-    <DcsID>667</DcsID>
+    <DcsID>578</DcsID>
   </Switches>
   <Switches>
     <ID>84</ID>
@@ -6316,7 +6577,7 @@
     <Name>UHF Knob</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>M2KC_Rotary_D.png</FilePictureOn>
+    <FilePictureOn>M2KC_Rotary_F.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.05</Input>
@@ -6405,8 +6666,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.3,0.1</Input>
     <Output> 0.0,1.0</Output>
-    <PosX>69</PosX>
-    <PosY>289</PosY>
+    <PosX>72</PosX>
+    <PosY>295</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6426,8 +6687,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output> 0.0,1.0</Output>
-    <PosX>112</PosX>
-    <PosY>289</PosY>
+    <PosX>115</PosX>
+    <PosY>294</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6447,8 +6708,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output> 0.0,1.0</Output>
-    <PosX>155</PosX>
-    <PosY>289</PosY>
+    <PosX>157</PosX>
+    <PosY>295</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6468,8 +6729,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output> 0.0,1.0</Output>
-    <PosX>198</PosX>
-    <PosY>289</PosY>
+    <PosX>203</PosX>
+    <PosY>296</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6489,8 +6750,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.25</Input>
     <Output> 0.0,1.0</Output>
-    <PosX>244</PosX>
-    <PosY>288</PosY>
+    <PosX>246</PosX>
+    <PosY>296</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6505,10 +6766,10 @@
     <Name>U/VHF Knob</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>M2KC_Rotary_D.png</FilePictureOn>
+    <FilePictureOn>M2KC_Rotary_F.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.05</Input>
+    <Input>0.0,1.0,0.1</Input>
     <Output> 0, 360</Output>
     <PosX>369</PosX>
     <PosY>346</PosY>
@@ -6552,10 +6813,10 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>180</PosX>
-    <PosY>369</PosY>
+    <PosX>123</PosX>
+    <PosY>374</PosY>
     <Size>35</Size>
-    <Rotate>0</Rotate>
+    <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>5</WindowID>
@@ -6581,6 +6842,27 @@
     <DontReset>false</DontReset>
     <WindowID>5</WindowID>
     <DcsID>448</DcsID>
+  </Switches>
+  <Switches>
+    <ID>126</ID>
+    <Class>Button</Class>
+    <ClickabledataID>36</ClickabledataID>
+    <Name>AUTO/MAN Button</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1407</PosX>
+    <PosY>910</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>269</DcsID>
   </Switches>
   <Accessories>
     <ID>1</ID>
@@ -6673,7 +6955,7 @@
     <FilePictureOn>M2KC_UHF_Radio.png</FilePictureOn>
     <PosX>-1</PosX>
     <PosY>23</PosY>
-    <Size>535</Size>
+    <Size>530</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>5</WindowID>
@@ -6683,33 +6965,9 @@
     <Class>Label</Class>
     <Name>VUHF Radio</Name>
     <FilePictureOn>M2KC_VUHF_Radio.png</FilePictureOn>
-    <PosX>1</PosX>
-    <PosY>207</PosY>
-    <Size>530</Size>
-    <Rotate>0</Rotate>
-    <Active>true</Active>
-    <WindowID>5</WindowID>
-  </Accessories>
-  <Accessories>
-    <ID>10</ID>
-    <Class>Label</Class>
-    <Name>Pelles</Name>
-    <FilePictureOn>M2KC_Pelles_Souris.png</FilePictureOn>
-    <PosX>89</PosX>
-    <PosY>582</PosY>
-    <Size>335</Size>
-    <Rotate>0</Rotate>
-    <Active>true</Active>
-    <WindowID>5</WindowID>
-  </Accessories>
-  <Accessories>
-    <ID>12</ID>
-    <Class>Label</Class>
-    <Name>VolumeControl</Name>
-    <FilePictureOn>M2KC_VolumeControl.png</FilePictureOn>
-    <PosX>49</PosX>
-    <PosY>703</PosY>
-    <Size>415</Size>
+    <PosX>-1</PosX>
+    <PosY>206</PosY>
+    <Size>535</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>5</WindowID>
@@ -6742,7 +7000,7 @@
   </Window>
   <Window>
     <WindowID>3</WindowID>
-    <Name>RightPanel</Name>
+    <Name>RightPanel NAV</Name>
     <PosX>1260</PosX>
     <PosY>0</PosY>
     <Height>1080</Height>
@@ -6764,10 +7022,10 @@
   </Window>
   <Window>
     <WindowID>5</WindowID>
-    <Name>LeftPanel</Name>
+    <Name>LeftPanel COM</Name>
     <PosX>0</PosX>
     <PosY>0</PosY>
-    <Height>1080</Height>
+    <Height>500</Height>
     <Width>530</Width>
     <Background>PanelBackground.png</Background>
     <BackgroundNight>-</BackgroundNight>
