@@ -213,7 +213,7 @@
     <Name>ECM Chaff</Name>
     <Class>Display7Segment</Class>
     <PosX>728</PosX>
-    <PosY>907</PosY>
+    <PosY>902</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -225,8 +225,8 @@
     <IDInst>18</IDInst>
     <Name>ECM Flar</Name>
     <Class>Display7Segment</Class>
-    <PosX>799</PosX>
-    <PosY>907</PosY>
+    <PosX>798</PosX>
+    <PosY>902</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -4724,18 +4724,18 @@
   </Switches>
   <Switches>
     <ID>24</ID>
-    <Class>Button</Class>
+    <Class>SwitchOn_Off_On</Class>
     <ClickabledataID>11</ClickabledataID>
     <Name>Radar N Parameter Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
-    <PosX>685</PosX>
-    <PosY>655</PosY>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>687</PosX>
+    <PosY>627</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4745,18 +4745,18 @@
   </Switches>
   <Switches>
     <ID>25</ID>
-    <Class>Button</Class>
+    <Class>SwitchOn_Off_On</Class>
     <ClickabledataID>12</ClickabledataID>
     <Name>Radar P Parameter Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
-    <PosX>684</PosX>
-    <PosY>745</PosY>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>687</PosX>
+    <PosY>717</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4766,18 +4766,18 @@
   </Switches>
   <Switches>
     <ID>26</ID>
-    <Class>Button</Class>
+    <Class>SwitchOn_Off_On</Class>
     <ClickabledataID>13</ClickabledataID>
     <Name>Radar B Parameter Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
-    <PosX>685</PosX>
-    <PosY>834</PosY>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>687</PosX>
+    <PosY>806</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4787,18 +4787,18 @@
   </Switches>
   <Switches>
     <ID>27</ID>
-    <Class>Button</Class>
+    <Class>SwitchOn_Off_On</Class>
     <ClickabledataID>14</ClickabledataID>
     <Name>Radar C Parameter Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
-    <PosX>1208</PosX>
-    <PosY>564</PosY>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>1210</PosX>
+    <PosY>537</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4808,18 +4808,18 @@
   </Switches>
   <Switches>
     <ID>28</ID>
-    <Class>Button</Class>
+    <Class>SwitchOn_Off_On</Class>
     <ClickabledataID>15</ClickabledataID>
     <Name>Radar Z Parameter Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
-    <PosX>1207</PosX>
-    <PosY>654</PosY>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>1210</PosX>
+    <PosY>626</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4829,18 +4829,18 @@
   </Switches>
   <Switches>
     <ID>29</ID>
-    <Class>Button</Class>
+    <Class>SwitchOn_Off_On</Class>
     <ClickabledataID>16</ClickabledataID>
     <Name>Radar M Parameter Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
-    <PosX>1208</PosX>
-    <PosY>744</PosY>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>1210</PosX>
+    <PosY>717</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4850,18 +4850,18 @@
   </Switches>
   <Switches>
     <ID>30</ID>
-    <Class>Button</Class>
+    <Class>SwitchOn_Off_On</Class>
     <ClickabledataID>17</ClickabledataID>
     <Name>Radar T Parameter Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
-    <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
-    <PosX>1207</PosX>
-    <PosY>834</PosY>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>1210</PosX>
+    <PosY>806</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6853,8 +6853,8 @@
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
     <PosX>1407</PosX>
     <PosY>910</PosY>
     <Size>40</Size>
@@ -6863,6 +6863,216 @@
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
     <DcsID>269</DcsID>
+  </Switches>
+  <Switches>
+    <ID>127</ID>
+    <Class>Drum</Class>
+    <ClickabledataID>205</ClickabledataID>
+    <Name>Display Brightness</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Empty.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>1116</PosX>
+    <PosY>953</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>227</DcsID>
+  </Switches>
+  <Switches>
+    <ID>128</ID>
+    <Class>Drum</Class>
+    <ClickabledataID>204</ClickabledataID>
+    <Name>Display Contrast</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Empty.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>1053</PosX>
+    <PosY>952</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>226</DcsID>
+  </Switches>
+  <Switches>
+    <ID>129</ID>
+    <Class>Drum</Class>
+    <ClickabledataID>203</ClickabledataID>
+    <Name>Video Brightness</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Empty.png</FilePictureOn>
+    <FilePictureOff>.</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>989</PosX>
+    <PosY>953</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>225</DcsID>
+  </Switches>
+  <Switches>
+    <ID>130</ID>
+    <Class>Drum</Class>
+    <ClickabledataID>202</ClickabledataID>
+    <Name>Icons and Rulers Brightness</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Empty.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>928</PosX>
+    <PosY>953</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>224</DcsID>
+  </Switches>
+  <Switches>
+    <ID>131</ID>
+    <Class>Button</Class>
+    <ClickabledataID>8</ClickabledataID>
+    <Name>HUD Clear Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>M2KC_Button_Point_On.png</FilePictureOn>
+    <FilePictureOff>M2KC_Button_Point_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>799</PosX>
+    <PosY>230</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>210</DcsID>
+  </Switches>
+  <Switches>
+    <ID>132</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>57</ClickabledataID>
+    <Name>FBW Spin Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>233</PosX>
+    <PosY>416</PosY>
+    <Size>40</Size>
+    <Rotate>180</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>330</DcsID>
+  </Switches>
+  <Switches>
+    <ID>133</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>19</ClickabledataID>
+    <Name>VTB Declutter</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>752</PosX>
+    <PosY>943</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>222</DcsID>
+  </Switches>
+  <Switches>
+    <ID>134</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>20</ClickabledataID>
+    <Name>VTB Orientation Selector (Inop)</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>816</PosX>
+    <PosY>943</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>223</DcsID>
+  </Switches>
+  <Switches>
+    <ID>136</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>10</ClickabledataID>
+    <Name>Radar Interception Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>625</PosX>
+    <PosY>534</PosY>
+    <Size>35</Size>
+    <Rotate>180</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>213</DcsID>
+  </Switches>
+  <Switches>
+    <ID>137</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>18</ClickabledataID>
+    <Name>VTB Power Switch</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1207</PosX>
+    <PosY>892</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>221</DcsID>
   </Switches>
   <Accessories>
     <ID>1</ID>
