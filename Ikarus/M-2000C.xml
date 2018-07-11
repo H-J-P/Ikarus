@@ -853,6 +853,18 @@
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
+    <ExportID>675</ExportID>
+    <Description>COM Panel, lamp red</Description>
+    <ExportIDWithDescription>675 - COM Panel, lamp red</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>676</ExportID>
+    <Description>COM Panel, lamp red, over COM</Description>
+    <ExportIDWithDescription>676 - COM Panel, lamp red, over COM</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
     <ExportID>2001</ExportID>
     <Description>ECM_CHF</Description>
     <ExportIDWithDescription>2001 - ECM_CHF</ExportIDWithDescription>

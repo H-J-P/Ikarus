@@ -218,6 +218,36 @@
     <Classname>Display_VHF</Classname>
   </Classnames>
   <Classnames>
+    <Classname>FA18C_ADI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>FA18C_Alt</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>FA18C_ASI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>FA18C_Batt</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>FA18C_Brake_P</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>FA18C_Cabin_Alt</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>FA18C_Engine</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>FA18C_Hyd_P</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>FA18C_R_Alt</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>FA18C_VVI</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>F15Alt</Classname>
   </Classnames>
   <Classnames>
