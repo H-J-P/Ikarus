@@ -318,7 +318,7 @@
     <Class>Display7Segment</Class>
     <PosX>192</PosX>
     <PosY>966</PosY>
-    <Size>60</Size>
+    <Size>70</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -382,7 +382,7 @@
     <Name>Com1</Name>
     <Class>Display7Segment</Class>
     <PosX>425</PosX>
-    <PosY>274</PosY>
+    <PosY>275</PosY>
     <Size>110</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -395,7 +395,7 @@
     <Name>Com2</Name>
     <Class>Display7Segment</Class>
     <PosX>425</PosX>
-    <PosY>307</PosY>
+    <PosY>309</PosY>
     <Size>110</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -706,9 +706,9 @@
     <IDInst>55</IDInst>
     <Name>Drum X000</Name>
     <Class>Display7Segment</Class>
-    <PosX>918</PosX>
-    <PosY>971</PosY>
-    <Size>20</Size>
+    <PosX>908</PosX>
+    <PosY>976</PosY>
+    <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -719,9 +719,9 @@
     <IDInst>56</IDInst>
     <Name>Drum 0X00</Name>
     <Class>Display7Segment</Class>
-    <PosX>980</PosX>
-    <PosY>971</PosY>
-    <Size>20</Size>
+    <PosX>970</PosX>
+    <PosY>976</PosY>
+    <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -732,9 +732,9 @@
     <IDInst>57</IDInst>
     <Name>Drum 00X0</Name>
     <Class>Display7Segment</Class>
-    <PosX>1044</PosX>
-    <PosY>971</PosY>
-    <Size>20</Size>
+    <PosX>1034</PosX>
+    <PosY>976</PosY>
+    <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -745,9 +745,9 @@
     <IDInst>58</IDInst>
     <Name>Drum 000X</Name>
     <Class>Display7Segment</Class>
-    <PosX>1109</PosX>
-    <PosY>971</PosY>
-    <Size>20</Size>
+    <PosX>1099</PosX>
+    <PosY>976</PosY>
+    <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
