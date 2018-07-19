@@ -2,11 +2,11 @@
 <DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
   <Instruments>
     <IDInst>1</IDInst>
-    <Name>rpm r</Name>
-    <Class>Display</Class>
-    <PosX>912</PosX>
-    <PosY>600</PosY>
-    <Size>130</Size>
+    <Name>Engine</Name>
+    <Class>FA18C_Engine</Class>
+    <PosX>201</PosX>
+    <PosY>644</PosY>
+    <Size>500</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -15,179 +15,10 @@
   </Instruments>
   <Instruments>
     <IDInst>2</IDInst>
-    <Name>rpm l</Name>
-    <Class>Display</Class>
-    <PosX>741</PosX>
-    <PosY>600</PosY>
-    <Size>130</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>3</IDInst>
-    <Name>temp r</Name>
-    <Class>Display</Class>
-    <PosX>912</PosX>
-    <PosY>685</PosY>
-    <Size>130</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>4</IDInst>
-    <Name>temp l</Name>
-    <Class>Display</Class>
-    <PosX>744</PosX>
-    <PosY>688</PosY>
-    <Size>130</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>5</IDInst>
-    <Name>ff r</Name>
-    <Class>Display</Class>
-    <PosX>911</PosX>
-    <PosY>773</PosY>
-    <Size>130</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>6</IDInst>
-    <Name>ff l</Name>
-    <Class>Display</Class>
-    <PosX>744</PosX>
-    <PosY>774</PosY>
-    <Size>130</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>7</IDInst>
-    <Name>oilpress r</Name>
-    <Class>Display</Class>
-    <PosX>912</PosX>
-    <PosY>866</PosY>
-    <Size>130</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>8</IDInst>
-    <Name>oilpress l</Name>
-    <Class>Display</Class>
-    <PosX>745</PosX>
-    <PosY>866</PosY>
-    <Size>130</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>9</IDInst>
-    <Name>fuel up</Name>
-    <Class>Display</Class>
-    <PosX>1369</PosX>
-    <PosY>653</PosY>
-    <Size>160</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>10</IDInst>
-    <Name>fuel down</Name>
-    <Class>Display</Class>
-    <PosX>1369</PosX>
-    <PosY>722</PosY>
-    <Size>160</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>11</IDInst>
-    <Name>bingo</Name>
-    <Class>Display</Class>
-    <PosX>1370</PosX>
-    <PosY>793</PosY>
-    <Size>160</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>12</IDInst>
-    <Name>clock</Name>
-    <Class>Display</Class>
-    <PosX>1334</PosX>
-    <PosY>891</PosY>
-    <Size>200</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>13</IDInst>
-    <Name>sp 1</Name>
-    <Class>Display</Class>
-    <PosX>18</PosX>
-    <PosY>280</PosY>
-    <Size>120</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>14</IDInst>
-    <Name>sp 2</Name>
-    <Class>Display</Class>
-    <PosX>156</PosX>
-    <PosY>279</PosY>
-    <Size>120</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>15</IDInst>
-    <Name>sp numbers</Name>
-    <Class>Display</Class>
-    <PosX>294</PosX>
-    <PosY>296</PosY>
+    <Name>ADI</Name>
+    <Class>FA18C_ADI</Class>
+    <PosX>1221</PosX>
+    <PosY>645</PosY>
     <Size>250</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -196,519 +27,388 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>16</IDInst>
-    <Name>od 1</Name>
-    <Class>Display</Class>
-    <PosX>323</PosX>
-    <PosY>401</PosY>
-    <Size>200</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>17</IDInst>
-    <Name>od 2</Name>
-    <Class>Display</Class>
-    <PosX>321</PosX>
-    <PosY>490</PosY>
-    <Size>200</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>18</IDInst>
-    <Name>od 3</Name>
-    <Class>Display</Class>
-    <PosX>319</PosX>
-    <PosY>579</PosY>
-    <Size>200</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>19</IDInst>
-    <Name>od 4</Name>
-    <Class>Display</Class>
-    <PosX>320</PosX>
-    <PosY>670</PosY>
-    <Size>200</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>20</IDInst>
-    <Name>od 5</Name>
-    <Class>Display</Class>
-    <PosX>320</PosX>
-    <PosY>763</PosY>
-    <Size>200</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>21</IDInst>
-    <Name>comm1</Name>
-    <Class>Display</Class>
-    <PosX>56</PosX>
-    <PosY>858</PosY>
-    <Size>100</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>22</IDInst>
-    <Name>comm2</Name>
-    <Class>Display</Class>
-    <PosX>280</PosX>
-    <PosY>859</PosY>
-    <Size>100</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>23</IDInst>
-    <Name>uhf 1</Name>
-    <Class>Display</Class>
-    <PosX>62</PosX>
-    <PosY>155</PosY>
-    <Size>200</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
-    <IDInst>24</IDInst>
-    <Name>uhf 2</Name>
-    <Class>Display</Class>
-    <PosX>310</PosX>
-    <PosY>155</PosY>
-    <Size>200</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Functions>
-    <IDInst>1</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2000</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>3</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>2</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2001</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>3</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
     <IDInst>3</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2002</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>3</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
+    <Name>ASI</Name>
+    <Class>FA18C_ASI</Class>
+    <PosX>1203</PosX>
+    <PosY>893</PosY>
+    <Size>180</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
     <IDInst>4</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2003</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>3</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
+    <Name>Alt</Name>
+    <Class>FA18C_Alt</Class>
+    <PosX>1383</PosX>
+    <PosY>893</PosY>
+    <Size>185</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
     <IDInst>5</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2004</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>3</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
+    <Name>VVI</Name>
+    <Class>FA18C_VVI</Class>
+    <PosX>1568</PosX>
+    <PosY>892</PosY>
+    <Size>185</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
     <IDInst>6</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2005</Arg_number>
+    <Name>Whiskey Compass</Name>
+    <Class>US_Compass</Class>
+    <PosX>1778</PosX>
+    <PosY>384</PosY>
+    <Size>135</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Switches>
+    <ID>1</ID>
+    <Class>SwitchPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>RightVerticalPanel</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>3</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>7</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2006</Arg_number>
+    <FilePictureOn>flat_up2.png</FilePictureOn>
+    <FilePictureOff>flat_down2.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>2</Input>
+    <Output>0</Output>
+    <PosX>1874</PosX>
+    <PosY>878</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
+  <Switches>
+    <ID>2</ID>
+    <Class>SwitchPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>RightConsole</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>3</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>8</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2007</Arg_number>
+    <FilePictureOn>flat_up2.png</FilePictureOn>
+    <FilePictureOff>flat_down2.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>3</Input>
+    <Output>0</Output>
+    <PosX>1874</PosX>
+    <PosY>967</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
+  <Switches>
+    <ID>3</ID>
+    <Class>SwitchPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>LeftVerticalPanel</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>3</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>9</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2008</Arg_number>
+    <FilePictureOn>flat_up2.png</FilePictureOn>
+    <FilePictureOff>flat_down2.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>4</Input>
+    <Output>0</Output>
+    <PosX>1794</PosX>
+    <PosY>878</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
+  <Switches>
+    <ID>4</ID>
+    <Class>SwitchPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>LeftConsole</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>6</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>10</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2009</Arg_number>
+    <FilePictureOn>flat_up2.png</FilePictureOn>
+    <FilePictureOff>flat_down2.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>5</Input>
+    <Output>0</Output>
+    <PosX>1794</PosX>
+    <PosY>967</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
+  <Switches>
+    <ID>5</ID>
+    <Class>SwitchPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>CenterPanel</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>6</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>11</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2010</Arg_number>
+    <FilePictureOn>flat_up2.png</FilePictureOn>
+    <FilePictureOff>flat_down2.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>6</Input>
+    <Output>0</Output>
+    <PosX>1834</PosX>
+    <PosY>967</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
+  <Switches>
+    <ID>6</ID>
+    <Class>SwitchPanelOffOn</Class>
+    <ClickabledataID>0</ClickabledataID>
+    <Name>Clippboard</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>5</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>12</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2011</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>8</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>13</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2020</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>2</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>14</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2021</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>2</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>15</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2022</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>7</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>16</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2023</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>5</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>17</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2024</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>5</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>18</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2025</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>5</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>19</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2026</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>5</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>20</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2027</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>5</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>21</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2028</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>2</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>22</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2029</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>2</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>23</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2030</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>7</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>24</IDInst>
-    <IDFct>1</IDFct>
-    <Name>-</Name>
-    <Arg_number>2031</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input />
-    <Output>7</Output>
-    <Ascii>true</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
+    <FilePictureOn>flat_up2.png</FilePictureOn>
+    <FilePictureOff>flat_down2.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>7</Input>
+    <Output>0</Output>
+    <PosX>1834</PosX>
+    <PosY>878</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+  </Switches>
+  <Accessories>
+    <ID>1</ID>
+    <Class>Label</Class>
+    <Name>WarningPanel Left</Name>
+    <FilePictureOn>FA18_WP_Left.png</FilePictureOn>
+    <PosX>348</PosX>
+    <PosY>-4</PosY>
+    <Size>380</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>2</ID>
+    <Class>Label</Class>
+    <Name>WarningPanel Right</Name>
+    <FilePictureOn>FA18_WP_Right.png</FilePictureOn>
+    <PosX>1180</PosX>
+    <PosY>-4</PosY>
+    <Size>380</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>3</ID>
+    <Class>Label</Class>
+    <Name>UFC</Name>
+    <FilePictureOn>FA18_UFC.png</FilePictureOn>
+    <PosX>740</PosX>
+    <PosY>48</PosY>
+    <Size>430</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>4</ID>
+    <Class>Label</Class>
+    <Name>DisplayControl</Name>
+    <FilePictureOn>FA18_DisplayControl.png</FilePictureOn>
+    <PosX>763</PosX>
+    <PosY>382</PosY>
+    <Size>370</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>5</ID>
+    <Class>Label</Class>
+    <Name>DDI Left</Name>
+    <FilePictureOn>FA18_DDI.png</FilePictureOn>
+    <PosX>218</PosX>
+    <PosY>130</PosY>
+    <Size>485</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>6</ID>
+    <Class>Label</Class>
+    <Name>DDI Right</Name>
+    <FilePictureOn>FA18_DDI.png</FilePictureOn>
+    <PosX>1200</PosX>
+    <PosY>130</PosY>
+    <Size>485</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>7</ID>
+    <Class>Label</Class>
+    <Name>AMPCD</Name>
+    <FilePictureOn>FA18_AMPCD.png</FilePictureOn>
+    <PosX>701</PosX>
+    <PosY>530</PosY>
+    <Size>500</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>8</ID>
+    <Class>Label</Class>
+    <Name>MasterArm</Name>
+    <FilePictureOn>FA18_MasterArm.png</FilePictureOn>
+    <PosX>103</PosX>
+    <PosY>346</PosY>
+    <Size>115</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>9</ID>
+    <Class>Label</Class>
+    <Name>IR Cool Switch</Name>
+    <FilePictureOn>FA18_IR_COOL.png</FilePictureOn>
+    <PosX>1683</PosX>
+    <PosY>362</PosY>
+    <Size>95</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>10</ID>
+    <Class>Label</Class>
+    <Name>Video</Name>
+    <FilePictureOn>FA18_Video_Panel.png</FilePictureOn>
+    <PosX>288</PosX>
+    <PosY>990</PosY>
+    <Size>390</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>11</ID>
+    <Class>Label</Class>
+    <Name>RWR</Name>
+    <FilePictureOn>FA18_RWR2.PNG</FilePictureOn>
+    <PosX>1485</PosX>
+    <PosY>646</PosY>
+    <Size>250</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
   </Parameter>
   <Window>
     <WindowID>1</WindowID>
-    <Name>main</Name>
+    <Name>FrontPanel</Name>
     <PosX>0</PosX>
-    <PosY>1200</PosY>
+    <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
-    <Background>BackGround.png</Background>
+    <Background>FA-18C_Frontpanel.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>false</Refresh>
+    <LightColor>95E295</LightColor>
+  </Window>
+  <Window>
+    <WindowID>2</WindowID>
+    <Name>RightVerticalPanel</Name>
+    <PosX>1300</PosX>
+    <PosY>460</PosY>
+    <Height>611</Height>
+    <Width>500</Width>
+    <Background>PanelBackground.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
-    <LightColor>95E295</LightColor>
+  </Window>
+  <Window>
+    <WindowID>3</WindowID>
+    <Name>RightConsole</Name>
+    <PosX>1300</PosX>
+    <PosY>0</PosY>
+    <Height>1080</Height>
+    <Width>500</Width>
+    <Background>PanelBackground.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
+  </Window>
+  <Window>
+    <WindowID>4</WindowID>
+    <Name>LeftVerticalPanel</Name>
+    <PosX>20</PosX>
+    <PosY>430</PosY>
+    <Height>611</Height>
+    <Width>500</Width>
+    <Background>PanelBackground.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
+  </Window>
+  <Window>
+    <WindowID>5</WindowID>
+    <Name>LeftConsole</Name>
+    <PosX>20</PosX>
+    <PosY>0</PosY>
+    <Height>1080</Height>
+    <Width>500</Width>
+    <Background>PanelBackground.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
+  </Window>
+  <Window>
+    <WindowID>6</WindowID>
+    <Name>CenterPanel</Name>
+    <PosX>710</PosX>
+    <PosY>430</PosY>
+    <Height>611</Height>
+    <Width>500</Width>
+    <Background>PanelBackground.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
+  </Window>
+  <Window>
+    <WindowID>7</WindowID>
+    <Name>Clippboard</Name>
+    <PosX>710</PosX>
+    <PosY>430</PosY>
+    <Height>611</Height>
+    <Width>500</Width>
+    <Background>PanelBackground.png</Background>
+    <BackgroundNight>-</BackgroundNight>
+    <Refresh>true</Refresh>
   </Window>
 </DataSet1>
