@@ -4,8 +4,8 @@
     <IDInst>1</IDInst>
     <Name>Engine</Name>
     <Class>FA18C_Engine</Class>
-    <PosX>201</PosX>
-    <PosY>644</PosY>
+    <PosX>204</PosX>
+    <PosY>641</PosY>
     <Size>500</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -30,8 +30,8 @@
     <IDInst>3</IDInst>
     <Name>ASI</Name>
     <Class>FA18C_ASI</Class>
-    <PosX>1203</PosX>
-    <PosY>893</PosY>
+    <PosX>1205</PosX>
+    <PosY>894</PosY>
     <Size>180</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -43,8 +43,8 @@
     <IDInst>4</IDInst>
     <Name>Alt</Name>
     <Class>FA18C_Alt</Class>
-    <PosX>1383</PosX>
-    <PosY>893</PosY>
+    <PosX>1388</PosX>
+    <PosY>894</PosY>
     <Size>185</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -56,8 +56,8 @@
     <IDInst>5</IDInst>
     <Name>VVI</Name>
     <Class>FA18C_VVI</Class>
-    <PosX>1568</PosX>
-    <PosY>892</PosY>
+    <PosX>1574</PosX>
+    <PosY>894</PosY>
     <Size>185</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -215,7 +215,7 @@
     <Class>Label</Class>
     <Name>WarningPanel Right</Name>
     <FilePictureOn>FA18_WP_Right.png</FilePictureOn>
-    <PosX>1180</PosX>
+    <PosX>1181</PosX>
     <PosY>-4</PosY>
     <Size>380</Size>
     <Rotate>0</Rotate>
@@ -227,9 +227,9 @@
     <Class>Label</Class>
     <Name>UFC</Name>
     <FilePictureOn>FA18_UFC.png</FilePictureOn>
-    <PosX>740</PosX>
-    <PosY>48</PosY>
-    <Size>430</Size>
+    <PosX>726</PosX>
+    <PosY>49</PosY>
+    <Size>455</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>1</WindowID>
@@ -263,7 +263,7 @@
     <Class>Label</Class>
     <Name>DDI Right</Name>
     <FilePictureOn>FA18_DDI.png</FilePictureOn>
-    <PosX>1200</PosX>
+    <PosX>1205</PosX>
     <PosY>130</PosY>
     <Size>485</Size>
     <Rotate>0</Rotate>
@@ -275,7 +275,7 @@
     <Class>Label</Class>
     <Name>AMPCD</Name>
     <FilePictureOn>FA18_AMPCD.png</FilePictureOn>
-    <PosX>701</PosX>
+    <PosX>704</PosX>
     <PosY>530</PosY>
     <Size>500</Size>
     <Rotate>0</Rotate>
