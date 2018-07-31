@@ -525,7 +525,7 @@
     <Name>PCN BR2</Name>
     <Class>Display7Segment</Class>
     <PosX>154</PosX>
-    <PosY>65</PosY>
+    <PosY>63</PosY>
     <Size>70</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -539,7 +539,7 @@
     <Class>Display7Segment</Class>
     <PosX>160</PosX>
     <PosY>425</PosY>
-    <Size>20</Size>
+    <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -552,7 +552,7 @@
     <Class>Display7Segment</Class>
     <PosX>200</PosX>
     <PosY>425</PosY>
-    <Size>20</Size>
+    <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -565,7 +565,7 @@
     <Class>Display7Segment</Class>
     <PosX>242</PosX>
     <PosY>425</PosY>
-    <Size>20</Size>
+    <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -578,7 +578,7 @@
     <Class>Display7Segment</Class>
     <PosX>285</PosX>
     <PosY>425</PosY>
-    <Size>20</Size>
+    <Size>30</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -589,9 +589,9 @@
     <IDInst>46</IDInst>
     <Name>VOR ILS</Name>
     <Class>Display7Segment</Class>
-    <PosX>57</PosX>
-    <PosY>721</PosY>
-    <Size>80</Size>
+    <PosX>46</PosX>
+    <PosY>716</PosY>
+    <Size>100</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -628,9 +628,9 @@
     <IDInst>49</IDInst>
     <Name>Channel VUHF</Name>
     <Class>Display7Segment</Class>
-    <PosX>398</PosX>
-    <PosY>255</PosY>
-    <Size>30</Size>
+    <PosX>388</PosX>
+    <PosY>265</PosY>
+    <Size>50</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -641,9 +641,9 @@
     <IDInst>50</IDInst>
     <Name>VUHF Drum X000.00</Name>
     <Class>Display7Segment</Class>
-    <PosX>100</PosX>
+    <PosX>98</PosX>
     <PosY>316</PosY>
-    <Size>20</Size>
+    <Size>25</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -656,7 +656,7 @@
     <Class>Display7Segment</Class>
     <PosX>142</PosX>
     <PosY>316</PosY>
-    <Size>20</Size>
+    <Size>25</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -669,7 +669,7 @@
     <Class>Display7Segment</Class>
     <PosX>186</PosX>
     <PosY>316</PosY>
-    <Size>20</Size>
+    <Size>25</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -682,7 +682,7 @@
     <Class>Display7Segment</Class>
     <PosX>232</PosX>
     <PosY>316</PosY>
-    <Size>20</Size>
+    <Size>25</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -2171,7 +2171,7 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>58EB66</Input>
-    <Output>5</Output>
+    <Output>6</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -2219,7 +2219,7 @@
     <OldValue>0</OldValue>
     <Offset>0</Offset>
     <Input>58EB66</Input>
-    <Output>1</Output>
+    <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue />
@@ -2294,7 +2294,7 @@
     <IDInst>54</IDInst>
     <IDFct>1</IDFct>
     <Name>VUHF Drum 0000.XX</Name>
-    <Arg_number>2043</Arg_number>
+    <Arg_number>2042</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -4301,7 +4301,7 @@
     <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>2</Input>
-    <Output>1</Output>
+    <Output>0</Output>
     <PosX>1874</PosX>
     <PosY>878</PosY>
     <Size>35</Size>
@@ -6438,10 +6438,10 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>6</PosX>
-    <PosY>696</PosY>
+    <PosX>9</PosX>
+    <PosY>760</PosY>
     <Size>35</Size>
-    <Rotate>0</Rotate>
+    <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
@@ -6480,10 +6480,10 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>165</PosX>
-    <PosY>694</PosY>
+    <PosX>103</PosX>
+    <PosY>759</PosY>
     <Size>35</Size>
-    <Rotate>0</Rotate>
+    <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
@@ -6733,7 +6733,7 @@
     <Input>0.0,1.0,0.1</Input>
     <Output> 0.0,1.0</Output>
     <PosX>115</PosX>
-    <PosY>294</PosY>
+    <PosY>295</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6775,7 +6775,7 @@
     <Input>0.0,1.0,0.1</Input>
     <Output> 0.0,1.0</Output>
     <PosX>203</PosX>
-    <PosY>296</PosY>
+    <PosY>295</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6796,7 +6796,7 @@
     <Input>0.0,1.0,0.25</Input>
     <Output> 0.0,1.0</Output>
     <PosX>246</PosX>
-    <PosY>296</PosY>
+    <PosY>295</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6814,7 +6814,7 @@
     <FilePictureOn>M2KC_Rotary_F.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
+    <Input>0.0,1.0,0.05</Input>
     <Output> 0, 360</Output>
     <PosX>369</PosX>
     <PosY>346</PosY>

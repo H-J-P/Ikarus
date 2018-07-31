@@ -618,4 +618,44 @@
     <ExportIDWithDescription>800 - ChaffFlare</ExportIDWithDescription>
     <Type>Display</Type>
   </DCS_ID>
+  <Clickabledata>
+    <ID>0</ID>
+    <DeviceID>2000</DeviceID>
+    <ButtonID>328</ButtonID>
+    <Discription>Toggle gear light Near/Far/Off</Discription>
+    <DcsID>0</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>1</ID>
+    <DeviceID>2000</DeviceID>
+    <ButtonID>357</ButtonID>
+    <Discription>Drop flare once</Discription>
+    <DcsID>0</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>2</ID>
+    <DeviceID>2000</DeviceID>
+    <ButtonID>68</ButtonID>
+    <Discription>Gear</Discription>
+    <DcsID>0</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>3</ID>
+    <DeviceID>2001</DeviceID>
+    <ButtonID>2003</ButtonID>
+    <Discription>joystick rudder</Discription>
+    <DcsID>0</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Devices>
+    <DeviceID>2000</DeviceID>
+    <Discription>Flaming Cliffs Buttons</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>2001</DeviceID>
+    <Discription>Flaming Cliffs Axies</Discription>
+  </Devices>
 </DTADataSet>

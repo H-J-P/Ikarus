@@ -2132,7 +2132,7 @@
     <ID>938</ID>
     <DeviceID>7</DeviceID>
     <ButtonID>615</ButtonID>
-    <Discription>V/UHF RSC Chan/Freq Knob</Discription>
+    <Discription>V/UHF RSC Chan/Freq Knob {0.0,1.0} in 0.015 Steps</Discription>
     <Type>Rotary</Type>
     <DcsID>615</DcsID>
   </Clickabledata>

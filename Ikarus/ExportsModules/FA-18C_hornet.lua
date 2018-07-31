@@ -65,8 +65,9 @@ ExportScript.ConfigEveryFrameArguments =
 	[210] = "%.4f",   -- SAI_manual_pitch_adjustment {0.0, 1.0} {-1.0, 1.0}
 	[207] = "%.4f",   -- SAI_SlipBall {-1.0, 1.0}
 	[208] = "%.4f",   -- SAI_RateOfTurn {-3.0, 3.0} {-1.0, 1.0}
-	--[] = "",   -- SAI_vertical_pointer {-1.0, 1.0}
-	--[] = "",   -- SAI_horisontal_pointer {-1.0, 1.0}
+	[211] = "%.4f",   -- SAI_vertical_pointer {-1.0, 1.0}
+	[212] = "%.4f",   -- SAI_horisontal_pointer {-1.0, 1.0}
+	
 	-- Cockpit Pressure Altimeter
 	[285] = "%.4f",   -- CockpitPressureAltimeter {0.0, 5000.0, 10000.0, 15000.0, 20000.0, 25000.0, 30000.0, 35000.0, 40000.0, 45000.0, 50000.0} {0.0, 0.117, 0.2245, 0.3225, 0.411, 0.506, 0.609, 0.717, 0.823, 0.914, 1.0}
 	-- Caution Light Indicator Panel

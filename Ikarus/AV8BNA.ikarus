@@ -5462,16 +5462,16 @@
   </Switches>
   <Switches>
     <ID>123</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>875</ClickabledataID>
     <Name>Flaps Mode Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>82</PosX>
     <PosY>923</PosY>
     <Size>40</Size>
@@ -5483,19 +5483,19 @@
   </Switches>
   <Switches>
     <ID>124</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>876</ClickabledataID>
     <Name>Flaps Power Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>48</PosX>
-    <PosY>966</PosY>
-    <Size>105</Size>
+    <PosY>964</PosY>
+    <Size>40</Size>
     <Rotate>-90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6036,7 +6036,7 @@
     <FilePictureOn>AV8BNA_Rotary3c.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
+    <Input>0.0,1.0,0.015,1</Input>
     <Output> 0, 360</Output>
     <PosX>304</PosX>
     <PosY>365</PosY>
@@ -6332,9 +6332,9 @@
     <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>4</PosX>
-    <PosY>834</PosY>
-    <Size>100</Size>
+    <PosX>-36</PosX>
+    <PosY>808</PosY>
+    <Size>55</Size>
     <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6427,16 +6427,16 @@
   </Switches>
   <Switches>
     <ID>169</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>880</ClickabledataID>
     <Name>H2O Mode Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>162</PosX>
     <PosY>17</PosY>
     <Size>40</Size>
@@ -6448,16 +6448,16 @@
   </Switches>
   <Switches>
     <ID>170</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>871</ClickabledataID>
     <Name>Anti-Skid Switch</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>226</PosX>
     <PosY>18</PosY>
     <Size>40</Size>
@@ -6884,7 +6884,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosY>1200</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>AV8BNA_Background.png</Background>
