@@ -4,9 +4,9 @@
     <IDInst>1</IDInst>
     <Name>Engine</Name>
     <Class>FA18C_Engine</Class>
-    <PosX>204</PosX>
-    <PosY>641</PosY>
-    <Size>500</Size>
+    <PosX>219</PosX>
+    <PosY>646</PosY>
+    <Size>485</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -19,7 +19,7 @@
     <Class>FA18C_ADI</Class>
     <PosX>1221</PosX>
     <PosY>645</PosY>
-    <Size>250</Size>
+    <Size>245</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -82,14 +82,14 @@
     <IDInst>7</IDInst>
     <Name>Clock</Name>
     <Class>US_Clock</Class>
-    <PosX>27</PosX>
-    <PosY>881</PosY>
+    <PosX>39</PosX>
+    <PosY>1</PosY>
     <Size>175</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
+    <WindowID>4</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>8</IDInst>
@@ -147,8 +147,8 @@
     <IDInst>12</IDInst>
     <Name>rpm r</Name>
     <Class>Display</Class>
-    <PosX>357</PosX>
-    <PosY>690</PosY>
+    <PosX>368</PosX>
+    <PosY>694</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -160,8 +160,8 @@
     <IDInst>13</IDInst>
     <Name>rpm l</Name>
     <Class>Display</Class>
-    <PosX>254</PosX>
-    <PosY>690</PosY>
+    <PosX>265</PosX>
+    <PosY>694</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -173,8 +173,8 @@
     <IDInst>14</IDInst>
     <Name>temp r</Name>
     <Class>Display</Class>
-    <PosX>357</PosX>
-    <PosY>720</PosY>
+    <PosX>367</PosX>
+    <PosY>721</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -186,8 +186,8 @@
     <IDInst>15</IDInst>
     <Name>temp l</Name>
     <Class>Display</Class>
-    <PosX>243</PosX>
-    <PosY>720</PosY>
+    <PosX>255</PosX>
+    <PosY>721</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -199,7 +199,7 @@
     <IDInst>16</IDInst>
     <Name>ff r</Name>
     <Class>Display</Class>
-    <PosX>357</PosX>
+    <PosX>368</PosX>
     <PosY>755</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
@@ -212,7 +212,7 @@
     <IDInst>17</IDInst>
     <Name>ff l</Name>
     <Class>Display</Class>
-    <PosX>243</PosX>
+    <PosX>255</PosX>
     <PosY>755</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
@@ -225,8 +225,8 @@
     <IDInst>18</IDInst>
     <Name>oilpress r</Name>
     <Class>Display</Class>
-    <PosX>351</PosX>
-    <PosY>888</PosY>
+    <PosX>358</PosX>
+    <PosY>881</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -238,8 +238,8 @@
     <IDInst>19</IDInst>
     <Name>oilpress l</Name>
     <Class>Display</Class>
-    <PosX>250</PosX>
-    <PosY>888</PosY>
+    <PosX>263</PosX>
+    <PosY>881</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -251,8 +251,8 @@
     <IDInst>20</IDInst>
     <Name>fuel up</Name>
     <Class>Display</Class>
-    <PosX>546</PosX>
-    <PosY>694</PosY>
+    <PosX>550</PosX>
+    <PosY>696</PosY>
     <Size>100</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -264,8 +264,8 @@
     <IDInst>21</IDInst>
     <Name>fuel down</Name>
     <Class>Display</Class>
-    <PosX>547</PosX>
-    <PosY>735</PosY>
+    <PosX>550</PosX>
+    <PosY>736</PosY>
     <Size>100</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -277,8 +277,8 @@
     <IDInst>22</IDInst>
     <Name>bingo</Name>
     <Class>Display</Class>
-    <PosX>547</PosX>
-    <PosY>795</PosY>
+    <PosX>550</PosX>
+    <PosY>796</PosY>
     <Size>100</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -290,7 +290,7 @@
     <IDInst>23</IDInst>
     <Name>clock</Name>
     <Class>Display</Class>
-    <PosX>553</PosX>
+    <PosX>556</PosX>
     <PosY>859</PosY>
     <Size>100</Size>
     <Rotate>0</Rotate>
@@ -1617,6 +1617,291 @@
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
+  <Lamps>
+    <ID>23</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>44</Arg_number>
+    <Name>44 - CPT_LTS_READY</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_READY_On.png</FilePictureOn>
+    <FilePictureOff>FA18_READY_Off.png</FilePictureOff>
+    <PosX>152</PosX>
+    <PosY>307</PosY>
+    <Size>65</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>24</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>45</Arg_number>
+    <Name>45 - CPT_LTS_DISCH</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_DISCH_On.png</FilePictureOn>
+    <FilePictureOff>FA18_DISCH_Off.png</FilePictureOff>
+    <PosX>152</PosX>
+    <PosY>341</PosY>
+    <Size>65</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>25</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>47</Arg_number>
+    <Name>47 - CPT_LTS_AA</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_AA_On.png</FilePictureOn>
+    <FilePictureOff>FA18_AA_Off.png</FilePictureOff>
+    <PosX>147</PosX>
+    <PosY>415</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>26</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>48</Arg_number>
+    <Name>48 - CPT_LTS_AG</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_AG_On.png</FilePictureOn>
+    <FilePictureOff>FA18_AG_Off.png</FilePictureOff>
+    <PosX>147</PosX>
+    <PosY>441</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>27</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>166</Arg_number>
+    <Name>166 - CPT_LTS_NOSE_GEAR</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_NOSE_On.png</FilePictureOn>
+    <FilePictureOff>FA18_NOSE_Off.png</FilePictureOff>
+    <PosX>135</PosX>
+    <PosY>861</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>28</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>165</Arg_number>
+    <Name>165 - CPT_LTS_LEFT_GEAR</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_LEFT_On.png</FilePictureOn>
+    <FilePictureOff>FA18_LEFT_Off.png</FilePictureOff>
+    <PosX>108</PosX>
+    <PosY>890</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>29</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>167</Arg_number>
+    <Name>167 - CPT_LTS_RIGHT_GEAR</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_RIGHT_On.png</FilePictureOn>
+    <FilePictureOff>FA18_RIGHT_Off.png</FilePictureOff>
+    <PosX>160</PosX>
+    <PosY>890</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>30</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>163</Arg_number>
+    <Name>163 - CPT_LTS_HALF_FLAPS</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_HALF_On.png</FilePictureOn>
+    <FilePictureOff>FA18_HALF_Off.png</FilePictureOff>
+    <PosX>108</PosX>
+    <PosY>920</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>31</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>164</Arg_number>
+    <Name>164 - CPT_LTS_FULL_FLAPS</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_FULL_On.png</FilePictureOn>
+    <FilePictureOff>FA18_FULL_Off.png</FilePictureOff>
+    <PosX>160</PosX>
+    <PosY>920</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>32</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>162</Arg_number>
+    <Name>162 - CPT_LTS_FLAPS</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_FLAPS_On.png</FilePictureOn>
+    <FilePictureOff>FA18_FLAPS_Off.png</FilePictureOff>
+    <PosX>135</PosX>
+    <PosY>951</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>33</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>152</Arg_number>
+    <Name>152 - CPT_LTS_CTR</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_CTR_On.png</FilePictureOn>
+    <FilePictureOff>FA18_CTR_Off.png</FilePictureOff>
+    <PosX>144</PosX>
+    <PosY>729</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>34</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>154</Arg_number>
+    <Name>154 - CPT_LTS_LI</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_LI_On.png</FilePictureOn>
+    <FilePictureOff>FA18_LI_Off.png</FilePictureOff>
+    <PosX>126</PosX>
+    <PosY>767</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>35</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>156</Arg_number>
+    <Name>156 - CPT_LTS_LO</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_LO_On.png</FilePictureOn>
+    <FilePictureOff>FA18_LO_Off.png</FilePictureOff>
+    <PosX>161</PosX>
+    <PosY>767</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>36</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>158</Arg_number>
+    <Name>158 - CPT_LTS_RI</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_RI_On.png</FilePictureOn>
+    <FilePictureOff>FA18_RI_Off.png</FilePictureOff>
+    <PosX>126</PosX>
+    <PosY>804</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>37</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>160</Arg_number>
+    <Name>160 - CPT_LTS_RO</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_RO_On.png</FilePictureOn>
+    <FilePictureOff>FA18_RO_Off.png</FilePictureOff>
+    <PosX>161</PosX>
+    <PosY>804</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>38</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>13</Arg_number>
+    <Name>13 - CPT_LTS_MASTER_CAUTION</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_MasterCaution_On.png</FilePictureOn>
+    <FilePictureOff>FA18_MasterCaution_Off.png</FilePictureOff>
+    <PosX>513</PosX>
+    <PosY>37</PosY>
+    <Size>65</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>39</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>10</Arg_number>
+    <Name>10 - CPT_LTS_FIRE_LEFT</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_Fire_On.png</FilePictureOn>
+    <FilePictureOff>FA18_Fire_Off.png</FilePictureOff>
+    <PosX>433</PosX>
+    <PosY>48</PosY>
+    <Size>65</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>40</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>26</Arg_number>
+    <Name>26 - CPT_LTS_FIRE_RIGHT</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_Fire_On.png</FilePictureOn>
+    <FilePictureOff>FA18_Fire_Off.png</FilePictureOff>
+    <PosX>1408</PosX>
+    <PosY>48</PosY>
+    <Size>65</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>41</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>29</Arg_number>
+    <Name>29 - CPT_LTS_FIRE_APU</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_APU_Fire_On.png</FilePictureOn>
+    <FilePictureOff>FA18_APU_Fire_Off.png</FilePictureOff>
+    <PosX>1328</PosX>
+    <PosY>38</PosY>
+    <Size>65</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
   <Switches>
     <ID>1</ID>
     <Class>SwitchPanelOffOn</Class>
@@ -2590,7 +2875,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>712</PosX>
-    <PosY>937</PosY>
+    <PosY>938</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -2632,7 +2917,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>712</PosX>
-    <PosY>818</PosY>
+    <PosY>819</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -2653,7 +2938,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>712</PosX>
-    <PosY>759</PosY>
+    <PosY>758</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -2800,7 +3085,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>1165</PosX>
-    <PosY>696</PosY>
+    <PosY>699</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -2821,7 +3106,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>1165</PosX>
-    <PosY>757</PosY>
+    <PosY>758</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -2884,7 +3169,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>1165</PosX>
-    <PosY>937</PosY>
+    <PosY>938</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -3493,7 +3778,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>808</PosX>
-    <PosY>344</PosY>
+    <PosY>346</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -3514,7 +3799,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>855</PosX>
-    <PosY>344</PosY>
+    <PosY>346</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -3535,7 +3820,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>901</PosX>
-    <PosY>344</PosY>
+    <PosY>346</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -3556,7 +3841,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>953</PosX>
-    <PosY>344</PosY>
+    <PosY>346</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -3577,7 +3862,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>996</PosX>
-    <PosY>344</PosY>
+    <PosY>346</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -3598,7 +3883,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>1040</PosX>
-    <PosY>344</PosY>
+    <PosY>346</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -3619,7 +3904,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>1084</PosX>
-    <PosY>344</PosY>
+    <PosY>346</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -3639,7 +3924,7 @@
     <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>0.0,0.1,0.2</Input>
     <Output>0.0,0.1,0.2</Output>
-    <PosX>776</PosX>
+    <PosX>779</PosX>
     <PosY>388</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
@@ -3660,7 +3945,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>900</PosX>
+    <PosX>904</PosX>
     <PosY>388</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
@@ -3681,7 +3966,7 @@
     <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>0.0,0.1,0.2</Input>
     <Output>0.0,0.1,0.2</Output>
-    <PosX>1024</PosX>
+    <PosX>1028</PosX>
     <PosY>388</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
@@ -3702,7 +3987,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>921</PosX>
+    <PosX>924</PosX>
     <PosY>450</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
@@ -3723,7 +4008,7 @@
     <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>983</PosX>
+    <PosX>987</PosX>
     <PosY>450</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
@@ -3744,7 +4029,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output>-10, 260</Output>
-    <PosX>836</PosX>
+    <PosX>839</PosX>
     <PosY>410</PosY>
     <Size>45</Size>
     <Rotate>0</Rotate>
@@ -3765,7 +4050,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output> 0, 270</Output>
-    <PosX>961</PosX>
+    <PosX>964</PosX>
     <PosY>410</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
@@ -3786,7 +4071,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output>-10, 260</Output>
-    <PosX>1086</PosX>
+    <PosX>1090</PosX>
     <PosY>410</PosY>
     <Size>45</Size>
     <Rotate>0</Rotate>
@@ -3807,7 +4092,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
     <Output>-10, 260</Output>
-    <PosX>854</PosX>
+    <PosX>859</PosX>
     <PosY>477</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
@@ -3997,7 +4282,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>157</PosX>
-    <PosY>433</PosY>
+    <PosY>464</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4038,8 +4323,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>460</PosX>
-    <PosY>680</PosY>
+    <PosX>466</PosX>
+    <PosY>681</PosY>
     <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4059,8 +4344,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>460</PosX>
-    <PosY>723</PosY>
+    <PosX>466</PosX>
+    <PosY>722</PosY>
     <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4080,8 +4365,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>460</PosX>
-    <PosY>769</PosY>
+    <PosX>466</PosX>
+    <PosY>768</PosY>
     <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4101,8 +4386,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>460</PosX>
-    <PosY>815</PosY>
+    <PosX>466</PosX>
+    <PosY>811</PosY>
     <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4122,8 +4407,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>460</PosX>
-    <PosY>860</PosY>
+    <PosX>466</PosX>
+    <PosY>855</PosY>
     <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4143,8 +4428,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>460</PosX>
-    <PosY>905</PosY>
+    <PosX>466</PosX>
+    <PosY>899</PosY>
     <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4228,7 +4513,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>149</PosX>
-    <PosY>381</PosY>
+    <PosY>411</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4249,7 +4534,7 @@
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
     <PosX>149</PosX>
-    <PosY>410</PosY>
+    <PosY>439</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4320,30 +4605,237 @@
     <WindowID>1</WindowID>
     <DcsID>313</DcsID>
   </Switches>
-  <Accessories>
-    <ID>1</ID>
-    <Class>Label</Class>
-    <Name>WarningPanel Left</Name>
-    <FilePictureOn>FA18_WP_Left.png</FilePictureOn>
-    <PosX>348</PosX>
-    <PosY>-4</PosY>
-    <Size>380</Size>
+  <Switches>
+    <ID>130</ID>
+    <Class>Button</Class>
+    <ClickabledataID>98</ClickabledataID>
+    <Name>Emergency Jettison Button</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>FA18_PushToJett_On.png</FilePictureOn>
+    <FilePictureOff>FA18_PushToJett_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>111</PosX>
+    <PosY>568</PosY>
+    <Size>100</Size>
     <Rotate>0</Rotate>
-    <Active>true</Active>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
     <WindowID>1</WindowID>
-  </Accessories>
-  <Accessories>
-    <ID>2</ID>
-    <Class>Label</Class>
-    <Name>WarningPanel Right</Name>
-    <FilePictureOn>FA18_WP_Right.png</FilePictureOn>
-    <PosX>1181</PosX>
-    <PosY>-4</PosY>
-    <Size>380</Size>
+    <DcsID>50</DcsID>
+  </Switches>
+  <Switches>
+    <ID>131</ID>
+    <Class>Button</Class>
+    <ClickabledataID>100</ClickabledataID>
+    <Name>Station Jettison Select Button, CENTER</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>147</PosX>
+    <PosY>732</PosY>
+    <Size>30</Size>
     <Rotate>0</Rotate>
-    <Active>true</Active>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
     <WindowID>1</WindowID>
-  </Accessories>
+    <DcsID>153</DcsID>
+  </Switches>
+  <Switches>
+    <ID>132</ID>
+    <Class>Button</Class>
+    <ClickabledataID>101</ClickabledataID>
+    <Name>Station Jettison Select Button, LEFT IN</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>129</PosX>
+    <PosY>769</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>155</DcsID>
+  </Switches>
+  <Switches>
+    <ID>133</ID>
+    <Class>Button</Class>
+    <ClickabledataID>102</ClickabledataID>
+    <Name>Station Jettison Select Button, LEFT OUT</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>164</PosX>
+    <PosY>771</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>157</DcsID>
+  </Switches>
+  <Switches>
+    <ID>134</ID>
+    <Class>Button</Class>
+    <ClickabledataID>103</ClickabledataID>
+    <Name>Station Jettison Select Button, RIGHT IN</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>129</PosX>
+    <PosY>808</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>159</DcsID>
+  </Switches>
+  <Switches>
+    <ID>135</ID>
+    <Class>Button</Class>
+    <ClickabledataID>104</ClickabledataID>
+    <Name>Station Jettison Select Button, RIGHT OUT</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>165</PosX>
+    <PosY>807</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>161</DcsID>
+  </Switches>
+  <Switches>
+    <ID>136</ID>
+    <Class>Button</Class>
+    <ClickabledataID>108</ClickabledataID>
+    <Name>Fire Extinguisher Pushbutton</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>157</PosX>
+    <PosY>313</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>46</DcsID>
+  </Switches>
+  <Switches>
+    <ID>137</ID>
+    <Class>Button</Class>
+    <ClickabledataID>110</ClickabledataID>
+    <Name>Left Engine/AMAD Fire Warning/Extinguisher Light - (LMB) depress</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>440</PosX>
+    <PosY>55</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>11</DcsID>
+  </Switches>
+  <Switches>
+    <ID>138</ID>
+    <Class>Button</Class>
+    <ClickabledataID>79</ClickabledataID>
+    <Name>MASTER CAUTION Reset Button - Press to reset</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>521</PosX>
+    <PosY>44</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>14</DcsID>
+  </Switches>
+  <Switches>
+    <ID>139</ID>
+    <Class>Button</Class>
+    <ClickabledataID>109</ClickabledataID>
+    <Name>APU Fire Warning/Extinguisher Light</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1335</PosX>
+    <PosY>45</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>30</DcsID>
+  </Switches>
+  <Switches>
+    <ID>140</ID>
+    <Class>Button</Class>
+    <ClickabledataID>112</ClickabledataID>
+    <Name>Right Engine/AMAD Fire Warning/Extinguisher Light - (LMB) depress</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1416</PosX>
+    <PosY>56</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>27</DcsID>
+  </Switches>
   <Accessories>
     <ID>3</ID>
     <Class>Label</Class>
@@ -4373,7 +4865,7 @@
     <Class>Label</Class>
     <Name>DisplayControl</Name>
     <FilePictureOn>FA18_DisplayControl.png</FilePictureOn>
-    <PosX>763</PosX>
+    <PosX>767</PosX>
     <PosY>382</PosY>
     <Size>370</Size>
     <Rotate>0</Rotate>
@@ -4421,8 +4913,8 @@
     <Class>Label</Class>
     <Name>MasterArm</Name>
     <FilePictureOn>FA18_MasterArm.png</FilePictureOn>
-    <PosX>103</PosX>
-    <PosY>346</PosY>
+    <PosX>104</PosX>
+    <PosY>377</PosY>
     <Size>115</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
@@ -4460,6 +4952,18 @@
     <PosX>1485</PosX>
     <PosY>646</PosY>
     <Size>250</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>13</ID>
+    <Class>Label</Class>
+    <Name>JettStation</Name>
+    <FilePictureOn>FA18_JettStationSelect.png</FilePictureOn>
+    <PosX>122</PosX>
+    <PosY>674</PosY>
+    <Size>80</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>1</WindowID>
