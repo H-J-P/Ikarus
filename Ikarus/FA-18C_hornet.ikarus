@@ -146,7 +146,7 @@
   <Instruments>
     <IDInst>12</IDInst>
     <Name>rpm r</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>368</PosX>
     <PosY>694</PosY>
     <Size>50</Size>
@@ -159,7 +159,7 @@
   <Instruments>
     <IDInst>13</IDInst>
     <Name>rpm l</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>265</PosX>
     <PosY>694</PosY>
     <Size>50</Size>
@@ -172,7 +172,7 @@
   <Instruments>
     <IDInst>14</IDInst>
     <Name>temp r</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>367</PosX>
     <PosY>721</PosY>
     <Size>60</Size>
@@ -185,7 +185,7 @@
   <Instruments>
     <IDInst>15</IDInst>
     <Name>temp l</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>255</PosX>
     <PosY>721</PosY>
     <Size>60</Size>
@@ -198,7 +198,7 @@
   <Instruments>
     <IDInst>16</IDInst>
     <Name>ff r</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>368</PosX>
     <PosY>755</PosY>
     <Size>60</Size>
@@ -211,7 +211,7 @@
   <Instruments>
     <IDInst>17</IDInst>
     <Name>ff l</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>255</PosX>
     <PosY>755</PosY>
     <Size>60</Size>
@@ -224,7 +224,7 @@
   <Instruments>
     <IDInst>18</IDInst>
     <Name>oilpress r</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>358</PosX>
     <PosY>881</PosY>
     <Size>60</Size>
@@ -237,7 +237,7 @@
   <Instruments>
     <IDInst>19</IDInst>
     <Name>oilpress l</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>263</PosX>
     <PosY>881</PosY>
     <Size>60</Size>
@@ -250,7 +250,7 @@
   <Instruments>
     <IDInst>20</IDInst>
     <Name>fuel up</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>550</PosX>
     <PosY>696</PosY>
     <Size>100</Size>
@@ -263,7 +263,7 @@
   <Instruments>
     <IDInst>21</IDInst>
     <Name>fuel down</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>550</PosX>
     <PosY>736</PosY>
     <Size>100</Size>
@@ -276,7 +276,7 @@
   <Instruments>
     <IDInst>22</IDInst>
     <Name>bingo</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>550</PosX>
     <PosY>796</PosY>
     <Size>100</Size>
@@ -289,7 +289,7 @@
   <Instruments>
     <IDInst>23</IDInst>
     <Name>clock</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>556</PosX>
     <PosY>859</PosY>
     <Size>100</Size>
@@ -302,9 +302,9 @@
   <Instruments>
     <IDInst>24</IDInst>
     <Name>sp 1</Name>
-    <Class>Display</Class>
-    <PosX>0</PosX>
-    <PosY>156</PosY>
+    <Class>Display7Segment</Class>
+    <PosX>1</PosX>
+    <PosY>152</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -315,9 +315,9 @@
   <Instruments>
     <IDInst>25</IDInst>
     <Name>sp 2</Name>
-    <Class>Display</Class>
-    <PosX>79</PosX>
-    <PosY>156</PosY>
+    <Class>Display7Segment</Class>
+    <PosX>80</PosX>
+    <PosY>152</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -328,7 +328,7 @@
   <Instruments>
     <IDInst>26</IDInst>
     <Name>sp numbers</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>797</PosX>
     <PosY>70</PosY>
     <Size>140</Size>
@@ -341,7 +341,7 @@
   <Instruments>
     <IDInst>27</IDInst>
     <Name>od 1</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>993</PosX>
     <PosY>78</PosY>
     <Size>120</Size>
@@ -354,7 +354,7 @@
   <Instruments>
     <IDInst>28</IDInst>
     <Name>od 2</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>993</PosX>
     <PosY>125</PosY>
     <Size>120</Size>
@@ -367,7 +367,7 @@
   <Instruments>
     <IDInst>29</IDInst>
     <Name>od 3</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>993</PosX>
     <PosY>175</PosY>
     <Size>120</Size>
@@ -380,7 +380,7 @@
   <Instruments>
     <IDInst>30</IDInst>
     <Name>od 4</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>993</PosX>
     <PosY>222</PosY>
     <Size>120</Size>
@@ -393,7 +393,7 @@
   <Instruments>
     <IDInst>31</IDInst>
     <Name>od 5</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>993</PosX>
     <PosY>272</PosY>
     <Size>120</Size>
@@ -406,7 +406,7 @@
   <Instruments>
     <IDInst>32</IDInst>
     <Name>comm1</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>739</PosX>
     <PosY>286</PosY>
     <Size>40</Size>
@@ -419,7 +419,7 @@
   <Instruments>
     <IDInst>33</IDInst>
     <Name>comm2</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>1127</PosX>
     <PosY>286</PosY>
     <Size>40</Size>
@@ -432,7 +432,7 @@
   <Instruments>
     <IDInst>34</IDInst>
     <Name>uhf 1</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>0</PosX>
     <PosY>62</PosY>
     <Size>130</Size>
@@ -445,7 +445,7 @@
   <Instruments>
     <IDInst>35</IDInst>
     <Name>uhf 2</Name>
-    <Class>Display</Class>
+    <Class>Display7Segment</Class>
     <PosX>0</PosX>
     <PosY>108</PosY>
     <Size>130</Size>
@@ -461,13 +461,13 @@
     <Name>Pitch</Name>
     <Arg_number>205</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -477,13 +477,13 @@
     <Name>Bank</Name>
     <Arg_number>206</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -493,13 +493,13 @@
     <Name>Slipball</Name>
     <Arg_number>207</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -509,13 +509,13 @@
     <Name>Turn</Name>
     <Arg_number>208</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -525,13 +525,13 @@
     <Name>Side</Name>
     <Arg_number>212</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -541,13 +541,13 @@
     <Name>Glide</Name>
     <Arg_number>211</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -557,13 +557,13 @@
     <Name>Flag off</Name>
     <Arg_number>209</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -573,13 +573,13 @@
     <Name>Airspeed</Name>
     <Arg_number>217</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,0.15,0.35,0.59,0.68,0.75,0.98,1.0</Input>
     <Output>0,89,158,209,243,270,338,346</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -589,13 +589,13 @@
     <Name>Pointer</Name>
     <Arg_number>218</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -605,13 +605,13 @@
     <Name>Alt 10.000</Name>
     <Arg_number>220</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -621,13 +621,13 @@
     <Name>Alt   1.000</Name>
     <Arg_number>219</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -637,13 +637,13 @@
     <Name>Pressage 0</Name>
     <Arg_number>221</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -653,13 +653,13 @@
     <Name>Pressage 1</Name>
     <Arg_number>222</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -669,13 +669,13 @@
     <Name>Pressage 2</Name>
     <Arg_number>223</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -685,13 +685,13 @@
     <Name>Pressage 3</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -701,13 +701,13 @@
     <Name>Vertical Airspeed</Name>
     <Arg_number>225</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,-0.82,-0.6,-0.4,-0.22,0.0,0.22,0.4,0.6,0.82,1.0</Input>
     <Output>-169,-138,-92,-59,-34,0,34,59,92,138,169</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -717,13 +717,13 @@
     <Name>Hour</Name>
     <Arg_number>278</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -733,13 +733,13 @@
     <Name>Minutes</Name>
     <Arg_number>279</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -749,13 +749,13 @@
     <Name>Seconds</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -765,13 +765,13 @@
     <Name>Crono Minutes</Name>
     <Arg_number>281</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -781,13 +781,13 @@
     <Name>Crono Seconds</Name>
     <Arg_number>280</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -797,13 +797,13 @@
     <Name>Cabin Alt</Name>
     <Arg_number>285</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,300</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -813,13 +813,13 @@
     <Name>Radar Alt Pointer</Name>
     <Arg_number>286</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,0.05,0.17,0.3,0.42,0.53,0.61,0.8,1.0</Input>
     <Output>-5,0,45,90,131,173,202,257,312</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -829,13 +829,13 @@
     <Name>Min Alt</Name>
     <Arg_number>287</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,312</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -845,13 +845,13 @@
     <Name>Flag Off</Name>
     <Arg_number>288</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -861,13 +861,13 @@
     <Name>Hyd. Ind. Left</Name>
     <Arg_number>310</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,0.5,1.0</Input>
     <Output>0,152,305</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -877,13 +877,13 @@
     <Name>Hyd. Ind. Right</Name>
     <Arg_number>311</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,0.5,1.0</Input>
     <Output>0,152,305</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -893,13 +893,13 @@
     <Name>Hyd. Brake Pressure</Name>
     <Arg_number>242</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,60</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -909,13 +909,13 @@
     <Name>-</Name>
     <Arg_number>2000</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>3</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -925,13 +925,13 @@
     <Name>-</Name>
     <Arg_number>2001</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>3</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -941,13 +941,13 @@
     <Name>-</Name>
     <Arg_number>2002</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>3</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -957,13 +957,13 @@
     <Name>-</Name>
     <Arg_number>2003</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>3</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -973,13 +973,13 @@
     <Name>-</Name>
     <Arg_number>2004</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>3</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -989,13 +989,13 @@
     <Name>-</Name>
     <Arg_number>2005</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>3</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1005,13 +1005,13 @@
     <Name>-</Name>
     <Arg_number>2006</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>3</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1021,13 +1021,13 @@
     <Name>-</Name>
     <Arg_number>2007</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>3</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1037,13 +1037,13 @@
     <Name>-</Name>
     <Arg_number>2008</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>6</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1053,13 +1053,13 @@
     <Name>-</Name>
     <Arg_number>2009</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>6</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1069,13 +1069,13 @@
     <Name>-</Name>
     <Arg_number>2010</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>7</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1085,13 +1085,13 @@
     <Name>-</Name>
     <Arg_number>2011</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>8</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1101,13 +1101,13 @@
     <Name>-</Name>
     <Arg_number>2020</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1117,13 +1117,13 @@
     <Name>-</Name>
     <Arg_number>2021</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1133,13 +1133,13 @@
     <Name>-</Name>
     <Arg_number>2022</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>7</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1149,13 +1149,13 @@
     <Name>-</Name>
     <Arg_number>2023</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>5</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1165,13 +1165,13 @@
     <Name>-</Name>
     <Arg_number>2024</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>5</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1181,13 +1181,13 @@
     <Name>-</Name>
     <Arg_number>2025</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>5</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1197,13 +1197,13 @@
     <Name>-</Name>
     <Arg_number>2026</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>5</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1213,13 +1213,13 @@
     <Name>-</Name>
     <Arg_number>2027</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>5</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1229,13 +1229,13 @@
     <Name>-</Name>
     <Arg_number>2028</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1245,13 +1245,13 @@
     <Name>-</Name>
     <Arg_number>2029</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1261,13 +1261,13 @@
     <Name>-</Name>
     <Arg_number>2030</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>7</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1277,13 +1277,13 @@
     <Name>-</Name>
     <Arg_number>2031</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>7</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1293,7 +1293,7 @@
     <Arg_number>15</Arg_number>
     <Name>15 - CPT_LTS_GO</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_GO_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_GO_Off.png</FilePictureOff>
     <PosX>592</PosX>
@@ -1308,7 +1308,7 @@
     <Arg_number>16</Arg_number>
     <Name>16 - CPT_LTS_NO_GO</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_NOGO_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_NOGO_Off.png</FilePictureOff>
     <PosX>644</PosX>
@@ -1323,7 +1323,7 @@
     <Arg_number>17</Arg_number>
     <Name>17 - CPT_LTS_L_BLEED</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_LBLEED_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_LBLEED_Off.png</FilePictureOff>
     <PosX>592</PosX>
@@ -1338,7 +1338,7 @@
     <Arg_number>18</Arg_number>
     <Name>18 - CPT_LTS_R_BLEED</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_RBLEED_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_RBLEED_Off.png</FilePictureOff>
     <PosX>644</PosX>
@@ -1353,7 +1353,7 @@
     <Arg_number>19</Arg_number>
     <Name>19 - CPT_LTS_SPD_BRK</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_SPDBRK_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_SPDBRK_Off.png</FilePictureOff>
     <PosX>592</PosX>
@@ -1368,7 +1368,7 @@
     <Arg_number>20</Arg_number>
     <Name>20 - CPT_LTS_STBY</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_STBY_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_STBY_Off.png</FilePictureOff>
     <PosX>644</PosX>
@@ -1383,7 +1383,7 @@
     <Arg_number>21</Arg_number>
     <Name>21 - CPT_LTS_L_BAR_RED</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_LBAR_RED_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_LBAR_RED_Off.png</FilePictureOff>
     <PosX>592</PosX>
@@ -1398,7 +1398,7 @@
     <Arg_number>22</Arg_number>
     <Name>22 - CPT_LTS_REC</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_REC_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_REC_Off.png</FilePictureOff>
     <PosX>644</PosX>
@@ -1413,7 +1413,7 @@
     <Arg_number>23</Arg_number>
     <Name>23 - CPT_LTS_L_BAR_GREEN</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_LBAR_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_LBAR_Off.png</FilePictureOff>
     <PosX>592</PosX>
@@ -1428,7 +1428,7 @@
     <Arg_number>24</Arg_number>
     <Name>24 - CPT_LTS_XMIT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_XMIT_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_XMIT_Off.png</FilePictureOff>
     <PosX>644</PosX>
@@ -1443,7 +1443,7 @@
     <Arg_number>25</Arg_number>
     <Name>25 - CPT_LTS_ASPJ_OH</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_ASPJOH_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_ASPJOH_Off.png</FilePictureOff>
     <PosX>644</PosX>
@@ -1458,7 +1458,7 @@
     <Arg_number>31</Arg_number>
     <Name>31 - CPT_LTS_RCDR_ON</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_RCDRON_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_RCDRON_Off.png</FilePictureOff>
     <PosX>1213</PosX>
@@ -1473,7 +1473,7 @@
     <Arg_number>32</Arg_number>
     <Name>32 - CPT_LTS_DISP</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_DISP_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_DISP_Off.png</FilePictureOff>
     <PosX>1265</PosX>
@@ -1488,7 +1488,7 @@
     <Arg_number>33</Arg_number>
     <Name>33 - CPT_LTS_SPARE_RH1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_---_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_---_Off.png</FilePictureOff>
     <PosX>1213</PosX>
@@ -1503,7 +1503,7 @@
     <Arg_number>34</Arg_number>
     <Name>34 - CPT_LTS_SPARE_RH2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_---_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_---_Off.png</FilePictureOff>
     <PosX>1265</PosX>
@@ -1518,7 +1518,7 @@
     <Arg_number>35</Arg_number>
     <Name>35 - CPT_LTS_SPARE_RH3</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_---_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_---_Off.png</FilePictureOff>
     <PosX>1213</PosX>
@@ -1533,7 +1533,7 @@
     <Arg_number>36</Arg_number>
     <Name>36 - CPT_LTS_SPARE_RH4</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_---_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_---_Off.png</FilePictureOff>
     <PosX>1265</PosX>
@@ -1548,7 +1548,7 @@
     <Arg_number>37</Arg_number>
     <Name>37 - CPT_LTS_SPARE_RH5</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_---_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_---_Off.png</FilePictureOff>
     <PosX>1213</PosX>
@@ -1563,7 +1563,7 @@
     <Arg_number>38</Arg_number>
     <Name>38 - CPT_LTS_SAM</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_SAM_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_SAM_Off.png</FilePictureOff>
     <PosX>1265</PosX>
@@ -1578,7 +1578,7 @@
     <Arg_number>39</Arg_number>
     <Name>39 - CPT_LTS_AI</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_AI_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_AI_Off.png</FilePictureOff>
     <PosX>1213</PosX>
@@ -1593,7 +1593,7 @@
     <Arg_number>40</Arg_number>
     <Name>40 - CPT_LTS_AAA</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_AAA_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_AAA_Off.png</FilePictureOff>
     <PosX>1265</PosX>
@@ -1608,7 +1608,7 @@
     <Arg_number>41</Arg_number>
     <Name>41 - CPT_LTS_CW</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_WP_CW_On.png</FilePictureOn>
     <FilePictureOff>FA18_WP_CW_Off.png</FilePictureOff>
     <PosX>1213</PosX>
@@ -1623,7 +1623,7 @@
     <Arg_number>44</Arg_number>
     <Name>44 - CPT_LTS_READY</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_READY_On.png</FilePictureOn>
     <FilePictureOff>FA18_READY_Off.png</FilePictureOff>
     <PosX>152</PosX>
@@ -1638,7 +1638,7 @@
     <Arg_number>45</Arg_number>
     <Name>45 - CPT_LTS_DISCH</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DISCH_On.png</FilePictureOn>
     <FilePictureOff>FA18_DISCH_Off.png</FilePictureOff>
     <PosX>152</PosX>
@@ -1653,7 +1653,7 @@
     <Arg_number>47</Arg_number>
     <Name>47 - CPT_LTS_AA</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_AA_On.png</FilePictureOn>
     <FilePictureOff>FA18_AA_Off.png</FilePictureOff>
     <PosX>147</PosX>
@@ -1668,7 +1668,7 @@
     <Arg_number>48</Arg_number>
     <Name>48 - CPT_LTS_AG</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_AG_On.png</FilePictureOn>
     <FilePictureOff>FA18_AG_Off.png</FilePictureOff>
     <PosX>147</PosX>
@@ -1683,10 +1683,10 @@
     <Arg_number>166</Arg_number>
     <Name>166 - CPT_LTS_NOSE_GEAR</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_NOSE_On.png</FilePictureOn>
     <FilePictureOff>FA18_NOSE_Off.png</FilePictureOff>
-    <PosX>135</PosX>
+    <PosX>134</PosX>
     <PosY>861</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
@@ -1698,7 +1698,7 @@
     <Arg_number>165</Arg_number>
     <Name>165 - CPT_LTS_LEFT_GEAR</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_LEFT_On.png</FilePictureOn>
     <FilePictureOff>FA18_LEFT_Off.png</FilePictureOff>
     <PosX>108</PosX>
@@ -1713,7 +1713,7 @@
     <Arg_number>167</Arg_number>
     <Name>167 - CPT_LTS_RIGHT_GEAR</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_RIGHT_On.png</FilePictureOn>
     <FilePictureOff>FA18_RIGHT_Off.png</FilePictureOff>
     <PosX>160</PosX>
@@ -1728,7 +1728,7 @@
     <Arg_number>163</Arg_number>
     <Name>163 - CPT_LTS_HALF_FLAPS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_HALF_On.png</FilePictureOn>
     <FilePictureOff>FA18_HALF_Off.png</FilePictureOff>
     <PosX>108</PosX>
@@ -1743,7 +1743,7 @@
     <Arg_number>164</Arg_number>
     <Name>164 - CPT_LTS_FULL_FLAPS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_FULL_On.png</FilePictureOn>
     <FilePictureOff>FA18_FULL_Off.png</FilePictureOff>
     <PosX>160</PosX>
@@ -1758,7 +1758,7 @@
     <Arg_number>162</Arg_number>
     <Name>162 - CPT_LTS_FLAPS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_FLAPS_On.png</FilePictureOn>
     <FilePictureOff>FA18_FLAPS_Off.png</FilePictureOff>
     <PosX>135</PosX>
@@ -1773,7 +1773,7 @@
     <Arg_number>152</Arg_number>
     <Name>152 - CPT_LTS_CTR</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_CTR_On.png</FilePictureOn>
     <FilePictureOff>FA18_CTR_Off.png</FilePictureOff>
     <PosX>144</PosX>
@@ -1788,11 +1788,11 @@
     <Arg_number>154</Arg_number>
     <Name>154 - CPT_LTS_LI</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_LI_On.png</FilePictureOn>
     <FilePictureOff>FA18_LI_Off.png</FilePictureOff>
-    <PosX>126</PosX>
-    <PosY>767</PosY>
+    <PosX>129</PosX>
+    <PosY>766</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1803,11 +1803,11 @@
     <Arg_number>156</Arg_number>
     <Name>156 - CPT_LTS_LO</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_LO_On.png</FilePictureOn>
     <FilePictureOff>FA18_LO_Off.png</FilePictureOff>
-    <PosX>161</PosX>
-    <PosY>767</PosY>
+    <PosX>129</PosX>
+    <PosY>804</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1818,11 +1818,11 @@
     <Arg_number>158</Arg_number>
     <Name>158 - CPT_LTS_RI</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_RI_On.png</FilePictureOn>
     <FilePictureOff>FA18_RI_Off.png</FilePictureOff>
-    <PosX>126</PosX>
-    <PosY>804</PosY>
+    <PosX>164</PosX>
+    <PosY>766</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
@@ -1833,10 +1833,10 @@
     <Arg_number>160</Arg_number>
     <Name>160 - CPT_LTS_RO</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_RO_On.png</FilePictureOn>
     <FilePictureOff>FA18_RO_Off.png</FilePictureOff>
-    <PosX>161</PosX>
+    <PosX>164</PosX>
     <PosY>804</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
@@ -1848,7 +1848,7 @@
     <Arg_number>13</Arg_number>
     <Name>13 - CPT_LTS_MASTER_CAUTION</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_MasterCaution_On.png</FilePictureOn>
     <FilePictureOff>FA18_MasterCaution_Off.png</FilePictureOff>
     <PosX>513</PosX>
@@ -1863,7 +1863,7 @@
     <Arg_number>10</Arg_number>
     <Name>10 - CPT_LTS_FIRE_LEFT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_Fire_On.png</FilePictureOn>
     <FilePictureOff>FA18_Fire_Off.png</FilePictureOff>
     <PosX>433</PosX>
@@ -1878,7 +1878,7 @@
     <Arg_number>26</Arg_number>
     <Name>26 - CPT_LTS_FIRE_RIGHT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_Fire_On.png</FilePictureOn>
     <FilePictureOff>FA18_Fire_Off.png</FilePictureOff>
     <PosX>1408</PosX>
@@ -1893,7 +1893,7 @@
     <Arg_number>29</Arg_number>
     <Name>29 - CPT_LTS_FIRE_APU</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_APU_Fire_On.png</FilePictureOn>
     <FilePictureOff>FA18_APU_Fire_Off.png</FilePictureOff>
     <PosX>1328</PosX>
@@ -1908,7 +1908,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>RightVerticalPanel</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1928,7 +1928,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>RightConsole</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1948,7 +1948,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>LeftVerticalPanel</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1968,7 +1968,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>LeftConsole</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1988,7 +1988,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>CenterPanel</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2008,7 +2008,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>Clippboard</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2028,7 +2028,7 @@
     <ClickabledataID>131</ClickabledataID>
     <Name>Left MDI PB 6</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2049,7 +2049,7 @@
     <ClickabledataID>132</ClickabledataID>
     <Name>Left MDI PB 7</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2070,7 +2070,7 @@
     <ClickabledataID>133</ClickabledataID>
     <Name>Left MDI PB 8</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2091,7 +2091,7 @@
     <ClickabledataID>134</ClickabledataID>
     <Name>Left MDI PB 9</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2112,7 +2112,7 @@
     <ClickabledataID>135</ClickabledataID>
     <Name>Left MDI PB 10</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2133,7 +2133,7 @@
     <ClickabledataID>136</ClickabledataID>
     <Name>Left MDI PB 11</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2154,7 +2154,7 @@
     <ClickabledataID>137</ClickabledataID>
     <Name>Left MDI PB 12</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2175,7 +2175,7 @@
     <ClickabledataID>138</ClickabledataID>
     <Name>Left MDI PB 13</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2196,7 +2196,7 @@
     <ClickabledataID>139</ClickabledataID>
     <Name>Left MDI PB 14</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2217,7 +2217,7 @@
     <ClickabledataID>140</ClickabledataID>
     <Name>Left MDI PB 15</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2238,7 +2238,7 @@
     <ClickabledataID>141</ClickabledataID>
     <Name>Left MDI PB 16</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2259,7 +2259,7 @@
     <ClickabledataID>142</ClickabledataID>
     <Name>Left MDI PB 17</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2280,7 +2280,7 @@
     <ClickabledataID>143</ClickabledataID>
     <Name>Left MDI PB 18</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2301,7 +2301,7 @@
     <ClickabledataID>144</ClickabledataID>
     <Name>Left MDI PB 19</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2322,7 +2322,7 @@
     <ClickabledataID>145</ClickabledataID>
     <Name>Left MDI PB 20</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2343,7 +2343,7 @@
     <ClickabledataID>126</ClickabledataID>
     <Name>Left MDI PB 1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2364,7 +2364,7 @@
     <ClickabledataID>127</ClickabledataID>
     <Name>Left MDI PB 2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2385,7 +2385,7 @@
     <ClickabledataID>128</ClickabledataID>
     <Name>Left MDI PB 3</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2406,7 +2406,7 @@
     <ClickabledataID>129</ClickabledataID>
     <Name>Left MDI PB 4</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2427,7 +2427,7 @@
     <ClickabledataID>130</ClickabledataID>
     <Name>Left MDI PB 5</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2448,7 +2448,7 @@
     <ClickabledataID>153</ClickabledataID>
     <Name>Right MDI PB 1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2469,7 +2469,7 @@
     <ClickabledataID>154</ClickabledataID>
     <Name>Right MDI PB 2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2490,7 +2490,7 @@
     <ClickabledataID>155</ClickabledataID>
     <Name>Right MDI PB 3</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2511,7 +2511,7 @@
     <ClickabledataID>156</ClickabledataID>
     <Name>Right MDI PB 4</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2532,7 +2532,7 @@
     <ClickabledataID>157</ClickabledataID>
     <Name>Right MDI PB 5</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2553,7 +2553,7 @@
     <ClickabledataID>158</ClickabledataID>
     <Name>Right MDI PB 6</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2574,7 +2574,7 @@
     <ClickabledataID>159</ClickabledataID>
     <Name>Right MDI PB 7</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2595,7 +2595,7 @@
     <ClickabledataID>160</ClickabledataID>
     <Name>Right MDI PB 8</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2616,7 +2616,7 @@
     <ClickabledataID>161</ClickabledataID>
     <Name>Right MDI PB 9</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2637,7 +2637,7 @@
     <ClickabledataID>162</ClickabledataID>
     <Name>Right MDI PB 10</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2658,7 +2658,7 @@
     <ClickabledataID>163</ClickabledataID>
     <Name>Right MDI PB 11</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2679,7 +2679,7 @@
     <ClickabledataID>164</ClickabledataID>
     <Name>Right MDI PB 12</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2700,7 +2700,7 @@
     <ClickabledataID>165</ClickabledataID>
     <Name>Right MDI PB 13</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2721,7 +2721,7 @@
     <ClickabledataID>166</ClickabledataID>
     <Name>Right MDI PB 14</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2742,7 +2742,7 @@
     <ClickabledataID>167</ClickabledataID>
     <Name>Right MDI PB 15</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2763,7 +2763,7 @@
     <ClickabledataID>168</ClickabledataID>
     <Name>Right MDI PB 16</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2784,7 +2784,7 @@
     <ClickabledataID>169</ClickabledataID>
     <Name>Right MDI PB 17</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2805,7 +2805,7 @@
     <ClickabledataID>170</ClickabledataID>
     <Name>Right MDI PB 18</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2826,7 +2826,7 @@
     <ClickabledataID>171</ClickabledataID>
     <Name>Right MDI PB 19</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2847,7 +2847,7 @@
     <ClickabledataID>172</ClickabledataID>
     <Name>Right MDI PB 20</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2868,7 +2868,7 @@
     <ClickabledataID>182</ClickabledataID>
     <Name>AMPCD PB 1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2889,7 +2889,7 @@
     <ClickabledataID>183</ClickabledataID>
     <Name>AMPCD PB 2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2910,7 +2910,7 @@
     <ClickabledataID>184</ClickabledataID>
     <Name>AMPCD PB 3</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2931,7 +2931,7 @@
     <ClickabledataID>185</ClickabledataID>
     <Name>AMPCD PB 4</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2952,7 +2952,7 @@
     <ClickabledataID>186</ClickabledataID>
     <Name>AMPCD PB 5</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2973,7 +2973,7 @@
     <ClickabledataID>187</ClickabledataID>
     <Name>AMPCD PB 6</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2994,7 +2994,7 @@
     <ClickabledataID>188</ClickabledataID>
     <Name>AMPCD PB 7</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3015,7 +3015,7 @@
     <ClickabledataID>189</ClickabledataID>
     <Name>AMPCD PB 8</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3036,7 +3036,7 @@
     <ClickabledataID>190</ClickabledataID>
     <Name>AMPCD PB 9</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3057,7 +3057,7 @@
     <ClickabledataID>191</ClickabledataID>
     <Name>AMPCD PB 10</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3078,7 +3078,7 @@
     <ClickabledataID>192</ClickabledataID>
     <Name>AMPCD PB 11</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3099,7 +3099,7 @@
     <ClickabledataID>193</ClickabledataID>
     <Name>AMPCD PB 12</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3120,7 +3120,7 @@
     <ClickabledataID>194</ClickabledataID>
     <Name>AMPCD PB 13</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3141,7 +3141,7 @@
     <ClickabledataID>195</ClickabledataID>
     <Name>AMPCD PB 14</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3162,7 +3162,7 @@
     <ClickabledataID>196</ClickabledataID>
     <Name>AMPCD PB 15</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Left_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Left_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3183,7 +3183,7 @@
     <ClickabledataID>197</ClickabledataID>
     <Name>AMPCD PB 16</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3204,7 +3204,7 @@
     <ClickabledataID>198</ClickabledataID>
     <Name>AMPCD PB 17</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3225,7 +3225,7 @@
     <ClickabledataID>199</ClickabledataID>
     <Name>AMPCD PB 18</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3246,7 +3246,7 @@
     <ClickabledataID>200</ClickabledataID>
     <Name>AMPCD PB 19</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3267,7 +3267,7 @@
     <ClickabledataID>201</ClickabledataID>
     <Name>AMPCD PB 20</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_DDI_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_DDI_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3288,7 +3288,7 @@
     <ClickabledataID>242</ClickabledataID>
     <Name>UFC I/P Pushbutton</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
     <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3309,7 +3309,7 @@
     <ClickabledataID>225</ClickabledataID>
     <Name>UFC Option Select Pushbutton 1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
     <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3330,7 +3330,7 @@
     <ClickabledataID>226</ClickabledataID>
     <Name>UFC Option Select Pushbutton 2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
     <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3351,7 +3351,7 @@
     <ClickabledataID>227</ClickabledataID>
     <Name>UFC Option Select Pushbutton 3</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
     <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3372,7 +3372,7 @@
     <ClickabledataID>228</ClickabledataID>
     <Name>UFC Option Select Pushbutton 4</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
     <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3393,7 +3393,7 @@
     <ClickabledataID>229</ClickabledataID>
     <Name>UFC Option Select Pushbutton 5</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Button1_On.png</FilePictureOn>
     <FilePictureOff>AV8BNA_Button1_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3414,7 +3414,7 @@
     <ClickabledataID>230</ClickabledataID>
     <Name>UFC Keyboard Pushbutton, 1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_1_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_1_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3435,7 +3435,7 @@
     <ClickabledataID>231</ClickabledataID>
     <Name>UFC Keyboard Pushbutton, 2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_2_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_2_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3456,7 +3456,7 @@
     <ClickabledataID>232</ClickabledataID>
     <Name>UFC Keyboard Pushbutton, 3</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_3_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_3_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3477,7 +3477,7 @@
     <ClickabledataID>233</ClickabledataID>
     <Name>UFC Keyboard Pushbutton, 4</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_4_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_4_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3498,7 +3498,7 @@
     <ClickabledataID>234</ClickabledataID>
     <Name>UFC Keyboard Pushbutton, 5</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_5_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_5_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3519,7 +3519,7 @@
     <ClickabledataID>235</ClickabledataID>
     <Name>UFC Keyboard Pushbutton, 6</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_6_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_6_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3540,7 +3540,7 @@
     <ClickabledataID>236</ClickabledataID>
     <Name>UFC Keyboard Pushbutton, 7</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_7_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_7_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3561,7 +3561,7 @@
     <ClickabledataID>237</ClickabledataID>
     <Name>UFC Keyboard Pushbutton, 8</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_8_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_8_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3582,7 +3582,7 @@
     <ClickabledataID>238</ClickabledataID>
     <Name>UFC Keyboard Pushbutton, 9</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_9_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_9_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3603,7 +3603,7 @@
     <ClickabledataID>240</ClickabledataID>
     <Name>UFC Keyboard Pushbutton, CLR</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_CRL_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_CRL_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3624,7 +3624,7 @@
     <ClickabledataID>239</ClickabledataID>
     <Name>UFC Keyboard Pushbutton, 0</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_0_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_0_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3645,7 +3645,7 @@
     <ClickabledataID>241</ClickabledataID>
     <Name>UFC Keyboard Pushbutton, ENT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_ENT_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_ENT_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3666,7 +3666,7 @@
     <ClickabledataID>243</ClickabledataID>
     <Name>UFC Emission Control Pushbutton</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_EM_CON_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_EM_CON_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3687,7 +3687,7 @@
     <ClickabledataID>245</ClickabledataID>
     <Name>UFC COMM 1 Volume Control Knob {0.0,1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3708,7 +3708,7 @@
     <ClickabledataID>247</ClickabledataID>
     <Name>UFC Brightness Control Knob {0.0,1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3729,7 +3729,7 @@
     <ClickabledataID>246</ClickabledataID>
     <Name>UFC COMM 2 Volume Control Knob {0.0,1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3750,7 +3750,7 @@
     <ClickabledataID>244</ClickabledataID>
     <Name>UFC ADF Function Select Switch, 1/OFF/2 {-1.0,0.0,1.0}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
@@ -3771,7 +3771,7 @@
     <ClickabledataID>218</ClickabledataID>
     <Name>UFC Function Selector Pushbutton, A/P</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_AP_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_AP_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3792,7 +3792,7 @@
     <ClickabledataID>219</ClickabledataID>
     <Name>UFC Function Selector Pushbutton, IFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_IFF_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_IFF_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3813,7 +3813,7 @@
     <ClickabledataID>220</ClickabledataID>
     <Name>UFC Function Selector Pushbutton, TCN</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_TCN_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_TCN_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3834,7 +3834,7 @@
     <ClickabledataID>221</ClickabledataID>
     <Name>UFC Function Selector Pushbutton, ILS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_ILS_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_ILS_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3855,7 +3855,7 @@
     <ClickabledataID>222</ClickabledataID>
     <Name>UFC Function Selector Pushbutton, D/L</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_DL_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_DL_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3876,7 +3876,7 @@
     <ClickabledataID>223</ClickabledataID>
     <Name>UFC Function Selector Pushbutton, BCN</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_BCN_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_BCN_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3897,7 +3897,7 @@
     <ClickabledataID>224</ClickabledataID>
     <Name>UFC Function Selector Pushbutton, ON/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_BUTTONS_ON_OFF_On.png</FilePictureOn>
     <FilePictureOff>FA18_BUTTONS_ON_OFF_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3918,7 +3918,7 @@
     <ClickabledataID>114</ClickabledataID>
     <Name>HUD Symbology Reject Switch, NORM/REJ 1/REJ 2 {0.0,0.1,0.2}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
@@ -3939,7 +3939,7 @@
     <ClickabledataID>116</ClickabledataID>
     <Name>HUD Symbology Brightness Selector Knob, DAY/NIGHT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3960,7 +3960,7 @@
     <ClickabledataID>118</ClickabledataID>
     <Name>HUD Video Control Switch, W/B /VID/OFF {0.0,0.1,0.2}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
@@ -3981,7 +3981,7 @@
     <ClickabledataID>121</ClickabledataID>
     <Name>HUD Altitude Switch, BARO/RDR</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4002,7 +4002,7 @@
     <ClickabledataID>122</ClickabledataID>
     <Name>HUD Attitude Selector Switch, INS/AUTO/STBY {-1.0,0.0,1.0}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
@@ -4023,7 +4023,7 @@
     <ClickabledataID>115</ClickabledataID>
     <Name>HUD Symbology Brightness Control Knob {0.0,1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4044,7 +4044,7 @@
     <ClickabledataID>117</ClickabledataID>
     <Name>HUD Black Level Control Knob {0.0,1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Rotary3c.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4065,7 +4065,7 @@
     <ClickabledataID>119</ClickabledataID>
     <Name>HUD Balance Control Knob {0.0,1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4086,7 +4086,7 @@
     <ClickabledataID>120</ClickabledataID>
     <Name>HUD AOA Indexer Control Knob {0.0,1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Rotary3c.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4107,7 +4107,7 @@
     <ClickabledataID>173</ClickabledataID>
     <Name>AMPCD Off/Brightness Control Knob {0.0,1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4128,7 +4128,7 @@
     <ClickabledataID>124</ClickabledataID>
     <Name>Left MDI Brightness Control Knob {0.0,1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>rot_f5_2_knob.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4149,7 +4149,7 @@
     <ClickabledataID>125</ClickabledataID>
     <Name>Left MDI Contrast Control Knob {0.0,1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>rot_f5_2_knob.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4170,7 +4170,7 @@
     <ClickabledataID>151</ClickabledataID>
     <Name>Right MDI Brightness Control Knob {0.0,1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>rot_f5_2_knob.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4191,7 +4191,7 @@
     <ClickabledataID>152</ClickabledataID>
     <Name>Right MDI Contrast Control Knob {0.0,1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>rot_f5_2_knob.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4212,7 +4212,7 @@
     <ClickabledataID>123</ClickabledataID>
     <Name>Left MDI Brightness Selector Knob, OFF/NIGHT/DAY {0.0,0.1,0.2}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Rotary3b.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4233,7 +4233,7 @@
     <ClickabledataID>150</ClickabledataID>
     <Name>Right MDI Brightness Selector Knob, OFF/NIGHT/DAY {0.0,0.1,0.2}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Rotary3b.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4254,7 +4254,7 @@
     <ClickabledataID>214</ClickabledataID>
     <Name>IFEI Brightness Control Knob {0.0,1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4275,7 +4275,7 @@
     <ClickabledataID>97</ClickabledataID>
     <Name>Master Arm Switch, ARM/SAFE</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4296,7 +4296,7 @@
     <ClickabledataID>114</ClickabledataID>
     <Name>HUD Symbology Reject Switch, NORM/REJ 1/REJ 2 {0.0,0.1,0.2}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
@@ -4317,7 +4317,7 @@
     <ClickabledataID>208</ClickabledataID>
     <Name>IFEI Mode Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_Mode_On.png</FilePictureOn>
     <FilePictureOff>FA18_Mode_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4338,7 +4338,7 @@
     <ClickabledataID>209</ClickabledataID>
     <Name>IFEI QTY Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_QTY_On.png</FilePictureOn>
     <FilePictureOff>FA18_QTY_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4359,7 +4359,7 @@
     <ClickabledataID>210</ClickabledataID>
     <Name>IFEI Up Arrow Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_Up_On.png</FilePictureOn>
     <FilePictureOff>FA18_Up_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4380,7 +4380,7 @@
     <ClickabledataID>211</ClickabledataID>
     <Name>IFEI Down Arrow Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_Down_On.png</FilePictureOn>
     <FilePictureOff>FA18_Down_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4401,7 +4401,7 @@
     <ClickabledataID>212</ClickabledataID>
     <Name>IFEI ZONE Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_Zone_On.png</FilePictureOn>
     <FilePictureOff>FA18_Zone_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4422,7 +4422,7 @@
     <ClickabledataID>213</ClickabledataID>
     <Name>IFEI ET Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_ET_On.png</FilePictureOn>
     <FilePictureOff>FA18_ET_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4443,7 +4443,7 @@
     <ClickabledataID>207</ClickabledataID>
     <Name>SAI Test Button - Push to test</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_Rund_On.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4464,7 +4464,7 @@
     <ClickabledataID>205</ClickabledataID>
     <Name>SAI Cage Knob, (LMB) Pull to cage</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_Rund_On.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4485,7 +4485,7 @@
     <ClickabledataID>202</ClickabledataID>
     <Name>AAU-52 Altimeter Pressure Setting Knob {0.0,1.0} in 0.04 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4506,7 +4506,7 @@
     <ClickabledataID>95</ClickabledataID>
     <Name>Master Mode Button, A/A</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4527,7 +4527,7 @@
     <ClickabledataID>96</ClickabledataID>
     <Name>Master Mode Button, A/G</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4548,7 +4548,7 @@
     <ClickabledataID>6</ClickabledataID>
     <Name>Spin Recovery Switch, RCVY/NORM</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4569,7 +4569,7 @@
     <ClickabledataID>146</ClickabledataID>
     <Name>Heading Set Switch (negative)</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
@@ -4590,7 +4590,7 @@
     <ClickabledataID>148</ClickabledataID>
     <Name>Course Set Switch (negative)</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
@@ -4611,7 +4611,7 @@
     <ClickabledataID>98</ClickabledataID>
     <Name>Emergency Jettison Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>FA18_PushToJett_On.png</FilePictureOn>
     <FilePictureOff>FA18_PushToJett_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4628,11 +4628,11 @@
   </Switches>
   <Switches>
     <ID>131</ID>
-    <Class>Button</Class>
+    <Class>ButtonOffOn</Class>
     <ClickabledataID>100</ClickabledataID>
     <Name>Station Jettison Select Button, CENTER</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4649,18 +4649,18 @@
   </Switches>
   <Switches>
     <ID>132</ID>
-    <Class>Button</Class>
+    <Class>ButtonOffOn</Class>
     <ClickabledataID>101</ClickabledataID>
     <Name>Station Jettison Select Button, LEFT IN</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>129</PosX>
-    <PosY>769</PosY>
+    <PosX>131</PosX>
+    <PosY>770</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4670,18 +4670,18 @@
   </Switches>
   <Switches>
     <ID>133</ID>
-    <Class>Button</Class>
+    <Class>ButtonOffOn</Class>
     <ClickabledataID>102</ClickabledataID>
     <Name>Station Jettison Select Button, LEFT OUT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>164</PosX>
-    <PosY>771</PosY>
+    <PosX>131</PosX>
+    <PosY>807</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4691,18 +4691,18 @@
   </Switches>
   <Switches>
     <ID>134</ID>
-    <Class>Button</Class>
+    <Class>ButtonOffOn</Class>
     <ClickabledataID>103</ClickabledataID>
     <Name>Station Jettison Select Button, RIGHT IN</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>129</PosX>
-    <PosY>808</PosY>
+    <PosX>167</PosX>
+    <PosY>770</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -4712,17 +4712,17 @@
   </Switches>
   <Switches>
     <ID>135</ID>
-    <Class>Button</Class>
+    <Class>ButtonOffOn</Class>
     <ClickabledataID>104</ClickabledataID>
     <Name>Station Jettison Select Button, RIGHT OUT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>165</PosX>
+    <PosX>167</PosX>
     <PosY>807</PosY>
     <Size>30</Size>
     <Rotate>0</Rotate>
@@ -4737,7 +4737,7 @@
     <ClickabledataID>108</ClickabledataID>
     <Name>Fire Extinguisher Pushbutton</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4758,7 +4758,7 @@
     <ClickabledataID>110</ClickabledataID>
     <Name>Left Engine/AMAD Fire Warning/Extinguisher Light - (LMB) depress</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4779,7 +4779,7 @@
     <ClickabledataID>79</ClickabledataID>
     <Name>MASTER CAUTION Reset Button - Press to reset</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4800,7 +4800,7 @@
     <ClickabledataID>109</ClickabledataID>
     <Name>APU Fire Warning/Extinguisher Light</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4821,7 +4821,7 @@
     <ClickabledataID>112</ClickabledataID>
     <Name>Right Engine/AMAD Fire Warning/Extinguisher Light - (LMB) depress</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4961,8 +4961,8 @@
     <Class>Label</Class>
     <Name>JettStation</Name>
     <FilePictureOn>FA18_JettStationSelect.png</FilePictureOn>
-    <PosX>122</PosX>
-    <PosY>674</PosY>
+    <PosX>124</PosX>
+    <PosY>672</PosY>
     <Size>80</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
