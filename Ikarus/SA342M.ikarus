@@ -1488,8 +1488,8 @@
     <FilePicture2On>ussr_white+red_down.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>1534</PosX>
-    <PosY>578</PosY>
+    <PosX>1532</PosX>
+    <PosY>569</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1509,8 +1509,8 @@
     <FilePicture2On>ussr_white+red_down.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>809</PosX>
-    <PosY>908</PosY>
+    <PosX>806</PosX>
+    <PosY>898</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1719,8 +1719,8 @@
     <FilePicture2On>ussr_white+yel_down.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>361</PosX>
-    <PosY>407</PosY>
+    <PosX>360</PosX>
+    <PosY>399</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1908,8 +1908,8 @@
     <FilePicture2On>ussr_white+yel_down.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>741</PosX>
-    <PosY>574</PosY>
+    <PosX>739</PosX>
+    <PosY>565</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1929,8 +1929,8 @@
     <FilePicture2On>ussr_white+yel_down.png</FilePicture2On>
     <Input>-1.0,0.0,1.0</Input>
     <Output>-1.0,0.0,1.0</Output>
-    <PosX>555</PosX>
-    <PosY>574</PosY>
+    <PosX>552</PosX>
+    <PosY>564</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>

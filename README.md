@@ -7,7 +7,9 @@ With Ikarus can be display many gauges of the DCS aircrafts and helicopters. Wit
 We currently support the following DCS modules:
 - A-10C
 - AJS37
+- AV-8B N/A
 - Bf-109K-4
+- F/A-18C Hornet
 - F-5E-3
 - F-86F
 - FW-190D9
@@ -16,6 +18,7 @@ We currently support the following DCS modules:
 - Mi-8MT
 - MiG-15bis
 - MiG-21Bis
+- Mirage 2000
 - P-51D
 - SA342L/M/Mistral
 - SpitfireLFMkIX

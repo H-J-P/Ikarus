@@ -2095,8 +2095,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-LaserWarningReciver-up.png</FilePictureOn>
     <FilePictureOff>Ka-50-LaserWarningReciver-off.png</FilePictureOff>
-    <PosX>68</PosX>
-    <PosY>300</PosY>
+    <PosX>66</PosX>
+    <PosY>290</PosY>
     <Size>75</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2110,8 +2110,8 @@
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-LaserWarningReciver-down.png</FilePictureOn>
     <FilePictureOff>Ka-50-LaserWarningReciver-off.png</FilePictureOff>
-    <PosX>68</PosX>
-    <PosY>342</PosY>
+    <PosX>69</PosX>
+    <PosY>320</PosY>
     <Size>75</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
@@ -2125,9 +2125,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-LaserWarningReciver-RangeMode.png</FilePictureOn>
     <FilePictureOff>Ka-50-LaserWarningReciver-off.png</FilePictureOff>
-    <PosX>68</PosX>
-    <PosY>423</PosY>
-    <Size>75</Size>
+    <PosX>74</PosX>
+    <PosY>407</PosY>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -2140,9 +2140,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-LaserWarningReciver-GuidanceMode.png</FilePictureOn>
     <FilePictureOff>Ka-50-LaserWarningReciver-off.png</FilePictureOff>
-    <PosX>68</PosX>
-    <PosY>465</PosY>
-    <Size>75</Size>
+    <PosX>72</PosX>
+    <PosY>453</PosY>
+    <Size>65</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -2155,9 +2155,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
-    <PosX>78</PosX>
+    <PosX>84</PosX>
     <PosY>245</PosY>
-    <Size>50</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -2170,9 +2170,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
-    <PosX>150</PosX>
-    <PosY>314</PosY>
-    <Size>50</Size>
+    <PosX>151</PosX>
+    <PosY>316</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -2185,9 +2185,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
-    <PosX>78</PosX>
-    <PosY>379</PosY>
-    <Size>50</Size>
+    <PosX>79</PosX>
+    <PosY>378</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -2200,9 +2200,9 @@
     <OldValue>0</OldValue>
     <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
-    <PosX>13</PosX>
-    <PosY>314</PosY>
-    <Size>50</Size>
+    <PosX>16</PosX>
+    <PosY>317</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <WindowID>2</WindowID>
   </Lamps>
@@ -3093,14 +3093,14 @@
     <Name>UV-26 Select Left/Both/Right board flares dispensers 1</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>round_up.png</FilePictureOn>
-    <FilePictureOff>round_cnt.png</FilePictureOff>
-    <FilePicture2On>round_down.png</FilePicture2On>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
     <Input>0.0,0.1,0.2</Input>
     <Output>0.0,0.1,0.2</Output>
-    <PosX>8</PosX>
-    <PosY>215</PosY>
-    <Size>130</Size>
+    <PosX>1</PosX>
+    <PosY>219</PosY>
+    <Size>50</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3114,14 +3114,14 @@
     <Name>UV-26 Amount flares counter/Programming</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>round_up.png</FilePictureOn>
-    <FilePictureOff>round_down.png</FilePictureOff>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1</Input>
     <Output>0.0,0.1</Output>
-    <PosX>162</PosX>
-    <PosY>205</PosY>
-    <Size>130</Size>
+    <PosX>160</PosX>
+    <PosY>207</PosY>
+    <Size>50</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
