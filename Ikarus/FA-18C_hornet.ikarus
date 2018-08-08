@@ -95,9 +95,22 @@
     <IDInst>8</IDInst>
     <Name>Cabin Alt</Name>
     <Class>FA18C_Cabin_Alt</Class>
-    <PosX>1736</PosX>
-    <PosY>646</PosY>
+    <PosX>0</PosX>
+    <PosY>0</PosY>
     <Size>180</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>6</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>9</IDInst>
+    <Name>Radar Alt</Name>
+    <Class>FA18C_R_Alt</Class>
+    <PosX>9</PosX>
+    <PosY>126</PosY>
+    <Size>185</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -105,30 +118,17 @@
     <WindowID>2</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>9</IDInst>
-    <Name>Radar Alt</Name>
-    <Class>FA18C_R_Alt</Class>
-    <PosX>1734</PosX>
-    <PosY>681</PosY>
-    <Size>185</Size>
-    <Rotate>0</Rotate>
-    <ImageFrame>-</ImageFrame>
-    <ImageLight>-</ImageLight>
-    <Reactivate>false</Reactivate>
-    <WindowID>1</WindowID>
-  </Instruments>
-  <Instruments>
     <IDInst>10</IDInst>
     <Name>Hyd. Pressure</Name>
     <Class>FA18C_Hyd_P</Class>
-    <PosX>5</PosX>
-    <PosY>10</PosY>
-    <Size>180</Size>
+    <PosX>10</PosX>
+    <PosY>315</PosY>
+    <Size>120</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
-    <WindowID>6</WindowID>
+    <WindowID>2</WindowID>
   </Instruments>
   <Instruments>
     <IDInst>11</IDInst>
@@ -454,6 +454,19 @@
     <ImageLight>-</ImageLight>
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>36</IDInst>
+    <Name>Battery</Name>
+    <Class>FA18C_Batt</Class>
+    <PosX>22</PosX>
+    <PosY>-2</PosY>
+    <Size>125</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>3</WindowID>
   </Instruments>
   <Functions>
     <IDInst>2</IDInst>
@@ -1287,6 +1300,38 @@
     <In />
     <Out />
   </Functions>
+  <Functions>
+    <IDInst>36</IDInst>
+    <IDFct>1</IDFct>
+    <Name>-</Name>
+    <Arg_number>400</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,125</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>36</IDInst>
+    <IDFct>2</IDFct>
+    <Name>-</Name>
+    <Arg_number>401</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,125</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
   <Lamps>
     <ID>1</ID>
     <Class>LampOnOff</Class>
@@ -1902,6 +1947,186 @@
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
+  <Lamps>
+    <ID>42</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>298</Arg_number>
+    <Name>298 - CPT_LTS_CK_SEAT</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>FA18_CK_SEAT_On.png</FilePictureOn>
+    <FilePictureOff>FA18_CK_SEAT_Off.png</FilePictureOff>
+    <PosX>175</PosX>
+    <PosY>326</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <WindowID>2</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>43</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>299</Arg_number>
+    <Name>299 - CPT_LTS_APU_ACC</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>FA18_APU_ACC_On.png</FilePictureOn>
+    <FilePictureOff>FA18_APU_ACC_Off.png</FilePictureOff>
+    <PosX>249</PosX>
+    <PosY>326</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <WindowID>2</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>44</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>300</Arg_number>
+    <Name>300 - CPT_LTS_BATT_SW</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>FA18_BATTSW_On.png</FilePictureOn>
+    <FilePictureOff>FA18_BATTSW_Off.png</FilePictureOff>
+    <PosX>325</PosX>
+    <PosY>326</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <WindowID>2</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>45</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>301</Arg_number>
+    <Name>301 - CPT_LTS_FCS_HOT</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>FA18_FCS_HOT_On.png</FilePictureOn>
+    <FilePictureOff>FA18_FCS_HOT_Off.png</FilePictureOff>
+    <PosX>175</PosX>
+    <PosY>352</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <WindowID>2</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>46</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>302</Arg_number>
+    <Name>302 - CPT_LTS_GEN_TIE</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>FA18_GEN_TIE_On.png</FilePictureOn>
+    <FilePictureOff>FA18_GEN_TIE_Off.png</FilePictureOff>
+    <PosX>249</PosX>
+    <PosY>352</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <WindowID>2</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>47</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>303</Arg_number>
+    <Name>303 - CPT_LTS_SPARE_CTN1</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>FA18_------_On.png</FilePictureOn>
+    <FilePictureOff>FA18_------_Off.png</FilePictureOff>
+    <PosX>325</PosX>
+    <PosY>352</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <WindowID>2</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>48</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>304</Arg_number>
+    <Name>304 - CPT_LTS_FUEL_LO</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>FA18_FUEL_LO_On.png</FilePictureOn>
+    <FilePictureOff>FA18_FUEL_LO_Off.png</FilePictureOff>
+    <PosX>175</PosX>
+    <PosY>379</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <WindowID>2</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>49</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>305</Arg_number>
+    <Name>305 - CPT_LTS_FCES</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>FA18_FCES_On.png</FilePictureOn>
+    <FilePictureOff>FA18_FCES_Off.png</FilePictureOff>
+    <PosX>249</PosX>
+    <PosY>379</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <WindowID>2</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>50</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>306</Arg_number>
+    <Name>306 - CPT_LTS_SPARE_CTN2</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>FA18_------_On.png</FilePictureOn>
+    <FilePictureOff>FA18_------_Off.png</FilePictureOff>
+    <PosX>325</PosX>
+    <PosY>379</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <WindowID>2</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>51</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>307</Arg_number>
+    <Name>307 - CPT_LTS_L_GEN</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>FA18_LGEN_On.png</FilePictureOn>
+    <FilePictureOff>FA18_LGEN_Off.png</FilePictureOff>
+    <PosX>175</PosX>
+    <PosY>406</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <WindowID>2</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>52</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>308</Arg_number>
+    <Name>308 - CPT_LTS_R_GEN</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>FA18_RGEN_On.png</FilePictureOn>
+    <FilePictureOff>FA18_RGEN_Off.png</FilePictureOff>
+    <PosX>249</PosX>
+    <PosY>406</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <WindowID>2</WindowID>
+  </Lamps>
+  <Lamps>
+    <ID>53</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>309</Arg_number>
+    <Name>309 - CPT_LTS_SPARE_CTN3</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>FA18_------_On.png</FilePictureOn>
+    <FilePictureOff>FA18_------_Off.png</FilePictureOff>
+    <PosX>325</PosX>
+    <PosY>406</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <WindowID>2</WindowID>
+  </Lamps>
   <Switches>
     <ID>1</ID>
     <Class>SwitchPanelOffOn</Class>
@@ -1933,7 +2158,7 @@
     <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>3</Input>
-    <Output>0</Output>
+    <Output>1</Output>
     <PosX>1874</PosX>
     <PosY>967</PosY>
     <Size>35</Size>
@@ -1953,7 +2178,7 @@
     <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>4</Input>
-    <Output>1</Output>
+    <Output>0</Output>
     <PosX>1794</PosX>
     <PosY>878</PosY>
     <Size>35</Size>
@@ -4239,9 +4464,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2</Input>
     <Output> 0, 62, 110</Output>
-    <PosX>1427</PosX>
-    <PosY>134</PosY>
-    <Size>45</Size>
+    <PosX>1552</PosX>
+    <PosY>182</PosY>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -4281,7 +4506,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>157</PosX>
+    <PosX>158</PosX>
     <PosY>464</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
@@ -4969,7 +5194,7 @@
     <Name>Selective Jettison Pushbutton</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOn>FA18_Rund2_On.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
@@ -4982,6 +5207,405 @@
     <DontReset>false</DontReset>
     <WindowID>4</WindowID>
     <DcsID>235</DcsID>
+  </Switches>
+  <Switches>
+    <ID>148</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>50</ClickabledataID>
+    <Name>Arresting Hook Handle, UP/DOWN</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>FA18_Hook_On.png</FilePictureOn>
+    <FilePictureOff>FA18_Hook_Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>186</PosX>
+    <PosY>-92</PosY>
+    <Size>140</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>2</WindowID>
+    <DcsID>293</DcsID>
+  </Switches>
+  <Switches>
+    <ID>149</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>8</ClickabledataID>
+    <Name>Wing Fold Control Handle, (RMB)CW/(LMB)CCW {-1.0,0.0,1.0}</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>FA18_Rotary_2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-90, -45, 0</Output>
+    <PosX>233</PosX>
+    <PosY>121</PosY>
+    <Size>290</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>2</WindowID>
+    <DcsID>295</DcsID>
+  </Switches>
+  <Switches>
+    <ID>150</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>90</ClickabledataID>
+    <Name>AV COOL Switch, NORM/EMERG</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>449</PosX>
+    <PosY>336</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>2</WindowID>
+    <DcsID>297</DcsID>
+  </Switches>
+  <Switches>
+    <ID>151</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>11</ClickabledataID>
+    <Name>Left Generator Control Switch, NORM/OFF</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>49</PosX>
+    <PosY>115</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>402</DcsID>
+  </Switches>
+  <Switches>
+    <ID>152</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>12</ClickabledataID>
+    <Name>Right Generator Control Switch, NORM/OFF</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>263</PosX>
+    <PosY>115</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>403</DcsID>
+  </Switches>
+  <Switches>
+    <ID>153</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>10</ClickabledataID>
+    <Name>Battery Switch, ON/OFF/ORIDE {-1.0,0.0,1.0}</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>155</PosX>
+    <PosY>115</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>404</DcsID>
+  </Switches>
+  <Switches>
+    <ID>154</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>85</ClickabledataID>
+    <Name>ECS Mode Switch, AUTO/MAN/ OFF/RAM {-1.0,0.0,1.0}</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>57</PosX>
+    <PosY>223</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>405</DcsID>
+  </Switches>
+  <Switches>
+    <ID>155</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>86</ClickabledataID>
+    <Name>Cabin Pressure Switch, NORM/DUMP/ RAM/DUMP {-1.0,0.0,1.0}</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>263</PosX>
+    <PosY>222</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>408</DcsID>
+  </Switches>
+  <Switches>
+    <ID>156</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>89</ClickabledataID>
+    <Name>Suit Temperature Knob {0.0,1.0} in 0.1 Steps</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 270</Output>
+    <PosX>146</PosX>
+    <PosY>245</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>406</DcsID>
+  </Switches>
+  <Switches>
+    <ID>157</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>24</ClickabledataID>
+    <Name>Pitot Heater Switch, ON/AUTO</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>57</PosX>
+    <PosY>343</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>409</DcsID>
+  </Switches>
+  <Switches>
+    <ID>158</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>25</ClickabledataID>
+    <Name>Engine Anti-Ice Switch, ON/OFF/TEST {-1.0,0.0,1.0}</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>133</PosX>
+    <PosY>343</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>410</DcsID>
+  </Switches>
+  <Switches>
+    <ID>159</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>83</ClickabledataID>
+    <Name>Bleed Air Knob, R OFF/NORM/L OFF/OFF {0.0,0.1,0.2,0.3}</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2,0.3</Input>
+    <Output> -45, 45, 135, 225</Output>
+    <PosX>221</PosX>
+    <PosY>365</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>411</DcsID>
+  </Switches>
+  <Switches>
+    <ID>160</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>72</ClickabledataID>
+    <Name>CONSOLES Lights Dimmer Control {0.0,1.0} in 0.15 Steps</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.15</Input>
+    <Output> -10, 270</Output>
+    <PosX>62</PosX>
+    <PosY>484</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>413</DcsID>
+  </Switches>
+  <Switches>
+    <ID>161</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>73</ClickabledataID>
+    <Name>INST PNL Dimmer Control {0.0,1.0} in 0.15 Steps</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.15</Input>
+    <Output> -10, 260</Output>
+    <PosX>153</PosX>
+    <PosY>484</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>414</DcsID>
+  </Switches>
+  <Switches>
+    <ID>162</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>74</ClickabledataID>
+    <Name>FLOOD Light Dimmer Control {0.0,1.0} in 0.15 Steps</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.15</Input>
+    <Output> -10, 260</Output>
+    <PosX>245</PosX>
+    <PosY>485</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>415</DcsID>
+  </Switches>
+  <Switches>
+    <ID>163</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>78</ClickabledataID>
+    <Name>Lights Test Switch, TEST/OFF</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>35</PosX>
+    <PosY>572</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>416</DcsID>
+  </Switches>
+  <Switches>
+    <ID>164</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>77</ClickabledataID>
+    <Name>WARN/CAUTION Dimmer Control {0.0,1.0} in 0.15 Steps</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.15</Input>
+    <Output> 0, 270</Output>
+    <PosX>103</PosX>
+    <PosY>601</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>417</DcsID>
+  </Switches>
+  <Switches>
+    <ID>165</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>76</ClickabledataID>
+    <Name>CHART Light Dimmer Control {0.0,1.0} in 0.15 Steps</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.15</Input>
+    <Output> 0,270</Output>
+    <PosX>203</PosX>
+    <PosY>601</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>418</DcsID>
+  </Switches>
+  <Switches>
+    <ID>166</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>75</ClickabledataID>
+    <Name>MODE Switch, NVG/NITE/DAY {-1.0,0.0,1.0}</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>282</PosX>
+    <PosY>572</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>419</DcsID>
   </Switches>
   <Accessories>
     <ID>3</ID>
@@ -5151,6 +5775,42 @@
     <Active>true</Active>
     <WindowID>4</WindowID>
   </Accessories>
+  <Accessories>
+    <ID>17</ID>
+    <Class>Label</Class>
+    <Name>AV Cool</Name>
+    <FilePictureOn>FA18_AV_COOL.png</FilePictureOn>
+    <PosX>431</PosX>
+    <PosY>290</PosY>
+    <Size>70</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>2</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>18</ID>
+    <Class>Label</Class>
+    <Name>Checkpanel</Name>
+    <FilePictureOn>FA18_CheckPanel.png</FilePictureOn>
+    <PosX>132</PosX>
+    <PosY>314</PosY>
+    <Size>300</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>2</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>19</ID>
+    <Class>Label</Class>
+    <Name>Landing</Name>
+    <FilePictureOn>FA18_Landing.png</FilePictureOn>
+    <PosX>314</PosX>
+    <PosY>52</PosY>
+    <Size>125</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>2</WindowID>
+  </Accessories>
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
   </Parameter>
@@ -5169,9 +5829,9 @@
   <Window>
     <WindowID>2</WindowID>
     <Name>RightVerticalPanel</Name>
-    <PosX>1300</PosX>
-    <PosY>460</PosY>
-    <Height>611</Height>
+    <PosX>1280</PosX>
+    <PosY>620</PosY>
+    <Height>460</Height>
     <Width>500</Width>
     <Background>PanelBackground.png</Background>
     <BackgroundNight>-</BackgroundNight>
@@ -5180,11 +5840,11 @@
   <Window>
     <WindowID>3</WindowID>
     <Name>RightConsole</Name>
-    <PosX>1300</PosX>
-    <PosY>0</PosY>
-    <Height>1080</Height>
-    <Width>500</Width>
-    <Background>PanelBackground.png</Background>
+    <PosX>1440</PosX>
+    <PosY>200</PosY>
+    <Height>878</Height>
+    <Width>350</Width>
+    <Background>FA18_RightPanel.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
   </Window>
@@ -5205,7 +5865,7 @@
     <PosX>20</PosX>
     <PosY>0</PosY>
     <Height>500</Height>
-    <Width>330</Width>
+    <Width>350</Width>
     <Background>PanelBackground.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
