@@ -2714,7 +2714,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>LED_Red_On.png</FilePictureOn>
     <FilePictureOff>LED_Red_Off.png</FilePictureOff>
-    <PosX>1073</PosX>
+    <PosX>987</PosX>
     <PosY>117</PosY>
     <Size>15</Size>
     <Rotate>0</Rotate>
@@ -2729,7 +2729,7 @@
     <OldValue>0</OldValue>
     <FilePictureOn>LED_Red_On.png</FilePictureOn>
     <FilePictureOff>LED_Red_Off.png</FilePictureOff>
-    <PosX>987</PosX>
+    <PosX>1073</PosX>
     <PosY>117</PosY>
     <Size>15</Size>
     <Rotate>0</Rotate>
@@ -6643,9 +6643,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>855</PosX>
-    <PosY>874</PosY>
-    <Size>45</Size>
+    <PosX>876</PosX>
+    <PosY>881</PosY>
+    <Size>30</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7828,20 +7828,20 @@
   </Switches>
   <Switches>
     <ID>213</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOn_OffOn</Class>
     <ClickabledataID>135</ClickabledataID>
     <Name>CMSP - Electronic Countermeasure Jammer (JMR)</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1</Input>
-    <Output>0.0,0.1</Output>
-    <PosX>124</PosX>
-    <PosY>192</PosY>
-    <Size>40</Size>
-    <Rotate>0</Rotate>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.2,0.1,0.0</Input>
+    <Output>0.2,0.1,0.0</Output>
+    <PosX>41</PosX>
+    <PosY>180</PosY>
+    <Size>45</Size>
+    <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
@@ -7849,20 +7849,20 @@
   </Switches>
   <Switches>
     <ID>214</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOn_OffOn</Class>
     <ClickabledataID>136</ClickabledataID>
-    <Name>CMSP - Radar Warning Receiver (RWR). ON/OFF</Name>
+    <Name>CMSP - Radar Warning Receiver (RWR). MENU/ON/OFF</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1</Input>
-    <Output>0.0,0.1</Output>
-    <PosX>187</PosX>
-    <PosY>191</PosY>
-    <Size>40</Size>
-    <Rotate>0</Rotate>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.2,0.1,0.0</Input>
+    <Output>0.2,0.1,0.0</Output>
+    <PosX>105</PosX>
+    <PosY>180</PosY>
+    <Size>45</Size>
+    <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
@@ -7870,20 +7870,20 @@
   </Switches>
   <Switches>
     <ID>215</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOn_OffOn</Class>
     <ClickabledataID>138</ClickabledataID>
-    <Name>CMSP - Countermeasure Dispenser (DISP). ON/OFF</Name>
+    <Name>CMSP - Countermeasure Dispenser (DISP). MENU/ON/OFF</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1</Input>
-    <Output>0.0,0.1</Output>
-    <PosX>253</PosX>
-    <PosY>191</PosY>
-    <Size>40</Size>
-    <Rotate>0</Rotate>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.2,0.1,0.0</Input>
+    <Output>0.2,0.1,0.0</Output>
+    <PosX>169</PosX>
+    <PosY>180</PosY>
+    <Size>45</Size>
+    <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
@@ -8017,66 +8017,24 @@
   </Switches>
   <Switches>
     <ID>222</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOn_OffOn</Class>
     <ClickabledataID>134</ClickabledataID>
     <Name>CMSP - Missile Warning System (MWS)</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1</Input>
-    <Output>0.0,0.1</Output>
-    <PosX>58</PosX>
-    <PosY>193</PosY>
-    <Size>40</Size>
-    <Rotate>0</Rotate>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.2,0.1,0.0</Input>
+    <Output>0.2,0.1,0.0</Output>
+    <PosX>-22</PosX>
+    <PosY>180</PosY>
+    <Size>45</Size>
+    <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
     <DcsID>360</DcsID>
-  </Switches>
-  <Switches>
-    <ID>223</ID>
-    <Class>ButtonOffOn</Class>
-    <ClickabledataID>137</ClickabledataID>
-    <Name>CMSP - Radar Warning Receiver (RWR). MENU</Name>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <FilePictureOn>Button3On.png</FilePictureOn>
-    <FilePictureOff>Button3Off.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.1,0.2</Input>
-    <Output>0.1,0.2</Output>
-    <PosX>192</PosX>
-    <PosY>160</PosY>
-    <Size>30</Size>
-    <Rotate>0</Rotate>
-    <Event>false</Event>
-    <DontReset>false</DontReset>
-    <WindowID>2</WindowID>
-    <DcsID>362</DcsID>
-  </Switches>
-  <Switches>
-    <ID>224</ID>
-    <Class>ButtonOffOn</Class>
-    <ClickabledataID>139</ClickabledataID>
-    <Name>CMSP - Countermeasure Dispenser (DISP). MENU</Name>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <FilePictureOn>Button3On.png</FilePictureOn>
-    <FilePictureOff>Button3Off.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.1,0.2</Input>
-    <Output>0.1,0.2</Output>
-    <PosX>257</PosX>
-    <PosY>160</PosY>
-    <Size>30</Size>
-    <Rotate>0</Rotate>
-    <Event>false</Event>
-    <DontReset>false</DontReset>
-    <WindowID>2</WindowID>
-    <DcsID>363</DcsID>
   </Switches>
   <Switches>
     <ID>225</ID>
@@ -9036,6 +8994,48 @@
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
     <DcsID>712</DcsID>
+  </Switches>
+  <Switches>
+    <ID>272</ID>
+    <Class>Button</Class>
+    <ClickabledataID>253</ClickabledataID>
+    <Name>Clock - Toggle Clock and Elapsed Time Modes</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>ButtonOn.png</FilePictureOn>
+    <FilePictureOff>ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>460</PosX>
+    <PosY>920</PosY>
+    <Size>25</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>68</DcsID>
+  </Switches>
+  <Switches>
+    <ID>273</ID>
+    <Class>Button</Class>
+    <ClickabledataID>254</ClickabledataID>
+    <Name>Clock - Start, Stop and Reset Elapsed Timer</Name>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <FilePictureOn>ButtonOn.png</FilePictureOn>
+    <FilePictureOff>ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>550</PosX>
+    <PosY>920</PosY>
+    <Size>25</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>69</DcsID>
   </Switches>
   <Accessories>
     <ID>1</ID>

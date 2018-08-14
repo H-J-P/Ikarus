@@ -654,8 +654,11 @@
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue />
+<<<<<<< HEAD
+=======
     <In />
     <Out />
+>>>>>>> cd7ffa23d50e2c6ebcf704d72e5c543d68228029
   </Functions>
   <Functions>
     <IDInst>2</IDInst>
