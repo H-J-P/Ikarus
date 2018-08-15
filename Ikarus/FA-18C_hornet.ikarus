@@ -302,10 +302,10 @@
   <Instruments>
     <IDInst>24</IDInst>
     <Name>sp 1</Name>
-    <Class>Display7Segment</Class>
-    <PosX>1</PosX>
-    <PosY>152</PosY>
-    <Size>50</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>783</PosX>
+    <PosY>52</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -315,10 +315,10 @@
   <Instruments>
     <IDInst>25</IDInst>
     <Name>sp 2</Name>
-    <Class>Display7Segment</Class>
-    <PosX>80</PosX>
-    <PosY>152</PosY>
-    <Size>50</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>811</PosX>
+    <PosY>52</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -328,10 +328,10 @@
   <Instruments>
     <IDInst>26</IDInst>
     <Name>sp numbers</Name>
-    <Class>Display7Segment</Class>
-    <PosX>796</PosX>
-    <PosY>48</PosY>
-    <Size>140</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>842</PosX>
+    <PosY>55</PosY>
+    <Size>100</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -341,10 +341,10 @@
   <Instruments>
     <IDInst>27</IDInst>
     <Name>od 1</Name>
-    <Class>Display7Segment</Class>
-    <PosX>993</PosX>
-    <PosY>51</PosY>
-    <Size>120</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1000</PosX>
+    <PosY>55</PosY>
+    <Size>100</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -354,10 +354,10 @@
   <Instruments>
     <IDInst>28</IDInst>
     <Name>od 2</Name>
-    <Class>Display7Segment</Class>
-    <PosX>993</PosX>
-    <PosY>108</PosY>
-    <Size>120</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1000</PosX>
+    <PosY>103</PosY>
+    <Size>100</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -367,10 +367,10 @@
   <Instruments>
     <IDInst>29</IDInst>
     <Name>od 3</Name>
-    <Class>Display7Segment</Class>
-    <PosX>993</PosX>
-    <PosY>158</PosY>
-    <Size>120</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1000</PosX>
+    <PosY>152</PosY>
+    <Size>100</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -380,10 +380,10 @@
   <Instruments>
     <IDInst>30</IDInst>
     <Name>od 4</Name>
-    <Class>Display7Segment</Class>
-    <PosX>993</PosX>
-    <PosY>205</PosY>
-    <Size>120</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1000</PosX>
+    <PosY>201</PosY>
+    <Size>100</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -393,10 +393,10 @@
   <Instruments>
     <IDInst>31</IDInst>
     <Name>od 5</Name>
-    <Class>Display7Segment</Class>
-    <PosX>993</PosX>
-    <PosY>255</PosY>
-    <Size>120</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1000</PosX>
+    <PosY>251</PosY>
+    <Size>100</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -406,9 +406,9 @@
   <Instruments>
     <IDInst>32</IDInst>
     <Name>comm1</Name>
-    <Class>Display7Segment</Class>
-    <PosX>739</PosX>
-    <PosY>263</PosY>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>738</PosX>
+    <PosY>260</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -419,9 +419,9 @@
   <Instruments>
     <IDInst>33</IDInst>
     <Name>comm2</Name>
-    <Class>Display7Segment</Class>
-    <PosX>1125</PosX>
-    <PosY>262</PosY>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1122</PosX>
+    <PosY>260</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -459,8 +459,8 @@
     <IDInst>36</IDInst>
     <Name>Battery</Name>
     <Class>FA18C_Batt</Class>
-    <PosX>22</PosX>
-    <PosY>-2</PosY>
+    <PosX>16</PosX>
+    <PosY>-1</PosY>
     <Size>125</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -1116,7 +1116,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1132,7 +1132,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1148,7 +1148,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>7</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1164,7 +1164,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>5</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1180,7 +1180,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>5</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1196,7 +1196,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>5</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1212,7 +1212,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>5</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1228,7 +1228,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>5</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1244,7 +1244,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1260,7 +1260,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -4842,7 +4842,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>110</PosX>
+    <PosX>115</PosX>
     <PosY>567</PosY>
     <Size>100</Size>
     <Rotate>0</Rotate>
@@ -5607,6 +5607,237 @@
     <WindowID>3</WindowID>
     <DcsID>419</DcsID>
   </Switches>
+  <Switches>
+    <ID>167</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>40</ClickabledataID>
+    <Name>Fire and Bleed Air Test Switch, OFF/(LMB) TEST B {0.0,1.0}</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>223</PosX>
+    <PosY>41</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>331</DcsID>
+  </Switches>
+  <Switches>
+    <ID>168</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>17</ClickabledataID>
+    <Name>Ground Power Switch 1, AUTO/B ON {0.0,1.0}</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>102</PosX>
+    <PosY>80</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>332</DcsID>
+  </Switches>
+  <Switches>
+    <ID>169</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>18</ClickabledataID>
+    <Name>Ground Power Switch 2, A ON/AUTO {-1.0,0.0}</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>30</PosX>
+    <PosY>151</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>333</DcsID>
+  </Switches>
+  <Switches>
+    <ID>170</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>20</ClickabledataID>
+    <Name>Ground Power Switch 3, A ON/AUTO {-1.0,0.0}</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>103</PosX>
+    <PosY>195</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>334</DcsID>
+  </Switches>
+  <Switches>
+    <ID>171</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>22</ClickabledataID>
+    <Name>Ground Power Switch 4, A ON/AUTO {-1.0,0.0}</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>29</PosX>
+    <PosY>268</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>335</DcsID>
+  </Switches>
+  <Switches>
+    <ID>172</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>14</ClickabledataID>
+    <Name>External Power Switch, RESET/NORM {-1.0,0.0}</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>93</PosX>
+    <PosY>308</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>336</DcsID>
+  </Switches>
+  <Switches>
+    <ID>173</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>69</ClickabledataID>
+    <Name>FORMATION Lights Dimmer Control {0.0,1.0} in 0.15 Steps</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.15</Input>
+    <Output> -15,280</Output>
+    <PosX>254</PosX>
+    <PosY>197</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>337</DcsID>
+  </Switches>
+  <Switches>
+    <ID>174</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>68</ClickabledataID>
+    <Name>POSITION Lights Dimmer Control {0.0,1.0} in 0.15 Steps</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.15</Input>
+    <Output> -15,280</Output>
+    <PosX>197</PosX>
+    <PosY>317</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>338</DcsID>
+  </Switches>
+  <Switches>
+    <ID>175</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>70</ClickabledataID>
+    <Name>STROBE Lights Switch, BRT/OFF/DIM {-1.0,0.0,1.0}</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>284</PosX>
+    <PosY>354</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>339</DcsID>
+  </Switches>
+  <Switches>
+    <ID>176</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>51</ClickabledataID>
+    <Name>Internal Wing Tank Fuel Control Switch, INHIBIT/NORM</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>244</PosX>
+    <PosY>481</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>5</WindowID>
+    <DcsID>340</DcsID>
+  </Switches>
+  <Switches>
+    <ID>177</ID>
+    <Class>SwitchOffOn</Class>
+    <ClickabledataID>46</ClickabledataID>
+    <Name>Emergency/Parking Brake Handle, (MW)Pull-Stow {0.0,1.0} in 0.001 Steps ???</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>SwitchOn.png</FilePictureOn>
+    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>291</PosX>
+    <PosY>190</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>240</DcsID>
+  </Switches>
   <Accessories>
     <ID>3</ID>
     <Class>Label</Class>
@@ -5844,7 +6075,7 @@
     <PosY>200</PosY>
     <Height>878</Height>
     <Width>350</Width>
-    <Background>FA18_RightPanel.png</Background>
+    <Background>FA18_RightConsule.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
   </Window>
@@ -5863,10 +6094,10 @@
     <WindowID>5</WindowID>
     <Name>LeftConsole</Name>
     <PosX>20</PosX>
-    <PosY>0</PosY>
-    <Height>500</Height>
+    <PosY>480</PosY>
+    <Height>589</Height>
     <Width>350</Width>
-    <Background>PanelBackground.png</Background>
+    <Background>FA18_LeftConsule.png</Background>
     <BackgroundNight>-</BackgroundNight>
     <Refresh>true</Refresh>
   </Window>
