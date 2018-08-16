@@ -302,10 +302,10 @@
   <Instruments>
     <IDInst>24</IDInst>
     <Name>sp 1</Name>
-    <Class>Display7Segment</Class>
-    <PosX>1</PosX>
-    <PosY>152</PosY>
-    <Size>50</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>783</PosX>
+    <PosY>52</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -315,10 +315,10 @@
   <Instruments>
     <IDInst>25</IDInst>
     <Name>sp 2</Name>
-    <Class>Display7Segment</Class>
-    <PosX>80</PosX>
-    <PosY>152</PosY>
-    <Size>50</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>811</PosX>
+    <PosY>52</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -328,10 +328,10 @@
   <Instruments>
     <IDInst>26</IDInst>
     <Name>sp numbers</Name>
-    <Class>Display7Segment</Class>
-    <PosX>796</PosX>
-    <PosY>48</PosY>
-    <Size>140</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>842</PosX>
+    <PosY>55</PosY>
+    <Size>100</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -341,10 +341,10 @@
   <Instruments>
     <IDInst>27</IDInst>
     <Name>od 1</Name>
-    <Class>Display7Segment</Class>
-    <PosX>993</PosX>
-    <PosY>51</PosY>
-    <Size>120</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1000</PosX>
+    <PosY>55</PosY>
+    <Size>100</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -354,10 +354,10 @@
   <Instruments>
     <IDInst>28</IDInst>
     <Name>od 2</Name>
-    <Class>Display7Segment</Class>
-    <PosX>993</PosX>
-    <PosY>108</PosY>
-    <Size>120</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1000</PosX>
+    <PosY>103</PosY>
+    <Size>100</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -367,10 +367,10 @@
   <Instruments>
     <IDInst>29</IDInst>
     <Name>od 3</Name>
-    <Class>Display7Segment</Class>
-    <PosX>993</PosX>
-    <PosY>158</PosY>
-    <Size>120</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1000</PosX>
+    <PosY>152</PosY>
+    <Size>100</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -380,10 +380,10 @@
   <Instruments>
     <IDInst>30</IDInst>
     <Name>od 4</Name>
-    <Class>Display7Segment</Class>
-    <PosX>993</PosX>
-    <PosY>205</PosY>
-    <Size>120</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1000</PosX>
+    <PosY>201</PosY>
+    <Size>100</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -393,10 +393,10 @@
   <Instruments>
     <IDInst>31</IDInst>
     <Name>od 5</Name>
-    <Class>Display7Segment</Class>
-    <PosX>993</PosX>
-    <PosY>255</PosY>
-    <Size>120</Size>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1000</PosX>
+    <PosY>251</PosY>
+    <Size>100</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -406,9 +406,9 @@
   <Instruments>
     <IDInst>32</IDInst>
     <Name>comm1</Name>
-    <Class>Display7Segment</Class>
-    <PosX>739</PosX>
-    <PosY>263</PosY>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>738</PosX>
+    <PosY>260</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -419,9 +419,9 @@
   <Instruments>
     <IDInst>33</IDInst>
     <Name>comm2</Name>
-    <Class>Display7Segment</Class>
-    <PosX>1125</PosX>
-    <PosY>262</PosY>
+    <Class>DisplayDotMatrix</Class>
+    <PosX>1122</PosX>
+    <PosY>260</PosY>
     <Size>40</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -1116,7 +1116,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1132,7 +1132,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1148,7 +1148,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>7</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1164,7 +1164,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>5</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1180,7 +1180,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>5</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1196,7 +1196,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>5</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1212,7 +1212,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>5</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1228,7 +1228,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>5</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1244,7 +1244,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -1260,7 +1260,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>ABF9AB</Input>
+    <Input>ABF9AB,00000000,00000000</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
@@ -4464,9 +4464,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2</Input>
     <Output> 0, 62, 110</Output>
-    <PosX>1552</PosX>
-    <PosY>182</PosY>
-    <Size>55</Size>
+    <PosX>1423</PosX>
+    <PosY>132</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -5073,10 +5073,10 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>66</PosX>
-    <PosY>7</PosY>
+    <PosX>5</PosX>
+    <PosY>4</PosY>
     <Size>35</Size>
-    <Rotate>0</Rotate>
+    <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>4</WindowID>
