@@ -1045,7 +1045,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>59</ID>
-    <DeviceID></DeviceID>
+    <DeviceID>7</DeviceID>
     <ButtonID>3</ButtonID>
     <Discription>Canopy Jettison Handle - Pull to jettison</Discription>
     <Type>Switch</Type>
