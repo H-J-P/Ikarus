@@ -1,6 +1,7 @@
 *.pdf
 *.psd
 *.dds
+*.afdesign
 
 .DS_Store
 *.config
