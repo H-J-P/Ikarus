@@ -1045,7 +1045,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>59</ID>
-    <DeviceID></DeviceID>
+    <DeviceID>7</DeviceID>
     <ButtonID>3</ButtonID>
     <Discription>Canopy Jettison Handle - Pull to jettison</Discription>
     <Type>Switch</Type>
@@ -1510,7 +1510,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>116</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>3</ButtonID>
     <Discription>HUD Symbology Brightness Selector Knob, DAY/NIGHT</Discription>
     <Type>Switch</Type>
@@ -1526,7 +1526,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>118</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>5</ButtonID>
     <Discription>HUD Video Control Switch, W/B /VID/OFF {0.0,0.1,0.2}</Discription>
     <Type>Switch</Type>
@@ -1550,7 +1550,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>121</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>8</ButtonID>
     <Discription>HUD Altitude Switch, BARO/RDR</Discription>
     <Type>Switch</Type>
@@ -1558,7 +1558,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>122</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>9</ButtonID>
     <Discription>HUD Attitude Selector Switch, INS/AUTO/STBY {-1.0,0.0,1.0}</Discription>
     <Type>Switch</Type>

@@ -7524,6 +7524,18 @@
     <Active>true</Active>
     <WindowID>2</WindowID>
   </Accessories>
+  <Accessories>
+    <ID>12</ID>
+    <Class>Label</Class>
+    <Name>RWR</Name>
+    <FilePictureOn>M2KC_RWR.png</FilePictureOn>
+    <PosX>1284</PosX>
+    <PosY>272</PosY>
+    <Size>290</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>1</WindowID>
+  </Accessories>
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
   </Parameter>

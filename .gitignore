@@ -1,6 +1,7 @@
 *.pdf
 *.psd
 *.dds
+*.afdesign
 
 .DS_Store
 *.config
@@ -35,4 +36,6 @@ AV8BNA_2.5.1.xml
 AV8BNA_Construction.ikarus
 TempVorlage.ikarus
 Ikarus/Images/Accessories/Beispiel.PNG
+*.pdb
+*.afdesign
 *.pdb
