@@ -4706,16 +4706,16 @@
   </Switches>
   <Switches>
     <ID>21</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>2</ClickabledataID>
     <Name>HUD Power Switch</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>680</PosX>
     <PosY>29</PosY>
     <Size>45</Size>
@@ -5021,7 +5021,7 @@
   </Switches>
   <Switches>
     <ID>36</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOff_On</Class>
     <ClickabledataID>87</ClickabledataID>
     <Name>Lights Test Switch</Name>
     <Value>0</Value>
@@ -5189,7 +5189,7 @@
   </Switches>
   <Switches>
     <ID>44</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOff_On</Class>
     <ClickabledataID>40</ClickabledataID>
     <Name>PPA Test Switch</Name>
     <Value>0</Value>
@@ -5512,7 +5512,7 @@
     <FilePictureOn>M2KC_Empty.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
+    <Input>0.0,0.5,0.1</Input>
     <Output>0.0,1.0</Output>
     <PosX>80</PosX>
     <PosY>545</PosY>
@@ -5533,7 +5533,7 @@
     <FilePictureOn>M2KC_Empty.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
+    <Input>0.0,0.9,0.1</Input>
     <Output>0.0,1.0</Output>
     <PosX>125</PosX>
     <PosY>545</PosY>
@@ -5554,7 +5554,7 @@
     <FilePictureOn>M2KC_Empty.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
+    <Input>0.0,0.9,0.1</Input>
     <Output>0.0,1.0</Output>
     <PosX>168</PosX>
     <PosY>545</PosY>
@@ -6038,7 +6038,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.1,0.2,0.3,0.4</Input>
-    <Output> 0, 27,55, 90, 135</Output>
+    <Output> 135, 90, 55, 27, 0</Output>
     <PosX>364</PosX>
     <PosY>908</PosY>
     <Size>65</Size>
@@ -6051,7 +6051,7 @@
   <Switches>
     <ID>86</ID>
     <Class>Drum</Class>
-    <ClickabledataID>190</ClickabledataID>
+    <ClickabledataID>184</ClickabledataID>
     <Name>Radar IFF Code-4 Selector</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
@@ -6072,7 +6072,7 @@
   <Switches>
     <ID>87</ID>
     <Class>Drum</Class>
-    <ClickabledataID>191</ClickabledataID>
+    <ClickabledataID>185</ClickabledataID>
     <Name>Radar IFF Code-3 Selector</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
@@ -6093,7 +6093,7 @@
   <Switches>
     <ID>88</ID>
     <Class>Drum</Class>
-    <ClickabledataID>192</ClickabledataID>
+    <ClickabledataID>186</ClickabledataID>
     <Name>Radar IFF Code-2 Selector</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
@@ -6114,7 +6114,7 @@
   <Switches>
     <ID>89</ID>
     <Class>Drum</Class>
-    <ClickabledataID>193</ClickabledataID>
+    <ClickabledataID>187</ClickabledataID>
     <Name>Radar IFF Code-1 Selector</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
@@ -6135,7 +6135,7 @@
   <Switches>
     <ID>90</ID>
     <Class>MultiSwitch</Class>
-    <ClickabledataID>194</ClickabledataID>
+    <ClickabledataID>188</ClickabledataID>
     <Name>Radar IFF Mode Switch</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
@@ -6156,7 +6156,7 @@
   <Switches>
     <ID>91</ID>
     <Class>SwitchOffOn</Class>
-    <ClickabledataID>195</ClickabledataID>
+    <ClickabledataID>189</ClickabledataID>
     <Name>Radar IFF L/R Selector</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
@@ -6177,14 +6177,14 @@
   <Switches>
     <ID>92</ID>
     <Class>MultiSwitch</Class>
-    <ClickabledataID>196</ClickabledataID>
+    <ClickabledataID>190</ClickabledataID>
     <Name>Radar IFF Power Switch</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <FilePictureOn>M2KC_Rotary_C.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1,0.2</Input>
+    <Input>0.0,0.5,1.0</Input>
     <Output>45, 90, 135</Output>
     <PosX>354</PosX>
     <PosY>410</PosY>
@@ -6218,16 +6218,16 @@
   </Switches>
   <Switches>
     <ID>94</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>106</ClickabledataID>
     <Name>BR Power Switch</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>142</PosX>
     <PosY>555</PosY>
     <Size>35</Size>
@@ -6239,16 +6239,16 @@
   </Switches>
   <Switches>
     <ID>95</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>107</ClickabledataID>
     <Name>RWR Power Switch</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>186</PosX>
     <PosY>556</PosY>
     <Size>35</Size>
@@ -6260,16 +6260,16 @@
   </Switches>
   <Switches>
     <ID>96</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>108</ClickabledataID>
     <Name>D2M Power Switch</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>230</PosX>
     <PosY>556</PosY>
     <Size>35</Size>
@@ -6281,16 +6281,16 @@
   </Switches>
   <Switches>
     <ID>97</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>109</ClickabledataID>
     <Name>Decoy Release Mode Switch</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>276</PosX>
     <PosY>555</PosY>
     <Size>35</Size>
@@ -6373,7 +6373,7 @@
     <FilePictureOn>M2KC_Rotary_A.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
+    <Input>0.0,0.9,0.1</Input>
     <Output> 0, 360</Output>
     <PosX>362</PosX>
     <PosY>685</PosY>
@@ -6415,7 +6415,7 @@
     <FilePictureOn>M2KC_Rotary_B.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.1,0.1</Input>
+    <Input>0.0,1.0,0.1</Input>
     <Output> 0, 360</Output>
     <PosX>33</PosX>
     <PosY>789</PosY>
@@ -6501,7 +6501,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>3</PosX>
+    <PosX>11</PosX>
     <PosY>26</PosY>
     <Size>35</Size>
     <Rotate>180</Rotate>
@@ -6583,7 +6583,7 @@
     <FilePictureOn>M2KC_Rotary_C.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1,0.2,0.3,0.4</Input>
+    <Input>0.0,0.25,0.5,0.75,1.0</Input>
     <Output> -47,  42, 132, 220</Output>
     <PosX>125</PosX>
     <PosY>125</PosY>
@@ -6625,7 +6625,7 @@
     <FilePictureOn>M2KC_Rotary_F.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.05</Input>
+    <Input>0.0,0.95,0.05</Input>
     <Output> 0, 360</Output>
     <PosX>271</PosX>
     <PosY>57</PosY>
@@ -6659,7 +6659,7 @@
   </Switches>
   <Switches>
     <ID>115</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOff_On</Class>
     <ClickabledataID>143</ClickabledataID>
     <Name>U/VHF E+A2 Switch</Name>
     <Value>0</Value>
@@ -6814,7 +6814,7 @@
     <FilePictureOn>M2KC_Rotary_F.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.05</Input>
+    <Input>0.0,0.95,0.05</Input>
     <Output> 0, 360</Output>
     <PosX>369</PosX>
     <PosY>346</PosY>
@@ -6858,7 +6858,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>123</PosX>
+    <PosX>119</PosX>
     <PosY>374</PosY>
     <Size>35</Size>
     <Rotate>180</Rotate>
@@ -6898,8 +6898,8 @@
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
     <PosX>1407</PosX>
     <PosY>910</PosY>
     <Size>40</Size>
@@ -6912,14 +6912,14 @@
   <Switches>
     <ID>127</ID>
     <Class>Drum</Class>
-    <ClickabledataID>205</ClickabledataID>
+    <ClickabledataID>194</ClickabledataID>
     <Name>Display Brightness</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <FilePictureOn>M2KC_Empty.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
+    <Input>0.0,0.7,0.1</Input>
     <Output> 0, 360</Output>
     <PosX>1116</PosX>
     <PosY>953</PosY>
@@ -6933,14 +6933,14 @@
   <Switches>
     <ID>128</ID>
     <Class>Drum</Class>
-    <ClickabledataID>204</ClickabledataID>
+    <ClickabledataID>193</ClickabledataID>
     <Name>Display Contrast</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <FilePictureOn>M2KC_Empty.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
+    <Input>0.0,0.7,0.1</Input>
     <Output> 0, 360</Output>
     <PosX>1053</PosX>
     <PosY>952</PosY>
@@ -6954,14 +6954,14 @@
   <Switches>
     <ID>129</ID>
     <Class>Drum</Class>
-    <ClickabledataID>203</ClickabledataID>
+    <ClickabledataID>192</ClickabledataID>
     <Name>Video Brightness</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <FilePictureOn>M2KC_Empty.png</FilePictureOn>
     <FilePictureOff>.</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
+    <Input>0.0,0.7,0.1</Input>
     <Output> 0, 360</Output>
     <PosX>989</PosX>
     <PosY>953</PosY>
@@ -6975,14 +6975,14 @@
   <Switches>
     <ID>130</ID>
     <Class>Drum</Class>
-    <ClickabledataID>202</ClickabledataID>
+    <ClickabledataID>191</ClickabledataID>
     <Name>Icons and Rulers Brightness</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <FilePictureOn>M2KC_Empty.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
+    <Input>0.0,0.7,0.1</Input>
     <Output> 0, 360</Output>
     <PosX>928</PosX>
     <PosY>953</PosY>
@@ -7037,7 +7037,7 @@
   </Switches>
   <Switches>
     <ID>133</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOff_On</Class>
     <ClickabledataID>19</ClickabledataID>
     <Name>VTB Declutter</Name>
     <Value>0</Value>
@@ -7079,7 +7079,7 @@
   </Switches>
   <Switches>
     <ID>136</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOff_On</Class>
     <ClickabledataID>10</ClickabledataID>
     <Name>Radar Interception Switch</Name>
     <Value>0</Value>
@@ -7150,7 +7150,7 @@
     <FilePictureOn>M2KC_Rotary_D.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
+    <Input>0.0,0.9,0.1</Input>
     <Output> 0, 180</Output>
     <PosX>65</PosX>
     <PosY>305</PosY>
@@ -7185,8 +7185,8 @@
   <Switches>
     <ID>141</ID>
     <Class>SwitchOffOn</Class>
-    <ClickabledataID>206</ClickabledataID>
-    <Name>Gun Arm/Safe Switch</Name>
+    <ClickabledataID>195</ClickabledataID>
+    <Name>Gun Arm / Safe Switch</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
@@ -7339,8 +7339,8 @@
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
-    <Input>-1.0,0.0,1.0</Input>
-    <Output>-1.0,0.0,1.0</Output>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>142</PosX>
     <PosY>730</PosY>
     <Size>40</Size>
@@ -7391,6 +7391,27 @@
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
     <DcsID>649</DcsID>
+  </Switches>
+  <Switches>
+    <ID>151</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>9</ClickabledataID>
+    <Name>Radar Altimeter Minimum Altitude Selector</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>M2KC_Rotary_C.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.2</Input>
+    <Output> 0, 270</Output>
+    <PosX>1130</PosX>
+    <PosY>255</PosY>
+    <Size>90</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>192</DcsID>
   </Switches>
   <Accessories>
     <ID>1</ID>

@@ -2062,7 +2062,7 @@
     <ID>133</ID>
     <DeviceID>7</DeviceID>
     <ButtonID>651</ButtonID>
-    <Discription>Fire Extinguisher Switch Cover</Discription>
+    <Discription>Fuel Cutoff Switch Cover</Discription>
     <Type>Switch</Type>
     <DcsID>651</DcsID>
   </Clickabledata>
@@ -2070,7 +2070,7 @@
     <ID>134</ID>
     <DeviceID>7</DeviceID>
     <ButtonID>652</ButtonID>
-    <Discription>Fire Extinguisher Switch</Discription>
+    <Discription>Fuel Cutoff Switch</Discription>
     <Type>Switch</Type>
     <DcsID>652</DcsID>
   </Clickabledata>
@@ -2301,7 +2301,7 @@
   <Clickabledata>
     <ID>164</ID>
     <DeviceID>16</DeviceID>
-    <ButtonID>144</ButtonID>
+    <ButtonID>191</ButtonID>
     <Discription>Audio Warning Reset</Discription>
     <Type>Switch</Type>
     <DcsID>191</DcsID>
@@ -2457,6 +2457,278 @@
     <Discription>Barometric Pressure Calibration</Discription>
     <Type>Rotary</Type>
     <DcsID>309</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>184</ID>
+    <DeviceID>11</DeviceID>
+    <ButtonID>601</ButtonID>
+    <Discription>Radar IFF Code-4 Selector</Discription>
+    <Type>Rotary</Type>
+    <DcsID>601</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>185</ID>
+    <DeviceID>11</DeviceID>
+    <ButtonID>602</ButtonID>
+    <Discription>Radar IFF Code-3 Selector</Discription>
+    <Type>Rotary</Type>
+    <DcsID>602</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>186</ID>
+    <DeviceID>11</DeviceID>
+    <ButtonID>603</ButtonID>
+    <Discription>Radar IFF Code-2 Selector</Discription>
+    <Type>Rotary</Type>
+    <DcsID>603</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>187</ID>
+    <DeviceID>11</DeviceID>
+    <ButtonID>604</ButtonID>
+    <Discription>Radar IFF Code-1 Selector</Discription>
+    <Type>Rotary</Type>
+    <DcsID>604</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>188</ID>
+    <DeviceID>11</DeviceID>
+    <ButtonID>598</ButtonID>
+    <Discription>Radar IFF Mode Switch</Discription>
+    <Type>Rotary</Type>
+    <DcsID>598</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>189</ID>
+    <DeviceID>11</DeviceID>
+    <ButtonID>599</ButtonID>
+    <Discription>Radar IFF L/R Selector</Discription>
+    <Type>Rotary</Type>
+    <DcsID>599</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>190</ID>
+    <DeviceID>11</DeviceID>
+    <ButtonID>600</ButtonID>
+    <Discription>Radar IFF Power Switch</Discription>
+    <Type>Rotary</Type>
+    <DcsID>600</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>191</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>224</ButtonID>
+    <Discription>Icons and Rulers Brightness</Discription>
+    <Type>Rotary</Type>
+    <DcsID>224</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>192</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>225</ButtonID>
+    <Discription>Video Brightness</Discription>
+    <Type>Rotary</Type>
+    <DcsID>225</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>193</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>226</ButtonID>
+    <Discription>Display Contrast</Discription>
+    <Type>Rotary</Type>
+    <DcsID>226</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>194</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>227</ButtonID>
+    <Discription>Display Brightness</Discription>
+    <Type>Rotary</Type>
+    <DcsID>227</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>195</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>227</ButtonID>
+    <Discription>Display Brightness</Discription>
+    <Type>Rotary</Type>
+    <DcsID>227</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>196</ID>
+    <DeviceID>8</DeviceID>
+    <ButtonID>654</ButtonID>
+    <Discription>Gun Arm / Safe Switch</Discription>
+    <Type>button</Type>
+    <DcsID>654</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>197</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>576</ButtonID>
+    <Discription>Offset Waypoint/Target</Discription>
+    <Type>Button</Type>
+    <DcsID>576</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>198</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>578</ButtonID>
+    <Discription>INS Update</Discription>
+    <Type>Button</Type>
+    <DcsID>578</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>198</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>580</ButtonID>
+    <Discription>Validate Data Entry</Discription>
+    <Type>Button</Type>
+    <DcsID>580</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>199</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>582</ButtonID>
+    <Discription>Mark Position</Discription>
+    <Type>Button</Type>
+    <DcsID>582</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>200</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>667</ButtonID>
+    <Discription>AUTO Navigation</Discription>
+    <Type>Button</Type>
+    <DcsID>667</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>201</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>575</ButtonID>
+    <Discription>Light Brightnes Control/Test</Discription>
+    <Type>Rotary</Type>
+    <DcsID>575</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>202</ID>
+    <DeviceID>9</DeviceID>
+    <ButtonID>665</ButtonID>
+    <Discription>Light Brightnes Control/Test</Discription>
+    <Type>Rotary</Type>
+    <DcsID>665</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>203</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>228</ButtonID>
+    <Discription>Light Brightnes Control/Test</Discription>
+    <Type>Rotary</Type>
+    <DcsID>228</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>204</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>643</ButtonID>
+    <Discription>Light Brightnes Control/Test</Discription>
+    <Type>Rotary</Type>
+    <DcsID>643</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>205</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>644</ButtonID>
+    <Discription>Light Brightnes Control/Test</Discription>
+    <Type>Rotary</Type>
+    <DcsID>644</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>206</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>920</ButtonID>
+    <Discription>Light Brightnes Control/Test</Discription>
+    <Type>Rotary</Type>
+    <DcsID>920</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>207</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>477</ButtonID>
+    <Discription>Fuel Dump Switch Cover</Discription>
+    <Type>Button</Type>
+    <DcsID>477</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>208</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>478</ButtonID>
+    <Discription>Fuel Dump Switch</Discription>
+    <Type>Button</Type>
+    <DcsID>478</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>209</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>471</ButtonID>
+    <Discription>A/B Emergency Cutoff Switch Cover</Discription>
+    <Type>Button</Type>
+    <DcsID>471</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>210</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>472</ButtonID>
+    <Discription>A/B Emergency Cutoff Switch</Discription>
+    <Type>Button</Type>
+    <DcsID>472</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>211</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>464</ButtonID>
+    <Discription>Emergency Throttle Cover</Discription>
+    <Type>Button</Type>
+    <DcsID>464</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>212</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>465</ButtonID>
+    <Discription>Emergency Throttle Handle</Discription>
+    <Type>Button</Type>
+    <DcsID>465</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>213</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>473</ButtonID>
+    <Discription>Secondary Oil Control Cover</Discription>
+    <Type>Button</Type>
+    <DcsID>473</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>214</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>474</ButtonID>
+    <Discription>Secondary Oil Control Switch</Discription>
+    <Type>Button</Type>
+    <DcsID>474</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>214</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>475</ButtonID>
+    <Discription>Engine Emergency Control Cover</Discription>
+    <Type>Button</Type>
+    <DcsID>475</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>214</ID>
+    <DeviceID>7</DeviceID>
+    <ButtonID>476</ButtonID>
+    <Discription>Engine Emergency Control Switch</Discription>
+    <Type>Button</Type>
+    <DcsID>476</DcsID>
   </Clickabledata>
   <Devices>
     <DeviceID>1</DeviceID>
