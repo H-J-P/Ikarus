@@ -373,6 +373,15 @@ ExportScript.ConfigArguments =
 -- Landing Gear
 	[404] = "%.1f",	--Landing Gear Lever
 
+-- ECS Panel
+	[630] = "%.1f",	--ECS Main Mode Switch
+	[631] = "%.1f",	--ECS C Button
+	[633] = "%.1f",	--ECS F Button
+	[635] = "%.1f",	--ECS Cond Switch
+	[636] = "%.1f",	--ECS Air Exchange Switch
+	[637] = "%.4f",	--ECS Temperature Select Knob
+	[638] = "%.1f",	--ECS Defog Switch
+	
 -- HUD/VTB	
 	[201] = "%.1f",	--HUD Power Switch
 	[203] = "%.1f",	--HUD Decluter Switch

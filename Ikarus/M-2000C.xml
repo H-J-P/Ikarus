@@ -1860,7 +1860,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>108</ID>
-    <DeviceID>13</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>608</ButtonID>
     <Discription>D2M Switch</Discription>
     <Type>Switch</Type>
@@ -2559,7 +2559,7 @@
     <DeviceID>8</DeviceID>
     <ButtonID>654</ButtonID>
     <Discription>Gun Arm / Safe Switch</Discription>
-    <Type>button</Type>
+    <Type>Switch</Type>
     <DcsID>654</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -2567,7 +2567,7 @@
     <DeviceID>9</DeviceID>
     <ButtonID>576</ButtonID>
     <Discription>Offset Waypoint/Target</Discription>
-    <Type>Button</Type>
+    <Type>Switch</Type>
     <DcsID>576</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -2575,7 +2575,7 @@
     <DeviceID>9</DeviceID>
     <ButtonID>578</ButtonID>
     <Discription>INS Update</Discription>
-    <Type>Button</Type>
+    <Type>Switch</Type>
     <DcsID>578</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -2583,7 +2583,7 @@
     <DeviceID>9</DeviceID>
     <ButtonID>580</ButtonID>
     <Discription>Validate Data Entry</Discription>
-    <Type>Button</Type>
+    <Type>Switch</Type>
     <DcsID>580</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -2591,7 +2591,7 @@
     <DeviceID>9</DeviceID>
     <ButtonID>582</ButtonID>
     <Discription>Mark Position</Discription>
-    <Type>Button</Type>
+    <Type>Switch</Type>
     <DcsID>582</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -2599,7 +2599,7 @@
     <DeviceID>9</DeviceID>
     <ButtonID>667</ButtonID>
     <Discription>AUTO Navigation</Discription>
-    <Type>Button</Type>
+    <Type>Switch</Type>
     <DcsID>667</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -2655,7 +2655,7 @@
     <DeviceID>7</DeviceID>
     <ButtonID>477</ButtonID>
     <Discription>Fuel Dump Switch Cover</Discription>
-    <Type>Button</Type>
+    <Type>Switch</Type>
     <DcsID>477</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -2663,7 +2663,7 @@
     <DeviceID>7</DeviceID>
     <ButtonID>478</ButtonID>
     <Discription>Fuel Dump Switch</Discription>
-    <Type>Button</Type>
+    <Type>Switch</Type>
     <DcsID>478</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -2671,7 +2671,7 @@
     <DeviceID>7</DeviceID>
     <ButtonID>471</ButtonID>
     <Discription>A/B Emergency Cutoff Switch Cover</Discription>
-    <Type>Button</Type>
+    <Type>Switch</Type>
     <DcsID>471</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -2679,7 +2679,7 @@
     <DeviceID>7</DeviceID>
     <ButtonID>472</ButtonID>
     <Discription>A/B Emergency Cutoff Switch</Discription>
-    <Type>Button</Type>
+    <Type>Switch</Type>
     <DcsID>472</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -2687,7 +2687,7 @@
     <DeviceID>7</DeviceID>
     <ButtonID>464</ButtonID>
     <Discription>Emergency Throttle Cover</Discription>
-    <Type>Button</Type>
+    <Type>Switch</Type>
     <DcsID>464</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -2695,7 +2695,7 @@
     <DeviceID>7</DeviceID>
     <ButtonID>465</ButtonID>
     <Discription>Emergency Throttle Handle</Discription>
-    <Type>Button</Type>
+    <Type>Switch</Type>
     <DcsID>465</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -2703,7 +2703,7 @@
     <DeviceID>7</DeviceID>
     <ButtonID>473</ButtonID>
     <Discription>Secondary Oil Control Cover</Discription>
-    <Type>Button</Type>
+    <Type>Switch</Type>
     <DcsID>473</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -2711,24 +2711,80 @@
     <DeviceID>7</DeviceID>
     <ButtonID>474</ButtonID>
     <Discription>Secondary Oil Control Switch</Discription>
-    <Type>Button</Type>
+    <Type>Switch</Type>
     <DcsID>474</DcsID>
   </Clickabledata>
   <Clickabledata>
-    <ID>214</ID>
+    <ID>215</ID>
     <DeviceID>7</DeviceID>
     <ButtonID>475</ButtonID>
     <Discription>Engine Emergency Control Cover</Discription>
-    <Type>Button</Type>
+    <Type>Switch</Type>
     <DcsID>475</DcsID>
   </Clickabledata>
   <Clickabledata>
-    <ID>214</ID>
+    <ID>216</ID>
     <DeviceID>7</DeviceID>
     <ButtonID>476</ButtonID>
     <Discription>Engine Emergency Control Switch</Discription>
-    <Type>Button</Type>
+    <Type>Switch</Type>
     <DcsID>476</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>217</ID>
+    <DeviceID>25</DeviceID>
+    <ButtonID>630</ButtonID>
+    <Discription>ECS Main Mode Switch</Discription>
+    <Type>Switch</Type>
+    <DcsID>630</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>218</ID>
+    <DeviceID>25</DeviceID>
+    <ButtonID>631</ButtonID>
+    <Discription>ECS C Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>631</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>219</ID>
+    <DeviceID>25</DeviceID>
+    <ButtonID>633</ButtonID>
+    <Discription>ECS F Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>633</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>220</ID>
+    <DeviceID>25</DeviceID>
+    <ButtonID>635</ButtonID>
+    <Discription>ECS Cond Switch</Discription>
+    <Type>Switch</Type>
+    <DcsID>635</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>221</ID>
+    <DeviceID>25</DeviceID>
+    <ButtonID>636</ButtonID>
+    <Discription>ECS Air Exchange Switch</Discription>
+    <Type>Switch</Type>
+    <DcsID>636</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>222</ID>
+    <DeviceID>25</DeviceID>
+    <ButtonID>637</ButtonID>
+    <Discription>ECS Temperature Select Knob</Discription>
+    <Type>Switch</Type>
+    <DcsID>637</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>223</ID>
+    <DeviceID>25</DeviceID>
+    <ButtonID>638</ButtonID>
+    <Discription>ECS Defog Switch</Discription>
+    <Type>Switch</Type>
+    <DcsID>638</DcsID>
   </Clickabledata>
   <Devices>
     <DeviceID>1</DeviceID>
@@ -2825,5 +2881,9 @@
   <Devices>
     <DeviceID>24</DeviceID>
     <Discription>VORILS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>25</DeviceID>
+    <Discription>ECS</Discription>
   </Devices>
 </DTADataSet>

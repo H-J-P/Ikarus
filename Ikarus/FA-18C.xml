@@ -1,0 +1,720 @@
+<?xml version="1.0" standalone="yes"?>
+<DTADataSet>
+  <!--  ID-2163/A -->
+  <DCS_ID>
+    <ExportID>290</ExportID>
+    <Description>Red_Lamp_ID2163A</Description>
+    <ExportIDWithDescription>290 - Red_Lamp_ID2163A</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>289</ExportID>
+    <Description>Green_Lamp_ID2163A</Description>
+    <ExportIDWithDescription>289 - Green_Lamp_ID2163A</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- Caution Light Indicator Panel -->
+  <DCS_ID>
+    <ExportID>298</ExportID>
+    <Description>CPT_LTS_CK_SEAT</Description>
+    <ExportIDWithDescription>298 - CPT_LTS_CK_SEAT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>299</ExportID>
+    <Description>CPT_LTS_APU_ACC</Description>
+    <ExportIDWithDescription>299 - CPT_LTS_APU_ACC</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>300</ExportID>
+    <Description>CPT_LTS_BATT_SW</Description>
+    <ExportIDWithDescription>300 - CPT_LTS_BATT_SW</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>301</ExportID>
+    <Description>CPT_LTS_FCS_HOT</Description>
+    <ExportIDWithDescription>301 - CPT_LTS_FCS_HOT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>302</ExportID>
+    <Description>CPT_LTS_GEN_TIE</Description>
+    <ExportIDWithDescription>302 - CPT_LTS_GEN_TIE</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>303</ExportID>
+    <Description>CPT_LTS_SPARE_CTN1</Description>
+    <ExportIDWithDescription>303 - CPT_LTS_SPARE_CTN1</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>304</ExportID>
+    <Description>CPT_LTS_FUEL_LO</Description>
+    <ExportIDWithDescription>304 - CPT_LTS_FUEL_LO</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>  
+  <DCS_ID>
+    <ExportID>305</ExportID>
+    <Description>CPT_LTS_FCES</Description>
+    <ExportIDWithDescription>305 - CPT_LTS_FCES</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>  
+  <DCS_ID>
+    <ExportID>306</ExportID>
+    <Description>CPT_LTS_SPARE_CTN2</Description>
+    <ExportIDWithDescription>306 - CPT_LTS_SPARE_CTN2</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>307</ExportID>
+    <Description>CPT_LTS_L_GEN</Description>
+    <ExportIDWithDescription>307 - CPT_LTS_L_GEN</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>308</ExportID>
+    <Description>CPT_LTS_R_GEN</Description>
+    <ExportIDWithDescription>308 - CPT_LTS_R_GEN</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>309</ExportID>
+    <Description>CPT_LTS_SPARE_CTN3</Description>
+    <ExportIDWithDescription>309 - CPT_LTS_SPARE_CTN3</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- LH Advisory and Threat Warning Indicator Panel -->
+  <DCS_ID>
+    <ExportID>13</ExportID>
+    <Description>CPT_LTS_MASTER_CAUTION</Description>
+    <ExportIDWithDescription>13 - CPT_LTS_MASTER_CAUTION</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>10</ExportID>
+    <Description>CPT_LTS_FIRE_LEFT</Description>
+    <ExportIDWithDescription>10 - CPT_LTS_FIRE_LEFT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>15</ExportID>
+    <Description>CPT_LTS_GO</Description>
+    <ExportIDWithDescription>15 - CPT_LTS_GO</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>16</ExportID>
+    <Description>CPT_LTS_NO_GO</Description>
+    <ExportIDWithDescription>16 - CPT_LTS_NO_GO</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>17</ExportID>
+    <Description>CPT_LTS_L_BLEED</Description>
+    <ExportIDWithDescription>17 - CPT_LTS_L_BLEED</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>18</ExportID>
+    <Description>CPT_LTS_R_BLEED</Description>
+    <ExportIDWithDescription>18 - CPT_LTS_R_BLEED</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>19</ExportID>
+    <Description>CPT_LTS_SPD_BRK</Description>
+    <ExportIDWithDescription>19 - CPT_LTS_SPD_BRK</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>20</ExportID>
+    <Description>CPT_LTS_STBY</Description>
+    <ExportIDWithDescription>20 - CPT_LTS_STBY</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>  
+  <DCS_ID>
+    <ExportID>21</ExportID>
+    <Description>CPT_LTS_L_BAR_RED</Description>
+    <ExportIDWithDescription>21 - CPT_LTS_L_BAR_RED</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>  
+  <DCS_ID>
+    <ExportID>22</ExportID>
+    <Description>CPT_LTS_REC</Description>
+    <ExportIDWithDescription>22 - CPT_LTS_REC</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>23</ExportID>
+    <Description>CPT_LTS_L_BAR_GREEN</Description>
+    <ExportIDWithDescription>23 - CPT_LTS_L_BAR_GREEN</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>24</ExportID>
+    <Description>CPT_LTS_XMIT</Description>
+    <ExportIDWithDescription>24 - CPT_LTS_XMIT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>25</ExportID>
+    <Description>CPT_LTS_ASPJ_OH</Description>
+    <ExportIDWithDescription>25 - CPT_LTS_ASPJ_OH</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- RH Advisory and Threat Warning Indicator Panel -->
+  <DCS_ID>
+    <ExportID>29</ExportID>
+    <Description>CPT_LTS_FIRE_APU</Description>
+    <ExportIDWithDescription>29 - CPT_LTS_FIRE_APU</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>26</ExportID>
+    <Description>CPT_LTS_FIRE_RIGHT</Description>
+    <ExportIDWithDescription>26 - CPT_LTS_FIRE_RIGHT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>31</ExportID>
+    <Description>CPT_LTS_RCDR_ON</Description>
+    <ExportIDWithDescription>31 - CPT_LTS_RCDR_ON</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>32</ExportID>
+    <Description>CPT_LTS_DISP</Description>
+    <ExportIDWithDescription>32 - CPT_LTS_DISP</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>38</ExportID>
+    <Description>CPT_LTS_SAM</Description>
+    <ExportIDWithDescription>38 - CPT_LTS_SAM</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>39</ExportID>
+    <Description>CPT_LTS_AI</Description>
+    <ExportIDWithDescription>39 - CPT_LTS_AI</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>40</ExportID>
+    <Description>CPT_LTS_AAA</Description>
+    <ExportIDWithDescription>40 - CPT_LTS_AAA</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>41</ExportID>
+    <Description>CPT_LTS_CW</Description>
+    <ExportIDWithDescription>41 - CPT_LTS_CW</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>  
+  <DCS_ID>
+    <ExportID>33</ExportID>
+    <Description>CPT_LTS_SPARE_RH1</Description>
+    <ExportIDWithDescription>33 - CPT_LTS_SPARE_RH1</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>  
+  <DCS_ID>
+    <ExportID>34</ExportID>
+    <Description>CPT_LTS_SPARE_RH2</Description>
+    <ExportIDWithDescription>34 - CPT_LTS_SPARE_RH2</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>35</ExportID>
+    <Description>CPT_LTS_SPARE_RH3</Description>
+    <ExportIDWithDescription>35 - CPT_LTS_SPARE_RH3</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>36</ExportID>
+    <Description>CPT_LTS_SPARE_RH4</Description>
+    <ExportIDWithDescription>36 - CPT_LTS_SPARE_RH4</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>37</ExportID>
+    <Description>CPT_LTS_SPARE_RH5</Description>
+    <ExportIDWithDescription>37 - CPT_LTS_SPARE_RH5</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- Flaps, Landing Gear and Stores Indicator Panel -->
+  <DCS_ID>
+    <ExportID>152</ExportID>
+    <Description>CPT_LTS_CTR</Description>
+    <ExportIDWithDescription>152 - CPT_LTS_CTR</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>154</ExportID>
+    <Description>CPT_LTS_LI</Description>
+    <ExportIDWithDescription>154 - CPT_LTS_LI</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>156</ExportID>
+    <Description>CPT_LTS_LO</Description>
+    <ExportIDWithDescription>156 - CPT_LTS_LO</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>158</ExportID>
+    <Description>CPT_LTS_RI</Description>
+    <ExportIDWithDescription>158 - CPT_LTS_RI</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>160</ExportID>
+    <Description>CPT_LTS_RO</Description>
+    <ExportIDWithDescription>160 - CPT_LTS_RO</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>166</ExportID>
+    <Description>CPT_LTS_NOSE_GEAR</Description>
+    <ExportIDWithDescription>166 - CPT_LTS_NOSE_GEAR</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>165</ExportID>
+    <Description>CPT_LTS_LEFT_GEAR</Description>
+    <ExportIDWithDescription>165 - CPT_LTS_LEFT_GEAR</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>167</ExportID>
+    <Description>CPT_LTS_RIGHT_GEAR</Description>
+    <ExportIDWithDescription>167 - CPT_LTS_RIGHT_GEAR</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>  
+  <DCS_ID>
+    <ExportID>163</ExportID>
+    <Description>CPT_LTS_HALF_FLAPS</Description>
+    <ExportIDWithDescription>163 - CPT_LTS_HALF_FLAPS</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>  
+  <DCS_ID>
+    <ExportID>164</ExportID>
+    <Description>CPT_LTS_FULL_FLAPS</Description>
+    <ExportIDWithDescription>164 - CPT_LTS_FULL_FLAPS</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>162</ExportID>
+    <Description>CPT_LTS_FLAPS</Description>
+    <ExportIDWithDescription>162 - CPT_LTS_FLAPS</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- Lock/Shoot Light Assy -->
+  <DCS_ID>
+    <ExportID>1</ExportID>
+    <Description>CPT_LTS_LOCK</Description>
+    <ExportIDWithDescription>1 - CPT_LTS_LOCK</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2</ExportID>
+    <Description>CPT_LTS_SHOOT</Description>
+    <ExportIDWithDescription>2 - CPT_LTS_SHOOT</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>3</ExportID>
+    <Description>CPT_LTS_SHOOT_STROBE</Description>
+    <ExportIDWithDescription>3 - CPT_LTS_SHOOT_STROBE</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- Master Arm Control -->
+  <DCS_ID>
+    <ExportID>47</ExportID>
+    <Description>CPT_LTS_AA</Description>
+    <ExportIDWithDescription>47 - CPT_LTS_AA</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>48</ExportID>
+    <Description>CPT_LTS_AG</Description>
+    <ExportIDWithDescription>48 - CPT_LTS_AG</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>45</ExportID>
+    <Description>CPT_LTS_DISCH</Description>
+    <ExportIDWithDescription>45 - CPT_LTS_DISCH</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>44</ExportID>
+    <Description>CPT_LTS_READY</Description>
+    <ExportIDWithDescription>44 - CPT_LTS_READY</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- Arresting Hook Control Handle -->
+  <DCS_ID>
+    <ExportID>294</ExportID>
+    <Description>CPT_LTS_HOOK</Description>
+    <ExportIDWithDescription>294 - CPT_LTS_HOOK</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- APU Control Panel -->
+  <DCS_ID>
+    <ExportID>376</ExportID>
+    <Description>CPT_LTS_APU_READY</Description>
+    <ExportIDWithDescription>376 - CPT_LTS_APU_READY</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- Map Gain Control Panel Assy -->
+  <DCS_ID>
+    <ExportID>137</ExportID>
+    <Description>CPT_LTS_SPN</Description>
+    <ExportIDWithDescription>137 - CPT_LTS_SPN</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- Height Indicator -->
+  <DCS_ID>
+    <ExportID>290</ExportID>
+    <Description>CPT_LTS_LOW_ALT_WARN</Description>
+    <ExportIDWithDescription>290 - CPT_LTS_LOW_ALT_WARN</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- AoA Indexer Lights -->
+  <DCS_ID>
+    <ExportID>4</ExportID>
+    <Description>CPT_LTS_AOA_HIGH</Description>
+    <ExportIDWithDescription>5 - CPT_LTS_AOA_HIGH</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>5</ExportID>
+    <Description>CPT_LTS_AOA_CENTER</Description>
+    <ExportIDWithDescription>5 - CPT_LTS_AOA_CENTER</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>6</ExportID>
+    <Description>CPT_LTS_AOA_LOW</Description>
+    <ExportIDWithDescription>6 - CPT_LTS_AOA_LOW</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- IFEI -->
+  <DCS_ID>
+    <ExportID>468</ExportID>
+    <Description>IFEI</Description>
+    <ExportIDWithDescription>468 - IFEI</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>469</ExportID>
+    <Description>IFEI_buttons</Description>
+    <ExportIDWithDescription>469 - IFEI_buttons</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- RWR -->
+  <DCS_ID>
+    <ExportID>276</ExportID>
+    <Description>RWR Lower</Description>
+    <ExportIDWithDescription>276 - RWR Lower</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>273</ExportID>
+    <Description>RWR Limit</Description>
+    <ExportIDWithDescription>273 - RWR Limit</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>274</ExportID>
+    <Description>RWR Display</Description>
+    <ExportIDWithDescription>274 - RWR Display</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>271</ExportID>
+    <Description>RWR Special</Description>
+    <ExportIDWithDescription>271 - RWR Special</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>267</ExportID>
+    <Description>RWR Enable</Description>
+    <ExportIDWithDescription>267 - RWR Enable</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>268</ExportID>
+    <Description>RWR Offset</Description>
+    <ExportIDWithDescription>268 - RWR Offset</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>264</ExportID>
+    <Description>RWR Fail</Description>
+    <ExportIDWithDescription>264 - RWR Fail</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>  
+  <DCS_ID>
+    <ExportID>265</ExportID>
+    <Description>RWR Bit</Description>
+    <ExportIDWithDescription>265 - RWR Bit</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>  
+  <DCS_ID>
+    <ExportID>520</ExportID>
+    <Description>RWR LightsBrightness</Description>
+    <ExportIDWithDescription>520 - RWR LightsBrightness</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <!-- CMDS -->
+  <DCS_ID>
+    <ExportID>516</ExportID>
+    <Description>CMDS ecmJett</Description>
+    <ExportIDWithDescription>516 - CMDS ecmJett</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID></ExportID>
+    <Description></Description>
+    <ExportIDWithDescription> - </ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+
+  <Clickabledata>
+    <ID>1</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>1 - dummy</Discription>
+    <Type>Switch</Type>
+    <DcsID>1</DcsID>
+  </Clickabledata>
+  
+  <Devices>
+    <DeviceID>1</DeviceID>
+    <Discription>FM_PROXY</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>2</DeviceID>
+    <Discription>CONTROL_INTERFACE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>3</DeviceID>
+    <Discription>ELEC_INTERFACE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>4</DeviceID>
+    <Discription>HYDRAULIC_INTERFACE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>5</DeviceID>
+    <Discription>GEAR_INTERFACE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>6</DeviceID>
+    <Discription>FUEL_INTERFACE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>7</DeviceID>
+    <Discription>CPT_MECHANICS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>8</DeviceID>
+    <Discription>EXT_LIGHTS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>9</DeviceID>
+    <Discription>CPT_LIGTHS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>10</DeviceID>
+    <Discription>OXYGEN_INTERFACE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>11</DeviceID>
+    <Discription>ECS_INTERFACE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>12</DeviceID>
+    <Discription>ENGINES_INTERFACE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>13</DeviceID>
+    <Discription>HOTAS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>14</DeviceID>
+    <Discription>MUX</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>15</DeviceID>
+    <Discription>SDC</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>16</DeviceID>
+    <Discription>MISSION_COMPUTER_NO_1</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>17</DeviceID>
+    <Discription>MISSION_COMPUTER_NO_2</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>18</DeviceID>
+    <Discription>FCCA</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>19</DeviceID>
+    <Discription>FCCB</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>20</DeviceID>
+    <Discription>ADC</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>21</DeviceID>
+    <Discription>ARMAMENT_COMPUTER</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>22</DeviceID>
+    <Discription>CONTROL_CONVERTER</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>23</DeviceID>
+    <Discription>SMS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>24</DeviceID>
+    <Discription>DIGITAL_MAP_COMPUTER</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>25</DeviceID>
+    <Discription>UFC</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>26</DeviceID>
+    <Discription>AAU52</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>27</DeviceID>
+    <Discription>AVU35</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>28</DeviceID>
+    <Discription>AVU53</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>29</DeviceID>
+    <Discription>STANDBY_COMPASS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>30</DeviceID>
+    <Discription>ID2163A</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>31</DeviceID>
+    <Discription>RADAR_ALTIMETER</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>32</DeviceID>
+    <Discription>SAI</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>33</DeviceID>
+    <Discription>IFEI</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>34</DeviceID>
+    <Discription>HUD</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>35</DeviceID>
+    <Discription>MDI_LEFT</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>36</DeviceID>
+    <Discription>MDI_RIGHT</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>37</DeviceID>
+    <Discription>AMPCD</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>38</DeviceID>
+    <Discription>HOTAS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>39</DeviceID>
+    <Discription>UHF1</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>40</DeviceID>
+    <Discription>UHF2</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>41</DeviceID>
+    <Discription>INTERCOM</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>42</DeviceID>
+    <Discription>KY58</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>43</DeviceID>
+    <Discription>RADAR</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>44</DeviceID>
+    <Discription>FLIR</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>45</DeviceID>
+    <Discription>INS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>46</DeviceID>
+    <Discription>GPS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>47</DeviceID>
+    <Discription>MAD</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>48</DeviceID>
+    <Discription>SIDEWINDER_INTERFACE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>49</DeviceID>
+    <Discription>MAVERICK_INTERFACE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>50</DeviceID>
+    <Discription>ADF</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>51</DeviceID>
+    <Discription>ANTENNA_SELECTOR</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>52</DeviceID>
+    <Discription>MIDS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>53</DeviceID>
+    <Discription>ILS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>54</DeviceID>
+    <Discription>RWR</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>55</DeviceID>
+    <Discription>CMDS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>56</DeviceID>
+    <Discription>MACROS</Discription>
+  </Devices>
+</DTADataSet>
