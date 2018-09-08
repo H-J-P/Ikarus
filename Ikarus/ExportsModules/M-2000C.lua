@@ -592,7 +592,7 @@ ExportScript.ConfigArguments =
 	[443] = "%.1f",	--U/VHF Select 100 KHz
 	[444] = "%.1f",	--U/VHF Select 25 KHz
 	[445] = "%.1f",	--U/VHF Knob
-	[446] = "%.1f",	--U/VHF Mode Switch 1
+	[446] = "%.2f",	--U/VHF Mode Switch 1
 	[447] = "%.1f",	--U/VHF Power 5W/25W Switch
 	[448] = "%.1f",	--U/VHF Manual/Preset
 
@@ -606,10 +606,13 @@ ExportScript.ConfigArguments =
 	[623] = "%.1f",	--TACAN Channel Change Tens
 	[624] = "%.1f",	--TACAN X/Y Select
 	[625] = "%.1f",	--TACAN Channel Change Ones
-	[626] = "%.1f",	--TACAN Mode Select
+	[626] = "%.2f",	--TACAN Mode Select
 	
 -- Miscelaneous Right Panel
 	[657] = "%.1f",	-- Hydraulic Emergency Pump Switch
+	[658] = "%.1f",	-- Audio Warning Switch
+	[659] = "%.1f",	-- Pitot Heat Cover
+	[660] = "%.1f",	-- Pitot Heat Switch
 
 -- Miscelaneous Left Panel
 	[191] = "%.1f",	--Audio Warning Reset

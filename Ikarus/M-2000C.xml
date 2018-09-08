@@ -2786,6 +2786,30 @@
     <Type>Switch</Type>
     <DcsID>638</DcsID>
   </Clickabledata>
+  <Clickabledata>
+    <ID>224</ID>
+    <DeviceID>16</DeviceID>
+    <ButtonID>658</ButtonID>
+    <Discription>Audio Warning Switch</Discription>
+    <Type>Switch</Type>
+    <DcsID>658</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>225</ID>
+    <DeviceID>22</DeviceID>
+    <ButtonID>659</ButtonID>
+    <Discription>Pitot Heat Cover</Discription>
+    <Type>Switch</Type>
+    <DcsID>659</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>226</ID>
+    <DeviceID>22</DeviceID>
+    <ButtonID>660</ButtonID>
+    <Discription>Pitot Heat Switch</Discription>
+    <Type>Switch</Type>
+    <DcsID>660</DcsID>
+  </Clickabledata>
   <Devices>
     <DeviceID>1</DeviceID>
     <Discription>FLIGHTINST</Discription>
