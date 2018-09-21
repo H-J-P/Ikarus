@@ -6017,7 +6017,7 @@
   </Switches>
   <Switches>
     <ID>84</ID>
-    <Class>MultiSwitch</Class>
+    <Class>MultiSwitchReverse</Class>
     <ClickabledataID>103</ClickabledataID>
     <Name>INS Mode Selector</Name>
     <Value>0</Value>
@@ -6038,7 +6038,7 @@
   </Switches>
   <Switches>
     <ID>85</ID>
-    <Class>MultiSwitch</Class>
+    <Class>MultiSwitchReverse</Class>
     <ClickabledataID>104</ClickabledataID>
     <Name>INS Operational Mode</Name>
     <Value>0</Value>
@@ -7592,16 +7592,16 @@
   </Switches>
   <Switches>
     <ID>160</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>163</ClickabledataID>
     <Name>Hydraulic Emergency Pump Switch</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>404</PosX>
     <PosY>167</PosY>
     <Size>35</Size>
@@ -7697,19 +7697,19 @@
   </Switches>
   <Switches>
     <ID>165</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>116</ClickabledataID>
     <Name>Landing Lights</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>sw_lng-lgt_up.png</FilePictureOn>
-    <FilePictureOff>sw_lng-lgt_down.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
-    <PosX>-5</PosX>
-    <PosY>364</PosY>
-    <Size>90</Size>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
+    <PosX>8</PosX>
+    <PosY>365</PosY>
+    <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -7718,16 +7718,16 @@
   </Switches>
   <Switches>
     <ID>166</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>117</ClickabledataID>
     <Name>Refuel Lights</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>12</PosX>
     <PosY>476</PosY>
     <Size>35</Size>
@@ -7739,16 +7739,16 @@
   </Switches>
   <Switches>
     <ID>167</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>118</ClickabledataID>
     <Name>Anti-Collision Lights</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>111</PosX>
     <PosY>498</PosY>
     <Size>35</Size>
@@ -7760,16 +7760,16 @@
   </Switches>
   <Switches>
     <ID>168</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>119</ClickabledataID>
     <Name>Navigation Lights</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>203</PosX>
     <PosY>498</PosY>
     <Size>35</Size>
@@ -7781,16 +7781,16 @@
   </Switches>
   <Switches>
     <ID>169</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>120</ClickabledataID>
     <Name>Formation Lights</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>288</PosX>
     <PosY>498</PosY>
     <Size>35</Size>
@@ -7833,10 +7833,10 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>396</PosX>
-    <PosY>498</PosY>
+    <PosX>457</PosX>
+    <PosY>499</PosY>
     <Size>40</Size>
-    <Rotate>180</Rotate>
+    <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>5</WindowID>
