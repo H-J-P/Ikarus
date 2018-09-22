@@ -940,8 +940,8 @@
   <Clickabledata>
     <ID>74</ID>
     <DeviceID>22</DeviceID>
-    <ButtonID>1</ButtonID>
-    <Discription>Countermeasure Fast Release</Discription>
+    <ButtonID>30</ButtonID>
+    <Discription>Countermeasure Release</Discription>
     <DcsID>184</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
