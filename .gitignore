@@ -39,3 +39,6 @@ Ikarus/Images/Accessories/Beispiel.PNG
 *.pdb
 *.afdesign
 *.pdb
+Ikarus/ExportsModules/M-2000C.lua
+Ikarus/ExportsModules/FA-18C_hornet.lua
+*.afdesign

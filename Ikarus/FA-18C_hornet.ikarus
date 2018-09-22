@@ -1332,6 +1332,54 @@
     <In />
     <Out />
   </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>1</IDFct>
+    <Name>heading</Name>
+    <Arg_number>149</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,0.25,0.5,0.5,0.75,1.0</Input>
+    <Output>0,78,152,-152,-78,0</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>2</IDFct>
+    <Name>pitch</Name>
+    <Arg_number>150</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output />
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>3</IDFct>
+    <Name>bank</Name>
+    <Arg_number>151</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output />
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
   <Lamps>
     <ID>1</ID>
     <Class>LampOnOff</Class>

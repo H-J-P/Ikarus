@@ -617,13 +617,13 @@
     <Name>Altimeter_100_footPtr</Name>
     <Arg_number>51</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -633,13 +633,13 @@
     <Name>Altimeter_10000_footCount</Name>
     <Arg_number>52</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -649,13 +649,13 @@
     <Name>Altimeter_1000_footCount</Name>
     <Arg_number>53</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -665,13 +665,13 @@
     <Name>Altimeter_100_footCount</Name>
     <Arg_number>54</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -681,13 +681,13 @@
     <Name>pressure_setting_0</Name>
     <Arg_number>59</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -697,13 +697,13 @@
     <Name>pressure_setting_1</Name>
     <Arg_number>58</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -713,13 +713,13 @@
     <Name>pressure_setting_2</Name>
     <Arg_number>57</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -729,13 +729,13 @@
     <Name>pressure_setting_3</Name>
     <Arg_number>56</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -745,13 +745,13 @@
     <Name>flag_pneu</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -761,13 +761,13 @@
     <Name>Variometer</Name>
     <Arg_number>12</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0, -0.5, -0.29, 0, 0.29, 0.5, 1.0</Input>
     <Output>-170,  -85,   -50, 0,   50,  85, 170</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -777,13 +777,13 @@
     <Name>Accelerometer_main</Name>
     <Arg_number>15</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -793,13 +793,13 @@
     <Name>Accelerometer_min</Name>
     <Arg_number>902</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -809,13 +809,13 @@
     <Name>Accelerometer_max</Name>
     <Arg_number>903</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -825,13 +825,13 @@
     <Name>Pitch</Name>
     <Arg_number>17</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -841,13 +841,13 @@
     <Name>Bank</Name>
     <Arg_number>18</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -857,13 +857,13 @@
     <Name>Slipball</Name>
     <Arg_number>24</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -873,13 +873,13 @@
     <Name>Banksteering</Name>
     <Arg_number>20</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -889,13 +889,13 @@
     <Name>Pitchsteering</Name>
     <Arg_number>21</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -905,13 +905,13 @@
     <Name>Turnneedle</Name>
     <Arg_number>23</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -921,13 +921,13 @@
     <Name>Glideslopeindicator</Name>
     <Arg_number>27</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -937,13 +937,13 @@
     <Name>Glideslopewarningflag</Name>
     <Arg_number>26</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -953,13 +953,13 @@
     <Name>Attitutewarningflag</Name>
     <Arg_number>25</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -969,13 +969,13 @@
     <Name>Coursewarningflag</Name>
     <Arg_number>19</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -985,13 +985,13 @@
     <Name>Standby ADI Pitch</Name>
     <Arg_number>63</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>-180,180</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1001,13 +1001,13 @@
     <Name>Standby ADI Bank</Name>
     <Arg_number>64</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1017,13 +1017,13 @@
     <Name>Standby ADI warning flag</Name>
     <Arg_number>65</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1033,13 +1033,13 @@
     <Name>Standby ADI manual Pitch</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1049,13 +1049,13 @@
     <Name>AirspeedNeedle</Name>
     <Arg_number>48</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0, 0.146, 0.234, 0.322, 0.412, 0.517, 0.620, 0.719, 0.811, 0.906, 1.0 </Input>
     <Output>0, 48, 82, 115, 147, 180, 213, 246, 279, 312, 345</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1065,13 +1065,13 @@
     <Name>AirspeedDial</Name>
     <Arg_number>49</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1081,13 +1081,13 @@
     <Name>Alt10000</Name>
     <Arg_number>52</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1097,13 +1097,13 @@
     <Name>Alt1000</Name>
     <Arg_number>53</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1113,13 +1113,13 @@
     <Name>Alt100</Name>
     <Arg_number>54</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1129,13 +1129,13 @@
     <Name>AOA</Name>
     <Arg_number>4</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,30</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1145,13 +1145,13 @@
     <Name>AOA Power Flag</Name>
     <Arg_number>55</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,1</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1161,13 +1161,13 @@
     <Name>Left Engine Temperature</Name>
     <Arg_number>70</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.005, 0.095, 0.183, 0.275, 0.365, 0.463, 0.560, 0.657, 0.759, 0.855, 0.995</Input>
     <Output>0, 23, 50, 74, 99, 124, 149, 174, 201, 225, 250</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1177,13 +1177,13 @@
     <Name>EngineLeftTemperatureUnits</Name>
     <Arg_number>71</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1193,13 +1193,13 @@
     <Name>Right Engine Temperature</Name>
     <Arg_number>73</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.005, 0.095, 0.183, 0.275, 0.365, 0.463, 0.560, 0.657, 0.759, 0.855, 0.995</Input>
     <Output>0, 23, 50, 74, 99, 124, 149, 174, 201, 225, 250</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1209,13 +1209,13 @@
     <Name>EngineRightTemperatureUnits</Name>
     <Arg_number>74</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1225,13 +1225,13 @@
     <Name>HSI Heading</Name>
     <Arg_number>34</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1241,13 +1241,13 @@
     <Name>HSI Bearing #1</Name>
     <Arg_number>33</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1257,13 +1257,13 @@
     <Name>HSI Bearing #2</Name>
     <Arg_number>35</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1273,13 +1273,13 @@
     <Name>HSI Heading Marker</Name>
     <Arg_number>36</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1289,13 +1289,13 @@
     <Name>HSI Course Arrow</Name>
     <Arg_number>47</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1305,13 +1305,13 @@
     <Name>HSI Deviation</Name>
     <Arg_number>41</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1321,13 +1321,13 @@
     <Name>HSI range_counter_100</Name>
     <Arg_number>29</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1337,13 +1337,13 @@
     <Name>HSI range_counter_10</Name>
     <Arg_number>30</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1353,13 +1353,13 @@
     <Name>HSI range_counter_1</Name>
     <Arg_number>31</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1369,13 +1369,13 @@
     <Name>HSI Bearing to_from_1</Name>
     <Arg_number>42</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1385,13 +1385,13 @@
     <Name>HSI Bearing to_from_2</Name>
     <Arg_number>43</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1401,13 +1401,13 @@
     <Name>HSI Bearing Flag</Name>
     <Arg_number>46</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1417,13 +1417,13 @@
     <Name>HSI Power Flag</Name>
     <Arg_number>40</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1433,13 +1433,13 @@
     <Name>HSI Range Flag</Name>
     <Arg_number>32</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1449,13 +1449,13 @@
     <Name>EngineLeftCoreSpeedTenth</Name>
     <Arg_number>78</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1465,13 +1465,13 @@
     <Name>EngineLeftCoreSpeedUnits</Name>
     <Arg_number>79</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1481,13 +1481,13 @@
     <Name>EngineRightCoreSpeedTenth</Name>
     <Arg_number>80</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1497,13 +1497,13 @@
     <Name>EngineRightCoreSpeedUnits</Name>
     <Arg_number>81</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1513,13 +1513,13 @@
     <Name>EngineLeftRPMFan</Name>
     <Arg_number>76</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0, 0.125, 0.250, 0.375, 0.500, 0.625, 0.750, 0.875, 1 </Input>
     <Output>0, 39, 78, 115, 155, 193, 231, 270, 308</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1529,13 +1529,13 @@
     <Name>EngineRightRPMFan</Name>
     <Arg_number>77</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0, 0.125, 0.250, 0.375, 0.500, 0.625, 0.750, 0.875, 1 </Input>
     <Output>0, 39, 78, 115, 155, 193, 231, 270, 308</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1545,13 +1545,13 @@
     <Name>FuelFlow_L</Name>
     <Arg_number>84</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1561,13 +1561,13 @@
     <Name>FuelFlow_R</Name>
     <Arg_number>85</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1577,13 +1577,13 @@
     <Name>OilP_L</Name>
     <Arg_number>82</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1593,13 +1593,13 @@
     <Name>OilP_R</Name>
     <Arg_number>83</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1609,13 +1609,13 @@
     <Name>RPMAPU</Name>
     <Arg_number>13</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1625,13 +1625,13 @@
     <Name>EGTAPU</Name>
     <Arg_number>14</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1641,13 +1641,13 @@
     <Name>FuelQuantityCounterTenthOfThous</Name>
     <Arg_number>90</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1657,13 +1657,13 @@
     <Name>FuelQuantityCounterThousands</Name>
     <Arg_number>91</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1673,13 +1673,13 @@
     <Name>FuelQuantityCounterHundreds</Name>
     <Arg_number>92</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1689,13 +1689,13 @@
     <Name>Fuel Indicator, FuelQuantityLeft</Name>
     <Arg_number>88</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1705,13 +1705,13 @@
     <Name>Fuel Indicator, FuelQuantityRight</Name>
     <Arg_number>89</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1721,13 +1721,13 @@
     <Name>HydP_L</Name>
     <Arg_number>647</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1737,13 +1737,13 @@
     <Name>HydP_R</Name>
     <Arg_number>648</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1753,13 +1753,13 @@
     <Name>UHF</Name>
     <Arg_number>2000</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input />
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1769,13 +1769,13 @@
     <Name>Flaps</Name>
     <Arg_number>653</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1785,13 +1785,13 @@
     <Name>Time, state</Name>
     <Arg_number>2010</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0,1</Input>
     <Output>0,360</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1801,13 +1801,13 @@
     <Name>TACAN Freq</Name>
     <Arg_number>2008</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>4</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1817,13 +1817,13 @@
     <Name>ILS Freq</Name>
     <Arg_number>2009</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>6</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1833,13 +1833,13 @@
     <Name>VHF FM Freq</Name>
     <Arg_number>2004</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>7</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1849,13 +1849,13 @@
     <Name>VHF AM Freq</Name>
     <Arg_number>2002</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>7</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1865,13 +1865,13 @@
     <Name>Compass Heading </Name>
     <Arg_number>6</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>-180,180</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1881,13 +1881,13 @@
     <Name>Compass Pitch</Name>
     <Arg_number>720</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>-180,180</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1897,13 +1897,13 @@
     <Name>Compass Bank</Name>
     <Arg_number>721</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>-180,180</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1913,13 +1913,13 @@
     <Name>CDU Text Color RGB, Characters, Lines</Name>
     <Arg_number>2030</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>24,10</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1929,13 +1929,13 @@
     <Name>JMR</Name>
     <Arg_number>2012</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>8</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1945,13 +1945,13 @@
     <Name>CHAFF_FLARE</Name>
     <Arg_number>2011</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>8</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1961,13 +1961,13 @@
     <Name>MWS</Name>
     <Arg_number>2013</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>8</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1977,13 +1977,13 @@
     <Name>CDU Text Color RGB</Name>
     <Arg_number>2031</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1993,13 +1993,13 @@
     <Name>CDU Text Color RGB</Name>
     <Arg_number>2032</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2009,13 +2009,13 @@
     <Name>CDU Text Color RGB</Name>
     <Arg_number>2033</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2025,13 +2025,13 @@
     <Name>CDU Text Color RGB</Name>
     <Arg_number>2034</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2041,13 +2041,13 @@
     <Name>CDU Text Color RGB</Name>
     <Arg_number>2035</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2057,13 +2057,13 @@
     <Name>CDU Text Color RGB</Name>
     <Arg_number>2036</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2073,13 +2073,13 @@
     <Name>CDU Text Color RGB</Name>
     <Arg_number>2037</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2089,13 +2089,13 @@
     <Name>CDU Text Color RGB</Name>
     <Arg_number>2038</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2105,13 +2105,13 @@
     <Name>CDU Text Color RGB</Name>
     <Arg_number>2039</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2121,13 +2121,13 @@
     <Name>ILS Khz</Name>
     <Arg_number>252</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2137,13 +2137,13 @@
     <Name>ILS Mhz</Name>
     <Arg_number>251</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2153,13 +2153,13 @@
     <Name>TACAN 100</Name>
     <Arg_number>263</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2169,13 +2169,13 @@
     <Name>TACAN 10</Name>
     <Arg_number>264</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2185,13 +2185,13 @@
     <Name>TACAN 1</Name>
     <Arg_number>265</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2201,13 +2201,13 @@
     <Name>TACAN X/Y</Name>
     <Arg_number>266</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2217,13 +2217,13 @@
     <Name>Freq. AM</Name>
     <Arg_number>2002</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2233,13 +2233,13 @@
     <Name>Freq. FM</Name>
     <Arg_number>2004</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2249,13 +2249,13 @@
     <Name>Freq. UHF</Name>
     <Arg_number>2000</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>8</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2265,13 +2265,13 @@
     <Name>UHF Channel</Name>
     <Arg_number>2001</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>2</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2281,13 +2281,13 @@
     <Name>VHF AM Channel</Name>
     <Arg_number>2003</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>2</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2297,13 +2297,13 @@
     <Name>VHF FM Channel</Name>
     <Arg_number>2005</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>ABF9AB</Input>
     <Output>2</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2313,13 +2313,13 @@
     <Name>Row 1 Column 1</Name>
     <Arg_number>2014</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2329,13 +2329,13 @@
     <Name>Row 1 Column 2</Name>
     <Arg_number>2015</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2345,13 +2345,13 @@
     <Name>Row 1 Column 3</Name>
     <Arg_number>2016</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2361,13 +2361,13 @@
     <Name>Row 1 Column 4</Name>
     <Arg_number>2017</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2377,13 +2377,13 @@
     <Name>Row 2 Column 1</Name>
     <Arg_number>2018</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2393,13 +2393,13 @@
     <Name>Row 2 Column 2</Name>
     <Arg_number>2019</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2409,13 +2409,13 @@
     <Name>Row 2 Column 3</Name>
     <Arg_number>2020</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2425,13 +2425,13 @@
     <Name>Row 2 Column 4</Name>
     <Arg_number>2021</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -2441,7 +2441,7 @@
     <Arg_number>662</Arg_number>
     <Name>662 - GUN_READY</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10GunReadyOn.PNG</FilePictureOn>
     <FilePictureOff>A10Off.PNG</FilePictureOff>
     <PosX>553</PosX>
@@ -2456,7 +2456,7 @@
     <Arg_number>665</Arg_number>
     <Name>665 - CANOPY_UNLOCKED</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10CanopyUnlocked.PNG</FilePictureOn>
     <FilePictureOff>A10Off.PNG</FilePictureOff>
     <PosX>1264</PosX>
@@ -2471,7 +2471,7 @@
     <Arg_number>663</Arg_number>
     <Name>663 - NOSEWHEEL_STEERING</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10StearingEngaged.PNG</FilePictureOn>
     <FilePictureOff>A10Off.PNG</FilePictureOff>
     <PosX>660</PosX>
@@ -2486,7 +2486,7 @@
     <Arg_number>664</Arg_number>
     <Name>664 - MARKER_BEACON</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10MarkerBeacon.PNG</FilePictureOn>
     <FilePictureOff>A10Off.PNG</FilePictureOff>
     <PosX>1157</PosX>
@@ -2501,7 +2501,7 @@
     <Arg_number>404</Arg_number>
     <Name>404 - MASTER_WARNING_STUB</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10MasterCaution.PNG</FilePictureOn>
     <FilePictureOff>A10MasterCautionOff.png</FilePictureOff>
     <PosX>23</PosX>
@@ -2516,7 +2516,7 @@
     <Arg_number>606</Arg_number>
     <Name>606 - HARS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>NMSP_Lampe_On.png</FilePictureOn>
     <FilePictureOff>NMSP_Lampe_Off.png</FilePictureOff>
     <PosX>837</PosX>
@@ -2531,7 +2531,7 @@
     <Arg_number>608</Arg_number>
     <Name>608 - EGI</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>NMSP_Lampe_On.png</FilePictureOn>
     <FilePictureOff>NMSP_Lampe_Off.png</FilePictureOff>
     <PosX>950</PosX>
@@ -2546,7 +2546,7 @@
     <Arg_number>610</Arg_number>
     <Name>610 - TISL</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>NMSP_Lampe_On.png</FilePictureOn>
     <FilePictureOff>NMSP_Lampe_Off.png</FilePictureOff>
     <PosX>1002</PosX>
@@ -2561,7 +2561,7 @@
     <Arg_number>612</Arg_number>
     <Name>612 - STRPT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>NMSP_Lampe_On.png</FilePictureOn>
     <FilePictureOff>NMSP_Lampe_Off.png</FilePictureOff>
     <PosX>846</PosX>
@@ -2576,7 +2576,7 @@
     <Arg_number>614</Arg_number>
     <Name>614 - ANCHR</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>NMSP_Lampe_On.png</FilePictureOn>
     <FilePictureOff>NMSP_Lampe_Off.png</FilePictureOff>
     <PosX>898</PosX>
@@ -2591,7 +2591,7 @@
     <Arg_number>616</Arg_number>
     <Name>616 - TCN</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>NMSP_Lampe_On.png</FilePictureOn>
     <FilePictureOff>NMSP_Lampe_Off.png</FilePictureOff>
     <PosX>950</PosX>
@@ -2606,7 +2606,7 @@
     <Arg_number>618</Arg_number>
     <Name>618 - ILS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>NMSP_Lampe_On.png</FilePictureOn>
     <FilePictureOff>NMSP_Lampe_Off.png</FilePictureOff>
     <PosX>1002</PosX>
@@ -2621,7 +2621,7 @@
     <Arg_number>619</Arg_number>
     <Name>619 - UHF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10UHF_Homing_On.png</FilePictureOn>
     <FilePictureOff>A10UHF_Homing_Off.png</FilePictureOff>
     <PosX>1073</PosX>
@@ -2636,7 +2636,7 @@
     <Arg_number>620</Arg_number>
     <Name>620 - FM</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10FM_Homing_On.png</FilePictureOn>
     <FilePictureOff>A10FM_Homing_Off.png</FilePictureOff>
     <PosX>1073</PosX>
@@ -2651,7 +2651,7 @@
     <Arg_number>659</Arg_number>
     <Name>659 - Nose Gear</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_NoseGear_On.png</FilePictureOn>
     <FilePictureOff>A10_NoseGear_Off.png</FilePictureOff>
     <PosX>69</PosX>
@@ -2666,7 +2666,7 @@
     <Arg_number>660</Arg_number>
     <Name>660 - Left Gear</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_LeftGear_On.png</FilePictureOn>
     <FilePictureOff>A10_LeftGear_Off.png</FilePictureOff>
     <PosX>31</PosX>
@@ -2681,7 +2681,7 @@
     <Arg_number>661</Arg_number>
     <Name>661 - Right Gear</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_RightGear_On.png</FilePictureOn>
     <FilePictureOff>A10_RightGear_Off.png</FilePictureOff>
     <PosX>107</PosX>
@@ -2696,7 +2696,7 @@
     <Arg_number>372</Arg_number>
     <Name>372 - CMSC_MissileLaunchIndicator</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>LED_Red_On.png</FilePictureOn>
     <FilePictureOff>LED_Red_Off.png</FilePictureOff>
     <PosX>960</PosX>
@@ -2711,7 +2711,7 @@
     <Arg_number>373</Arg_number>
     <Name>373 - CMSC_PriorityStatusIndicator</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>LED_Red_On.png</FilePictureOn>
     <FilePictureOff>LED_Red_Off.png</FilePictureOff>
     <PosX>987</PosX>
@@ -2726,7 +2726,7 @@
     <Arg_number>374</Arg_number>
     <Name>374 - CMSC_UnknownStatusIndicator</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>LED_Red_On.png</FilePictureOn>
     <FilePictureOff>LED_Red_Off.png</FilePictureOff>
     <PosX>1073</PosX>
@@ -2741,7 +2741,7 @@
     <Arg_number>480</Arg_number>
     <Name>480 - ENG_START_CYCLE</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_EngStartCycle.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>90</PosX>
@@ -2756,7 +2756,7 @@
     <Arg_number>481</Arg_number>
     <Name>481 - L_HYD_PRESS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_LHydPress.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>160</PosX>
@@ -2771,7 +2771,7 @@
     <Arg_number>482</Arg_number>
     <Name>482 - R_HYD_PRESS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_RHydPress.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>230</PosX>
@@ -2786,7 +2786,7 @@
     <Arg_number>483</Arg_number>
     <Name>483 - GUN_UNSAFE</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_GunUnsafe.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
@@ -2801,7 +2801,7 @@
     <Arg_number>484</Arg_number>
     <Name>484 - ANTISKID</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_AntiSkid.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>90</PosX>
@@ -2816,7 +2816,7 @@
     <Arg_number>485</Arg_number>
     <Name>485 - L_HYD_RES</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_LHydRes.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>160</PosX>
@@ -2831,7 +2831,7 @@
     <Arg_number>486</Arg_number>
     <Name>486 - R_HYD_RES</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_RHydRes.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>230</PosX>
@@ -2846,7 +2846,7 @@
     <Arg_number>487</Arg_number>
     <Name>487 - OXY_LOW</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_OxyLow.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
@@ -2861,7 +2861,7 @@
     <Arg_number>488</Arg_number>
     <Name>488 - ELEV_DISENG</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_ElevDiseng.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>90</PosX>
@@ -2876,7 +2876,7 @@
     <Arg_number>490</Arg_number>
     <Name>490 - SEAT_NOT_ARMED</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_SeatNotArmed.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>230</PosX>
@@ -2891,7 +2891,7 @@
     <Arg_number>491</Arg_number>
     <Name>491 - BLEED_AIR_LEAK</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_BleedAirLeak.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>302</PosX>
@@ -2906,7 +2906,7 @@
     <Arg_number>492</Arg_number>
     <Name>492 - AIL_DISENG</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_AilDiseng.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>90</PosX>
@@ -2921,7 +2921,7 @@
     <Arg_number>493</Arg_number>
     <Name>493 - L_AIL_TAB</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_L-AilTab.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>160</PosX>
@@ -2936,7 +2936,7 @@
     <Arg_number>494</Arg_number>
     <Name>494 - R_AIL_TAB</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_R-AilTab.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>230</PosX>
@@ -2951,7 +2951,7 @@
     <Arg_number>495</Arg_number>
     <Name>495 - SERVICE_AIR_HOT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_ServiceAirHot.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
@@ -2966,7 +2966,7 @@
     <Arg_number>496</Arg_number>
     <Name>496 - PITCH_SAS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_PitchSas.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>90</PosX>
@@ -2981,7 +2981,7 @@
     <Arg_number>497</Arg_number>
     <Name>497 - L_ENG_HOT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_LEngHot.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>160</PosX>
@@ -2996,7 +2996,7 @@
     <Arg_number>498</Arg_number>
     <Name>498 - R_ENG_HOT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_REngHot.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>230</PosX>
@@ -3011,7 +3011,7 @@
     <Arg_number>499</Arg_number>
     <Name>499 - WINDSHIELD_HOT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_WindshieldHot.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
@@ -3026,7 +3026,7 @@
     <Arg_number>500</Arg_number>
     <Name>500 - YAW_SAS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_YawSas.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>90</PosX>
@@ -3041,7 +3041,7 @@
     <Arg_number>501</Arg_number>
     <Name>501 - L_ENG_OIL_PRESS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_LEngOilPress.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>160</PosX>
@@ -3056,7 +3056,7 @@
     <Arg_number>502</Arg_number>
     <Name>502 - R_ENG_OIL_PRESS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_REngOilPress.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>230</PosX>
@@ -3071,7 +3071,7 @@
     <Arg_number>503</Arg_number>
     <Name>503 - CICU</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_CICU.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
@@ -3086,7 +3086,7 @@
     <Arg_number>504</Arg_number>
     <Name>504 - GCAS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_GCAS.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>90</PosX>
@@ -3101,7 +3101,7 @@
     <Arg_number>505</Arg_number>
     <Name>505 - L_MAIN_PUMP</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_LMainPump.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>160</PosX>
@@ -3116,7 +3116,7 @@
     <Arg_number>506</Arg_number>
     <Name>506 - R_MAIN_PUMP</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_RMainPump.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>230</PosX>
@@ -3131,7 +3131,7 @@
     <Arg_number>508</Arg_number>
     <Name>508 - LASTE</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_Laste.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>90</PosX>
@@ -3146,7 +3146,7 @@
     <Arg_number>509</Arg_number>
     <Name>509 - L_WING_PUMP</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_LWingPump.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>160</PosX>
@@ -3161,7 +3161,7 @@
     <Arg_number>510</Arg_number>
     <Name>510 - R_WING_PUMP</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_RWingPump.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>230</PosX>
@@ -3176,7 +3176,7 @@
     <Arg_number>511</Arg_number>
     <Name>511 - HARS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_HARS.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
@@ -3191,7 +3191,7 @@
     <Arg_number>512</Arg_number>
     <Name>512 - IFF_MODE_4</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_IffMode4.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>90</PosX>
@@ -3206,7 +3206,7 @@
     <Arg_number>513</Arg_number>
     <Name>513 - L_MAIN_FUEL_LOW</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_LMainFuelLow.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>160</PosX>
@@ -3221,7 +3221,7 @@
     <Arg_number>514</Arg_number>
     <Name>514 - R_MAIN_FUEL_LOW</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_RMainFuelLow.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>230</PosX>
@@ -3236,7 +3236,7 @@
     <Arg_number>515</Arg_number>
     <Name>515 - L_R_TKS_UNEQUAL</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_L-R_TSKUnequal.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
@@ -3251,7 +3251,7 @@
     <Arg_number>516</Arg_number>
     <Name>516 - EAC</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_EAC.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>90</PosX>
@@ -3266,7 +3266,7 @@
     <Arg_number>517</Arg_number>
     <Name>517 - L_FUEL_PRESS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_LFuelPress.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>160</PosX>
@@ -3281,7 +3281,7 @@
     <Arg_number>518</Arg_number>
     <Name>518 - R_FUEL_PRESS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_RFuelPress.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>230</PosX>
@@ -3296,7 +3296,7 @@
     <Arg_number>519</Arg_number>
     <Name>519 - NAV</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_NAV.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
@@ -3311,7 +3311,7 @@
     <Arg_number>520</Arg_number>
     <Name>520 - STALL_SYS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_StallSys.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>90</PosX>
@@ -3326,7 +3326,7 @@
     <Arg_number>521</Arg_number>
     <Name>521 - L_CONV</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_LConv.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>160</PosX>
@@ -3341,7 +3341,7 @@
     <Arg_number>522</Arg_number>
     <Name>522 - R_CONV</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_RConv.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>230</PosX>
@@ -3356,7 +3356,7 @@
     <Arg_number>523</Arg_number>
     <Name>523 - CADC</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_CADC.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
@@ -3371,7 +3371,7 @@
     <Arg_number>524</Arg_number>
     <Name>524 - APU_GEN</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_APUGen.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>90</PosX>
@@ -3386,7 +3386,7 @@
     <Arg_number>525</Arg_number>
     <Name>525 - L_GEN</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_LGen.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>160</PosX>
@@ -3401,7 +3401,7 @@
     <Arg_number>526</Arg_number>
     <Name>526 - R_GEN</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_RGen.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>230</PosX>
@@ -3416,7 +3416,7 @@
     <Arg_number>527</Arg_number>
     <Name>527 - INST_INV</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_WP_InstInv.png</FilePictureOn>
     <FilePictureOff>A10_WP_Off.png</FilePictureOff>
     <PosX>300</PosX>
@@ -3431,7 +3431,7 @@
     <Arg_number>404</Arg_number>
     <Name>404 - MASTER_WARNING_STUB</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_UFC_MasterCaution.png</FilePictureOn>
     <FilePictureOff />
     <PosX>476</PosX>
@@ -3446,7 +3446,7 @@
     <ClickabledataID>4</ClickabledataID>
     <Name>EPP - Battery Power</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On />
@@ -3467,7 +3467,7 @@
     <ClickabledataID>1</ClickabledataID>
     <Name>EPP - Inverter Switch</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_cnt2.png</FilePictureOff>
     <FilePicture2On>round_down2.png</FilePicture2On>
@@ -3488,7 +3488,7 @@
     <ClickabledataID>398</ClickabledataID>
     <Name>Position Lights, FLASH/OFF/STEADY</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_cnt2.png</FilePictureOff>
     <FilePicture2On>round_down2.png</FilePicture2On>
@@ -3509,7 +3509,7 @@
     <ClickabledataID>281</ClickabledataID>
     <Name>FuelSystem - Fuel display selector</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL Rotary2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3530,7 +3530,7 @@
     <ClickabledataID>384</ClickabledataID>
     <Name>HSI - Heading Set Knob</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>HeadingSetKnop.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3551,7 +3551,7 @@
     <ClickabledataID>385</ClickabledataID>
     <Name>HSI - Course Set Knob</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CourseSetKnop.png</FilePictureOn>
     <FilePictureOff />
     <FilePicture2On>-</FilePicture2On>
@@ -3572,7 +3572,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>CMSP / Warning Panel On/Off</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3593,7 +3593,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>CDU / AAP / TACAN / ILS Panel On/Off</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3614,14 +3614,14 @@
     <ClickabledataID>147</ClickabledataID>
     <Name>AHCP - Master Arm</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_cnt2.png</FilePictureOff>
     <FilePicture2On>flat_down2.png</FilePicture2On>
     <Input>0.0,0.1,0.2</Input>
     <Output>0.0,0.1,0.2</Output>
-    <PosX>212</PosX>
-    <PosY>589</PosY>
+    <PosX>214</PosX>
+    <PosY>594</PosY>
     <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -3635,14 +3635,14 @@
     <ClickabledataID>148</ClickabledataID>
     <Name>AHCP - Gun Arm Mode</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_cnt2.png</FilePictureOff>
     <FilePicture2On>flat_down2.png</FilePicture2On>
     <Input>0.0,0.1,0.2</Input>
     <Output>0.0,0.1,0.2</Output>
-    <PosX>295</PosX>
-    <PosY>590</PosY>
+    <PosX>299</PosX>
+    <PosY>595</PosY>
     <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -3656,14 +3656,14 @@
     <ClickabledataID>149</ClickabledataID>
     <Name>AHCP - Laser Arm</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_cnt2.png</FilePictureOff>
     <FilePicture2On>flat_down2.png</FilePicture2On>
     <Input>0.0,0.1,0.2</Input>
     <Output>0.0,0.1,0.2</Output>
-    <PosX>211</PosX>
-    <PosY>698</PosY>
+    <PosX>213</PosX>
+    <PosY>705</PosY>
     <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -3677,7 +3677,7 @@
     <ClickabledataID>150</ClickabledataID>
     <Name>AHCP - Targeting Pod Power On/Off</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3698,7 +3698,7 @@
     <ClickabledataID>152</ClickabledataID>
     <Name>AHCP - Day/Night HUD Mode</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3719,7 +3719,7 @@
     <ClickabledataID>153</ClickabledataID>
     <Name>AHCP - NORM/Standby HUD Mode</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3740,7 +3740,7 @@
     <ClickabledataID>151</ClickabledataID>
     <Name>AHCP - Altimeter Source</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_cnt2.png</FilePictureOff>
     <FilePicture2On>round_down2.png</FilePicture2On>
@@ -3761,7 +3761,7 @@
     <ClickabledataID>154</ClickabledataID>
     <Name>AHCP - Turn On/Off CICU</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3782,7 +3782,7 @@
     <ClickabledataID>155</ClickabledataID>
     <Name>AHCP - JTRS Datalink On/Off</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3803,14 +3803,14 @@
     <ClickabledataID>156</ClickabledataID>
     <Name>AHCP - Turn On/Off/Test IFFCC</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_cnt2.png</FilePictureOff>
     <FilePicture2On>flat_down2.png</FilePicture2On>
     <Input>0.0,0.1,0.2</Input>
     <Output>0.0,0.1,0.2</Output>
-    <PosX>327</PosX>
-    <PosY>928</PosY>
+    <PosX>329</PosX>
+    <PosY>925</PosY>
     <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -3824,9 +3824,9 @@
     <ClickabledataID>319</ClickabledataID>
     <Name>Anti Skid</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
-    <FilePictureOn>round_up2.png</FilePictureOn>
-    <FilePictureOff>round_down2.png</FilePictureOff>
+    <OldValue>1</OldValue>
+    <FilePictureOn>flat_up2.png</FilePictureOn>
+    <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
@@ -3845,15 +3845,15 @@
     <ClickabledataID>410</ClickabledataID>
     <Name>Land Taxi Lights</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
-    <FilePictureOn>sw_lng-lgt_up.png</FilePictureOn>
-    <FilePictureOff>sw_lng-lgt_cent.png</FilePictureOff>
-    <FilePicture2On>sw_lng-lgt_down.png</FilePicture2On>
+    <OldValue>1</OldValue>
+    <FilePictureOn>flat_up2.png</FilePictureOn>
+    <FilePictureOff>flat_cnt2.png</FilePictureOff>
+    <FilePicture2On>flat_down2.png</FilePicture2On>
     <Input>0.0,0.1,0.2</Input>
     <Output>0.0,0.1,0.2</Output>
-    <PosX>75</PosX>
-    <PosY>609</PosY>
-    <Size>110</Size>
+    <PosX>85</PosX>
+    <PosY>568</PosY>
+    <Size>75</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -3866,7 +3866,7 @@
     <ClickabledataID>346</ClickabledataID>
     <Name>Pitot Heater</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3887,7 +3887,7 @@
     <ClickabledataID>386</ClickabledataID>
     <Name>NMSP - HARS Backup Navigation Mode</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>NMSP_HARS_On.png</FilePictureOn>
     <FilePictureOff>NMSP_HARS_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3908,7 +3908,7 @@
     <ClickabledataID>387</ClickabledataID>
     <Name>NMSP - EGI Navigation Mode</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>NMSP_EGI_On.png</FilePictureOn>
     <FilePictureOff>NMSP_EGI_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3929,7 +3929,7 @@
     <ClickabledataID>388</ClickabledataID>
     <Name>NMSP - TISL No Function</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>NMSP_TISL_On.png</FilePictureOn>
     <FilePictureOff>NMSP_TISL_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3950,7 +3950,7 @@
     <ClickabledataID>389</ClickabledataID>
     <Name>NMSP - STEERPT Mode</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>NMSP_STRPT_On.png</FilePictureOn>
     <FilePictureOff>NMSP_STRPT_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3971,7 +3971,7 @@
     <ClickabledataID>390</ClickabledataID>
     <Name>NMSP - ANCHR Mode</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>NMSP_ANCHR_On.png</FilePictureOn>
     <FilePictureOff>NMSP_ANCHR_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3992,7 +3992,7 @@
     <ClickabledataID>391</ClickabledataID>
     <Name>NMSP - TCN Mode</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>NMSP_TCN_On.png</FilePictureOn>
     <FilePictureOff>NMSP_TCN_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4013,7 +4013,7 @@
     <ClickabledataID>392</ClickabledataID>
     <Name>NMSP - ILS Mode</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>NMSP_ILS_On.png</FilePictureOn>
     <FilePictureOff>NMSP_ILS_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4034,7 +4034,7 @@
     <ClickabledataID>43</ClickabledataID>
     <Name>Left MFCD - OSB 1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4055,7 +4055,7 @@
     <ClickabledataID>44</ClickabledataID>
     <Name>Left MFCD - OSB 2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4076,7 +4076,7 @@
     <ClickabledataID>45</ClickabledataID>
     <Name>Left MFCD - OSB 3</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4097,7 +4097,7 @@
     <ClickabledataID>46</ClickabledataID>
     <Name>Left MFCD - OSB 4</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4118,7 +4118,7 @@
     <ClickabledataID>47</ClickabledataID>
     <Name>Left MFCD - OSB 5</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4139,7 +4139,7 @@
     <ClickabledataID>48</ClickabledataID>
     <Name>Left MFCD - OSB 6</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4160,7 +4160,7 @@
     <ClickabledataID>49</ClickabledataID>
     <Name>Left MFCD - OSB 7</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4181,7 +4181,7 @@
     <ClickabledataID>50</ClickabledataID>
     <Name>Left MFCD - OSB 8</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4202,7 +4202,7 @@
     <ClickabledataID>51</ClickabledataID>
     <Name>Left MFCD - OSB 9</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4223,7 +4223,7 @@
     <ClickabledataID>52</ClickabledataID>
     <Name>Left MFCD - OSB 10</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4244,7 +4244,7 @@
     <ClickabledataID>53</ClickabledataID>
     <Name>Left MFCD - OSB 11</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4265,7 +4265,7 @@
     <ClickabledataID>54</ClickabledataID>
     <Name>Left MFCD - OSB 12</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4286,7 +4286,7 @@
     <ClickabledataID>55</ClickabledataID>
     <Name>Left MFCD - OSB 13</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4307,7 +4307,7 @@
     <ClickabledataID>56</ClickabledataID>
     <Name>Left MFCD - OSB 14</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4328,7 +4328,7 @@
     <ClickabledataID>57</ClickabledataID>
     <Name>Left MFCD - OSB 15</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4349,7 +4349,7 @@
     <ClickabledataID>58</ClickabledataID>
     <Name>Left MFCD - OSB 16</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4370,7 +4370,7 @@
     <ClickabledataID>59</ClickabledataID>
     <Name>Left MFCD - OSB 17</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4391,7 +4391,7 @@
     <ClickabledataID>60</ClickabledataID>
     <Name>Left MFCD - OSB 18</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4412,7 +4412,7 @@
     <ClickabledataID>61</ClickabledataID>
     <Name>Left MFCD - OSB 19</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4433,7 +4433,7 @@
     <ClickabledataID>62</ClickabledataID>
     <Name>Left MFCD - OSB 20</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4454,7 +4454,7 @@
     <ClickabledataID>84</ClickabledataID>
     <Name>Right MFCD - OSB 1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4475,7 +4475,7 @@
     <ClickabledataID>85</ClickabledataID>
     <Name>Right MFCD - OSB 2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4496,7 +4496,7 @@
     <ClickabledataID>86</ClickabledataID>
     <Name>Right MFCD - OSB 3</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4517,7 +4517,7 @@
     <ClickabledataID>87</ClickabledataID>
     <Name>Right MFCD - OSB 4</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4538,7 +4538,7 @@
     <ClickabledataID>88</ClickabledataID>
     <Name>Right MFCD - OSB 5</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4559,7 +4559,7 @@
     <ClickabledataID>89</ClickabledataID>
     <Name>Right MFCD - OSB 6</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4580,7 +4580,7 @@
     <ClickabledataID>90</ClickabledataID>
     <Name>Right MFCD - OSB 7</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4601,7 +4601,7 @@
     <ClickabledataID>91</ClickabledataID>
     <Name>Right MFCD - OSB 8</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4622,7 +4622,7 @@
     <ClickabledataID>92</ClickabledataID>
     <Name>Right MFCD - OSB 9</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4643,7 +4643,7 @@
     <ClickabledataID>93</ClickabledataID>
     <Name>Right MFCD - OSB 10</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4664,7 +4664,7 @@
     <ClickabledataID>94</ClickabledataID>
     <Name>Right MFCD - OSB 11</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4685,7 +4685,7 @@
     <ClickabledataID>95</ClickabledataID>
     <Name>Right MFCD - OSB 12</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4706,7 +4706,7 @@
     <ClickabledataID>96</ClickabledataID>
     <Name>Right MFCD - OSB 13</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4727,7 +4727,7 @@
     <ClickabledataID>97</ClickabledataID>
     <Name>Right MFCD - OSB 14</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4748,7 +4748,7 @@
     <ClickabledataID>98</ClickabledataID>
     <Name>Right MFCD - OSB 15</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4769,7 +4769,7 @@
     <ClickabledataID>99</ClickabledataID>
     <Name>Right MFCD - OSB 16</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4790,7 +4790,7 @@
     <ClickabledataID>100</ClickabledataID>
     <Name>Right MFCD - OSB 17</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4811,7 +4811,7 @@
     <ClickabledataID>101</ClickabledataID>
     <Name>Right MFCD - OSB 18</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4832,7 +4832,7 @@
     <ClickabledataID>102</ClickabledataID>
     <Name>Right MFCD - OSB 19</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4853,7 +4853,7 @@
     <ClickabledataID>103</ClickabledataID>
     <Name>Right MFCD - OSB 20</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>MFCD_Button_On.png</FilePictureOn>
     <FilePictureOff>MFCD_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4874,7 +4874,7 @@
     <ClickabledataID>282</ClickabledataID>
     <Name>FuelSystem - Fuel Gauge Test</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>A10_FuelTestInd_On.png</FilePictureOn>
     <FilePictureOff>A10_FuelTestInd_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4895,7 +4895,7 @@
     <ClickabledataID>144</ClickabledataID>
     <Name>CMSC - Unknown Threats</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CMSC_ButtonUNK_On.png</FilePictureOn>
     <FilePictureOff>CMSC_ButtonUNK_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4916,7 +4916,7 @@
     <ClickabledataID>142</ClickabledataID>
     <Name>CMSC - Toggle between 5 and 16 Priority Threats Displayed</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CMSC_ButtonPRI_On.png</FilePictureOn>
     <FilePictureOff>CMSC_ButtonPRI_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4937,7 +4937,7 @@
     <ClickabledataID>143</ClickabledataID>
     <Name>CMSC - Separate RWR Symbols</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CMSC_ButtonSEP_On.png</FilePictureOn>
     <FilePictureOff>CMSC_ButtonSEP_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4958,7 +4958,7 @@
     <ClickabledataID>141</ClickabledataID>
     <Name>CMSC - Select Jammer Program</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CMSC_Button_On.png</FilePictureOn>
     <FilePictureOff>CMSC_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4979,7 +4979,7 @@
     <ClickabledataID>141</ClickabledataID>
     <Name>CMSC - Select Jammer Program</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CMSC_Button_On.png</FilePictureOn>
     <FilePictureOff>CMSC_Button_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5000,7 +5000,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>Elec. Panel On / Off</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5020,7 +5020,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>EPP - APU Generator On/Off</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5041,7 +5041,7 @@
     <ClickabledataID>2</ClickabledataID>
     <Name>EPP - Left AC Generator Power</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5062,7 +5062,7 @@
     <ClickabledataID>3</ClickabledataID>
     <Name>EPP - Right AC generator Power</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5083,7 +5083,7 @@
     <ClickabledataID>397</ClickabledataID>
     <Name>Emergency Flood Light</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5104,7 +5104,7 @@
     <ClickabledataID>28</ClickabledataID>
     <Name>CBP - MASTER CAUT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5125,7 +5125,7 @@
     <ClickabledataID>185</ClickabledataID>
     <Name>CDU - LSK 3L</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Arrow-left-down.png</FilePictureOn>
     <FilePictureOff>CDU-Arrow-left-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5146,7 +5146,7 @@
     <ClickabledataID>186</ClickabledataID>
     <Name>CDU - LSK 5L</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Arrow-left-down.png</FilePictureOn>
     <FilePictureOff>CDU-Arrow-left-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5167,7 +5167,7 @@
     <ClickabledataID>187</ClickabledataID>
     <Name>CDU - LSK 7L</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Arrow-left-down.png</FilePictureOn>
     <FilePictureOff>CDU-Arrow-left-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5188,7 +5188,7 @@
     <ClickabledataID>188</ClickabledataID>
     <Name>CDU - LSK 9L</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Arrow-left-down.png</FilePictureOn>
     <FilePictureOff>CDU-Arrow-left-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5209,7 +5209,7 @@
     <ClickabledataID>189</ClickabledataID>
     <Name>CDU - LSK 3R</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Arrow-right-down.png</FilePictureOn>
     <FilePictureOff>CDU-Arrow-right-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5230,7 +5230,7 @@
     <ClickabledataID>190</ClickabledataID>
     <Name>CDU - LSK 5R</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Arrow-right-down.png</FilePictureOn>
     <FilePictureOff>CDU-Arrow-right-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5251,7 +5251,7 @@
     <ClickabledataID>191</ClickabledataID>
     <Name>CDU - LSK 7R</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Arrow-right-down.png</FilePictureOn>
     <FilePictureOff>CDU-Arrow-right-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5272,7 +5272,7 @@
     <ClickabledataID>192</ClickabledataID>
     <Name>CDU - LSK 9R</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Arrow-right-down.png</FilePictureOn>
     <FilePictureOff>CDU-Arrow-right-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5293,7 +5293,7 @@
     <ClickabledataID>193</ClickabledataID>
     <Name>CDU - SYS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-SYS-down.png</FilePictureOn>
     <FilePictureOff>CDU-SYS-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5314,7 +5314,7 @@
     <ClickabledataID>194</ClickabledataID>
     <Name>CDU - NAV</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-NAV-down.png</FilePictureOn>
     <FilePictureOff>CDU-NAV-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5335,7 +5335,7 @@
     <ClickabledataID>195</ClickabledataID>
     <Name>CDU - WP</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-WP-down.png</FilePictureOn>
     <FilePictureOff>CDU-WP-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5356,7 +5356,7 @@
     <ClickabledataID>196</ClickabledataID>
     <Name>CDU - OFFSET</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-OSET-down.png</FilePictureOn>
     <FilePictureOff>CDU-OSET-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5377,7 +5377,7 @@
     <ClickabledataID>197</ClickabledataID>
     <Name>CDU - FPM</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-FPM-down.png</FilePictureOn>
     <FilePictureOff>CDU-FPM-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5398,7 +5398,7 @@
     <ClickabledataID>198</ClickabledataID>
     <Name>CDU - PREV</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-PREV-down.png</FilePictureOn>
     <FilePictureOff>CDU-PREV-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5419,7 +5419,7 @@
     <ClickabledataID>199</ClickabledataID>
     <Name>CDU - 1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-1-down.png</FilePictureOn>
     <FilePictureOff>CDU-1-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5440,7 +5440,7 @@
     <ClickabledataID>200</ClickabledataID>
     <Name>CDU - 2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-2-down.png</FilePictureOn>
     <FilePictureOff>CDU-2-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5461,7 +5461,7 @@
     <ClickabledataID>201</ClickabledataID>
     <Name>CDU - 3</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-3-down.png</FilePictureOn>
     <FilePictureOff>CDU-3-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5482,7 +5482,7 @@
     <ClickabledataID>202</ClickabledataID>
     <Name>CDU - 4</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-4-down.png</FilePictureOn>
     <FilePictureOff>CDU-4-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5503,7 +5503,7 @@
     <ClickabledataID>203</ClickabledataID>
     <Name>CDU - 5</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-5-down.png</FilePictureOn>
     <FilePictureOff>CDU-5-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5524,7 +5524,7 @@
     <ClickabledataID>204</ClickabledataID>
     <Name>CDU - 6</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-6-down.png</FilePictureOn>
     <FilePictureOff>CDU-6-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5545,7 +5545,7 @@
     <ClickabledataID>205</ClickabledataID>
     <Name>CDU - 7</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-7-down.png</FilePictureOn>
     <FilePictureOff>CDU-7-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5566,7 +5566,7 @@
     <ClickabledataID>206</ClickabledataID>
     <Name>CDU - 8</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-8-down.png</FilePictureOn>
     <FilePictureOff>CDU-8-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5587,7 +5587,7 @@
     <ClickabledataID>207</ClickabledataID>
     <Name>CDU - 9</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-9-down.png</FilePictureOn>
     <FilePictureOff>CDU-9-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5608,7 +5608,7 @@
     <ClickabledataID>208</ClickabledataID>
     <Name>CDU - 0</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-0-down.png</FilePictureOn>
     <FilePictureOff>CDU-0-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5629,7 +5629,7 @@
     <ClickabledataID>209</ClickabledataID>
     <Name>CDU - . (Point)</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-dot-down.png</FilePictureOn>
     <FilePictureOff>CDU-dot-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5650,7 +5650,7 @@
     <ClickabledataID>210</ClickabledataID>
     <Name>CDU - / (Slash)</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Slash-down.png</FilePictureOn>
     <FilePictureOff>CDU-Slash-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5671,7 +5671,7 @@
     <ClickabledataID>211</ClickabledataID>
     <Name>CDU - A</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-A-down.png</FilePictureOn>
     <FilePictureOff>CDU-A-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5692,7 +5692,7 @@
     <ClickabledataID>212</ClickabledataID>
     <Name>CDU - B</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-B-down.png</FilePictureOn>
     <FilePictureOff>CDU-B-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5713,7 +5713,7 @@
     <ClickabledataID>213</ClickabledataID>
     <Name>CDU - C</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-C-down.png</FilePictureOn>
     <FilePictureOff>CDU-C-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5734,7 +5734,7 @@
     <ClickabledataID>214</ClickabledataID>
     <Name>CDU - D</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-D-down.png</FilePictureOn>
     <FilePictureOff>CDU-D-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5755,7 +5755,7 @@
     <ClickabledataID>215</ClickabledataID>
     <Name>CDU - E</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-E-down.png</FilePictureOn>
     <FilePictureOff>CDU-E-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5776,7 +5776,7 @@
     <ClickabledataID>216</ClickabledataID>
     <Name>CDU - F</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-F-down.png</FilePictureOn>
     <FilePictureOff>CDU-F-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5797,7 +5797,7 @@
     <ClickabledataID>217</ClickabledataID>
     <Name>CDU - G</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-G-down.png</FilePictureOn>
     <FilePictureOff>CDU-G-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5818,7 +5818,7 @@
     <ClickabledataID>218</ClickabledataID>
     <Name>CDU - H</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-H-down.png</FilePictureOn>
     <FilePictureOff>CDU-H-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5839,7 +5839,7 @@
     <ClickabledataID>219</ClickabledataID>
     <Name>CDU - I</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-I-down.png</FilePictureOn>
     <FilePictureOff>CDU-I-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5860,7 +5860,7 @@
     <ClickabledataID>220</ClickabledataID>
     <Name>CDU - J</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-J-down.png</FilePictureOn>
     <FilePictureOff>CDU-J-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5881,7 +5881,7 @@
     <ClickabledataID>220</ClickabledataID>
     <Name>CDU - J</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-K-down.png</FilePictureOn>
     <FilePictureOff>CDU-K-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5902,7 +5902,7 @@
     <ClickabledataID>221</ClickabledataID>
     <Name>CDU - K</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-L-down.png</FilePictureOn>
     <FilePictureOff>CDU-L-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5923,7 +5923,7 @@
     <ClickabledataID>223</ClickabledataID>
     <Name>CDU - M</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-M-down.png</FilePictureOn>
     <FilePictureOff>CDU-M-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5944,7 +5944,7 @@
     <ClickabledataID>224</ClickabledataID>
     <Name>CDU - N</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-N-down.png</FilePictureOn>
     <FilePictureOff>CDU-N-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5965,7 +5965,7 @@
     <ClickabledataID>225</ClickabledataID>
     <Name>CDU - O</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-O-down.png</FilePictureOn>
     <FilePictureOff>CDU-O-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -5986,7 +5986,7 @@
     <ClickabledataID>226</ClickabledataID>
     <Name>CDU - P</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-P-down.png</FilePictureOn>
     <FilePictureOff>CDU-P-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6007,7 +6007,7 @@
     <ClickabledataID>227</ClickabledataID>
     <Name>CDU - Q</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Q-down.png</FilePictureOn>
     <FilePictureOff>CDU-Q-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6028,7 +6028,7 @@
     <ClickabledataID>228</ClickabledataID>
     <Name>CDU - R</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-R-down.png</FilePictureOn>
     <FilePictureOff>CDU-R-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6049,7 +6049,7 @@
     <ClickabledataID>229</ClickabledataID>
     <Name>CDU - S</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-S-down.png</FilePictureOn>
     <FilePictureOff>CDU-S-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6070,7 +6070,7 @@
     <ClickabledataID>230</ClickabledataID>
     <Name>CDU - T</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-T-down.png</FilePictureOn>
     <FilePictureOff>CDU-T-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6091,7 +6091,7 @@
     <ClickabledataID>231</ClickabledataID>
     <Name>CDU - U</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-U-down.png</FilePictureOn>
     <FilePictureOff>CDU-U-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6112,7 +6112,7 @@
     <ClickabledataID>232</ClickabledataID>
     <Name>CDU - V</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-V-down.png</FilePictureOn>
     <FilePictureOff>CDU-V-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6133,7 +6133,7 @@
     <ClickabledataID>233</ClickabledataID>
     <Name>CDU - W</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-W-down.png</FilePictureOn>
     <FilePictureOff>CDU-W-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6154,7 +6154,7 @@
     <ClickabledataID>234</ClickabledataID>
     <Name>CDU - X</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-X-down.png</FilePictureOn>
     <FilePictureOff>CDU-X-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6175,7 +6175,7 @@
     <ClickabledataID>246</ClickabledataID>
     <Name>CDU - Blank left</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-blank-down.png</FilePictureOn>
     <FilePictureOff>CDU-blank-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6196,7 +6196,7 @@
     <ClickabledataID>247</ClickabledataID>
     <Name>CDU - Blank right</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-blank-down.png</FilePictureOn>
     <FilePictureOff>CDU-blank-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6217,7 +6217,7 @@
     <ClickabledataID>238</ClickabledataID>
     <Name>CDU - BCK</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-BCK-down.png</FilePictureOn>
     <FilePictureOff>CDU-BCK-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6238,7 +6238,7 @@
     <ClickabledataID>239</ClickabledataID>
     <Name>CDU - SPC</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-SPC-down.png</FilePictureOn>
     <FilePictureOff>CDU-SPC-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6259,7 +6259,7 @@
     <ClickabledataID>235</ClickabledataID>
     <Name>CDU - Y</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Y-down.png</FilePictureOn>
     <FilePictureOff>CDU-Y-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6280,7 +6280,7 @@
     <ClickabledataID>236</ClickabledataID>
     <Name>CDU - Z</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Z-down.png</FilePictureOn>
     <FilePictureOff>CDU-Z-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6301,7 +6301,7 @@
     <ClickabledataID>237</ClickabledataID>
     <Name>CDU - MK</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-MK-down.png</FilePictureOn>
     <FilePictureOff>CDU-MK-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6322,7 +6322,7 @@
     <ClickabledataID>240</ClickabledataID>
     <Name>CDU - CLR</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-CLR-down.png</FilePictureOn>
     <FilePictureOff>CDU-CLR-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6343,7 +6343,7 @@
     <ClickabledataID>241</ClickabledataID>
     <Name>CDU - FA</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-FA-down.png</FilePictureOn>
     <FilePictureOff>CDU-FA-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6364,7 +6364,7 @@
     <ClickabledataID>259</ClickabledataID>
     <Name>AAP - CDU Power On/Off</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6385,7 +6385,7 @@
     <ClickabledataID>260</ClickabledataID>
     <Name>AAP - EGI Power On/Off</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6406,7 +6406,7 @@
     <ClickabledataID>258</ClickabledataID>
     <Name>AAP - CDU Page Select</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL_Rotary3.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6427,7 +6427,7 @@
     <ClickabledataID>255</ClickabledataID>
     <Name>AAP - Use Steerpoint From Active Flight Plan</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL_Rotary3.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6448,7 +6448,7 @@
     <ClickabledataID>256</ClickabledataID>
     <Name>AAP - Toggle Steerpoint up</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
@@ -6469,7 +6469,7 @@
     <ClickabledataID>242</ClickabledataID>
     <Name>CDU - DIMBRT left</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-DIM-down.png</FilePictureOn>
     <FilePictureOff>CDU-DIM-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6490,7 +6490,7 @@
     <ClickabledataID>243</ClickabledataID>
     <Name>CDU - DIMBRT right</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-BRT-down.png</FilePictureOn>
     <FilePictureOff>CDU-BRT-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6511,7 +6511,7 @@
     <ClickabledataID>245</ClickabledataID>
     <Name>CDU - PG down</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Rocker-P-down.png</FilePictureOn>
     <FilePictureOff>CDU-Rocker-P-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6532,7 +6532,7 @@
     <ClickabledataID>244</ClickabledataID>
     <Name>CDU - PG up</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Rocker-G-down.png</FilePictureOn>
     <FilePictureOff>CDU-Rocker-G-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6553,7 +6553,7 @@
     <ClickabledataID>248</ClickabledataID>
     <Name>CDU - Plus</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Rocker-Plus-down.png</FilePictureOn>
     <FilePictureOff>CDU-Rocker-Plus-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6574,7 +6574,7 @@
     <ClickabledataID>249</ClickabledataID>
     <Name>CDU - Minus</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Rocker-Minus-down.png</FilePictureOn>
     <FilePictureOff>CDU-Rocker-Minus-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6595,7 +6595,7 @@
     <ClickabledataID>246</ClickabledataID>
     <Name>CDU - Blank left</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Rocker-L-Space-down.png</FilePictureOn>
     <FilePictureOff>CDU-Rocker-L-Space-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6616,7 +6616,7 @@
     <ClickabledataID>247</ClickabledataID>
     <Name>CDU - Blank right</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-Rocker-R-Space-down.png</FilePictureOn>
     <FilePictureOff>CDU-Rocker-R-Space-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6637,15 +6637,15 @@
     <ClickabledataID>393</ClickabledataID>
     <Name>NMSP - ABLE-STOW ADI Localizer Bar</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>876</PosX>
-    <PosY>881</PosY>
-    <Size>30</Size>
+    <PosX>868</PosX>
+    <PosY>879</PosY>
+    <Size>35</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6658,7 +6658,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>Radio's and Autopilot</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6678,7 +6678,7 @@
     <ClickabledataID>426</ClickabledataID>
     <Name>ILS Frequency MHz</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6699,7 +6699,7 @@
     <ClickabledataID>428</ClickabledataID>
     <Name>ILS Frequency kHz</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6720,7 +6720,7 @@
     <ClickabledataID>427</ClickabledataID>
     <Name>ILS Power (switch)</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6741,7 +6741,7 @@
     <ClickabledataID>418</ClickabledataID>
     <Name>TACAN - Channel Selector (Tens)</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6762,7 +6762,7 @@
     <ClickabledataID>419</ClickabledataID>
     <Name>TACAN - Channel Selector (Ones)</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6783,7 +6783,7 @@
     <ClickabledataID>420</ClickabledataID>
     <Name>TACAN - Channel Selector (Ones) (button)</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6804,7 +6804,7 @@
     <ClickabledataID>421</ClickabledataID>
     <Name>Test TACAN Signal on HSI</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Button3On.png</FilePictureOn>
     <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6825,7 +6825,7 @@
     <ClickabledataID>422</ClickabledataID>
     <Name>TACAN - Signal Volume</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6846,7 +6846,7 @@
     <ClickabledataID>423</ClickabledataID>
     <Name>TACAN - Mode Dial</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL_Rotary3.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6867,7 +6867,7 @@
     <ClickabledataID>335</ClickabledataID>
     <Name>Extend boarding ladder button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Button3On.png</FilePictureOn>
     <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6888,7 +6888,7 @@
     <ClickabledataID>502</ClickabledataID>
     <Name>AAU34 - Set Pressure</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop7.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6909,7 +6909,7 @@
     <ClickabledataID>456</ClickabledataID>
     <Name>VHF AM Frequency Selector the 1nd down</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6930,7 +6930,7 @@
     <ClickabledataID>455</ClickabledataID>
     <Name>VHF AM Frequency Selector the 1nd up</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6951,7 +6951,7 @@
     <ClickabledataID>458</ClickabledataID>
     <Name>VHF AM Frequency Selector the 2nd down</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6972,7 +6972,7 @@
     <ClickabledataID>457</ClickabledataID>
     <Name>VHF AM Frequency Selector the 2nd up</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -6993,7 +6993,7 @@
     <ClickabledataID>460</ClickabledataID>
     <Name>VHF AM Frequency Selector the 3rd down</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7014,7 +7014,7 @@
     <ClickabledataID>459</ClickabledataID>
     <Name>VHF AM Frequency Selector the 3rd up</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7035,7 +7035,7 @@
     <ClickabledataID>462</ClickabledataID>
     <Name>VHF AM Frequency Selector the 4th down</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7056,7 +7056,7 @@
     <ClickabledataID>461</ClickabledataID>
     <Name>VHF AM Frequency Selector the 4th up</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7077,7 +7077,7 @@
     <ClickabledataID>449</ClickabledataID>
     <Name>VHF AM Frequency Mode Dial</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL_Rotary1.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7098,7 +7098,7 @@
     <ClickabledataID>450</ClickabledataID>
     <Name>VHF AM Frequency Selection Dial</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL Rotary2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7119,7 +7119,7 @@
     <ClickabledataID>451</ClickabledataID>
     <Name>VHF AM Volume</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7140,7 +7140,7 @@
     <ClickabledataID>452</ClickabledataID>
     <Name>VHF AM Load</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Button3On.png</FilePictureOn>
     <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7161,7 +7161,7 @@
     <ClickabledataID>447</ClickabledataID>
     <Name>VHF AM Preset Channel Selector left</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7182,7 +7182,7 @@
     <ClickabledataID>448</ClickabledataID>
     <Name>VHF AM Preset Channel Selector right</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7203,7 +7203,7 @@
     <ClickabledataID>466</ClickabledataID>
     <Name>VHF FM Frequency Selector the 1nd down</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7224,7 +7224,7 @@
     <ClickabledataID>465</ClickabledataID>
     <Name>VHF FM Frequency Selector the 1nd up</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7245,7 +7245,7 @@
     <ClickabledataID>468</ClickabledataID>
     <Name>VHF FM Frequency Selector the 2nd down</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7266,7 +7266,7 @@
     <ClickabledataID>467</ClickabledataID>
     <Name>VHF FM Frequency Selector the 2nd up</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7287,7 +7287,7 @@
     <ClickabledataID>470</ClickabledataID>
     <Name>VHF FM Frequency Selector the 3rd down</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7308,7 +7308,7 @@
     <ClickabledataID>469</ClickabledataID>
     <Name>VHF FM Frequency Selector the 3rd up</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7329,7 +7329,7 @@
     <ClickabledataID>472</ClickabledataID>
     <Name>VHF FM Frequency Selector the 4th down</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7350,7 +7350,7 @@
     <ClickabledataID>471</ClickabledataID>
     <Name>VHF FM Frequency Selector the 4th up</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7371,7 +7371,7 @@
     <ClickabledataID>473</ClickabledataID>
     <Name>VHF FM Frequency Mode Dial</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL_Rotary1.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7392,7 +7392,7 @@
     <ClickabledataID>474</ClickabledataID>
     <Name>VHF FM Frequency Selection Dial</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL Rotary2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7413,7 +7413,7 @@
     <ClickabledataID>475</ClickabledataID>
     <Name>VHF FM Volume</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7434,7 +7434,7 @@
     <ClickabledataID>476</ClickabledataID>
     <Name>VHF FM Load</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Button3On.png</FilePictureOn>
     <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7455,7 +7455,7 @@
     <ClickabledataID>463</ClickabledataID>
     <Name>VHF FM Preset Channel Selector left</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7476,7 +7476,7 @@
     <ClickabledataID>464</ClickabledataID>
     <Name>VHF FM Preset Channel Selector right</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7497,7 +7497,7 @@
     <ClickabledataID>431</ClickabledataID>
     <Name>UHF Preset Channel Selector</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7518,7 +7518,7 @@
     <ClickabledataID>432</ClickabledataID>
     <Name>UHF 100 MHz Selector</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7539,7 +7539,7 @@
     <ClickabledataID>433</ClickabledataID>
     <Name>UHF 10 MHz Selector</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7560,7 +7560,7 @@
     <ClickabledataID>434</ClickabledataID>
     <Name>UHF 1 MHz Selector</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7581,7 +7581,7 @@
     <ClickabledataID>435</ClickabledataID>
     <Name>UHF 0.1 MHz Selector</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7602,7 +7602,7 @@
     <ClickabledataID>436</ClickabledataID>
     <Name>UHF 0.025 MHz Selector</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7623,7 +7623,7 @@
     <ClickabledataID>437</ClickabledataID>
     <Name>UHF Frequency Mode Dial</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL Rotary2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7644,7 +7644,7 @@
     <ClickabledataID>438</ClickabledataID>
     <Name>UHF Function Dial</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL Rotary2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7665,7 +7665,7 @@
     <ClickabledataID>441</ClickabledataID>
     <Name>UHF Volume</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop8.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7686,7 +7686,7 @@
     <ClickabledataID>442</ClickabledataID>
     <Name>UHF Test Display</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Button3On.png</FilePictureOn>
     <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7707,7 +7707,7 @@
     <ClickabledataID>443</ClickabledataID>
     <Name>UHF Status</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Button3On.png</FilePictureOn>
     <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7728,7 +7728,7 @@
     <ClickabledataID>505</ClickabledataID>
     <Name>Radar Altimeter Normal/Disabled</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7749,7 +7749,7 @@
     <ClickabledataID>293</ClickabledataID>
     <Name>Autopilot Engage/Disengage</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Button3On.png</FilePictureOn>
     <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7770,7 +7770,7 @@
     <ClickabledataID>292</ClickabledataID>
     <Name>Autopilot Mode Select Switch</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_cnt2.png</FilePictureOff>
     <FilePicture2On>round_down2.png</FilePicture2On>
@@ -7791,7 +7791,7 @@
     <ClickabledataID>294</ClickabledataID>
     <Name>EAC On</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7812,7 +7812,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>UFC On / Off</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7828,20 +7828,20 @@
   </Switches>
   <Switches>
     <ID>213</ID>
-    <Class>SwitchOn_OffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>135</ClickabledataID>
     <Name>CMSP - Electronic Countermeasure Jammer (JMR)</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
-    <Input>0.2,0.1,0.0</Input>
-    <Output>0.2,0.1,0.0</Output>
-    <PosX>41</PosX>
-    <PosY>180</PosY>
+    <Input>0.0,0.1,0.2</Input>
+    <Output>0.0,0.1,0.2</Output>
+    <PosX>121</PosX>
+    <PosY>185</PosY>
     <Size>45</Size>
-    <Rotate>180</Rotate>
+    <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
@@ -7849,20 +7849,20 @@
   </Switches>
   <Switches>
     <ID>214</ID>
-    <Class>SwitchOn_OffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>136</ClickabledataID>
     <Name>CMSP - Radar Warning Receiver (RWR). MENU/ON/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
-    <Input>0.2,0.1,0.0</Input>
-    <Output>0.2,0.1,0.0</Output>
-    <PosX>105</PosX>
-    <PosY>180</PosY>
+    <Input>0.0,0.1,0.2</Input>
+    <Output>0.0,0.1,0.2</Output>
+    <PosX>187</PosX>
+    <PosY>185</PosY>
     <Size>45</Size>
-    <Rotate>180</Rotate>
+    <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
@@ -7870,20 +7870,20 @@
   </Switches>
   <Switches>
     <ID>215</ID>
-    <Class>SwitchOn_OffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>138</ClickabledataID>
     <Name>CMSP - Countermeasure Dispenser (DISP). MENU/ON/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
-    <Input>0.2,0.1,0.0</Input>
-    <Output>0.2,0.1,0.0</Output>
-    <PosX>169</PosX>
-    <PosY>180</PosY>
+    <Input>0.0,0.1,0.2</Input>
+    <Output>0.0,0.1,0.2</Output>
+    <PosX>250</PosX>
+    <PosY>185</PosY>
     <Size>45</Size>
-    <Rotate>180</Rotate>
+    <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
@@ -7895,7 +7895,7 @@
     <ClickabledataID>140</ClickabledataID>
     <Name>CMSP - Master CMS Mode Select</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL_Rotary1.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7916,7 +7916,7 @@
     <ClickabledataID>132</ClickabledataID>
     <Name>CMSP - Jettison Countermeasures</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7937,7 +7937,7 @@
     <ClickabledataID>125</ClickabledataID>
     <Name>CMSP - Edit Program Value 1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-ArrowUp-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-ArrowUp-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7958,7 +7958,7 @@
     <ClickabledataID>126</ClickabledataID>
     <Name>CMSP - Edit Program Value 2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-ArrowUp-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-ArrowUp-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -7979,7 +7979,7 @@
     <ClickabledataID>127</ClickabledataID>
     <Name>CMSP - Edit Program Value 3</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-ArrowUp-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-ArrowUp-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8000,7 +8000,7 @@
     <ClickabledataID>128</ClickabledataID>
     <Name>CMSP - Edit Program Value 4</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-ArrowUp-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-ArrowUp-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8017,20 +8017,20 @@
   </Switches>
   <Switches>
     <ID>222</ID>
-    <Class>SwitchOn_OffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>134</ClickabledataID>
     <Name>CMSP - Missile Warning System (MWS)</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
-    <Input>0.2,0.1,0.0</Input>
-    <Output>0.2,0.1,0.0</Output>
-    <PosX>-22</PosX>
-    <PosY>180</PosY>
+    <Input>0.0,0.1,0.2</Input>
+    <Output>0.0,0.1,0.2</Output>
+    <PosX>56</PosX>
+    <PosY>185</PosY>
     <Size>45</Size>
-    <Rotate>180</Rotate>
+    <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
@@ -8042,7 +8042,7 @@
     <ClickabledataID>129</ClickabledataID>
     <Name>CMSP - Cycle Program or Value Up</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-ButtonR-Vert-Up-On.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8063,7 +8063,7 @@
     <ClickabledataID>130</ClickabledataID>
     <Name>CMSP - Cycle Program or Value Down</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-ButtonR-Vert-Down-On.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8084,7 +8084,7 @@
     <ClickabledataID>131</ClickabledataID>
     <Name>CMSP - Save and Return Program</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-RTN-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-RTN-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8105,7 +8105,7 @@
     <ClickabledataID>133</ClickabledataID>
     <Name>CMSP - Adjust Display Brightness</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Rotary.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8126,7 +8126,7 @@
     <ClickabledataID>157</ClickabledataID>
     <Name>UFC - 1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-1-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-1-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8147,7 +8147,7 @@
     <ClickabledataID>158</ClickabledataID>
     <Name>UFC - 2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-2-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-2-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8168,7 +8168,7 @@
     <ClickabledataID>159</ClickabledataID>
     <Name>UFC - 3</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-3-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-3-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8189,7 +8189,7 @@
     <ClickabledataID>160</ClickabledataID>
     <Name>UFC - 4</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-4-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-4-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8210,7 +8210,7 @@
     <ClickabledataID>161</ClickabledataID>
     <Name>UFC - 5</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-5-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-5-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8231,7 +8231,7 @@
     <ClickabledataID>162</ClickabledataID>
     <Name>UFC - 6</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-6-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-6-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8252,7 +8252,7 @@
     <ClickabledataID>163</ClickabledataID>
     <Name>UFC - 7</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-7-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-7-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8273,7 +8273,7 @@
     <ClickabledataID>164</ClickabledataID>
     <Name>UFC - 8</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-8-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-8-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8294,7 +8294,7 @@
     <ClickabledataID>165</ClickabledataID>
     <Name>UFC - 9</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-9-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-9-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8315,7 +8315,7 @@
     <ClickabledataID>166</ClickabledataID>
     <Name>UFC - 0</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-0-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-0-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8336,7 +8336,7 @@
     <ClickabledataID>167</ClickabledataID>
     <Name>UFC - Space</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-SPC-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-SPC-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8357,7 +8357,7 @@
     <ClickabledataID>168</ClickabledataID>
     <Name>UFC - Hack Time</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-BACK-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-BACK-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8378,7 +8378,7 @@
     <ClickabledataID>169</ClickabledataID>
     <Name>UFC - Select Function Mode</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-FUNC-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-FUNC-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8399,7 +8399,7 @@
     <ClickabledataID>170</ClickabledataID>
     <Name>UFC - Select Letter Mode</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-LRT-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-LRT-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8420,7 +8420,7 @@
     <ClickabledataID>171</ClickabledataID>
     <Name>UFC - Clear</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-CLR-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-CLR-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8441,7 +8441,7 @@
     <ClickabledataID>172</ClickabledataID>
     <Name>UFC - Enter</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-ENT-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-ENT-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8462,7 +8462,7 @@
     <ClickabledataID>173</ClickabledataID>
     <Name>UFC - Create Overhead Mark Point</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-MK-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-MK-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8483,7 +8483,7 @@
     <ClickabledataID>174</ClickabledataID>
     <Name>UFC - and Adjust Altitude Alert Values</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-ALT-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-ALT-On.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8504,7 +8504,7 @@
     <ClickabledataID>175</ClickabledataID>
     <Name>UFC - Cycle Steerpoint/Waypoint</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-ButtonR-Vert-Up-On.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8525,7 +8525,7 @@
     <ClickabledataID>176</ClickabledataID>
     <Name>UFC - Cycle Steerpoint/Waypoint</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-ButtonR-Vert-Down-On.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8546,7 +8546,7 @@
     <ClickabledataID>177</ClickabledataID>
     <Name>UFC - DATA up</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-ButtonR-Vert-Up-On.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8567,7 +8567,7 @@
     <ClickabledataID>178</ClickabledataID>
     <Name>UFC - DATA down</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-ButtonR-Vert-Down-On.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8588,7 +8588,7 @@
     <ClickabledataID>179</ClickabledataID>
     <Name>UFC - SEL up</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-ButtonR-Vert-Up-On.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8609,7 +8609,7 @@
     <ClickabledataID>180</ClickabledataID>
     <Name>UFC - SEL down</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-ButtonR-Vert-Down-On.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8630,7 +8630,7 @@
     <ClickabledataID>181</ClickabledataID>
     <Name>UFC - DEPR up</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-ButtonR-Vert-Up-On.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8651,7 +8651,7 @@
     <ClickabledataID>182</ClickabledataID>
     <Name>UFC - DEPR down</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-ButtonR-Vert-Down-On.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8672,7 +8672,7 @@
     <ClickabledataID>183</ClickabledataID>
     <Name>UFC - INTEN left</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-ButtonR-Left-On.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8693,7 +8693,7 @@
     <ClickabledataID>184</ClickabledataID>
     <Name>UFC - INTEN right</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-ButtonR-Right-On.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8714,7 +8714,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>-</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-FWD-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-FWD-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8734,7 +8734,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>-</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-MID-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-MID-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8754,7 +8754,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>-</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-AFT-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-AFT-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8774,7 +8774,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>-</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-Blank-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-Blank-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8794,7 +8794,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>-</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-Blank-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-Blank-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8814,7 +8814,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>-</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>UFC-Button-Blank-On.png</FilePictureOn>
     <FilePictureOff>UFC-Button-Blank-Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8834,7 +8834,7 @@
     <ClickabledataID>261</ClickabledataID>
     <Name>Master Caution Light</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8855,7 +8855,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>Kneeboard</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8875,7 +8875,7 @@
     <ClickabledataID>292</ClickabledataID>
     <Name>Autopilot Mode Select Switch</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_cnt2.png</FilePictureOff>
     <FilePicture2On>round_down2.png</FilePicture2On>
@@ -8896,7 +8896,7 @@
     <ClickabledataID>150</ClickabledataID>
     <Name>AHCP - Targeting Pod Power On/Off</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8917,7 +8917,7 @@
     <ClickabledataID>211</ClickabledataID>
     <Name>CDU - A</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>CDU-A-down.png</FilePictureOn>
     <FilePictureOff>CDU-A-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8938,7 +8938,7 @@
     <ClickabledataID>281</ClickabledataID>
     <Name>FuelSystem - Fuel display selector</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL Rotary2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8959,7 +8959,7 @@
     <ClickabledataID>384</ClickabledataID>
     <Name>HSI - Heading Set Knob</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>HeadingSetKnop.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -8980,7 +8980,7 @@
     <ClickabledataID>329</ClickabledataID>
     <Name>Canopy Close</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
@@ -9001,7 +9001,7 @@
     <ClickabledataID>253</ClickabledataID>
     <Name>Clock - Toggle Clock and Elapsed Time Modes</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ButtonOn.png</FilePictureOn>
     <FilePictureOff>ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -9022,7 +9022,7 @@
     <ClickabledataID>254</ClickabledataID>
     <Name>Clock - Start, Stop and Reset Elapsed Timer</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ButtonOn.png</FilePictureOn>
     <FilePictureOff>ButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -9036,6 +9036,27 @@
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
     <DcsID>69</DcsID>
+  </Switches>
+  <Switches>
+    <ID>274</ID>
+    <Class>SwitchOnOffOn</Class>
+    <ClickabledataID>417</ClickabledataID>
+    <Name>Fire Extinguishing Agent Discharge</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-1.0,0.0,1.0</Output>
+    <PosX>1500</PosX>
+    <PosY>36</PosY>
+    <Size>35</Size>
+    <Rotate>90</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>105</DcsID>
   </Switches>
   <Accessories>
     <ID>1</ID>
