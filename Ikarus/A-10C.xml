@@ -4036,7 +4036,7 @@
     <ID>426</ID>
     <DeviceID>53</DeviceID>
     <ButtonID>2</ButtonID>
-    <Discription>ILS Frequency MHz</Discription>
+    <Discription>ILS Power</Discription>
     <Type>Rotary</Type>
     <DcsID>248</DcsID>
   </Clickabledata>
@@ -4044,8 +4044,8 @@
     <ID>427</ID>
     <DeviceID>53</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>ILS Power (switch)</Discription>
-    <Type>Switch</Type>
+    <Discription>ILS Frequency MHz</Discription>
+    <Type>Rotary</Type>
     <DcsID>247</DcsID>
   </Clickabledata>
   <Clickabledata>

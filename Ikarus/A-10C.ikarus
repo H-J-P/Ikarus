@@ -6512,13 +6512,13 @@
     <Name>CDU - PG down</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>CDU-Rocker-P-down.png</FilePictureOn>
-    <FilePictureOff>CDU-Rocker-P-up.png</FilePictureOff>
+    <FilePictureOn>CDU-Rocker-G-down.png</FilePictureOn>
+    <FilePictureOff>CDU-Rocker-G-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>44</PosX>
-    <PosY>411</PosY>
+    <PosX>45</PosX>
+    <PosY>444</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6533,13 +6533,13 @@
     <Name>CDU - PG up</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>CDU-Rocker-G-down.png</FilePictureOn>
-    <FilePictureOff>CDU-Rocker-G-up.png</FilePictureOff>
+    <FilePictureOn>CDU-Rocker-P-down.png</FilePictureOn>
+    <FilePictureOff>CDU-Rocker-P-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>44</PosX>
-    <PosY>444</PosY>
+    <PosX>45</PosX>
+    <PosY>409</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6674,19 +6674,19 @@
   </Switches>
   <Switches>
     <ID>158</ID>
-    <Class>MultiSwitch</Class>
+    <Class>Rotary</Class>
     <ClickabledataID>426</ClickabledataID>
-    <Name>ILS Frequency MHz</Name>
+    <Name>ILS Power</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1,0.2,0.3</Input>
-    <Output>0.0,45,90,135</Output>
-    <PosX>80</PosX>
-    <PosY>942</PosY>
-    <Size>55</Size>
+    <Input>0.0,0.3,0.3</Input>
+    <Output>0.0,135</Output>
+    <PosX>88</PosX>
+    <PosY>917</PosY>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6695,7 +6695,7 @@
   </Switches>
   <Switches>
     <ID>159</ID>
-    <Class>MultiSwitch</Class>
+    <Class>Rotary</Class>
     <ClickabledataID>428</ClickabledataID>
     <Name>ILS Frequency kHz</Name>
     <Value>0</Value>
@@ -6703,10 +6703,10 @@
     <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9</Input>
-    <Output>0.0,36,72,112,148,184,220,256,292,328</Output>
-    <PosX>272</PosX>
-    <PosY>942</PosY>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0,360</Output>
+    <PosX>271</PosX>
+    <PosY>961</PosY>
     <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6716,19 +6716,19 @@
   </Switches>
   <Switches>
     <ID>160</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>Rotary</Class>
     <ClickabledataID>427</ClickabledataID>
-    <Name>ILS Power (switch)</Name>
+    <Name>ILS Frequency MHz</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
+    <FilePictureOn>Knop6.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
-    <PosX>16</PosX>
-    <PosY>883</PosY>
-    <Size>45</Size>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0,360</Output>
+    <PosX>84</PosX>
+    <PosY>961</PosY>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6737,7 +6737,7 @@
   </Switches>
   <Switches>
     <ID>161</ID>
-    <Class>MultiSwitch</Class>
+    <Class>Rotary</Class>
     <ClickabledataID>418</ClickabledataID>
     <Name>TACAN - Channel Selector (Tens)</Name>
     <Value>0</Value>
@@ -6745,8 +6745,8 @@
     <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0,1.1,1.2</Input>
-    <Output>0.0,36,72,112,148,184,220,256,292,328,360,396,444</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0,360</Output>
     <PosX>63</PosX>
     <PosY>809</PosY>
     <Size>55</Size>
@@ -6758,7 +6758,7 @@
   </Switches>
   <Switches>
     <ID>162</ID>
-    <Class>MultiSwitch</Class>
+    <Class>Rotary</Class>
     <ClickabledataID>419</ClickabledataID>
     <Name>TACAN - Channel Selector (Ones)</Name>
     <Value>0</Value>
@@ -6766,11 +6766,11 @@
     <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9</Input>
-    <Output>0.0,36,72,112,148,184,220,256,292,328</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0,360</Output>
     <PosX>180</PosX>
     <PosY>809</PosY>
-    <Size>55</Size>
+    <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6779,19 +6779,19 @@
   </Switches>
   <Switches>
     <ID>163</ID>
-    <Class>ButtonOffOn</Class>
+    <Class>Rotary</Class>
     <ClickabledataID>420</ClickabledataID>
     <Name>TACAN - Channel Selector (Ones) (button)</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.87, 0.93</Input>
-    <Output>0.87, 0.93</Output>
-    <PosX>195</PosX>
-    <PosY>821</PosY>
-    <Size>25</Size>
+    <Input>0.0,1.0,0.1</Input>
+    <Output>0.0,360</Output>
+    <PosX>176</PosX>
+    <PosY>854</PosY>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -9057,6 +9057,27 @@
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
     <DcsID>105</DcsID>
+  </Switches>
+  <Switches>
+    <ID>275</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>429</ClickabledataID>
+    <Name>ILS Volume</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Knop6.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.9,0.1</Input>
+    <Output>0.0,360</Output>
+    <PosX>276</PosX>
+    <PosY>917</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
+    <DcsID>249</DcsID>
   </Switches>
   <Accessories>
     <ID>1</ID>
