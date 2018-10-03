@@ -3534,7 +3534,7 @@
     <FilePictureOn>HeadingSetKnop.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.005,1</Input>
+    <Input>0.0,1.0,0.002778,1</Input>
     <Output>0.0,360</Output>
     <PosX>804</PosX>
     <PosY>803</PosY>
@@ -3555,7 +3555,7 @@
     <FilePictureOn>CourseSetKnop.png</FilePictureOn>
     <FilePictureOff />
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.005,1</Input>
+    <Input>0.0,1.0,0.002778,1</Input>
     <Output>0.0,360</Output>
     <PosX>1067</PosX>
     <PosY>802</PosY>
@@ -8868,111 +8868,6 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
-  </Switches>
-  <Switches>
-    <ID>266</ID>
-    <Class>SwitchOnOffOn</Class>
-    <ClickabledataID>292</ClickabledataID>
-    <Name>Autopilot Mode Select Switch</Name>
-    <Value>0</Value>
-    <OldValue>1</OldValue>
-    <FilePictureOn>round_up2.png</FilePictureOn>
-    <FilePictureOff>round_cnt2.png</FilePictureOff>
-    <FilePicture2On>round_down2.png</FilePicture2On>
-    <Input>-1.0,0.0,1.0</Input>
-    <Output>-1.0,0.0,1.0</Output>
-    <PosX>313</PosX>
-    <PosY>16</PosY>
-    <Size>40</Size>
-    <Rotate>0</Rotate>
-    <Event>false</Event>
-    <DontReset>false</DontReset>
-    <WindowID>8</WindowID>
-    <DcsID>132</DcsID>
-  </Switches>
-  <Switches>
-    <ID>267</ID>
-    <Class>SwitchOffOn</Class>
-    <ClickabledataID>150</ClickabledataID>
-    <Name>AHCP - Targeting Pod Power On/Off</Name>
-    <Value>0</Value>
-    <OldValue>1</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
-    <PosX>155</PosX>
-    <PosY>130</PosY>
-    <Size>50</Size>
-    <Rotate>0</Rotate>
-    <Event>false</Event>
-    <DontReset>false</DontReset>
-    <WindowID>8</WindowID>
-    <DcsID>378</DcsID>
-  </Switches>
-  <Switches>
-    <ID>268</ID>
-    <Class>Button</Class>
-    <ClickabledataID>211</ClickabledataID>
-    <Name>CDU - A</Name>
-    <Value>0</Value>
-    <OldValue>1</OldValue>
-    <FilePictureOn>CDU-A-down.png</FilePictureOn>
-    <FilePictureOff>CDU-A-up.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
-    <PosX>51</PosX>
-    <PosY>162</PosY>
-    <Size>60</Size>
-    <Rotate>0</Rotate>
-    <Event>false</Event>
-    <DontReset>false</DontReset>
-    <WindowID>8</WindowID>
-    <DcsID>437</DcsID>
-  </Switches>
-  <Switches>
-    <ID>269</ID>
-    <Class>MultiSwitch</Class>
-    <ClickabledataID>281</ClickabledataID>
-    <Name>FuelSystem - Fuel display selector</Name>
-    <Value>0</Value>
-    <OldValue>1</OldValue>
-    <FilePictureOn>TISL Rotary2.png</FilePictureOn>
-    <FilePictureOff>-</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1,0.2,0.3,0.4</Input>
-    <Output>0,45,90,135,180</Output>
-    <PosX>319</PosX>
-    <PosY>153</PosY>
-    <Size>105</Size>
-    <Rotate>0</Rotate>
-    <Event>false</Event>
-    <DontReset>false</DontReset>
-    <WindowID>8</WindowID>
-    <DcsID>645</DcsID>
-  </Switches>
-  <Switches>
-    <ID>270</ID>
-    <Class>Rotary</Class>
-    <ClickabledataID>384</ClickabledataID>
-    <Name>HSI - Heading Set Knob</Name>
-    <Value>0</Value>
-    <OldValue>1</OldValue>
-    <FilePictureOn>HeadingSetKnop.png</FilePictureOn>
-    <FilePictureOff>-</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.005,1</Input>
-    <Output>0.0,360</Output>
-    <PosX>321</PosX>
-    <PosY>273</PosY>
-    <Size>100</Size>
-    <Rotate>0</Rotate>
-    <Event>false</Event>
-    <DontReset>false</DontReset>
-    <WindowID>8</WindowID>
-    <DcsID>45</DcsID>
   </Switches>
   <Switches>
     <ID>271</ID>
