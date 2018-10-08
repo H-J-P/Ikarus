@@ -6724,7 +6724,7 @@
     <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.3,0.3</Input>
+    <Input>0.0,0.3,0.1</Input>
     <Output>0.0,135</Output>
     <PosX>81</PosX>
     <PosY>917</PosY>

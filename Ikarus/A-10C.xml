@@ -4035,7 +4035,7 @@
   <Clickabledata>
     <ID>426</ID>
     <DeviceID>53</DeviceID>
-    <ButtonID>2</ButtonID>
+    <ButtonID>1</ButtonID>
     <Discription>ILS Frequency MHz</Discription>
     <Type>Rotary</Type>
     <DcsID>247</DcsID>
@@ -4043,7 +4043,7 @@
   <Clickabledata>
     <ID>427</ID>
     <DeviceID>53</DeviceID>
-    <ButtonID>1</ButtonID>
+    <ButtonID>2</ButtonID>
     <Discription>ILS Power</Discription>
     <Type>Rotary</Type>
     <DcsID>248</DcsID>
@@ -4051,7 +4051,7 @@
   <Clickabledata>
     <ID>428</ID>
     <DeviceID>53</DeviceID>
-    <ButtonID>3</ButtonID>
+    <ButtonID>5</ButtonID>
     <Discription>ILS Frequency kHz</Discription>
     <Type>Rotary</Type>
     <DcsID>250</DcsID>
@@ -4059,7 +4059,7 @@
   <Clickabledata>
     <ID>429</ID>
     <DeviceID>53</DeviceID>
-    <ButtonID>4</ButtonID>
+    <ButtonID>3</ButtonID>
     <Discription>ILS Volume</Discription>
     <Type>Rotary</Type>
     <DcsID>249</DcsID>

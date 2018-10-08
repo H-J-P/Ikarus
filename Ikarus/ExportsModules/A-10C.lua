@@ -698,12 +698,13 @@ function ExportScript.ProcessDACConfigHighImportance(mainPanelDevice)
 	ExportScript.Tools.SendDataDAC("2000", ExportScript.Tools.RoundFreqeuncy((UHF_RADIO:get_frequency()/1000000))) -- ExportScript.Tools.RoundFreqeuncy(frequency (MHz|KHz), format ("7.3"), PrefixZeros (false), LeastValue (0.025))
 	]]
 	-- Digital Clock
-	-------------------------------------------------
+	--[[----------------------------------------------- HJP
 	local lDigitalClock = ExportScript.Tools.getListIndicatorValue(4)
 
 	if lDigitalClock ~= nil and lDigitalClock.txtHours ~= nil then
 		ExportScript.Tools.SendDataDAC("2010", string.format("%s%s%s", lDigitalClock.txtHours, lDigitalClock.txtMinutes, lDigitalClock.txtSeconds))
 	end
+	]]
 end
 
 -----------------------------------------------------
@@ -839,7 +840,7 @@ function ExportScript.ProcessDACConfigLowImportance(mainPanelDevice)
 	]]
 
 	-- AN/ARC-164 UHF and UHF Preset Channel
-	---------------------------------------------------
+	--[[------------------------------------------------- HJP
 	local lUHF_RADIO = GetDevice(54)
 	if lUHF_RADIO:is_on() then
 		ExportScript.Tools.SendDataDAC("2000", ExportScript.Tools.RoundFreqeuncy((lUHF_RADIO:get_frequency()/1000000)))
@@ -1011,7 +1012,7 @@ function ExportScript.ProcessDACConfigLowImportance(mainPanelDevice)
 	ExportScript.genericRadioConf[3]['ManualPreset']['ValuePreset'] = 0.3-- ManualPreset Preset value from cklickable.lua
 
 	ExportScript.genericRadio(nil, nil)
-
+    ]]
 	-- NOT FOR ARCAZE
 	-------------------------------------------------
 	--[[
