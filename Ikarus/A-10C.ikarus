@@ -6725,7 +6725,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,0.3,0.1</Input>
-    <Output>0.0,135</Output>
+    <Output>0.0,360</Output>
     <PosX>81</PosX>
     <PosY>917</PosY>
     <Size>45</Size>
