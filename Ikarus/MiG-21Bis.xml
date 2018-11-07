@@ -484,8 +484,8 @@
     <ID>529</ID>
     <DeviceID>5</DeviceID>
     <ButtonID>13</ButtonID>
-    <Discription>Fuel Quantity Set Rotary</Discription>
-    <Type>Switch</Type>
+    <Discription>Fuel Quantity Set Rotary {0.0 to 1.0} in 0.02 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>274</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -684,8 +684,8 @@
     <ID>556</ID>
     <DeviceID>14</DeviceID>
     <ButtonID>122</ButtonID>
-    <Discription>Main Gears Emergency Release Handle</Discription>
-    <Type>Switch</Type>
+    <Discription>Main Gears Emergency Release Handle {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>223</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -852,15 +852,15 @@
     <ID>577</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>44</ButtonID>
-    <Discription>Radio Volume Rotary</Discription>
-    <Type>Switch</Type>
+    <Discription>Radio Volume Rotary {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>210</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>578</ID>
     <DeviceID>22</DeviceID>
     <ButtonID>45</ButtonID>
-    <Discription>Radio Channel</Discription>
+    <Discription>Radio Channel {0.0, 0.05, ..., 0.95, 1.0} 20 x 0.05 steps</Discription>
     <Type>Switch</Type>
     <DcsID>211</DcsID>
   </Clickabledata>
@@ -892,8 +892,8 @@
     <ID>582</ID>
     <DeviceID>23</DeviceID>
     <ButtonID>144</ButtonID>
-    <Discription>NPP Course set Rotary</Discription>
-    <Type>Switch</Type>
+    <Discription>NPP Course set Rotary {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>263</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -908,8 +908,8 @@
     <ID>584</ID>
     <DeviceID>24</DeviceID>
     <ButtonID>48</ButtonID>
-    <Discription>ARK Sound</Discription>
-    <Type>Switch</Type>
+    <Discription>ARK Sound {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>198</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -924,7 +924,7 @@
     <ID>586</ID>
     <DeviceID>24</DeviceID>
     <ButtonID>50</ButtonID>
-    <Discription>ARKchannel</Discription>
+    <Discription>ARK channel 1 - 9 {0.1,0.2,...,0.8,0.9}</Discription>
     <Type>Switch</Type>
     <DcsID>213</DcsID>
   </Clickabledata>
@@ -932,9 +932,9 @@
     <ID>587</ID>
     <DeviceID>24</DeviceID>
     <ButtonID>51</ButtonID>
-    <Discription>ARK Zone</Discription>
+    <Discription>ARK Zone {0.0, 0.14, 0.28, ..., 0.84, 0.98, 1.0}</Discription>
     <Type>Switch</Type>
-    <DcsID>197</DcsID>
+    <DcsID>189</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>588</ID>
@@ -964,7 +964,7 @@
     <ID>591</ID>
     <DeviceID>25</DeviceID>
     <ButtonID>55</ButtonID>
-    <Discription>RSBN Mode Land/Navigation/Descend</Discription>
+    <Discription>RSBN Mode Land/Navigation/Descend {0.0, 0.5, 1.0}</Discription>
     <Type>Switch</Type>
     <DcsID>240</DcsID>
   </Clickabledata>
@@ -996,24 +996,24 @@
     <ID>595</ID>
     <DeviceID>25</DeviceID>
     <ButtonID>58</ButtonID>
-    <Discription>RSBN Sound Rotary</Discription>
-    <Type>Switch</Type>
+    <Discription>RSBN Sound Rotary {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>345</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>596</ID>
     <DeviceID>25</DeviceID>
     <ButtonID>59</ButtonID>
-    <Discription>RSBN Navigation</Discription>
-    <Type>Switch</Type>
+    <Discription>RSBN Navigation {0.0 to 1.0} in 0.01 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>351</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>597</ID>
     <DeviceID>25</DeviceID>
     <ButtonID>60</ButtonID>
-    <Discription>PRMG Landing</Discription>
-    <Type>Switch</Type>
+    <Discription>PRMG Landing {0.0 to 1.0} in 0.01 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>352</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -1100,16 +1100,16 @@
     <ID>608</ID>
     <DeviceID>28</DeviceID>
     <ButtonID>141</ButtonID>
-    <Discription>KPP Set Rotary</Discription>
-    <Type>Switch</Type>
+    <Discription>KPP Set {0.0 to 1.0} in 0.0001 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>260</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>610</ID>
     <DeviceID>32</DeviceID>
     <ButtonID>275</ButtonID>
-    <Discription>Altimeter pressure knob</Discription>
-    <Type>Switch</Type>
+    <Discription>Altimeter pressure knob {0.0 to 1.0} in 0.02 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>262</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -1132,8 +1132,8 @@
     <ID>613</ID>
     <DeviceID>34</DeviceID>
     <ButtonID>203</ButtonID>
-    <Discription>Variometer Set Rotary</Discription>
-    <Type>Switch</Type>
+    <Discription>Variometer Set Rotary {0.0 to 1.0} in 0.0001 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>261</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -1172,7 +1172,7 @@
     <ID>619</ID>
     <DeviceID>37</DeviceID>
     <ButtonID>86</ButtonID>
-    <Discription>SPO-10 Volume Rotary</Discription>
+    <Discription>SPO-10 Volume Rotary {0.0 to 1.0} in 0.1 steps</Discription>
     <Type>Rotary</Type>
     <DcsID>225</DcsID>
   </Clickabledata>
@@ -1188,7 +1188,7 @@
     <ID>621</ID>
     <DeviceID>38</DeviceID>
     <ButtonID>88</ButtonID>
-    <Discription>SRZO Codes</Discription>
+    <Discription>SRZO Codes {0.0, 0.8, 0.16, ..., 0.88, 0.96}</Discription>
     <Type>Switch</Type>
     <DcsID>192</DcsID>
   </Clickabledata>
@@ -1252,7 +1252,7 @@
     <ID>629</ID>
     <DeviceID>39</DeviceID>
     <ButtonID>92</ButtonID>
-    <Discription>SOD Wave Selector 3/1/2</Discription>
+    <Discription>SOD Wave Selector 3/1/2 {0.0, 0.5, 1.0}</Discription>
     <Type>Switch</Type>
     <DcsID>201</DcsID>
   </Clickabledata>
@@ -1260,7 +1260,7 @@
     <ID>630</ID>
     <DeviceID>39</DeviceID>
     <ButtonID>93</ButtonID>
-    <Discription>SOD Modes</Discription>
+    <Discription>SOD Modes {0.0, 0.25, 0.5, 0.75, 1.0}</Discription>
     <Type>Switch</Type>
     <DcsID>204</DcsID>
   </Clickabledata>
@@ -1268,7 +1268,7 @@
     <ID>632</ID>
     <DeviceID>40</DeviceID>
     <ButtonID>94</ButtonID>
-    <Discription>Radar Off/Prep/On</Discription>
+    <Discription>Radar Off/Prep/On {0.0, 0.5, 1.0}</Discription>
     <Type>Switch</Type>
     <DcsID>205</DcsID>
   </Clickabledata>
@@ -1276,7 +1276,7 @@
     <ID>633</ID>
     <DeviceID>40</DeviceID>
     <ButtonID>95</ButtonID>
-    <Discription>Low Altitude Off/Comp/On</Discription>
+    <Discription>Low Altitude Off/Comp/On {0.0, 0.5, 1.0}</Discription>
     <Type>Switch</Type>
     <DcsID>206</DcsID>
   </Clickabledata>
@@ -1372,8 +1372,8 @@
     <ID>647</ID>
     <DeviceID>40</DeviceID>
     <ButtonID>239</ButtonID>
-    <Discription>Radar Polar Filter</Discription>
-    <Type>Switch</Type>
+    <Discription>Radar Polar Filter {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>623</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -1436,48 +1436,48 @@
     <ID>655</ID>
     <DeviceID>41</DeviceID>
     <ButtonID>162</ButtonID>
-    <Discription>Target Size</Discription>
-    <Type>Switch</Type>
+    <Discription>Target Size {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>245</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>656</ID>
     <DeviceID>41</DeviceID>
     <ButtonID>163</ButtonID>
-    <Discription>Intercept Angle</Discription>
-    <Type>Switch</Type>
+    <Discription>Intercept Angle {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>246</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>657</ID>
     <DeviceID>41</DeviceID>
     <ButtonID>164</ButtonID>
-    <Discription>Scale Backlights control</Discription>
-    <Type>Switch</Type>
+    <Discription>Scale Backlights control {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>247</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>658</ID>
     <DeviceID>41</DeviceID>
     <ButtonID>165</ButtonID>
-    <Discription>Pipper light control</Discription>
-    <Type>Switch</Type>
+    <Discription>Pipper light control {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>248</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>659</ID>
     <DeviceID>41</DeviceID>
     <ButtonID>166</ButtonID>
-    <Discription>Fix Net light control</Discription>
-    <Type>Switch</Type>
+    <Discription>Fix Net light control {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>251</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>660</ID>
     <DeviceID>41</DeviceID>
     <ButtonID>213</ButtonID>
-    <Discription>TDC Range / Pipper Span control</Discription>
-    <Type>Switch</Type>
+    <Discription>TDC Range / Pipper Span control {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>384</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -1668,8 +1668,8 @@
     <ID>684</ID>
     <DeviceID>42</DeviceID>
     <ButtonID>189</ButtonID>
-    <Discription>Missile Seeker Sound</Discription>
-    <Type>Switch</Type>
+    <Discription>Missile Seeker Sound {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>297</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -1780,39 +1780,39 @@
     <ID>705</ID>
     <DeviceID>46</DeviceID>
     <ButtonID>231</ButtonID>
-    <Discription>Cockpit Texts Back-ligh</Discription>
-    <Type>Switch</Type>
+    <Discription>Cockpit Texts Back-ligh {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>612</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>706</ID>
     <DeviceID>46</DeviceID>
     <ButtonID>232</ButtonID>
-    <Discription>Instruments Back-light</Discription>
-    <Type>Switch</Type>
+    <Discription>Instruments Back-light {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>156</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>707</ID>
     <DeviceID>46</DeviceID>
     <ButtonID>233</ButtonID>
-    <Discription>Main Red Lights</Discription>
-    <Type>Switch</Type>
+    <Discription>Main Red Lights {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>157</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>708</ID>
     <DeviceID>46</DeviceID>
     <ButtonID>234</ButtonID>
-    <Discription>Main White Lights</Discription>
-    <Type>Switch</Type>
+    <Discription>Main White Lights {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>222</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>709</ID>
     <DeviceID>46</DeviceID>
     <ButtonID>32</ButtonID>
-    <Discription>Navigation Lights Off/Min/Med/Max</Discription>
+    <Discription>Navigation Lights Off/Min/Med/Max {0.0, 0.33, 0.66, 0.99}</Discription>
     <Type>Switch</Type>
     <DcsID>194</DcsID>
   </Clickabledata>
@@ -1820,7 +1820,7 @@
     <ID>710</ID>
     <DeviceID>46</DeviceID>
     <ButtonID>33</ButtonID>
-    <Discription>Landing Lights Off/Taxi/Land</Discription>
+    <Discription>Landing Lights Off/Taxi/Land {0.0, 0.5, 1.0}</Discription>
     <Type>Switch</Type>
     <DcsID>323</DcsID>
   </Clickabledata>
@@ -1828,7 +1828,7 @@
     <ID>711</ID>
     <DeviceID>47</DeviceID>
     <ButtonID>34</ButtonID>
-    <Discription>Check Warning Lights - Set Warning Light Day/Nigh</Discription>
+    <Discription>Check Warning Lights - T4</Discription>
     <Type>Switch</Type>
     <DcsID>369</DcsID>
   </Clickabledata>
@@ -1836,7 +1836,7 @@
     <ID>712</ID>
     <DeviceID>47</DeviceID>
     <ButtonID>35</ButtonID>
-    <Discription>Check Warning Lights - Set Warning Light Day/Nigh</Discription>
+    <Discription>Check Warning Lights - T10</Discription>
     <Type>Switch</Type>
     <DcsID>370</DcsID>
   </Clickabledata>
@@ -1844,7 +1844,7 @@
     <ID>713</ID>
     <DeviceID>47</DeviceID>
     <ButtonID>36</ButtonID>
-    <Discription>Check Warning Lights - Set Warning Light Day/Nigh</Discription>
+    <Discription>Check Warning Lights - T4-2</Discription>
     <Type>Switch</Type>
     <DcsID>371</DcsID>
   </Clickabledata>
@@ -1852,7 +1852,7 @@
     <ID>714</ID>
     <DeviceID>47</DeviceID>
     <ButtonID>37</ButtonID>
-    <Discription>Check Warning Lights - Set Warning Light Day/Nigh</Discription>
+    <Discription>Check Warning Lights - T4-3</Discription>
     <Type>Switch</Type>
     <DcsID>372</DcsID>
   </Clickabledata>
@@ -1860,7 +1860,7 @@
     <ID>715</ID>
     <DeviceID>47</DeviceID>
     <ButtonID>38</ButtonID>
-    <Discription>Check Warning Lights - Set Warning Light Day/Nigh</Discription>
+    <Discription>Check Warning Lights - T10-2</Discription>
     <Type>Switch</Type>
     <DcsID>373</DcsID>
   </Clickabledata>
@@ -1868,14 +1868,14 @@
     <ID>716</ID>
     <DeviceID>47</DeviceID>
     <ButtonID>39</ButtonID>
-    <Discription>Check Warning Lights - Set Warning Light Day/Nigh</Discription>
+    <Discription>Check Warning Lights - PPS</Discription>
     <Type>Switch</Type>
     <DcsID>374</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>718</ID>
     <DeviceID>47</DeviceID>
-    <ButtonID>277</ButtonID>
+    <ButtonID>40</ButtonID>
     <Discription>SORC</Discription>
     <Type>Switch</Type>
     <DcsID>255</DcsID>
@@ -1943,6 +1943,407 @@
     <Discription>Cockpit Air Condition Off/Cold/Auto/Warm</Discription>
     <Type>Switch</Type>
     <DcsID>292</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>728</ID>
+    <DeviceID>47</DeviceID>
+    <ButtonID>74</ButtonID>
+    <Discription>Set Warning Light Day/Night - T4 {0.0 to 1.0} in 0. steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>195</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>729</ID>
+    <DeviceID>47</DeviceID>
+    <ButtonID>75</ButtonID>
+    <Discription>Set Warning Light Day/Night - T10 {0.0 to 1.0} in 0. steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>196</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>730</ID>
+    <DeviceID>47</DeviceID>
+    <ButtonID>76</ButtonID>
+    <Discription>Set Warning Light Day/Night - T4-2 {0.0 to 1.0} in 0. steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>273</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>731</ID>
+    <DeviceID>47</DeviceID>
+    <ButtonID>77</ButtonID>
+    <Discription>Set Warning Light Day/Night - T4-3 {0.0 to 1.0} in 0. steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>282</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>732</ID>
+    <DeviceID>47</DeviceID>
+    <ButtonID>78</ButtonID>
+    <Discription>Set Warning Light Day/Night - T10-2 {0.0 to 1.0} in 0. steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>283</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>733</ID>
+    <DeviceID>47</DeviceID>
+    <ButtonID>79</ButtonID>
+    <Discription>Set Warning Light Day/Night - PPS {0.0 to 1.0} in 0. steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>322</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>734</ID>
+    <DeviceID>47</DeviceID>
+    <ButtonID>277</ButtonID>
+    <Discription>SORC {0.0 to 1.0} in 0. steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>657</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>735</ID>
+    <DeviceID>29</DeviceID>
+    <ButtonID>249</ButtonID>
+    <Discription>Mech clock left lever (Push/Pull)</Discription>
+    <Type>Rotary</Type>
+    <DcsID>265</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>736</ID>
+    <DeviceID>29</DeviceID>
+    <ButtonID>251</ButtonID>
+    <Discription>Mech clock left lever {0.0 to 1.0} in 0.04 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>264</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>737</ID>
+    <DeviceID>29</DeviceID>
+    <ButtonID>252</ButtonID>
+    <Discription>Mech clock right lever</Discription>
+    <Type>Rotary</Type>
+    <DcsID>268</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>738</ID>
+    <DeviceID>29</DeviceID>
+    <ButtonID>253</ButtonID>
+    <Discription>Mech clock right lever {0.0 to 1.0} in 0.05 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>267</DcsID>
+  </Clickabledata>
+  
+  <Clickabledata>
+    <ID>739</ID>
+    <DeviceID>40</DeviceID>
+    <ButtonID>254</ButtonID>
+    <Discription>Radar emission - Cover</Discription>
+    <Type>Switch</Type>
+    <DcsID></DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>740</ID>
+    <DeviceID>40</DeviceID>
+    <ButtonID>255</ButtonID>
+    <Discription>Radar emission - Combat/Training</Discription>
+    <Type>Switch</Type>
+    <DcsID></DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>741</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>256</ButtonID>
+    <Discription>G-Suit Max/Min valve {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>634</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>742</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>257</ButtonID>
+    <Discription>Electric Bus Nr.1 - Cover</Discription>
+    <Type>Switch</Type>
+    <DcsID>635</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>743</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>258</ButtonID>
+    <Discription>Electric Bus Nr.1</Discription>
+    <Type>Switch</Type>
+    <DcsID>636</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>744</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>259</ButtonID>
+    <Discription>Electric Bus Nr.2</Discription>
+    <Type>Switch</Type>
+    <DcsID>637</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>745</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>260</ButtonID>
+    <Discription>1.5 Mach Test Button - Cover</Discription>
+    <Type>Switch</Type>
+    <DcsID>638</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>746</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>261</ButtonID>
+    <Discription>1.5 Mach Test Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>639</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>747</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>262</ButtonID>
+    <Discription>BU-45 Buster System Separation</Discription>
+    <Type>Switch</Type>
+    <DcsID>640</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>748</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>263</ButtonID>
+    <Discription>SOD Control PBU-1</Discription>
+    <Type>Switch</Type>
+    <DcsID>642</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>749</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>264</ButtonID>
+    <Discription>SOD Control PBU-3</Discription>
+    <Type>Switch</Type>
+    <DcsID>641</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>750</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>265</ButtonID>
+    <Discription>Eject</Discription>
+    <Type>Switch</Type>
+    <DcsID>643</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>751</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>266</ButtonID>
+    <Discription>Ejection Seat Emergency Oxygen</Discription>
+    <Type>Switch</Type>
+    <DcsID>644</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>752</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>267</ButtonID>
+    <Discription>UK-2M Mic Amplifier M/L</Discription>
+    <Type>Switch</Type>
+    <DcsID>645</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>753</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>268</ButtonID>
+    <Discription>UK-2M Mic Amplifier GS/KM</Discription>
+    <Type>Switch</Type>
+    <DcsID>646</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>754</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>269</ButtonID>
+    <Discription>Suit Ventilation {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>647</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>755</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>270</ButtonID>
+    <Discription>Harness Separation</Discription>
+    <Type>Switch</Type>
+    <DcsID>648</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>756</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>273</ButtonID>
+    <Discription>Harness Loose/Tight {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>650</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>757</ID>
+    <DeviceID>51</DeviceID>
+    <ButtonID>274</ButtonID>
+    <Discription>Throttle Fixation {0.0 to 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>651</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>758</ID>
+    <DeviceID>56</DeviceID>
+    <ButtonID>197</ButtonID>
+    <Discription>IAB PBK-3 - Emergency Jettison</Discription>
+    <Type>Switch</Type>
+    <DcsID>387</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>759</ID>
+    <DeviceID>56</DeviceID>
+    <ButtonID>198</ButtonID>
+    <Discription>IAB PBK-3 - Emergency Jettison Armed / Not Armed</Discription>
+    <Type>Switch</Type>
+    <DcsID>388</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>760</ID>
+    <DeviceID>56</DeviceID>
+    <ButtonID>199</ButtonID>
+    <Discription>IAB PBK-3 - Tactical Jettison</Discription>
+    <Type>Switch</Type>
+    <DcsID>389</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>761</ID>
+    <DeviceID>56</DeviceID>
+    <ButtonID>200</ButtonID>
+    <Discription>IAB PBK-3 - Special AB / Missile-Rocket-Bombs-Cannon</Discription>
+    <Type>Switch</Type>
+    <DcsID>390</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>762</ID>
+    <DeviceID>56</DeviceID>
+    <ButtonID>201</ButtonID>
+    <Discription>IAB PBK-3 - Brake Chute</Discription>
+    <Type>Switch</Type>
+    <DcsID>391</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>763</ID>
+    <DeviceID>56</DeviceID>
+    <ButtonID>202</ButtonID>
+    <Discription>IAB PBK-3 - Detonation Air / Ground</Discription>
+    <Type>Switch</Type>
+    <DcsID>392</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>764</ID>
+    <DeviceID>57</DeviceID>
+    <ButtonID>214</ButtonID>
+    <Discription>SPS 141-100 - On / Off</Discription>
+    <Type>Switch</Type>
+    <DcsID>393</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>765</ID>
+    <DeviceID>57</DeviceID>
+    <ButtonID>215</ButtonID>
+    <Discription>SPS 141-100 - Transmit / Receive</Discription>
+    <Type>Switch</Type>
+    <DcsID>394</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>766</ID>
+    <DeviceID>57</DeviceID>
+    <ButtonID>216</ButtonID>
+    <Discription>SPS 141-100 - Program I / II</Discription>
+    <Type>Switch</Type>
+    <DcsID>395</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>767</ID>
+    <DeviceID>57</DeviceID>
+    <ButtonID>217</ButtonID>
+    <Discription>SPS 141-100 - Continuous / Impulse</Discription>
+    <Type>Switch</Type>
+    <DcsID>396</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>768</ID>
+    <DeviceID>57</DeviceID>
+    <ButtonID>218</ButtonID>
+    <Discription>SPS 141-100 - Test</Discription>
+    <Type>Switch</Type>
+    <DcsID>397</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>769</ID>
+    <DeviceID>57</DeviceID>
+    <ButtonID>219</ButtonID>
+    <Discription>SPS 141-100 - Dispenser Auto / Manual</Discription>
+    <Type>Switch</Type>
+    <DcsID>398</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>770</ID>
+    <DeviceID>57</DeviceID>
+    <ButtonID>220</ButtonID>
+    <Discription>SPS 141-100 - Off / Parallel / Full</Discription>
+    <Type>Switch</Type>
+    <DcsID>399</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>771</ID>
+    <DeviceID>57</DeviceID>
+    <ButtonID>221</ButtonID>
+    <Discription>SPS 141-100 - Manual Activation button - Cover</Discription>
+    <Type>Switch</Type>
+    <DcsID>400</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>772</ID>
+    <DeviceID>57</DeviceID>
+    <ButtonID>222</ButtonID>
+    <Discription>SPS 141-100 - Manual Activation button</Discription>
+    <Type>Switch</Type>
+    <DcsID>401</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>773</ID>
+    <DeviceID>42</DeviceID>
+    <ButtonID>223</ButtonID>
+    <Discription>GUV Control Box - On / Off</Discription>
+    <Type>Switch</Type>
+    <DcsID>420</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>774</ID>
+    <DeviceID>42</DeviceID>
+    <ButtonID>224</ButtonID>
+    <Discription>GUV Control Box - MAIN GUN / UPK Guns</Discription>
+    <Type>Switch</Type>
+    <DcsID>421</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>775</ID>
+    <DeviceID>42</DeviceID>
+    <ButtonID>225</ButtonID>
+    <Discription>GUV Control Box - LOAD 1</Discription>
+    <Type>Switch</Type>
+    <DcsID>422</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>776</ID>
+    <DeviceID>42</DeviceID>
+    <ButtonID>226</ButtonID>
+    <Discription>GUV Control Box - LOAD 2</Discription>
+    <Type>Switch</Type>
+    <DcsID>425</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>777</ID>
+    <DeviceID>42</DeviceID>
+    <ButtonID>227</ButtonID>
+    <Discription>GUV Control Box - LOAD 3</Discription>
+    <Type>Switch</Type>
+    <DcsID>424</DcsID>
   </Clickabledata>
   <Devices>
     <DeviceID>1</DeviceID>
