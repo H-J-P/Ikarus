@@ -27,7 +27,7 @@ Log.png
 *_Contruction.Ikarus
 PerfView*
 
-ExportsModules
+Ikarus/ExportsModules
 
 Ikarus.pdb
 FA-18C.xml
@@ -39,6 +39,4 @@ Ikarus/Images/Accessories/Beispiel.PNG
 *.pdb
 *.afdesign
 *.pdb
-Ikarus/ExportsModules/M-2000C.lua
-Ikarus/ExportsModules/FA-18C_hornet.lua
 *.afdesign

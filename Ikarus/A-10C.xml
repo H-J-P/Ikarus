@@ -4203,7 +4203,7 @@
   <Clickabledata>
     <ID>448</ID>
     <DeviceID>55</DeviceID>
-    <ButtonID>2</ButtonID>
+    <ButtonID>1</ButtonID>
     <Discription>VHF AM Preset Channel Selector right</Discription>
     <Type>Switch</Type>
     <DcsID>137</DcsID>
@@ -4331,7 +4331,7 @@
   <Clickabledata>
     <ID>464</ID>
     <DeviceID>56</DeviceID>
-    <ButtonID>2</ButtonID>
+    <ButtonID>1</ButtonID>
     <Discription>VHF FM Preset Channel Selector right</Discription>
     <Type>Switch</Type>
     <DcsID>151</DcsID>
