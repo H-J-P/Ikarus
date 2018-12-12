@@ -3965,7 +3965,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 180</Output>
+    <Output> 0, 300</Output>
     <PosX>744</PosX>
     <PosY>191</PosY>
     <Size>40</Size>
@@ -3986,7 +3986,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output>-10, 160</Output>
+    <Output>-10, 290</Output>
     <PosX>1128</PosX>
     <PosY>74</PosY>
     <Size>40</Size>
@@ -4007,7 +4007,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 180</Output>
+    <Output> 0, 300</Output>
     <PosX>1128</PosX>
     <PosY>191</PosY>
     <Size>40</Size>
@@ -4301,7 +4301,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output>-10, 160</Output>
+    <Output>-10, 290</Output>
     <PosX>839</PosX>
     <PosY>410</PosY>
     <Size>45</Size>
@@ -4322,7 +4322,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 270</Output>
+    <Output> 0, 300</Output>
     <PosX>964</PosX>
     <PosY>410</PosY>
     <Size>40</Size>
@@ -4343,7 +4343,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output>-10, 160</Output>
+    <Output>-10, 290</Output>
     <PosX>1090</PosX>
     <PosY>410</PosY>
     <Size>45</Size>
@@ -4364,7 +4364,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output>-10, 270</Output>
+    <Output>-10, 290</Output>
     <PosX>859</PosX>
     <PosY>477</PosY>
     <Size>40</Size>
@@ -4406,7 +4406,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0, 300</Output>
     <PosX>234</PosX>
     <PosY>580</PosY>
     <Size>40</Size>
@@ -4427,7 +4427,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0, 300</Output>
     <PosX>651</PosX>
     <PosY>580</PosY>
     <Size>40</Size>
@@ -4448,7 +4448,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0, 300</Output>
     <PosX>1221</PosX>
     <PosY>580</PosY>
     <Size>40</Size>
@@ -4469,7 +4469,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0, 300</Output>
     <PosX>1638</PosX>
     <PosY>580</PosY>
     <Size>40</Size>
@@ -5519,7 +5519,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.15</Input>
-    <Output> -10, 270</Output>
+    <Output> -10, 290</Output>
     <PosX>62</PosX>
     <PosY>484</PosY>
     <Size>55</Size>
@@ -5540,7 +5540,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.15</Input>
-    <Output> -10, 260</Output>
+    <Output> -10, 290</Output>
     <PosX>153</PosX>
     <PosY>484</PosY>
     <Size>55</Size>
@@ -5561,7 +5561,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.15</Input>
-    <Output> -10, 260</Output>
+    <Output> -10, 290</Output>
     <PosX>245</PosX>
     <PosY>485</PosY>
     <Size>55</Size>
@@ -5603,7 +5603,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.15</Input>
-    <Output> 0, 270</Output>
+    <Output> 0, 300</Output>
     <PosX>103</PosX>
     <PosY>601</PosY>
     <Size>55</Size>
@@ -5624,7 +5624,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.15</Input>
-    <Output> 0,270</Output>
+    <Output> 0, 300</Output>
     <PosX>203</PosX>
     <PosY>601</PosY>
     <Size>55</Size>
@@ -5792,7 +5792,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.15</Input>
-    <Output> -15,280</Output>
+    <Output> -15,285</Output>
     <PosX>254</PosX>
     <PosY>197</PosY>
     <Size>55</Size>
@@ -5813,7 +5813,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.15</Input>
-    <Output> -15,280</Output>
+    <Output> -15,285</Output>
     <PosX>197</PosX>
     <PosY>317</PosY>
     <Size>55</Size>

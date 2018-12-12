@@ -1652,8 +1652,8 @@
     <ID>868</ID>
     <DeviceID>18</DeviceID>
     <ButtonID>273</ButtonID>
-    <Discription>RWR Power/Volume Button</Discription>
-    <Type>Switch</Type>
+    <Discription>RWR Power/Volume Button {0.0 to 1.0} in 0.10 steps</Discription>
+    <Type>Rotary</Type>
     <DcsID>273</DcsID>
   </Clickabledata>
   <Clickabledata>
