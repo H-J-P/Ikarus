@@ -1265,6 +1265,9 @@
     <Classname>US_HSI</Classname>
   </Classnames>
   <Classnames>
+    <Classname>US_HSI_Mirror</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>US_RWR</Classname>
   </Classnames>
   <Classnames>
