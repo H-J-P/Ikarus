@@ -279,13 +279,15 @@
     <Name>CompassHeading</Name>
     <Arg_number>1</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>1</IDInst>
@@ -293,13 +295,15 @@
     <Name>CommandedCourse</Name>
     <Arg_number>2</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>2</IDInst>
@@ -307,13 +311,15 @@
     <Name>CLOCK_currtime_hours</Name>
     <Arg_number>4</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>2</IDInst>
@@ -321,13 +327,15 @@
     <Name>CLOCK_currtime_minutes</Name>
     <Arg_number>5</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>2</IDInst>
@@ -335,13 +343,15 @@
     <Name>CLOCK_currtime_seconds</Name>
     <Arg_number>6</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>3</IDInst>
@@ -349,13 +359,15 @@
     <Name>Suction</Name>
     <Arg_number>9</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>4</IDInst>
@@ -363,13 +375,15 @@
     <Name>Manifold Pressure</Name>
     <Arg_number>10</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>5</IDInst>
@@ -377,13 +391,15 @@
     <Name>ASI</Name>
     <Arg_number>11</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0, 0.05, 0.10, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6, 0.65, 0.7</Input>
     <Output>0, 14, 43, 90, 137, 184, 230, 243, 257, 270, 285, 298, 312, 326, 340</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>6</IDInst>
@@ -391,13 +407,15 @@
     <Name>DictionalGyro</Name>
     <Arg_number>12</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>7</IDInst>
@@ -405,13 +423,15 @@
     <Name>AHorizon_Pitch</Name>
     <Arg_number>15</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>1.0,-1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>7</IDInst>
@@ -419,13 +439,15 @@
     <Name>AHorizon_Bank</Name>
     <Arg_number>14</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>1.0,-1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>7</IDInst>
@@ -433,13 +455,15 @@
     <Name>AHorizon_PitchShift</Name>
     <Arg_number>16</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>7</IDInst>
@@ -447,13 +471,15 @@
     <Name>AHorizon_Caged</Name>
     <Arg_number>20</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>8</IDInst>
@@ -461,13 +487,15 @@
     <Name>Coolant Temp.</Name>
     <Arg_number>22</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>9</IDInst>
@@ -475,13 +503,15 @@
     <Name>Carb. Temp.</Name>
     <Arg_number>21</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>10</IDInst>
@@ -489,13 +519,15 @@
     <Name>VVI</Name>
     <Arg_number>29</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-0.6, -0.4, -0.3, -0.2, -0.1, 0.1, 0.2, 0.3, 0.4, 0.6</Input>
     <Output>-170, -129, -110, -85, -50, 50, 85, 110, 130, 170</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -503,13 +535,15 @@
     <Name>Accelerometer_main</Name>
     <Arg_number>175</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -517,13 +551,15 @@
     <Name>Accelerometer_min</Name>
     <Arg_number>177</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -531,13 +567,15 @@
     <Name>Accelerometer_max</Name>
     <Arg_number>178</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>12</IDInst>
@@ -545,13 +583,15 @@
     <Name>RPM</Name>
     <Arg_number>23</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>13</IDInst>
@@ -559,13 +599,15 @@
     <Name>Oil_Temperature</Name>
     <Arg_number>30</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>13</IDInst>
@@ -573,13 +615,15 @@
     <Name>Oil_Pressure</Name>
     <Arg_number>31</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>13</IDInst>
@@ -587,13 +631,15 @@
     <Name>Fuel_Pressure</Name>
     <Arg_number>32</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>14</IDInst>
@@ -601,13 +647,15 @@
     <Name>Altimeter_10000_footPtr</Name>
     <Arg_number>96</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>14</IDInst>
@@ -615,13 +663,15 @@
     <Name>Altimeter_1000_footPtr</Name>
     <Arg_number>24</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>14</IDInst>
@@ -629,13 +679,15 @@
     <Name>Altimeter_100_footPtr</Name>
     <Arg_number>25</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>14</IDInst>
@@ -643,13 +695,15 @@
     <Name>Altimeter_Pressure</Name>
     <Arg_number>97</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>15</IDInst>
@@ -657,13 +711,15 @@
     <Name>Amp.</Name>
     <Arg_number>101</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>16</IDInst>
@@ -671,13 +727,15 @@
     <Name>TurnNeedle</Name>
     <Arg_number>27</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>16</IDInst>
@@ -685,13 +743,15 @@
     <Name>Slipball</Name>
     <Arg_number>28</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>17</IDInst>
@@ -699,13 +759,15 @@
     <Name>LandingGearGreenLight</Name>
     <Arg_number>80</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>17</IDInst>
@@ -713,13 +775,15 @@
     <Name>LandingGearRedLight</Name>
     <Arg_number>82</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>18</IDInst>
@@ -727,13 +791,15 @@
     <Name>Blinker</Name>
     <Arg_number>33</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>19</IDInst>
@@ -741,29 +807,31 @@
     <Name>Oxy Pressure</Name>
     <Arg_number>34</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>21</IDInst>
     <IDFct>1</IDFct>
     <Name>FuelQ</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>160</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,0.12,0.28,0.40,0.51,0.62,0.72,0.83,0.96,1.00</Input>
     <Output>0.0,23.0,51.0,75.0,96.0,114,132,154,176,186</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
-    <In>-</In>
-    <Out>-</Out>
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Functions>
     <IDInst>20</IDInst>
@@ -771,15 +839,15 @@
     <Name>Fuel</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0,0.12,0.28,0.40,0.51,0.62,0.72,0.83,0.96,1.00</Input>
     <Output>0.0,23,51,75,96,114,132,154,176,186</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
-    <In>-</In>
-    <Out>-</Out>
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
   </Functions>
   <Switches>
     <ID>1</ID>
@@ -787,7 +855,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>Kneeborad</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
