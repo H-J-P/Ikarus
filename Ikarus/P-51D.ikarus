@@ -212,7 +212,7 @@
     <IDInst>17</IDInst>
     <Name>Gear</Name>
     <Class>P51Gear</Class>
-    <PosX>530</PosX>
+    <PosX>435</PosX>
     <PosY>990</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
@@ -262,11 +262,37 @@
   </Instruments>
   <Instruments>
     <IDInst>21</IDInst>
-    <Name>FuelQ</Name>
+    <Name>FuelQFuselage</Name>
     <Class>P51FuelQFuselage</Class>
-    <PosX>1203</PosX>
-    <PosY>908</PosY>
-    <Size>160</Size>
+    <PosX>890</PosX>
+    <PosY>906</PosY>
+    <Size>165</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>22</IDInst>
+    <Name>FuelQWingLeft</Name>
+    <Class>P51FuelQWing</Class>
+    <PosX>715</PosX>
+    <PosY>906</PosY>
+    <Size>165</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>23</IDInst>
+    <Name>FuelQWingRight</Name>
+    <Class>P51FuelQWing</Class>
+    <PosX>1060</PosX>
+    <PosY>906</PosY>
+    <Size>165</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -836,13 +862,45 @@
   <Functions>
     <IDInst>20</IDInst>
     <IDFct>1</IDFct>
-    <Name>Fuel</Name>
+    <Name>Kneeboard</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>0,0.12,0.28,0.40,0.51,0.62,0.72,0.83,0.96,1.00</Input>
-    <Output>0.0,23,51,75,96,114,132,154,176,186</Output>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>22</IDInst>
+    <IDFct>1</IDFct>
+    <Name>FuelQLeft</Name>
+    <Arg_number>155</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0, 0.2, 0.36, 0.52, 0.65, 0.77, 0.92,  1.0</Input>
+    <Output>0.0,  34,   66,   94,  119,  141,  167,  180</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>23</IDInst>
+    <IDFct>1</IDFct>
+    <Name>FuelQRight</Name>
+    <Arg_number>156</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0, 0.2, 0.36, 0.52, 0.65, 0.77, 0.92,  1.0</Input>
+    <Output>0.0,  34,   66,   94,  119,  141,  167,  180</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue>-</OldAsciiValue>
@@ -861,8 +919,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>2</Input>
     <Output>0</Output>
-    <PosX>940</PosX>
-    <PosY>920</PosY>
+    <PosX>365</PosX>
+    <PosY>921</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
