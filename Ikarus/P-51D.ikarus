@@ -212,8 +212,8 @@
     <IDInst>17</IDInst>
     <Name>Gear</Name>
     <Class>P51Gear</Class>
-    <PosX>435</PosX>
-    <PosY>990</PosY>
+    <PosX>508</PosX>
+    <PosY>1012</PosY>
     <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -919,8 +919,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>2</Input>
     <Output>0</Output>
-    <PosX>365</PosX>
-    <PosY>921</PosY>
+    <PosX>1809</PosX>
+    <PosY>913</PosY>
     <Size>50</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
