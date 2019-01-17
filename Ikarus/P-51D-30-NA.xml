@@ -832,7 +832,6 @@
     <Type>Switch</Type>
   </Clickabledata>
   <!-- SCR-695 -->
-  <!-- deactive
   <Clickabledata>
     <ID>92</ID>
     <DeviceID>27</DeviceID>
@@ -889,9 +888,7 @@
     <DcsID>139</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
-  -->
   <!-- AN/ARA-8 -->
-  <!-- deactive
   <Clickabledata>
     <ID>99</ID>
     <DeviceID>28</DeviceID>
@@ -916,7 +913,6 @@
     <DcsID>153</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
-  -->
   <!-- ACCELEROMETER -->
   <Clickabledata>
     <ID>102</ID>
