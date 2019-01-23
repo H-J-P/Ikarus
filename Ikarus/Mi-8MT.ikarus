@@ -726,11 +726,11 @@
     <IDInst>15</IDInst>
     <IDFct>1</IDFct>
     <Name>Hover X</Name>
-    <Arg_number>830</Arg_number>
+    <Arg_number>829</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
+    <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
@@ -741,12 +741,12 @@
   <Functions>
     <IDInst>15</IDInst>
     <IDFct>2</IDFct>
-    <Name>Hove Y</Name>
-    <Arg_number>828</Arg_number>
+    <Name>Hover Y</Name>
+    <Arg_number>830</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
+    <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
@@ -758,11 +758,11 @@
     <IDInst>15</IDInst>
     <IDFct>3</IDFct>
     <Name>Hover Z</Name>
-    <Arg_number>829</Arg_number>
+    <Arg_number>828</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
+    <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
@@ -778,7 +778,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
+    <Input>0.0,0.9</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
@@ -810,7 +810,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
+    <Input>-0.25,0.75</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
