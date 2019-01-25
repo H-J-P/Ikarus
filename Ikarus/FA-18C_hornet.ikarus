@@ -4566,8 +4566,8 @@
   <Switches>
     <ID>115</ID>
     <Class>SwitchOnOffOn</Class>
-    <ClickabledataID>114</ClickabledataID>
-    <Name>HUD Symbology Reject Switch, NORM/REJ 1/REJ 2 {0.0,0.1,0.2}</Name>
+    <ClickabledataID>107</ClickabledataID>
+    <Name>IR Cooling Switch, ORIDE/NORM/OFF {0.0,0.1,0.2}</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
@@ -4582,7 +4582,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
-    <DcsID>140</DcsID>
+    <DcsID>135</DcsID>
   </Switches>
   <Switches>
     <ID>116</ID>

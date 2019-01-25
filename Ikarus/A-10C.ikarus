@@ -1628,7 +1628,7 @@
     <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Output>0,240</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue>-</OldAsciiValue>
@@ -6682,7 +6682,7 @@
     <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
+    <Input>0.0,0.3,0.1</Input>
     <Output>0.0,360</Output>
     <PosX>76</PosX>
     <PosY>961</PosY>
@@ -6691,49 +6691,28 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
-    <DcsID>247</DcsID>
-  </Switches>
-  <Switches>
-    <ID>159</ID>
-    <Class>Rotary</Class>
-    <ClickabledataID>428</ClickabledataID>
-    <Name>ILS Frequency kHz</Name>
-    <Value>0</Value>
-    <OldValue>1</OldValue>
-    <FilePictureOn>Knop6.png</FilePictureOn>
-    <FilePictureOff>-</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
-    <Output>0.0,360</Output>
-    <PosX>271</PosX>
-    <PosY>961</PosY>
-    <Size>55</Size>
-    <Rotate>0</Rotate>
-    <Event>false</Event>
-    <DontReset>false</DontReset>
-    <WindowID>3</WindowID>
-    <DcsID>250</DcsID>
+    <DcsID>248</DcsID>
   </Switches>
   <Switches>
     <ID>160</ID>
-    <Class>Rotary</Class>
+    <Class>SwitchOffOn</Class>
     <ClickabledataID>427</ClickabledataID>
     <Name>ILS Power</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>Knop6.png</FilePictureOn>
-    <FilePictureOff>-</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.3,0.1</Input>
-    <Output>0.0,360</Output>
-    <PosX>81</PosX>
-    <PosY>917</PosY>
-    <Size>45</Size>
-    <Rotate>0</Rotate>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>52</PosX>
+    <PosY>914</PosY>
+    <Size>40</Size>
+    <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
-    <DcsID>248</DcsID>
+    <DcsID>247</DcsID>
   </Switches>
   <Switches>
     <ID>161</ID>
@@ -6745,7 +6724,7 @@
     <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
+    <Input>0.0,1.2,0.1,1</Input>
     <Output>0.0,360</Output>
     <PosX>63</PosX>
     <PosY>809</PosY>
@@ -6766,11 +6745,11 @@
     <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
+    <Input>0.0,1.0,0.1,1</Input>
     <Output>0.0,360</Output>
     <PosX>180</PosX>
     <PosY>809</PosY>
-    <Size>45</Size>
+    <Size>55</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -6779,20 +6758,20 @@
   </Switches>
   <Switches>
     <ID>163</ID>
-    <Class>Rotary</Class>
+    <Class>SwitchOffOn</Class>
     <ClickabledataID>420</ClickabledataID>
     <Name>TACAN - Channel Selector (Ones) (button)</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>Knop6.png</FilePictureOn>
-    <FilePictureOff>-</FilePictureOff>
+    <FilePictureOn>round_up2.png</FilePictureOn>
+    <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
-    <Output>0.0,360</Output>
-    <PosX>176</PosX>
-    <PosY>854</PosY>
-    <Size>55</Size>
-    <Rotate>0</Rotate>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>155</PosX>
+    <PosY>864</PosY>
+    <Size>40</Size>
+    <Rotate>90</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
@@ -6810,8 +6789,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>122</PosX>
-    <PosY>810</PosY>
+    <PosX>120</PosX>
+    <PosY>813</PosY>
     <Size>35</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -8972,6 +8951,27 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
+    <DcsID>250</DcsID>
+  </Switches>
+  <Switches>
+    <ID>276</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>428</ClickabledataID>
+    <Name>ILS Frequency kHz</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Knop6.PNG</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.9</Input>
+    <Output> 0, 45, 90, 135, 180, 225, 270, 310, 360</Output>
+    <PosX>271</PosX>
+    <PosY>961</PosY>
+    <Size>55</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>3</WindowID>
     <DcsID>249</DcsID>
   </Switches>
   <Accessories>
@@ -9030,6 +9030,30 @@
     <PosX>86</PosX>
     <PosY>32</PosY>
     <Size>230</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>3</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>6</ID>
+    <Class>Label</Class>
+    <Name>XY Label</Name>
+    <FilePictureOn>A-10C-Tacan-XY-Label.png</FilePictureOn>
+    <PosX>159</PosX>
+    <PosY>869</PosY>
+    <Size>100</Size>
+    <Rotate>0</Rotate>
+    <Active>true</Active>
+    <WindowID>3</WindowID>
+  </Accessories>
+  <Accessories>
+    <ID>7</ID>
+    <Class>Label</Class>
+    <Name>ILS OFF ON Label</Name>
+    <FilePictureOn>A-10C-ILS-Off_ON-Label.png</FilePictureOn>
+    <PosX>56</PosX>
+    <PosY>919</PosY>
+    <Size>100</Size>
     <Rotate>0</Rotate>
     <Active>true</Active>
     <WindowID>3</WindowID>

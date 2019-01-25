@@ -1034,7 +1034,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>791</ID>
-    <DeviceID>34</DeviceID>
+    <DeviceID>35</DeviceID>
     <ButtonID>198</ButtonID>
     <Discription>Master Caution</Discription>
     <Type>Switch</Type>
@@ -1042,7 +1042,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>792</ID>
-    <DeviceID>34</DeviceID>
+    <DeviceID>35</DeviceID>
     <ButtonID>199</ButtonID>
     <Discription>Master Warning</Discription>
     <Type>Switch</Type>
@@ -1066,7 +1066,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>795</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>200</ButtonID>
     <Discription>MPCD Left Button 1</Discription>
     <Type>Switch</Type>
@@ -1074,7 +1074,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>796</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>201</ButtonID>
     <Discription>MPCD Left Button 2</Discription>
     <Type>Switch</Type>
@@ -1082,7 +1082,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>797</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>202</ButtonID>
     <Discription>MPCD Left Button 3</Discription>
     <Type>Switch</Type>
@@ -1090,7 +1090,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>798</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>203</ButtonID>
     <Discription>MPCD Left Button 4</Discription>
     <Type>Switch</Type>
@@ -1098,7 +1098,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>799</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>204</ButtonID>
     <Discription>MPCD Left Button 5</Discription>
     <Type>Switch</Type>
@@ -1106,7 +1106,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>800</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>205</ButtonID>
     <Discription>MPCD Left Button 6</Discription>
     <Type>Switch</Type>
@@ -1114,7 +1114,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>801</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>206</ButtonID>
     <Discription>MPCD Left Button 7</Discription>
     <Type>Switch</Type>
@@ -1122,7 +1122,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>802</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>207</ButtonID>
     <Discription>MPCD Left Button 8</Discription>
     <Type>Switch</Type>
@@ -1130,7 +1130,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>803</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>208</ButtonID>
     <Discription>MPCD Left Button 9</Discription>
     <Type>Switch</Type>
@@ -1138,7 +1138,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>804</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>209</ButtonID>
     <Discription>MPCD Left Button 10</Discription>
     <Type>Switch</Type>
@@ -1146,7 +1146,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>805</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>210</ButtonID>
     <Discription>MPCD Left Button 11</Discription>
     <Type>Switch</Type>
@@ -1154,7 +1154,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>806</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>211</ButtonID>
     <Discription>MPCD Left Button 12</Discription>
     <Type>Switch</Type>
@@ -1162,7 +1162,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>807</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>212</ButtonID>
     <Discription>MPCD Left Button 13</Discription>
     <Type>Switch</Type>
@@ -1170,7 +1170,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>808</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>213</ButtonID>
     <Discription>MPCD Left Button 14</Discription>
     <Type>Switch</Type>
@@ -1178,7 +1178,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>809</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>214</ButtonID>
     <Discription>MPCD Left Button 15</Discription>
     <Type>Switch</Type>
@@ -1186,7 +1186,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>810</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>215</ButtonID>
     <Discription>MPCD Left Button 16</Discription>
     <Type>Switch</Type>
@@ -1194,7 +1194,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>811</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>216</ButtonID>
     <Discription>MPCD Left Button 17</Discription>
     <Type>Switch</Type>
@@ -1202,7 +1202,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>812</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>217</ButtonID>
     <Discription>MPCD Left Button 18</Discription>
     <Type>Switch</Type>
@@ -1210,7 +1210,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>813</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>218</ButtonID>
     <Discription>MPCD Left Button 19</Discription>
     <Type>Switch</Type>
@@ -1218,7 +1218,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>814</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>219</ButtonID>
     <Discription>MPCD Left Button 20</Discription>
     <Type>Switch</Type>
@@ -1226,7 +1226,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>815</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>220</ButtonID>
     <Discription>MPCD Left Display DAY/NIGHT Mode</Discription>
     <Type>Switch</Type>
@@ -1234,7 +1234,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>816</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>221</ButtonID>
     <Discription>MPCD Left Display Symbology</Discription>
     <Type>Switch</Type>
@@ -1242,7 +1242,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>817</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>222</ButtonID>
     <Discription>MPCD Left Display Gain</Discription>
     <Type>Switch</Type>
@@ -1250,7 +1250,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>818</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>223</ButtonID>
     <Discription>MPCD Left Display Contrast</Discription>
     <Type>Switch</Type>
@@ -1258,7 +1258,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>819</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>26</DeviceID>
     <ButtonID>194</ButtonID>
     <Discription>MPCD Left Off/Brightness Control</Discription>
     <Type>Rotary</Type>
@@ -1266,7 +1266,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>820</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>224</ButtonID>
     <Discription>MPCD Right Button 1</Discription>
     <Type>Switch</Type>
@@ -1274,7 +1274,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>821</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>225</ButtonID>
     <Discription>MPCD Right Button 2</Discription>
     <Type>Switch</Type>
@@ -1282,7 +1282,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>822</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>226</ButtonID>
     <Discription>MPCD Right Button 3</Discription>
     <Type>Switch</Type>
@@ -1290,7 +1290,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>823</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>227</ButtonID>
     <Discription>MPCD Right Button 4</Discription>
     <Type>Switch</Type>
@@ -1298,7 +1298,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>824</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>228</ButtonID>
     <Discription>MPCD Right Button 5</Discription>
     <Type>Switch</Type>
@@ -1306,7 +1306,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>825</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>229</ButtonID>
     <Discription>MPCD Right Button 6</Discription>
     <Type>Switch</Type>
@@ -1314,7 +1314,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>826</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>230</ButtonID>
     <Discription>MPCD Right Button 7</Discription>
     <Type>Switch</Type>
@@ -1322,7 +1322,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>827</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>231</ButtonID>
     <Discription>MPCD Right Button 8</Discription>
     <Type>Switch</Type>
@@ -1330,7 +1330,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>828</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>232</ButtonID>
     <Discription>MPCD Right Button 9</Discription>
     <Type>Switch</Type>
@@ -1338,7 +1338,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>829</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>233</ButtonID>
     <Discription>MPCD Right Button 10</Discription>
     <Type>Switch</Type>
@@ -1346,7 +1346,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>830</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>234</ButtonID>
     <Discription>MPCD Right Button 11</Discription>
     <Type>Switch</Type>
@@ -1354,7 +1354,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>831</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>235</ButtonID>
     <Discription>MPCD Right Button 12</Discription>
     <Type>Switch</Type>
@@ -1362,7 +1362,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>832</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>236</ButtonID>
     <Discription>MPCD Right Button 13</Discription>
     <Type>Switch</Type>
@@ -1370,7 +1370,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>833</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>237</ButtonID>
     <Discription>MPCD Right Button 14</Discription>
     <Type>Switch</Type>
@@ -1378,7 +1378,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>834</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>238</ButtonID>
     <Discription>MPCD Right Button 15</Discription>
     <Type>Switch</Type>
@@ -1386,7 +1386,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>835</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>239</ButtonID>
     <Discription>MPCD Right Button 16</Discription>
     <Type>Switch</Type>
@@ -1394,7 +1394,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>836</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>240</ButtonID>
     <Discription>MPCD Right Button 17</Discription>
     <Type>Switch</Type>
@@ -1402,7 +1402,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>837</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>241</ButtonID>
     <Discription>MPCD Right Button 18</Discription>
     <Type>Switch</Type>
@@ -1410,7 +1410,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>838</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>242</ButtonID>
     <Discription>MPCD Right Button 19</Discription>
     <Type>Switch</Type>
@@ -1418,7 +1418,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>839</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>243</ButtonID>
     <Discription>MPCD Right Button 20</Discription>
     <Type>Switch</Type>
@@ -1426,7 +1426,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>840</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>244</ButtonID>
     <Discription>MPCD Right Display DAY/NIGHT Mode</Discription>
     <Type>Switch</Type>
@@ -1434,7 +1434,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>841</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>245</ButtonID>
     <Discription>MPCD Right Display Symbology</Discription>
     <Type>Switch</Type>
@@ -1442,7 +1442,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>842</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>246</ButtonID>
     <Discription>MPCD Right Display Gain</Discription>
     <Type>Switch</Type>
@@ -1450,7 +1450,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>843</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>247</ButtonID>
     <Discription>MPCD Right Display Contrast</Discription>
     <Type>Switch</Type>
@@ -1458,7 +1458,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>844</ID>
-    <DeviceID>26</DeviceID>
+    <DeviceID>27</DeviceID>
     <ButtonID>195</ButtonID>
     <Discription>MPCD Right Off/Brightness Control</Discription>
     <Type>Rotary</Type>
@@ -1466,7 +1466,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>845</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>395</ButtonID>
     <Discription>SMC Manual Release Control Knob</Discription>
     <Type>Switch</Type>
@@ -1474,7 +1474,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>846</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>396</ButtonID>
     <Discription>SMC Armament Mode Control</Discription>
     <Type>Switch</Type>
@@ -1482,7 +1482,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>847</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>397</ButtonID>
     <Discription>SMC Fuzing Control</Discription>
     <Type>Switch</Type>
@@ -1490,7 +1490,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>848</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>398</ButtonID>
     <Discription>SMC Quantity Selector (Tens)</Discription>
     <Type>Switch</Type>
@@ -1498,7 +1498,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>849</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>399</ButtonID>
     <Discription>SMC Quantity Selector (Units)</Discription>
     <Type>Switch</Type>
@@ -1506,7 +1506,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>850</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>400</ButtonID>
     <Discription>SMC Multiple Release Control</Discription>
     <Type>Switch</Type>
@@ -1514,7 +1514,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>851</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>401</ButtonID>
     <Discription>SMC Release Interval Control (Hundreds)</Discription>
     <Type>Switch</Type>
@@ -1522,7 +1522,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>852</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>402</ButtonID>
     <Discription>SMC Release Interval Control (Tens)</Discription>
     <Type>Switch</Type>
@@ -1530,7 +1530,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>853</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>403</ButtonID>
     <Discription>SMC Release Interval Control (Units)</Discription>
     <Type>Switch</Type>
@@ -1546,7 +1546,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>855</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>405</ButtonID>
     <Discription>SMC Jettison Stores</Discription>
     <Type>Switch</Type>
@@ -1554,7 +1554,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>856</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>407</ButtonID>
     <Discription>SMC Select Station 1 Toggle</Discription>
     <Type>Switch</Type>
@@ -1562,7 +1562,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>857</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>409</ButtonID>
     <Discription>SMC Select Station 2 Toggle</Discription>
     <Type>Switch</Type>
@@ -1570,7 +1570,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>858</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>411</ButtonID>
     <Discription>SMC Select Station 3 Toggle</Discription>
     <Type>Switch</Type>
@@ -1578,7 +1578,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>859</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>413</ButtonID>
     <Discription>SMC Select Station 4 Toggle</Discription>
     <Type>Switch</Type>
@@ -1586,7 +1586,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>860</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>415</ButtonID>
     <Discription>SMC Select Station 5 Toggle</Discription>
     <Type>Switch</Type>
@@ -1594,7 +1594,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>861</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>417</ButtonID>
     <Discription>SMC Select Station 6 Toggle</Discription>
     <Type>Switch</Type>
@@ -1602,7 +1602,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>862</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>419</ButtonID>
     <Discription>SMC Select Station 7 Toggle</Discription>
     <Type>Switch</Type>
@@ -1610,7 +1610,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>863</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>420</ButtonID>
     <Discription>SMC Ground IR Cool Switch</Discription>
     <Type>Switch</Type>
@@ -1618,7 +1618,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>864</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>287</ButtonID>
     <Discription>SMC Master Arm Switch</Discription>
     <Type>Switch</Type>
@@ -1626,7 +1626,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>865</ID>
-    <DeviceID>29</DeviceID>
+    <DeviceID>30</DeviceID>
     <ButtonID>286</ButtonID>
     <Discription>EWS Launch Flare Salvo</Discription>
     <Type>Switch</Type>
@@ -1634,7 +1634,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>866</ID>
-    <DeviceID>29</DeviceID>
+    <DeviceID>30</DeviceID>
     <ButtonID>274</ButtonID>
     <Discription>EWS Decoy Dispenser Control</Discription>
     <Type>Switch</Type>
@@ -1642,7 +1642,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>867</ID>
-    <DeviceID>29</DeviceID>
+    <DeviceID>30</DeviceID>
     <ButtonID>275</ButtonID>
     <Discription>EWS Jammer Control</Discription>
     <Type>Switch</Type>
@@ -1658,7 +1658,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>869</ID>
-    <DeviceID>27</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>447</ButtonID>
     <Discription>Emergency Landing Gear Lever</Discription>
     <Type>Switch</Type>
@@ -1666,7 +1666,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>870</ID>
-    <DeviceID>27</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>448</ButtonID>
     <Discription>Gear Down Lock Override Button</Discription>
     <Type>Switch</Type>
@@ -1674,7 +1674,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>871</ID>
-    <DeviceID>27</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>459</ButtonID>
     <Discription>Anti-Skid Switch</Discription>
     <Type>Switch</Type>
@@ -1682,7 +1682,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>872</ID>
-    <DeviceID>27</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>461</ButtonID>
     <Discription>Landing Gear Lever</Discription>
     <Type>Switch</Type>
@@ -1690,7 +1690,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>873</ID>
-    <DeviceID>27</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>470</ButtonID>
     <Discription>Landing Gear Emergency Battery Lever</Discription>
     <Type>Switch</Type>
@@ -1722,7 +1722,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>878</ID>
-    <DeviceID>28</DeviceID>
+    <DeviceID>29</DeviceID>
     <ButtonID>458</ButtonID>
     <Discription>Emergency Jettison Button</Discription>
     <Type>Switch</Type>
@@ -1858,7 +1858,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>899</ID>
-    <DeviceID>27</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>471</ButtonID>
     <Discription>RPS/YAW Trim Switch</Discription>
     <Type>Switch</Type>
@@ -1866,7 +1866,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>900</ID>
-    <DeviceID>27</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>472</ButtonID>
     <Discription>Trim Mode Switch</Discription>
     <Type>Switch</Type>
@@ -1874,7 +1874,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>902</ID>
-    <DeviceID>27</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>476</ButtonID>
     <Discription>Alt Hold Switch</Discription>
     <Type>Switch</Type>
@@ -1882,7 +1882,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>903</ID>
-    <DeviceID>27</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>475</ButtonID>
     <Discription>Q Feel Switch</Discription>
     <Type>Switch</Type>
@@ -1890,7 +1890,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>904</ID>
-    <DeviceID>27</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>477</ButtonID>
     <Discription>AFC Switch</Discription>
     <Type>Switch</Type>
@@ -1898,7 +1898,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>905</ID>
-    <DeviceID>27</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>478</ButtonID>
     <Discription>SAS Yaw Switch</Discription>
     <Type>Switch</Type>
@@ -1906,7 +1906,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>906</ID>
-    <DeviceID>27</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>479</ButtonID>
     <Discription>SAS Roll Switch</Discription>
     <Type>Switch</Type>
@@ -1914,7 +1914,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>907</ID>
-    <DeviceID>27</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>480</ButtonID>
     <Discription>SAS Pitch Switch</Discription>
     <Type>Switch</Type>
@@ -1970,7 +1970,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>914</ID>
-    <DeviceID>32</DeviceID>
+    <DeviceID>33</DeviceID>
     <ButtonID>472</ButtonID>
     <Discription>Landing/Taxi Lights Switch</Discription>
     <Type>Switch</Type>
@@ -1978,7 +1978,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>915</ID>
-    <DeviceID>32</DeviceID>
+    <DeviceID>33</DeviceID>
     <ButtonID>503</ButtonID>
     <Discription>External Lights Mode Switch</Discription>
     <Type>Switch</Type>
@@ -1986,7 +1986,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>916</ID>
-    <DeviceID>32</DeviceID>
+    <DeviceID>33</DeviceID>
     <ButtonID>510</ButtonID>
     <Discription>Formation Lights Knob</Discription>
     <Type>Switch</Type>
@@ -1994,7 +1994,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>917</ID>
-    <DeviceID>32</DeviceID>
+    <DeviceID>33</DeviceID>
     <ButtonID>511</ButtonID>
     <Discription>Position Lights Switch</Discription>
     <Type>Switch</Type>
@@ -2002,7 +2002,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>918</ID>
-    <DeviceID>32</DeviceID>
+    <DeviceID>33</DeviceID>
     <ButtonID>512</ButtonID>
     <Discription>Anti-Collision Lights Switch</Discription>
     <Type>Switch</Type>
@@ -2010,7 +2010,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>919</ID>
-    <DeviceID>32</DeviceID>
+    <DeviceID>33</DeviceID>
     <ButtonID>513</ButtonID>
     <Discription>External Auxiliary Lights Switch</Discription>
     <Type>Switch</Type>
@@ -2018,7 +2018,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>920</ID>
-    <DeviceID>35</DeviceID>
+    <DeviceID>36</DeviceID>
     <ButtonID>514</ButtonID>
     <Discription>Oxygen Switch</Discription>
     <Type>Switch</Type>
@@ -2282,7 +2282,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>958</ID>
-    <DeviceID>33</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>634</ButtonID>
     <Discription>Compass Light/Test Lights</Discription>
     <Type>Switch</Type>
@@ -2290,7 +2290,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>959</ID>
-    <DeviceID>33</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>635</ButtonID>
     <Discription>Instruments Lights</Discription>
     <Type>Rotary</Type>
@@ -2298,7 +2298,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>960</ID>
-    <DeviceID>33</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>636</ButtonID>
     <Discription>Console Lights</Discription>
     <Type>Rotary</Type>
@@ -2306,7 +2306,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>961</ID>
-    <DeviceID>33</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>637</ButtonID>
     <Discription>Flood Lights</Discription>
     <Type>Rotary</Type>
@@ -2314,7 +2314,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>962</ID>
-    <DeviceID>33</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>638</ButtonID>
     <Discription>Annunciator Lights</Discription>
     <Type>Rotary</Type>
@@ -2322,7 +2322,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>963</ID>
-    <DeviceID>33</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>150</ButtonID>
     <Discription>Flood Lamp Right_Canopy_Frame_Top</Discription>
     <Type>Rotary</Type>
@@ -2330,7 +2330,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>964</ID>
-    <DeviceID>33</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>151</ButtonID>
     <Discription>Flood Lamp Right_Canopy_Frame_Btm</Discription>
     <Type>Rotary</Type>
@@ -2338,7 +2338,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>965</ID>
-    <DeviceID>33</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>152</ButtonID>
     <Discription>Flood Lamp Right_BH_FWD</Discription>
     <Type>Rotary</Type>
@@ -2346,7 +2346,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>966</ID>
-    <DeviceID>33</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>153</ButtonID>
     <Discription>Flood Lamp Right_BH_AFT_Front</Discription>
     <Type>Rotary</Type>
@@ -2354,7 +2354,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>967</ID>
-    <DeviceID>33</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>154</ButtonID>
     <Discription>Flood Lamp Right_BH_AFT_Back</Discription>
     <Type>Rotary</Type>
@@ -2362,7 +2362,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>968</ID>
-    <DeviceID>33</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>155</ButtonID>
     <Discription>Flood Lamp Left_BH_AFT_Back</Discription>
     <Type>Rotary</Type>
@@ -2370,7 +2370,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>969</ID>
-    <DeviceID>33</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>156</ButtonID>
     <Discription>Flood Lamp Left_BH_AFT_Front</Discription>
     <Type>Rotary</Type>
@@ -2378,7 +2378,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>970</ID>
-    <DeviceID>33</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>157</ButtonID>
     <Discription>Flood Lamp Left_BH_FWD</Discription>
     <Type>Rotary</Type>
@@ -2386,7 +2386,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>971</ID>
-    <DeviceID>33</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>158</ButtonID>
     <Discription>Flood Lamp Left_Canopy_Frame_Btm</Discription>
     <Type>Rotary</Type>
@@ -2394,7 +2394,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>972</ID>
-    <DeviceID>33</DeviceID>
+    <DeviceID>34</DeviceID>
     <ButtonID>159</ButtonID>
     <Discription>Flood Lamp Left_Canopy_Frame_Top</Discription>
     <Type>Rotary</Type>
@@ -2402,7 +2402,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>973</ID>
-    <DeviceID>27</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>801</ButtonID>
     <Discription>Canopy Handle Left</Discription>
     <Type>Switch</Type>
@@ -2410,7 +2410,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>974</ID>
-    <DeviceID>27</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>802</ButtonID>
     <Discription>Canopy Handle Right</Discription>
     <Type>Switch</Type>
@@ -2418,7 +2418,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>975</ID>
-    <DeviceID>27</DeviceID>
+    <DeviceID>28</DeviceID>
     <ButtonID>803</ButtonID>
     <Discription>Canopy Locking Lever</Discription>
     <Type>Switch</Type>
@@ -2626,58 +2626,70 @@
   </Devices>
   <Devices>
     <DeviceID>25</DeviceID>
-    <Discription>MPCD_LEFT</Discription>
+    <Discription>EHSD_MAP</Discription>
   </Devices>
   <Devices>
     <DeviceID>26</DeviceID>
-    <Discription>MPCD_RIGHT</Discription>
+    <Discription>MPCD_LEFT</Discription>
   </Devices>
   <Devices>
     <DeviceID>27</DeviceID>
-    <Discription>FLIGHTCONTROLS</Discription>
+    <Discription>MPCD_RIGHT</Discription>
   </Devices>
   <Devices>
     <DeviceID>28</DeviceID>
-    <Discription>SMC</Discription>
+    <Discription>FLIGHTCONTROLS</Discription>
   </Devices>
   <Devices>
     <DeviceID>29</DeviceID>
-    <Discription>EWS</Discription>
+    <Discription>SMC</Discription>
   </Devices>
   <Devices>
     <DeviceID>30</DeviceID>
-    <Discription>CBTSYST</Discription>
+    <Discription>EWS</Discription>
   </Devices>
   <Devices>
     <DeviceID>31</DeviceID>
-    <Discription>TVWPNS</Discription>
+    <Discription>CBTSYST</Discription>
   </Devices>
   <Devices>
     <DeviceID>32</DeviceID>
-    <Discription>LTEXT</Discription>
+    <Discription>TVWPNS</Discription>
   </Devices>
   <Devices>
     <DeviceID>33</DeviceID>
-    <Discription>LTINT</Discription>
+    <Discription>LTEXT</Discription>
   </Devices>
   <Devices>
     <DeviceID>34</DeviceID>
-    <Discription>LTWCA</Discription>
+    <Discription>LTINT</Discription>
   </Devices>
   <Devices>
     <DeviceID>35</DeviceID>
-    <Discription>ECS</Discription>
+    <Discription>LTWCA</Discription>
   </Devices>
   <Devices>
     <DeviceID>36</DeviceID>
-    <Discription>HYDRAULIC</Discription>
+    <Discription>ECS</Discription>
   </Devices>
   <Devices>
     <DeviceID>37</DeviceID>
-    <Discription>NETWORKINTERFACE</Discription>
+    <Discription>HYDRAULIC</Discription>
   </Devices>
   <Devices>
     <DeviceID>38</DeviceID>
+    <Discription>NETWORKINTERFACE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>39</DeviceID>
     <Discription>ANVIS9</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>40</DeviceID>
+    <Discription>AUTOSTART</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>41</DeviceID>
+    <Discription>DAMAGE_CONTROL</Discription>
   </Devices>
 </DTADataSet>

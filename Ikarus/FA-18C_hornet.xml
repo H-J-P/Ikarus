@@ -2310,7 +2310,7 @@
   <!-- Sensor panel -->
   <Clickabledata>
     <ID>215</ID>
-    <DeviceID>43</DeviceID>
+    <DeviceID>42</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>RADAR Switch OFF/STBY/OPR/EMERG {0.0,0.1,0.2,0.3}</Discription>
     <Type>Switch</Type>
@@ -2318,7 +2318,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>216</ID>
-    <DeviceID>43</DeviceID>
+    <DeviceID>42</DeviceID>
     <ButtonID>2</ButtonID>
     <Discription>RADAR Switch (MW to pull) {0.0,1.0}</Discription>
     <Type>Switch</Type>
@@ -2326,7 +2326,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>217</ID>
-    <DeviceID>45</DeviceID>
+    <DeviceID>44</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>INS Switch, OFF/CV/GND/NAV/IFA/GYRO/GB/TEST {0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7}</Discription>
     <Type>Switch</Type>
@@ -2608,7 +2608,7 @@
   <!-- intercom -->
   <Clickabledata>
     <ID>252</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>2</ButtonID>
     <Discription>VOX Volume Control Knob {0.0,1.0} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
@@ -2616,7 +2616,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>253</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>3</ButtonID>
     <Discription>ICS Volume Control Knob {0.0,1.0} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
@@ -2624,7 +2624,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>254</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>4</ButtonID>
     <Discription>RWR Volume Control Knob {0.0,1.0} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
@@ -2632,7 +2632,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>255</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>5</ButtonID>
     <Discription>WPN Volume Control Knob {0.0,1.0} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
@@ -2640,7 +2640,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>256</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>6</ButtonID>
     <Discription>MIDS B Volume Control Knob {0.0,1.0} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
@@ -2648,7 +2648,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>257</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>7</ButtonID>
     <Discription>MIDS A Volume Control Knob {0.0,1.0} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
@@ -2656,7 +2656,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>258</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>8</ButtonID>
     <Discription>TACAN Volume Control Knob {0.0,1.0} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
@@ -2664,7 +2664,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>259</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>9</ButtonID>
     <Discription>AUX Volume Control Knob {0.0,1.0} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
@@ -2672,7 +2672,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>260</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>10</ButtonID>
     <Discription>Comm Relay Switch, CIPHER/OFF/PLAIN {-1.0,0.0,1.0}</Discription>
     <Type>Switch</Type>
@@ -2680,7 +2680,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>261</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>11</ButtonID>
     <Discription>COMM G XMT Switch, COMM 1/OFF/COMM 2 {-1.0,0.0,1.0}</Discription>
     <Type>Switch</Type>
@@ -2688,7 +2688,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>262</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>12</ButtonID>
     <Discription>IFF Master Switch, EMER/NORM</Discription>
     <Type>Switch</Type>
@@ -2696,7 +2696,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>263</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>13</ButtonID>
     <Discription>IFF Mode 4 Switch, DIS/AUD /DIS/OFF {-1.0,0.0,1.0}</Discription>
     <Type>Switch</Type>
@@ -2704,7 +2704,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>264</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>15</ButtonID>
     <Discription>CRYPTO Switch, HOLD/NORM {-1.0,0.0}</Discription>
     <Type>Switch</Type>
@@ -2712,7 +2712,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>265</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>14</ButtonID>
     <Discription>CRYPTO Switch, NORM/ZERO {0.0,1.0}</Discription>
     <Type>Switch</Type>
@@ -2720,7 +2720,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>266</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>16</ButtonID>
     <Discription>ILS UFC/MAN Switch, UFC/MAN</Discription>
     <Type>Switch</Type>
@@ -2728,7 +2728,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>267</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>17</ButtonID>
     <Discription>ILS Channel Selector Switch {0.0,0.05,0.10,0.15,0.20,0.25,0.30,0.35,0.40,0.45,0.50,0.55,0.60,0.65,0.70,0.75,0.80,0.85,0.90,0.95}</Discription>
     <Type>Switch</Type>
@@ -2736,7 +2736,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>268</ID>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <ButtonID>18</ButtonID>
     <Discription>Warning Tone Silence Button - Push to silence</Discription>
     <Type>Switch</Type>
@@ -2745,7 +2745,7 @@
   <!-- KY-58 -->
   <Clickabledata>
     <ID>269</ID>
-    <DeviceID>42</DeviceID>
+    <DeviceID>41</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>KY-58 Mode Select Knob, P/C/LD/RV {0.0,0.1,0.2,0.3}</Discription>
     <Type>Switch</Type>
@@ -2753,7 +2753,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>270</ID>
-    <DeviceID>42</DeviceID>
+    <DeviceID>41</DeviceID>
     <ButtonID>5</ButtonID>
     <Discription>KY-58 Volume Control Knob {0.0,1.0} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
@@ -2761,7 +2761,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>271</ID>
-    <DeviceID>42</DeviceID>
+    <DeviceID>41</DeviceID>
     <ButtonID>2</ButtonID>
     <Discription>KY-58 Fill Select Knob, Z 1-5/1/2/3/4/5/6/Z ALL {0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7}</Discription>
     <Type>Switch</Type>
@@ -2769,7 +2769,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>272</ID>
-    <DeviceID>42</DeviceID>
+    <DeviceID>41</DeviceID>
     <ButtonID>4</ButtonID>
     <Discription>KY-58 Power Select Knob, OFF/ON/TD {0.0,0.1,0.2}</Discription>
     <Type>Switch</Type>
@@ -2778,7 +2778,7 @@
   <!-- antenna selector -->
   <Clickabledata>
     <ID>273</ID>
-    <DeviceID>51</DeviceID>
+    <DeviceID>50</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>COMM 1 Antenna Selector Switch, UPPER/AUTO/LOWER {-1.0,0.0,1.0}</Discription>
     <Type>Switch</Type>
@@ -2786,7 +2786,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>274</ID>
-    <DeviceID>51</DeviceID>
+    <DeviceID>50</DeviceID>
     <ButtonID>2</ButtonID>
     <Discription>IFF Antenna Selector Switch, UPPER/BOTH/LOWER {-1.0,0.0,1.0}</Discription>
     <Type>Switch</Type>
@@ -2795,7 +2795,7 @@
   <!-- RWR -->
   <Clickabledata>
     <ID>275</ID>
-    <DeviceID>54</DeviceID>
+    <DeviceID>53</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>ALR-67 POWER Pushbutton</Discription>
     <Type>Switch</Type>
@@ -2803,7 +2803,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>276</ID>
-    <DeviceID>54</DeviceID>
+    <DeviceID>53</DeviceID>
     <ButtonID>2</ButtonID>
     <Discription>ALR-67 DISPLAY Pushbutton</Discription>
     <Type>Switch</Type>
@@ -2811,7 +2811,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>277</ID>
-    <DeviceID>54</DeviceID>
+    <DeviceID>53</DeviceID>
     <ButtonID>3</ButtonID>
     <Discription>ALR-67 SPECIAL Pushbutton</Discription>
     <Type>Switch</Type>
@@ -2819,7 +2819,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>278</ID>
-    <DeviceID>54</DeviceID>
+    <DeviceID>53</DeviceID>
     <ButtonID>4</ButtonID>
     <Discription>ALR-67 OFFSET Pushbutton</Discription>
     <Type>Switch</Type>
@@ -2827,7 +2827,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>279</ID>
-    <DeviceID>54</DeviceID>
+    <DeviceID>53</DeviceID>
     <ButtonID>5</ButtonID>
     <Discription>ALR-67 BIT Pushbutton</Discription>
     <Type>Switch</Type>
@@ -2835,7 +2835,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>280</ID>
-    <DeviceID>54</DeviceID>
+    <DeviceID>53</DeviceID>
     <ButtonID>6</ButtonID>
     <Discription>ALR-67 DMR Control Knob {0.0,1.0} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
@@ -2843,7 +2843,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>281</ID>
-    <DeviceID>54</DeviceID>
+    <DeviceID>53</DeviceID>
     <ButtonID>130</ButtonID>
     <Discription>ALR-67 AUDIO Control Knob (no function){0.0,1.0} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
@@ -2851,7 +2851,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>282</ID>
-    <DeviceID>54</DeviceID>
+    <DeviceID>53</DeviceID>
     <ButtonID>7</ButtonID>
     <Discription>ALR-67 DIS TYPE Switch, N/I/A/U/F {0.0,0.1,0.2,0.3,0.4}</Discription>
     <Type>Switch</Type>
@@ -2859,7 +2859,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>283</ID>
-    <DeviceID>54</DeviceID>
+    <DeviceID>53</DeviceID>
     <ButtonID>8</ButtonID>
     <Discription>ALR-67 RWR Intensity Knob {0.0,1.0} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
@@ -2868,7 +2868,7 @@
   <!-- CMDS -->
   <Clickabledata>
     <ID>284</ID>
-    <DeviceID>55</DeviceID>
+    <DeviceID>54</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>Dispense Button - Push to dispense flares and chaff</Discription>
     <Type>Switch</Type>
@@ -2876,7 +2876,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>285</ID>
-    <DeviceID>55</DeviceID>
+    <DeviceID>54</DeviceID>
     <ButtonID>2</ButtonID>
     <Discription>DISPENSER Switch, BYPASS/ON/OFF {0.0,0.1,0.2}</Discription>
     <Type>Switch</Type>
@@ -2884,7 +2884,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>286</ID>
-    <DeviceID>55</DeviceID>
+    <DeviceID>54</DeviceID>
     <ButtonID>3</ButtonID>
     <Discription>ECM JETT JETT SEL Button - Push to jettison</Discription>
     <Type>Switch</Type>
@@ -2901,11 +2901,11 @@
   </Clickabledata>
   <Clickabledata>
     <ID>288</ID>
-    <DeviceID>0</DeviceID>
-    <ButtonID>110</ButtonID>
-    <Discription>NUC WPN Switch, ENABLE/DISABLE (no function)</Discription>
-    <Type>Switch</Type>
-    <DcsID>507</DcsID>
+    <DeviceID>58</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>HMD OFF/BRT Knob {0.0,0.75} in 0.01 Steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>136</DcsID>
   </Clickabledata>  
   <Devices>
     <DeviceID>1</DeviceID>
@@ -3057,82 +3057,94 @@
   </Devices>
   <Devices>
     <DeviceID>38</DeviceID>
-    <Discription>HOTAS</Discription>
-  </Devices>
-  <Devices>
-    <DeviceID>39</DeviceID>
     <Discription>UHF1</Discription>
   </Devices>
   <Devices>
-    <DeviceID>40</DeviceID>
+    <DeviceID>39</DeviceID>
     <Discription>UHF2</Discription>
   </Devices>
   <Devices>
-    <DeviceID>41</DeviceID>
+    <DeviceID>40</DeviceID>
     <Discription>INTERCOM</Discription>
   </Devices>
   <Devices>
-    <DeviceID>42</DeviceID>
+    <DeviceID>41</DeviceID>
     <Discription>KY58</Discription>
   </Devices>
   <Devices>
-    <DeviceID>43</DeviceID>
+    <DeviceID>42</DeviceID>
     <Discription>RADAR</Discription>
   </Devices>
   <Devices>
-    <DeviceID>44</DeviceID>
+    <DeviceID>43</DeviceID>
     <Discription>FLIR</Discription>
   </Devices>
   <Devices>
-    <DeviceID>45</DeviceID>
+    <DeviceID>44</DeviceID>
     <Discription>INS</Discription>
   </Devices>
   <Devices>
-    <DeviceID>46</DeviceID>
+    <DeviceID>45</DeviceID>
     <Discription>GPS</Discription>
   </Devices>
   <Devices>
-    <DeviceID>47</DeviceID>
+    <DeviceID>46</DeviceID>
     <Discription>MAD</Discription>
   </Devices>
   <Devices>
-    <DeviceID>48</DeviceID>
+    <DeviceID>47</DeviceID>
     <Discription>SIDEWINDER_INTERFACE</Discription>
   </Devices>
   <Devices>
-    <DeviceID>49</DeviceID>
+    <DeviceID>48</DeviceID>
     <Discription>MAVERICK_INTERFACE</Discription>
   </Devices>
   <Devices>
-    <DeviceID>50</DeviceID>
+    <DeviceID>49</DeviceID>
     <Discription>ADF</Discription>
   </Devices>
   <Devices>
-    <DeviceID>51</DeviceID>
+    <DeviceID>50</DeviceID>
     <Discription>ANTENNA_SELECTOR</Discription>
   </Devices>
   <Devices>
-    <DeviceID>52</DeviceID>
+    <DeviceID>51</DeviceID>
     <Discription>MIDS</Discription>
   </Devices>
   <Devices>
-    <DeviceID>53</DeviceID>
+    <DeviceID>52</DeviceID>
     <Discription>ILS</Discription>
   </Devices>
   <Devices>
-    <DeviceID>54</DeviceID>
+    <DeviceID>53</DeviceID>
     <Discription>RWR</Discription>
   </Devices>
   <Devices>
-    <DeviceID>55</DeviceID>
+    <DeviceID>54</DeviceID>
     <Discription>CMDS</Discription>
   </Devices>
   <Devices>
-    <DeviceID>56</DeviceID>
+    <DeviceID>55</DeviceID>
     <Discription>MACROS</Discription>
   </Devices>
   <Devices>
-    <DeviceID>57</DeviceID>
+    <DeviceID>56</DeviceID>
     <Discription>IFF</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>57</DeviceID>
+    <Discription>NVG</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>58</DeviceID>
+    <Discription>HMD_INTERFACE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>59</DeviceID>
+    <Discription>MIDS_RT</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>60</DeviceID>
+    <Discription>HMD</Discription>
   </Devices>
 </DTADataSet>

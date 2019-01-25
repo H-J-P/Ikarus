@@ -252,13 +252,13 @@
     <Name>IAS</Name>
     <Arg_number>2</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0, 0.1, 0.15, 0.2, 0.7, 0.75, 0.9, 1.0</Input>
     <Output>0, 15, 35, 60, 319, 343, 410, 430</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -268,13 +268,13 @@
     <Name>Bank</Name>
     <Arg_number>4</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>1.0,-1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -284,13 +284,13 @@
     <Name>Pitch</Name>
     <Arg_number>5</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>1.0,-1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -300,13 +300,13 @@
     <Name>Turn</Name>
     <Arg_number>3</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>1.0,-1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -316,13 +316,13 @@
     <Name>Slipball</Name>
     <Arg_number>6</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -332,13 +332,13 @@
     <Name>Caged</Name>
     <Arg_number>7</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -348,13 +348,13 @@
     <Name>Variometer</Name>
     <Arg_number>36</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-0.3, -0.1, -0.05, 0.0, 0.05, 0.1, 0.3</Input>
     <Output>-135, -76, -47, 0, 47, 76, 135</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -364,13 +364,13 @@
     <Name>Oil_Pressure</Name>
     <Arg_number>26</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -380,13 +380,13 @@
     <Name>Fuel_Pressure</Name>
     <Arg_number>25</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -396,13 +396,13 @@
     <Name>CompassHeading</Name>
     <Arg_number>13</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -412,13 +412,13 @@
     <Name>CommandedCourse</Name>
     <Arg_number>12</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -428,13 +428,13 @@
     <Name>Manifold Pressure</Name>
     <Arg_number>32</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>-3,326</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -444,13 +444,13 @@
     <Name>Altimeter_km</Name>
     <Arg_number>9</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,0.5,1.0</Input>
     <Output>0,90,180</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -460,13 +460,13 @@
     <Name>Altimeter_m</Name>
     <Arg_number>8</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -476,13 +476,13 @@
     <Name>Altimeter_Pressure</Name>
     <Arg_number>10</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -492,13 +492,13 @@
     <Name>H2O Temp.</Name>
     <Arg_number>27</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -508,13 +508,13 @@
     <Name>Oil Temp.</Name>
     <Arg_number>28</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,94</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -524,13 +524,13 @@
     <Name>Propeller_Pitch_Hour</Name>
     <Arg_number>30</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -540,13 +540,13 @@
     <Name>Propeller_Pitch_Minute</Name>
     <Arg_number>31</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -556,13 +556,13 @@
     <Name>MW50 pressure</Name>
     <Arg_number>1</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0.0,270</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -572,13 +572,13 @@
     <Name>Fuel_Tank_Fuselage</Name>
     <Arg_number>33</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0, 0.07, 0.175, 0.31, 0.52, 0.73, 0.88, 1.0</Input>
     <Output>0, 7, 14, 27, 46, 66, 80, 88</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -588,13 +588,13 @@
     <Name>RPM</Name>
     <Arg_number>29</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -604,13 +604,13 @@
     <Name>AFN2_Horizontal_Needle</Name>
     <Arg_number>15</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -620,13 +620,13 @@
     <Name>AFN2_Vertical_Needle</Name>
     <Arg_number>14</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -636,13 +636,13 @@
     <Name>AFN2_Signal_Lamp</Name>
     <Arg_number>16</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -652,13 +652,13 @@
     <Name>MG 131 Shell Counter Left</Name>
     <Arg_number>40</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -668,13 +668,13 @@
     <Name>MG 131 Shell Counter Right</Name>
     <Arg_number>41</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -684,13 +684,13 @@
     <Name>CLOCK_currtime_hours</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -700,13 +700,13 @@
     <Name>CLOCK_currtime_minutes</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -716,13 +716,13 @@
     <Name>CLOCK_currtime_seconds</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -732,13 +732,13 @@
     <Name>CLOCK_chrono_minutes</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -748,13 +748,13 @@
     <Name>Oxygen Flow Blinker</Name>
     <Arg_number>35</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -764,13 +764,13 @@
     <Name>Oxygen_Pressure</Name>
     <Arg_number>34</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
+    <Output>0,250</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -780,13 +780,13 @@
     <Name>MG 131 Klappanker Left</Name>
     <Arg_number>42</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -796,13 +796,13 @@
     <Name>MG 131 Klappanker Right</Name>
     <Arg_number>43</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -812,7 +812,7 @@
     <Arg_number>56</Arg_number>
     <Name>56 - Landing Gear Red Light</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Lw-ControlLights-red.png</FilePictureOn>
     <FilePictureOff>Lw-ControlLights-off.png</FilePictureOff>
     <PosX>230</PosX>
@@ -827,7 +827,7 @@
     <Arg_number>57</Arg_number>
     <Name>57 - Landing Gear Green Light Left</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Lw-ControlLights-green.png</FilePictureOn>
     <FilePictureOff>Lw-ControlLights-off.png</FilePictureOff>
     <PosX>200</PosX>
@@ -842,7 +842,7 @@
     <Arg_number>58</Arg_number>
     <Name>58 - Landing Gear Green Light Right</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Lw-ControlLights-green.png</FilePictureOn>
     <FilePictureOff>Lw-ControlLights-off.png</FilePictureOff>
     <PosX>260</PosX>
@@ -857,7 +857,7 @@
     <Arg_number>44</Arg_number>
     <Name>44 - Left Wing MG151 Control Lamp</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Bf-109K-4-Lamp-MG151-on.png</FilePictureOn>
     <FilePictureOff>Bf-109K-4-Lamp-MG151-off.png</FilePictureOff>
     <PosX>110</PosX>
@@ -872,7 +872,7 @@
     <Arg_number>45</Arg_number>
     <Name>45 - Right Wing MG151 Control Lamp</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Bf-109K-4-Lamp-MG151-on.png</FilePictureOn>
     <FilePictureOff>Bf-109K-4-Lamp-MG151-off.png</FilePictureOff>
     <PosX>320</PosX>
