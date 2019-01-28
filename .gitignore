@@ -27,7 +27,8 @@ Log.png
 *_Contruction.Ikarus
 PerfView*
 
-Ikarus/ExportsModules
+Ikarus/ExportsModules/*
+Ikarus/ExportsModules/
 
 Ikarus.pdb
 FA-18C.xml

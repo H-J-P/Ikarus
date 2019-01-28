@@ -19,13 +19,13 @@ We currently support the following DCS modules:
 - MiG-15bis
 - MiG-21Bis
 - Mirage 2000
-- P-51D
+- P-51D 25/30-NA
 - SA342L/M/Mistral
 - SpitfireLFMkIX
 - Su-25T
 - TF-51D
 - UH-1H
-- all Flaming Cliffs aircrafts
+- all Flaming Cliffs aircrafts, incl. J-11A
 
 Please follow this link to our [Wiki](https://github.com/s-d-a/Ikarus/wiki)
 
