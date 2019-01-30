@@ -5,7 +5,7 @@
     <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-    <File>A-10C.ikarus</File>
+    <File>Bf-109K-4.ikarus</File>
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
@@ -926,10 +926,25 @@
     <Classname>MIG21_Wheelbrakes</Classname>
   </Classnames>
   <Classnames>
+    <Classname>MIG29AOA</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>MIG29FuelQ</Classname>
   </Classnames>
   <Classnames>
+    <Classname>MIG29FuelQV3</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>MIG29HYD</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>MIG29MDI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>MIG29OXY</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>MIG29Wheelbrakes</Classname>
   </Classnames>
   <Classnames>
     <Classname>Monitor</Classname>
