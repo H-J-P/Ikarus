@@ -2387,24 +2387,8 @@
   </Functions>
   <Functions>
     <IDInst>16</IDInst>
-    <IDFct>4</IDFct>
-    <Name>red/white flag</Name>
-    <Arg_number>58</Arg_number>
-    <Value>0</Value>
-    <OldValue>1</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue>-</OldAsciiValue>
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>16</IDInst>
     <IDFct>5</IDFct>
-    <Name>FlightTimeHours</Name>
+    <Name>ChonoHours</Name>
     <Arg_number>59</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
@@ -2420,7 +2404,7 @@
   <Functions>
     <IDInst>16</IDInst>
     <IDFct>6</IDFct>
-    <Name>FlightTimeMinutes</Name>
+    <Name>ChronoMinutes</Name>
     <Arg_number>60</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
@@ -2436,7 +2420,7 @@
   <Functions>
     <IDInst>16</IDInst>
     <IDFct>7</IDFct>
-    <Name>CurrentSeconds</Name>
+    <Name>ChronoSeconds</Name>
     <Arg_number>61</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
@@ -2582,6 +2566,22 @@
     <IDFct>1</IDFct>
     <Name>Fuel Standby Needle</Name>
     <Arg_number>302</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>9</IDInst>
+    <IDFct>4</IDFct>
+    <Name>Alt km 00 - 99</Name>
+    <Arg_number>33</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
