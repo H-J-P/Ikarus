@@ -222,7 +222,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>19</IDInst>
+    <IDInst>18</IDInst>
     <Name>Oxygen Pressure</Name>
     <Class>MIG29OXY</Class>
     <PosX>1050</PosX>
@@ -235,7 +235,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>21</IDInst>
+    <IDInst>19</IDInst>
     <Name>Machmeter</Name>
     <Class>WPMach3</Class>
     <PosX>680</PosX>
@@ -248,7 +248,7 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>22</IDInst>
+    <IDInst>20</IDInst>
     <Name>Compass</Name>
     <Class>WPCompass2</Class>
     <PosX>1720</PosX>
@@ -261,12 +261,25 @@
     <WindowID>1</WindowID>
   </Instruments>
   <Instruments>
-    <IDInst>23</IDInst>
+    <IDInst>21</IDInst>
     <Name>Wheelbrakes</Name>
     <Class>MIG29Wheelbrakes</Class>
     <PosX>904</PosX>
     <PosY>920</PosY>
     <Size>140</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>22</IDInst>
+    <Name>Chaff-Flare</Name>
+    <Class>Display</Class>
+    <PosX>957</PosX>
+    <PosY>822</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -2162,7 +2175,7 @@
     <Out />
   </Functions>
   <Functions>
-    <IDInst>19</IDInst>
+    <IDInst>18</IDInst>
     <IDFct>1</IDFct>
     <Name>-</Name>
     <Arg_number>89</Arg_number>
@@ -2178,7 +2191,7 @@
     <Out />
   </Functions>
   <Functions>
-    <IDInst>21</IDInst>
+    <IDInst>19</IDInst>
     <IDFct>1</IDFct>
     <Name>Mach</Name>
     <Arg_number>37</Arg_number>
@@ -2226,7 +2239,7 @@
     <Out />
   </Functions>
   <Functions>
-    <IDInst>21</IDInst>
+    <IDInst>19</IDInst>
     <IDFct>2</IDFct>
     <Name>max Mach</Name>
     <Arg_number>38</Arg_number>
@@ -2274,7 +2287,7 @@
     <Out />
   </Functions>
   <Functions>
-    <IDInst>19</IDInst>
+    <IDInst>18</IDInst>
     <IDFct>2</IDFct>
     <Name>-</Name>
     <Arg_number>90</Arg_number>
@@ -2306,7 +2319,7 @@
     <Out />
   </Functions>
   <Functions>
-    <IDInst>22</IDInst>
+    <IDInst>20</IDInst>
     <IDFct>1</IDFct>
     <Name>Heading</Name>
     <Arg_number>67</Arg_number>
@@ -2322,7 +2335,7 @@
     <Out />
   </Functions>
   <Functions>
-    <IDInst>22</IDInst>
+    <IDInst>20</IDInst>
     <IDFct>2</IDFct>
     <Name>Pitch</Name>
     <Arg_number>68</Arg_number>
@@ -2338,7 +2351,7 @@
     <Out />
   </Functions>
   <Functions>
-    <IDInst>22</IDInst>
+    <IDInst>20</IDInst>
     <IDFct>3</IDFct>
     <Name>Bank</Name>
     <Arg_number>69</Arg_number>
@@ -2418,7 +2431,7 @@
     <Out />
   </Functions>
   <Functions>
-    <IDInst>19</IDInst>
+    <IDInst>18</IDInst>
     <IDFct>3</IDFct>
     <Name>-</Name>
     <Arg_number>91</Arg_number>
@@ -2450,7 +2463,7 @@
     <Out />
   </Functions>
   <Functions>
-    <IDInst>23</IDInst>
+    <IDInst>21</IDInst>
     <IDFct>1</IDFct>
     <Name>brake left</Name>
     <Arg_number>92</Arg_number>
@@ -2466,7 +2479,7 @@
     <Out />
   </Functions>
   <Functions>
-    <IDInst>23</IDInst>
+    <IDInst>21</IDInst>
     <IDFct>2</IDFct>
     <Name>brkae right</Name>
     <Arg_number>93</Arg_number>
@@ -2481,13 +2494,29 @@
     <In />
     <Out />
   </Functions>
+  <Functions>
+    <IDInst>22</IDInst>
+    <IDFct>1</IDFct>
+    <Name>-</Name>
+    <Arg_number>800</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>FAFAFA</Input>
+    <Output>2</Output>
+    <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
   </Parameter>
   <Window>
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
-    <PosX>400</PosX>
+    <PosX>0</PosX>
     <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>

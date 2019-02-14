@@ -68,7 +68,7 @@
   <Instruments>
     <IDInst>6</IDInst>
     <Name>AOA</Name>
-    <Class>WPAOA</Class>
+    <Class>MIG29AOA</Class>
     <PosX>185</PosX>
     <PosY>70</PosY>
     <Size>200</Size>
@@ -210,11 +210,11 @@
   </Instruments>
   <Instruments>
     <IDInst>17</IDInst>
-    <Name>Left Hydraulic Pressure</Name>
-    <Class>WPPress24L</Class>
-    <PosX>1112</PosX>
+    <Name>Hydraulic Pressure</Name>
+    <Class>MIG29HYD</Class>
+    <PosX>1234</PosX>
     <PosY>920</PosY>
-    <Size>50</Size>
+    <Size>150</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -223,11 +223,11 @@
   </Instruments>
   <Instruments>
     <IDInst>18</IDInst>
-    <Name>Right Hydraulic Pressure</Name>
-    <Class>WPPress24R</Class>
-    <PosX>1166</PosX>
+    <Name>Oxygen Pressure</Name>
+    <Class>MIG29OXY</Class>
+    <PosX>1050</PosX>
     <PosY>920</PosY>
-    <Size>50</Size>
+    <Size>150</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -236,11 +236,11 @@
   </Instruments>
   <Instruments>
     <IDInst>19</IDInst>
-    <Name>Left Weehlbrake Pressure</Name>
-    <Class>WPPress24L3C</Class>
-    <PosX>1234</PosX>
-    <PosY>920</PosY>
-    <Size>50</Size>
+    <Name>Machmeter</Name>
+    <Class>WPMach3</Class>
+    <PosX>680</PosX>
+    <PosY>590</PosY>
+    <Size>200</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -249,11 +249,11 @@
   </Instruments>
   <Instruments>
     <IDInst>20</IDInst>
-    <Name>Right Weehlbrake Pressure</Name>
-    <Class>WPPress24R3C</Class>
-    <PosX>1289</PosX>
-    <PosY>920</PosY>
-    <Size>50</Size>
+    <Name>Compass</Name>
+    <Class>WPCompass2</Class>
+    <PosX>1720</PosX>
+    <PosY>19</PosY>
+    <Size>150</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -262,11 +262,24 @@
   </Instruments>
   <Instruments>
     <IDInst>21</IDInst>
-    <Name>Machmeter</Name>
-    <Class>WPMach3</Class>
-    <PosX>680</PosX>
-    <PosY>590</PosY>
-    <Size>200</Size>
+    <Name>Wheelbrakes</Name>
+    <Class>MIG29Wheelbrakes</Class>
+    <PosX>904</PosX>
+    <PosY>920</PosY>
+    <Size>140</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
+  <Instruments>
+    <IDInst>22</IDInst>
+    <Name>Chaff-Flare</Name>
+    <Class>Display</Class>
+    <PosX>957</PosX>
+    <PosY>822</PosY>
+    <Size>40</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -1909,7 +1922,7 @@
     <IDInst>14</IDInst>
     <IDFct>3</IDFct>
     <Name>Tank warning 1</Name>
-    <Arg_number>304</Arg_number>
+    <Arg_number>308</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
@@ -1925,7 +1938,7 @@
     <IDInst>14</IDInst>
     <IDFct>4</IDFct>
     <Name>Tank warning 2</Name>
-    <Arg_number>305</Arg_number>
+    <Arg_number>307</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
@@ -1957,7 +1970,7 @@
     <IDInst>14</IDInst>
     <IDFct>6</IDFct>
     <Name>Tank warning 4</Name>
-    <Arg_number>307</Arg_number>
+    <Arg_number>305</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
@@ -2164,8 +2177,8 @@
   <Functions>
     <IDInst>18</IDInst>
     <IDFct>1</IDFct>
-    <Name>HydraulicPressure right</Name>
-    <Arg_number>86</Arg_number>
+    <Name>-</Name>
+    <Arg_number>89</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
@@ -2179,38 +2192,6 @@
   </Functions>
   <Functions>
     <IDInst>19</IDInst>
-    <IDFct>1</IDFct>
-    <Name>wheelbrakes value</Name>
-    <Arg_number>87</Arg_number>
-    <Value>0</Value>
-    <OldValue>1</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue>-</OldAsciiValue>
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>20</IDInst>
-    <IDFct>1</IDFct>
-    <Name>wheelbrakes value</Name>
-    <Arg_number>88</Arg_number>
-    <Value>0</Value>
-    <OldValue>1</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue>-</OldAsciiValue>
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>21</IDInst>
     <IDFct>1</IDFct>
     <Name>Mach</Name>
     <Arg_number>37</Arg_number>
@@ -2258,7 +2239,7 @@
     <Out />
   </Functions>
   <Functions>
-    <IDInst>21</IDInst>
+    <IDInst>19</IDInst>
     <IDFct>2</IDFct>
     <Name>max Mach</Name>
     <Arg_number>38</Arg_number>
@@ -2284,6 +2265,246 @@
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>2</IDFct>
+    <Name>HydraulicPressure right</Name>
+    <Arg_number>86</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>2</IDFct>
+    <Name>-</Name>
+    <Arg_number>90</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>14</IDInst>
+    <IDFct>7</IDFct>
+    <Name>Tank warning 5</Name>
+    <Arg_number>304</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>20</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Heading</Name>
+    <Arg_number>67</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-205,0,205</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>20</IDInst>
+    <IDFct>2</IDFct>
+    <Name>Pitch</Name>
+    <Arg_number>68</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>20</IDInst>
+    <IDFct>3</IDFct>
+    <Name>Bank</Name>
+    <Arg_number>69</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>3</IDFct>
+    <Name>G-Load min</Name>
+    <Arg_number>52</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>6</IDInst>
+    <IDFct>4</IDFct>
+    <Name>G-Load max</Name>
+    <Arg_number>53</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>3</IDFct>
+    <Name>-</Name>
+    <Arg_number>87</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>17</IDInst>
+    <IDFct>4</IDFct>
+    <Name>-</Name>
+    <Arg_number>88</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>18</IDInst>
+    <IDFct>3</IDFct>
+    <Name>-</Name>
+    <Arg_number>91</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>14</IDInst>
+    <IDFct>8</IDFct>
+    <Name>Range</Name>
+    <Arg_number>303</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>21</IDInst>
+    <IDFct>1</IDFct>
+    <Name>brake left</Name>
+    <Arg_number>92</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>21</IDInst>
+    <IDFct>2</IDFct>
+    <Name>brkae right</Name>
+    <Arg_number>93</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>22</IDInst>
+    <IDFct>1</IDFct>
+    <Name>-</Name>
+    <Arg_number>800</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>FAFAFA</Input>
+    <Output>2</Output>
+    <Ascii>true</Ascii>
     <AsciiValue />
     <OldAsciiValue>-</OldAsciiValue>
     <In />

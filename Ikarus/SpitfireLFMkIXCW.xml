@@ -1,0 +1,633 @@
+<?xml version="1.0" standalone="yes"?>
+<DTADataSet>
+  <DCS_ID>
+    <ExportID>120</ExportID>
+    <Description>Radio Lamp A</Description>
+    <ExportIDWithDescription>120 - Radio Lamp A</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>121</ExportID>
+    <Description>Radio Lamp B</Description>
+    <ExportIDWithDescription>121 - Radio Lamp B</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>122</ExportID>
+    <Description>Radio Lamp C</Description>
+    <ExportIDWithDescription>122 - Radio Lamp C</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>123</ExportID>
+    <Description>Radio Lamp D</Description>
+    <ExportIDWithDescription>123 - Radio Lamp D</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>124</ExportID>
+    <Description>Radio Lamp R</Description>
+    <ExportIDWithDescription>124 - Radio Lamp R</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>49</ExportID>
+    <Description>Gear Lamp Down</Description>
+    <ExportIDWithDescription>49 - Gear Lamp Down</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>48</ExportID>
+    <Description>Gear Lamp Up</Description>
+    <ExportIDWithDescription>48 - Gear Lamp Up</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2000</ExportID>
+    <Description>VHF Radio frequency</Description>
+    <ExportIDWithDescription>2000 - VHF Radio frequency</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2001</ExportID>
+    <Description>VHF Radio preset</Description>
+    <ExportIDWithDescription>2001 - VHF Radio preset</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <Clickabledata>
+    <ID>1</ID>
+    <DeviceID>3</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>Oxygen Apparatus Controls Valve</Discription>
+    <Type>Switch</Type>
+    <DcsID>13</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>2</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>37</ButtonID>
+    <Discription>Altimeter {0.0 - 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>30</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>3</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>41</ButtonID>
+    <Discription>DI {0.0 - 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>32</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>4</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>5</ButtonID>
+    <Discription>Fuel Gauge Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>44</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>5</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>7</ButtonID>
+    <Discription>Nav. Lights Toggle</Discription>
+    <Type>Switch</Type>
+    <DcsID>46</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>6</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>9</ButtonID>
+    <Discription>Flaps Lever</Discription>
+    <Type>Switch</Type>
+    <DcsID>47</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>7</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>11</ButtonID>
+    <Discription>U/C Indicator Blind</Discription>
+    <Type>Switch</Type>
+    <DcsID>50</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>8</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>13</ButtonID>
+    <Discription>Clock Setter Pinion Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>54</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>9</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>14</ButtonID>
+    <Discription>Clock Setter Pinion {0.0 - 1.0} in 0.04 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>55</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>10</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>15</ButtonID>
+    <Discription>Magnetos Toggles 1</Discription>
+    <Type>Switch</Type>
+    <DcsID>56</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>11</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>17</ButtonID>
+    <Discription>Magnetos Toggles 2</Discription>
+    <Type>Switch</Type>
+    <DcsID>57</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>12</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>19</ButtonID>
+    <Discription>Supercharger Mode Toggle</Discription>
+    <Type>Switch</Type>
+    <DcsID>58</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>13</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>Illumination Controls Left {0.0 - 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>60</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>14</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>Illumination Controls Right {0.0 - 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>61</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>15</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>23</ButtonID>
+    <Discription>Starter Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>65</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>16</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>27</ButtonID>
+    <Discription>Booster Coil Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>67</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>17</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>30</ButtonID>
+    <Discription>Primer Pump Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>69</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>18</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>29</ButtonID>
+    <Discription>Primer Pump {0.0 - 1.0} in 0.04 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>68</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>19</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>33</ButtonID>
+    <Discription>Tank Pressurizer Lever</Discription>
+    <Type>Switch</Type>
+    <DcsID>70</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>20</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>17</ButtonID>
+    <Discription>Magnetic Compass {0.0 - 1.0} in 0.03333 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>74</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>21</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>7</ButtonID>
+    <Discription>Gun Sight Setter Rings Range {0.0 - 1.0} in 0.15 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>77</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>22</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>10</ButtonID>
+    <Discription>Gun Sight Setter Rings Base {0.0 - 1.0} in 0.15 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>78</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>23</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>16</ButtonID>
+    <Discription>Gun Sight Tint Screen</Discription>
+    <Type>Switch</Type>
+    <DcsID>79</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>24</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>18</ButtonID>
+    <Discription>Gun Sight Master Switch</Discription>
+    <Type>Switch</Type>
+    <DcsID>80</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>25</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>20</ButtonID>
+    <Discription>Gun Sight Dimmer {0.0 - 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>81</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>26</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>29</ButtonID>
+    <Discription>Elevator Trim Wheel {-1.0 - 1.0} in 0.01 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>145</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>27</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>44</ButtonID>
+    <Discription>Rudder Trim Wheel {-1.0 - 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>146</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>28</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>Radio - Off Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>115</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>29</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>Radio - A Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>116</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>30</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>Radio - B Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>117</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>31</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>4</ButtonID>
+    <Discription>Radio - C Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>118</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>32</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>5</ButtonID>
+    <Discription>Radio - D Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>119</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>33</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>6</ButtonID>
+    <Discription>Radio - Dimmer Toggle</Discription>
+    <Type>Switch</Type>
+    <DcsID>125</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>34</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>17</ButtonID>
+    <Discription>Radio - Transmit Lock Toggle</Discription>
+    <Type>Switch</Type>
+    <DcsID>155</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>35</ID>
+    <DeviceID>15</DeviceID>
+    <ButtonID>8</ButtonID>
+    <Discription>Radio - Mode Selector</Discription>
+    <Type>Switch</Type>
+    <DcsID>156</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>36</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>Throttle Quadrant - Throttle Lever {-1.0 - 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>126</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>37</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>15</ButtonID>
+    <Discription>Throttle Quadrant - Bomb Drop Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>128</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>38</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>6</ButtonID>
+    <Discription>Throttle Quadrant - Airscrew Lever {-1.0 - 1.0} in 0.1 steps</Discription>
+    <Type>Rotary</Type>
+    <DcsID>129</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>39</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>9</ButtonID>
+    <Discription>Throttle Quadrant - Mix Cut-Off Lever</Discription>
+    <Type>Switch</Type>
+    <DcsID>130</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>40</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>99</ButtonID>
+    <Discription>Throttle Quadrant - U/C Indicator Cut-Off Toggle</Discription>
+    <Type>Switch</Type>
+    <DcsID>131</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>41</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>33</ButtonID>
+    <Discription>Radiator Control Toggle</Discription>
+    <Type>Switch</Type>
+    <DcsID>133</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>42</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>35</ButtonID>
+    <Discription>Pitot Heater Toggle</Discription>
+    <Type>Switch</Type>
+    <DcsID>134</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>43</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>43</ButtonID>
+    <Discription>Fuel Pump Toggle</Discription>
+    <Type>Switch</Type>
+    <DcsID>135</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>44</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>45</ButtonID>
+    <Discription>Carb. Air Control Lever</Discription>
+    <Type>Switch</Type>
+    <DcsID>137</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>45</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>53</ButtonID>
+    <Discription>Oil Diluter Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>158</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>46</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>57</ButtonID>
+    <Discription>Supercharger Mode Test Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>160</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>47</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>61</ButtonID>
+    <Discription>Radiator Flap Test Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>162</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>48</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>21</ButtonID>
+    <Discription>De-Icer Lever</Discription>
+    <Type>Switch</Type>
+    <DcsID>87</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>49</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>23</ButtonID>
+    <Discription>U/C Emergency Release Lever</Discription>
+    <Type>Switch</Type>
+    <DcsID>88</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>50</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>35</ButtonID>
+    <Discription>Wobble Type Fuel Pump</Discription>
+    <Type>Switch</Type>
+    <DcsID>90</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>51</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>7</ButtonID>
+    <Discription>Morse Key/Apparatus - Upward Lamp Mode Selector</Discription>
+    <Type>Switch</Type>
+    <DcsID>92</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>52</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>11</ButtonID>
+    <Discription>Morse Key/Apparatus - Downward Lamp Mode Selector</Discription>
+    <Type>Switch</Type>
+    <DcsID>93</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>53</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>15</ButtonID>
+    <Discription>Morse Key/Apparatus - Morse Key</Discription>
+    <Type>Switch</Type>
+    <DcsID>94</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>54</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>25</ButtonID>
+    <Discription>U/C Lever</Discription>
+    <Type>Switch</Type>
+    <DcsID>148</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>55</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>17</ButtonID>
+    <Discription>I.F.F. Control Box - Upper Toggle (Type B)</Discription>
+    <Type>Switch</Type>
+    <DcsID>106</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>56</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>19</ButtonID>
+    <Discription>I.F.F. Control Box - Lower Toggle (Type D)</Discription>
+    <Type>Switch</Type>
+    <DcsID>107</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>57</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>23</ButtonID>
+    <Discription>I.F.F. Control Box - Fore Button (0)</Discription>
+    <Type>Switch</Type>
+    <DcsID>109</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>58</ID>
+    <DeviceID>4</DeviceID>
+    <ButtonID>25</ButtonID>
+    <Discription>I.F.F. Control Box - Aft Button (1)</Discription>
+    <Type>Switch</Type>
+    <DcsID>110</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>59</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>37</ButtonID>
+    <Discription>Fuel Cocks/Tertiary - Fuel Cock</Discription>
+    <Type>Switch</Type>
+    <DcsID>100</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>60</ID>
+    <DeviceID>2</DeviceID>
+    <ButtonID>41</ButtonID>
+    <Discription>Fuel Cocks/Tertiary - Droptank Cock</Discription>
+    <Type>Switch</Type>
+    <DcsID>98</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>61</ID>
+    <DeviceID>5</DeviceID>
+    <ButtonID>13</ButtonID>
+    <Discription>Fuel Cocks/Tertiary - Droptank Release Handle</Discription>
+    <Type>Switch</Type>
+    <DcsID>99</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>62</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>51</ButtonID>
+    <Discription>Canopy Controls - Cockpit Open/Close Control</Discription>
+    <Type>Switch</Type>
+    <DcsID>149</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>63</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>57</ButtonID>
+    <Discription>Canopy Controls - Cockpit Jettison Pull Ball</Discription>
+    <Type>Switch</Type>
+    <DcsID>140</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>64</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>59</ButtonID>
+    <Discription>Canopy Controls - Cockpit Side Door Open/Close Control</Discription>
+    <Type>Switch</Type>
+    <DcsID>147</DcsID>
+  </Clickabledata>
+  <Devices>
+    <DeviceID>1</DeviceID>
+    <Discription>CONTROLS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>2</DeviceID>
+    <Discription>ENGINE_CONTROLS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>3</DeviceID>
+    <Discription>OXYGEN</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>4</DeviceID>
+    <Discription>TERTIARY_CONTROLS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>5</DeviceID>
+    <Discription>WEAPONS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>6</DeviceID>
+    <Discription>ARTIFICIAL_HORIZON</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>7</DeviceID>
+    <Discription>DI</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>8</DeviceID>
+    <Discription>TURNSLIP_INDICATOR</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>9</DeviceID>
+    <Discription>FM_PROXY</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>10</DeviceID>
+    <Discription>COMPASS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>11</DeviceID>
+    <Discription>HELMET_DEVICE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>12</DeviceID>
+    <Discription>MACROS</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>13</DeviceID>
+    <Discription>ARCADE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>14</DeviceID>
+    <Discription>KNEEBOARD</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>15</DeviceID>
+    <Discription>VHF Radio</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>16</DeviceID>
+    <Discription>INTERCOM</Discription>
+  </Devices>
+</DTADataSet>
