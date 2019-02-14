@@ -21,7 +21,7 @@ We currently support the following DCS modules:
 - Mirage 2000
 - P-51D 25/30-NA
 - SA342L/M/Mistral
-- SpitfireLFMkIX
+- SpitfireLFMkIX/CW
 - Su-25T
 - TF-51D
 - UH-1H

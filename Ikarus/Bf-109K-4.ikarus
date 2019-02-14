@@ -133,9 +133,9 @@
   <Instruments>
     <IDInst>11</IDInst>
     <Name>MW50 pressure</Name>
-    <Class>LwMW50P</Class>
-    <PosX>200</PosX>
-    <PosY>150</PosY>
+    <Class>BfK4MW50P</Class>
+    <PosX>190</PosX>
+    <PosY>100</PosY>
     <Size>173</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
@@ -558,8 +558,8 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,270</Output>
+    <Input>0, 0.350, 0.680, 1.000</Input>
+    <Output>0,    92,   182,   271</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue>-</OldAsciiValue>

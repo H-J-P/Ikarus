@@ -759,7 +759,7 @@
     <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0, 0.068, 0.169, 0.273, 0.680, 0.780, 0.880, 1.0</Input>
-    <Output>0, 18, 47, 75, 185, 213, 240, 270</Output>
+    <Output>0, 19, 48, 77, 186, 214, 241, 269</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue>-</OldAsciiValue>
