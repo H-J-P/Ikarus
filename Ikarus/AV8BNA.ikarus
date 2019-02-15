@@ -2901,6 +2901,21 @@
     <Rotate>0</Rotate>
     <WindowID>1</WindowID>
   </Lamps>
+  <Lamps>
+    <ID>86</ID>
+    <Class>LampOnOff</Class>
+    <Arg_number>177</Arg_number>
+    <Name>177 - ENGINE FLOW W</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>AV8BNA_FLOW_W_green.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <PosX>1460</PosX>
+    <PosY>192</PosY>
+    <Size>25</Size>
+    <Rotate>0</Rotate>
+    <WindowID>1</WindowID>
+  </Lamps>
   <Switches>
     <ID>1</ID>
     <Class>SwitchPanelOffOn</Class>
@@ -3542,7 +3557,7 @@
     <Input>0.0,1.0,0.1</Input>
     <Output>0,360</Output>
     <PosX>768</PosX>
-    <PosY>345</PosY>
+    <PosY>346</PosY>
     <Size>60</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -6697,6 +6712,48 @@
     <WindowID>5</WindowID>
     <DcsID>484</DcsID>
   </Switches>
+  <Switches>
+    <ID>182</ID>
+    <Class>Button</Class>
+    <ClickabledataID>989</ClickabledataID>
+    <Name>UFC Comm 1 Show Button</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>785</PosX>
+    <PosY>363</PosY>
+    <Size>25</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>178</DcsID>
+  </Switches>
+  <Switches>
+    <ID>183</ID>
+    <Class>Button</Class>
+    <ClickabledataID>990</ClickabledataID>
+    <Name>UFC Comm 2 Show Button</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1100</PosX>
+    <PosY>363</PosY>
+    <Size>25</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>179</DcsID>
+  </Switches>
   <Accessories>
     <ID>1</ID>
     <Class>Label</Class>
@@ -6884,7 +6941,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosY>1200</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>AV8BNA_Background.png</Background>
