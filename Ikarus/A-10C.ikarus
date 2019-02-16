@@ -9064,7 +9064,7 @@
   <Window>
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
-    <PosX>0</PosX>
+    <PosX>400</PosX>
     <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
