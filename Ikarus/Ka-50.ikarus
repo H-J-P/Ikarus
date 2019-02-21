@@ -94,7 +94,7 @@
   <Instruments>
     <IDInst>8</IDInst>
     <Name>Compass</Name>
-    <Class>WPCompass</Class>
+    <Class>WPCompass2</Class>
     <PosX>1207</PosX>
     <PosY>959</PosY>
     <Size>125</Size>
@@ -292,13 +292,13 @@
     <Name>ADP_4_acceleration</Name>
     <Arg_number>97</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -308,13 +308,13 @@
     <Name>ADP_4_max_achieved_acc</Name>
     <Arg_number>98</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -324,13 +324,13 @@
     <Name>ADP_4_min_achieved_acc</Name>
     <Arg_number>99</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -340,13 +340,13 @@
     <Name>ADI_Roll</Name>
     <Arg_number>100</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -356,13 +356,13 @@
     <Name>ADI_Pitch</Name>
     <Arg_number>101</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>1.0,-1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -372,13 +372,13 @@
     <Name>ADI_steering_warning_flag</Name>
     <Arg_number>102</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -388,13 +388,13 @@
     <Name>ADI_attitude_warning_flag</Name>
     <Arg_number>109</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -404,13 +404,13 @@
     <Name>ADI_bank_steering</Name>
     <Arg_number>107</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -420,13 +420,13 @@
     <Name>ADI_pitch_steering</Name>
     <Arg_number>106</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -436,13 +436,13 @@
     <Name>ADI_airspeed_deviation</Name>
     <Arg_number>111</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -452,13 +452,13 @@
     <Name>ADI_track_deviation</Name>
     <Arg_number>103</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -468,13 +468,13 @@
     <Name>ADI_height_deviation</Name>
     <Arg_number>526</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -484,13 +484,13 @@
     <Name>ADI_sideslip</Name>
     <Arg_number>108</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -500,13 +500,13 @@
     <Name>AGR_81_Roll</Name>
     <Arg_number>142</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>1.0,-1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -516,13 +516,13 @@
     <Name>AGR_81_Pitch</Name>
     <Arg_number>143</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -532,13 +532,13 @@
     <Name>AGR_81_sideslip</Name>
     <Arg_number>144</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -548,13 +548,13 @@
     <Name>AGR_81_failure_flag</Name>
     <Arg_number>145</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -564,13 +564,13 @@
     <Name>VM_15PV_BALT_thousands</Name>
     <Arg_number>87</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -580,13 +580,13 @@
     <Name>VM_15PV_BALT_tenth</Name>
     <Arg_number>573</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -596,13 +596,13 @@
     <Name>VM_15PV_BaroPressure</Name>
     <Arg_number>88</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -612,13 +612,13 @@
     <Name>VM_15PV_BALT_CommandedAlt</Name>
     <Arg_number>89</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -628,13 +628,13 @@
     <Name>A_036_RALT</Name>
     <Arg_number>94</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0, 0.1838, 0.4631, 0.7541, 0.8330, 0.9329, 1.0</Input>
     <Output>0, 63, 155, 254, 279, 313, 323</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -644,13 +644,13 @@
     <Name>A_036_DangerRALT</Name>
     <Arg_number>93</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0, 0.1838, 0.4631, 0.7541, 0.8330, 0.9329, 1.0</Input>
     <Output>0, 63, 155, 254, 279, 313, 323</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -660,13 +660,13 @@
     <Name>A_036_warning_flag</Name>
     <Arg_number>95</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -676,13 +676,13 @@
     <Name>A_036_DangerRALT_lamp</Name>
     <Arg_number>92</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -692,13 +692,13 @@
     <Name>Indicated Airspeed</Name>
     <Arg_number>51</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0, 0.051, 0.081, 0.111, 0.141, 0.286, 0.423, 0.561, 0.700, 0.832, 0.963</Input>
     <Output>0.0, 7, 42, 70, 98, 148, 192, 232, 268, 305, 341</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -708,13 +708,13 @@
     <Name>CLOCK_currtime_hours</Name>
     <Arg_number>68</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -724,13 +724,13 @@
     <Name>CLOCK_currtime_minutes</Name>
     <Arg_number>69</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -740,13 +740,13 @@
     <Name>CLOCK_currtime_seconds</Name>
     <Arg_number>70</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -756,13 +756,13 @@
     <Name>CLOCK_flight_time_meter_status</Name>
     <Arg_number>75</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,0.2</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -772,13 +772,13 @@
     <Name>CLOCK_flight_hours</Name>
     <Arg_number>72</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -788,13 +788,13 @@
     <Name>CLOCK_flight_minutes</Name>
     <Arg_number>531</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -804,13 +804,13 @@
     <Name>CLOCK_seconds_meter_time_minutes</Name>
     <Arg_number>73</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -820,13 +820,13 @@
     <Name>CLOCK_seconds_meter_time_seconds</Name>
     <Arg_number>532</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -836,13 +836,13 @@
     <Name>KI_13_course</Name>
     <Arg_number>11</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -852,13 +852,13 @@
     <Name>KI_13_pitch</Name>
     <Arg_number>12</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -868,13 +868,13 @@
     <Name>KI_13_bank</Name>
     <Arg_number>14</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -884,13 +884,13 @@
     <Name>LeftEngineTemperatureHund</Name>
     <Arg_number>133</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -900,13 +900,13 @@
     <Name>LeftEngineTemperatureTenth</Name>
     <Arg_number>566</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -916,13 +916,13 @@
     <Name>RightEngineTemperatureHund</Name>
     <Arg_number>134</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -932,13 +932,13 @@
     <Name>RightEngineTemperatureTenth</Name>
     <Arg_number>567</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -948,13 +948,13 @@
     <Name>EnginesMode</Name>
     <Arg_number>592</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -964,13 +964,13 @@
     <Name>LeftEngineMode</Name>
     <Arg_number>234</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -980,13 +980,13 @@
     <Name>RightEngineMode</Name>
     <Arg_number>235</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -996,13 +996,13 @@
     <Name>ForwardTankAmount</Name>
     <Arg_number>137</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1012,13 +1012,13 @@
     <Name>RearTankAmount</Name>
     <Arg_number>138</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1028,13 +1028,13 @@
     <Name>lamp_ForwardTankTest</Name>
     <Arg_number>139</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1044,13 +1044,13 @@
     <Name>lamp_RearTankTest</Name>
     <Arg_number>140</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1060,13 +1060,13 @@
     <Name>LeftEngineRPM</Name>
     <Arg_number>135</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1076,13 +1076,13 @@
     <Name>RightEngineRPM</Name>
     <Arg_number>136</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1092,13 +1092,13 @@
     <Name>HSI_heading</Name>
     <Arg_number>112</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1108,13 +1108,13 @@
     <Name>HSI_commanded_course_needle</Name>
     <Arg_number>118</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1124,13 +1124,13 @@
     <Name>HSI_commanded_heading_needle</Name>
     <Arg_number>124</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1140,13 +1140,13 @@
     <Name>HSI_bearing_needle</Name>
     <Arg_number>115</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1156,13 +1156,13 @@
     <Name>HSI_heading_warning_flag</Name>
     <Arg_number>119</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1172,13 +1172,13 @@
     <Name>HSI_course_warning_flag</Name>
     <Arg_number>114</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1188,13 +1188,13 @@
     <Name>HSI_glideslope_warning_flag</Name>
     <Arg_number>125</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1204,13 +1204,13 @@
     <Name>HSI_range_counter_100</Name>
     <Arg_number>117</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1220,13 +1220,13 @@
     <Name>HSI_range_counter_10</Name>
     <Arg_number>527</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1236,13 +1236,13 @@
     <Name>HSI_range_counter_1</Name>
     <Arg_number>528</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1252,13 +1252,13 @@
     <Name>HSI_longitudinal_deviation</Name>
     <Arg_number>127</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1268,13 +1268,13 @@
     <Name>HSI_lateral_deviation</Name>
     <Arg_number>128</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1284,13 +1284,13 @@
     <Name>HSI_range_unavailable_flag</Name>
     <Arg_number>116</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1300,13 +1300,13 @@
     <Name>HSI_course_unavailable_flag</Name>
     <Arg_number>121</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1316,13 +1316,13 @@
     <Name>Rotor Pitch</Name>
     <Arg_number>53</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1332,13 +1332,13 @@
     <Name>Rotor RPM</Name>
     <Arg_number>52</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1348,13 +1348,13 @@
     <Name>VSI</Name>
     <Arg_number>24</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0, -0.66, -0.33, -0.165, 0.0, 0.165, 0.33, 0.66, 1.0</Input>
     <Output>-180, -141, -82, -42, 0, 42, 82, 141, 180</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1364,13 +1364,13 @@
     <Name>EkranString1</Name>
     <Arg_number>2010</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>f38501</Input>
     <Output>9,4</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1380,13 +1380,13 @@
     <Name>EkranString2</Name>
     <Arg_number>2011</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input />
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1396,13 +1396,13 @@
     <Name>EkranString3</Name>
     <Arg_number>2012</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input />
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1412,13 +1412,13 @@
     <Name>EkranString4</Name>
     <Arg_number>2013</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input />
     <Output />
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1428,13 +1428,13 @@
     <Name>StationType</Name>
     <Arg_number>2004</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>008E0E</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1444,13 +1444,13 @@
     <Name>StationCount</Name>
     <Arg_number>2005</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>008E0E</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1460,13 +1460,13 @@
     <Name>CannonAmmoCount</Name>
     <Arg_number>2006</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>008E0E</Input>
     <Output>2</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1476,13 +1476,13 @@
     <Name>UV-26</Name>
     <Arg_number>2007</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>BE0000</Input>
     <Output>3</Output>
     <Ascii>true</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1492,7 +1492,7 @@
     <Arg_number>44</Arg_number>
     <Name>44 - MasterWarning</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Masterwarning-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Masterwarning-OFF.png</FilePictureOff>
     <PosX>385</PosX>
@@ -1507,7 +1507,7 @@
     <Arg_number>46</Arg_number>
     <Name>46 - RotorRPM</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Rotor_RPM_Warning-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Rotor_RPM_Warning-OFF.png</FilePictureOff>
     <PosX>206</PosX>
@@ -1522,7 +1522,7 @@
     <Arg_number>78</Arg_number>
     <Name>78 - RPM_leftEngineMax</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-LH_Eng_Overspd-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-LH_Eng_Overspd-OFF.png</FilePictureOff>
     <PosX>472</PosX>
@@ -1537,7 +1537,7 @@
     <Arg_number>79</Arg_number>
     <Name>79 - RPM_rightEngineMax</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-RH_Eng_Overspd-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-RH_Eng_Overspd-OFF.png</FilePictureOff>
     <PosX>523</PosX>
@@ -1552,7 +1552,7 @@
     <Arg_number>80</Arg_number>
     <Name>80 - NyMax</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Over-G-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Over-G-OFF.png</FilePictureOff>
     <PosX>573</PosX>
@@ -1567,7 +1567,7 @@
     <Arg_number>81</Arg_number>
     <Name>81 - vibr_leftEngine</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-LH_Eng_Vibr-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-LH_Eng_Vibr-OFF.png</FilePictureOff>
     <PosX>472</PosX>
@@ -1582,7 +1582,7 @@
     <Arg_number>82</Arg_number>
     <Name>82 - vibr_rightEngine</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-RH_Eng_Vibr-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-RH_Eng_Vibr-OFF.png</FilePictureOff>
     <PosX>523</PosX>
@@ -1597,7 +1597,7 @@
     <Arg_number>83</Arg_number>
     <Name>83 - IAS_max</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-IAS_Max-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-IAS_Max-OFF.png</FilePictureOff>
     <PosX>573</PosX>
@@ -1612,7 +1612,7 @@
     <Arg_number>84</Arg_number>
     <Name>84 - mainTransmission</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Main_Grbx-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Main_Grbx-OFF.png</FilePictureOff>
     <PosX>472</PosX>
@@ -1627,7 +1627,7 @@
     <Arg_number>85</Arg_number>
     <Name>85 - Fire</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Fire-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Fire-OFF.png</FilePictureOff>
     <PosX>523</PosX>
@@ -1642,7 +1642,7 @@
     <Arg_number>86</Arg_number>
     <Name>86 - IFFfailure</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-IFF_Fail-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-IFF_Fail-OFF.png</FilePictureOff>
     <PosX>573</PosX>
@@ -1657,7 +1657,7 @@
     <Arg_number>47</Arg_number>
     <Name>47 - UNDERFIREwarning</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Laser_Warn-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Laser_Warn-OFF.png</FilePictureOff>
     <PosX>655</PosX>
@@ -1672,7 +1672,7 @@
     <Arg_number>48</Arg_number>
     <Name>48 - LowerGear</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Extend_Gear-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Extend_Gear-OFF.png</FilePictureOff>
     <PosX>655</PosX>
@@ -1687,7 +1687,7 @@
     <Arg_number>59</Arg_number>
     <Name>59 - LeftMainGearUp</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>35</PosX>
@@ -1702,7 +1702,7 @@
     <Arg_number>63</Arg_number>
     <Name>63 - NoseGearUp</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>71</PosX>
@@ -1717,7 +1717,7 @@
     <Arg_number>61</Arg_number>
     <Name>61 - RightMainGearUp</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>106</PosX>
@@ -1732,7 +1732,7 @@
     <Arg_number>60</Arg_number>
     <Name>60 - LeftMainGearDown</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Green_Lamp-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Green_Lamp-OFF.png</FilePictureOff>
     <PosX>31</PosX>
@@ -1747,7 +1747,7 @@
     <Arg_number>64</Arg_number>
     <Name>64 - NoseGearDown</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Green_Lamp-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Green_Lamp-OFF.png</FilePictureOff>
     <PosX>71</PosX>
@@ -1762,7 +1762,7 @@
     <Arg_number>62</Arg_number>
     <Name>62 - RightMainGearDown</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Green_Lamp-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Green_Lamp-OFF.png</FilePictureOff>
     <PosX>109</PosX>
@@ -1777,7 +1777,7 @@
     <Arg_number>388</Arg_number>
     <Name>388 - PUI800_Sta1_WeapIsReady</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Light-green.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>814</PosX>
@@ -1792,7 +1792,7 @@
     <Arg_number>389</Arg_number>
     <Name>389 - PUI800_Sta2_WeapIsReady</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Light-green.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>866</PosX>
@@ -1807,7 +1807,7 @@
     <Arg_number>390</Arg_number>
     <Name>390 - PUI800_Sta3_WeapIsReady</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Light-green.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>973</PosX>
@@ -1822,7 +1822,7 @@
     <Arg_number>391</Arg_number>
     <Name>391 - PUI800_Sta4_WeapIsReady</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Light-green.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>1024</PosX>
@@ -1837,7 +1837,7 @@
     <Arg_number>392</Arg_number>
     <Name>392 - PUI800_Sta1_WeapIsPresent</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Light-yellow.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>814</PosX>
@@ -1852,7 +1852,7 @@
     <Arg_number>393</Arg_number>
     <Name>393 - PUI800_Sta2_WeapIsPresent</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Light-yellow.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>866</PosX>
@@ -1867,7 +1867,7 @@
     <Arg_number>394</Arg_number>
     <Name>394 - PUI800_Sta3_WeapIsPresent</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Light-yellow.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>973</PosX>
@@ -1882,7 +1882,7 @@
     <Arg_number>395</Arg_number>
     <Name>395 - PUI800_Sta4_WeapIsPresent</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Light-yellow.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>1024</PosX>
@@ -1897,7 +1897,7 @@
     <Arg_number>21</Arg_number>
     <Name>21 - Datalink TARGET_1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Green-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>72</PosX>
@@ -1912,7 +1912,7 @@
     <Arg_number>22</Arg_number>
     <Name>22 - Datalink TARGET_2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Green-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>148</PosX>
@@ -1927,7 +1927,7 @@
     <Arg_number>23</Arg_number>
     <Name>23 - Datalink TARGET_3</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Green-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>220</PosX>
@@ -1942,7 +1942,7 @@
     <Arg_number>50</Arg_number>
     <Name>50 - Datalink TARGET_POINT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Green-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>294</PosX>
@@ -1957,7 +1957,7 @@
     <Arg_number>17</Arg_number>
     <Name>17 - Datalink WINGMAN_1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Green-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>39</PosX>
@@ -1972,7 +1972,7 @@
     <Arg_number>18</Arg_number>
     <Name>18 - Datalink WINGMAN_2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Green-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>111</PosX>
@@ -1987,7 +1987,7 @@
     <Arg_number>19</Arg_number>
     <Name>19 - Datalink WINGMAN_3</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Green-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>180</PosX>
@@ -2002,7 +2002,7 @@
     <Arg_number>20</Arg_number>
     <Name>20 - Datalink WINGMAN_4</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Green-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>249</PosX>
@@ -2017,7 +2017,7 @@
     <Arg_number>16</Arg_number>
     <Name>16 - Datalink WINGMAN_ALL</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Green-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>321</PosX>
@@ -2032,7 +2032,7 @@
     <Arg_number>15</Arg_number>
     <Name>15 - Datalink CLEAN</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Green-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Green-off.png</FilePictureOff>
     <PosX>52</PosX>
@@ -2047,7 +2047,7 @@
     <Arg_number>161</Arg_number>
     <Name>161 - Datalink ERASE</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Yellow-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Yellow-off.png</FilePictureOff>
     <PosX>140</PosX>
@@ -2062,7 +2062,7 @@
     <Arg_number>150</Arg_number>
     <Name>150 - Datalink ESCAPE</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Yellow-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Yellow-off.png</FilePictureOff>
     <PosX>219</PosX>
@@ -2077,7 +2077,7 @@
     <Arg_number>159</Arg_number>
     <Name>159 - Datalink SEND</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Yellow-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Yellow-off.png</FilePictureOff>
     <PosX>302</PosX>
@@ -2092,7 +2092,7 @@
     <Arg_number>31</Arg_number>
     <Name>31 - Laser Warning System LampAzimuth_UpperHemisphere</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-LaserWarningReciver-up.png</FilePictureOn>
     <FilePictureOff>Ka-50-LaserWarningReciver-off.png</FilePictureOff>
     <PosX>66</PosX>
@@ -2107,7 +2107,7 @@
     <Arg_number>32</Arg_number>
     <Name>32 - Laser Warning System LampAzimuth_LowerHemisphere</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-LaserWarningReciver-down.png</FilePictureOn>
     <FilePictureOff>Ka-50-LaserWarningReciver-off.png</FilePictureOff>
     <PosX>69</PosX>
@@ -2122,7 +2122,7 @@
     <Arg_number>33</Arg_number>
     <Name>33 - Laser Warning System LampAzimuth_LaserRangefinder</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-LaserWarningReciver-RangeMode.png</FilePictureOn>
     <FilePictureOff>Ka-50-LaserWarningReciver-off.png</FilePictureOff>
     <PosX>74</PosX>
@@ -2137,7 +2137,7 @@
     <Arg_number>34</Arg_number>
     <Name>34 - Laser Warning System LampAzimuth_LaserTargetingSystem</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-LaserWarningReciver-GuidanceMode.png</FilePictureOn>
     <FilePictureOff>Ka-50-LaserWarningReciver-off.png</FilePictureOff>
     <PosX>72</PosX>
@@ -2152,7 +2152,7 @@
     <Arg_number>25</Arg_number>
     <Name>25 - Laser Warning System LampAzimuth_0</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>84</PosX>
@@ -2167,7 +2167,7 @@
     <Arg_number>28</Arg_number>
     <Name>28 - Laser Warning System LampAzimuth_90</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>151</PosX>
@@ -2182,7 +2182,7 @@
     <Arg_number>26</Arg_number>
     <Name>26 - Laser Warning System LampAzimuth_180</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>79</PosX>
@@ -2197,7 +2197,7 @@
     <Arg_number>27</Arg_number>
     <Name>27 - Laser Warning System LampAzimuth_270</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>16</PosX>
@@ -2212,7 +2212,7 @@
     <Arg_number>541</Arg_number>
     <Name>541 - UV-26 LeftBoard</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>30</PosX>
@@ -2227,7 +2227,7 @@
     <Arg_number>542</Arg_number>
     <Name>542 - UV-26 RightBoard</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Red_Lamp-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-Red_Lamp-OFF.png</FilePictureOff>
     <PosX>200</PosX>
@@ -2242,7 +2242,7 @@
     <Arg_number>438</Arg_number>
     <Name>438 - WeaponInterface button_AIRBORNE_TARGET</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-K-41-Buttons-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-K-41-Buttons-off.png</FilePictureOff>
     <PosX>818</PosX>
@@ -2257,7 +2257,7 @@
     <Arg_number>437</Arg_number>
     <Name>437 - WeaponInterface button_AUTO_TURN</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-K-41-Buttons-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-K-41-Buttons-off.png</FilePictureOff>
     <PosX>818</PosX>
@@ -2272,7 +2272,7 @@
     <Arg_number>441</Arg_number>
     <Name>441 - WeaponInterface button_CLEAR</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-K-41-Buttons-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-K-41-Buttons-off.png</FilePictureOff>
     <PosX>989</PosX>
@@ -2287,7 +2287,7 @@
     <Arg_number>439</Arg_number>
     <Name>439 - WeaponInterface button_FORWARD_HEMISPHERE</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-K-41-Buttons-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-K-41-Buttons-off.png</FilePictureOff>
     <PosX>882</PosX>
@@ -2302,7 +2302,7 @@
     <Arg_number>440</Arg_number>
     <Name>440 - WeaponInterface button_GROUND_MOVING_TARGET</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-K-41-Buttons-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-K-41-Buttons-off.png</FilePictureOff>
     <PosX>882</PosX>
@@ -2317,7 +2317,7 @@
     <ClickabledataID>72</ClickabledataID>
     <Name>Master caution push-light</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-MasterButton.png</FilePictureOn>
     <FilePictureOff>Ka-50-MasterButton.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2338,7 +2338,7 @@
     <ClickabledataID>74</ClickabledataID>
     <Name>Rotor RPM warning push-light</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-RotorRPMButton.png</FilePictureOn>
     <FilePictureOff>Ka-50-RotorRPMButton.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2359,7 +2359,7 @@
     <ClickabledataID>73</ClickabledataID>
     <Name>Lamps test</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-PushButton_round-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-PushButton_round-OFF.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2380,7 +2380,7 @@
     <ClickabledataID>49</ClickabledataID>
     <Name>PUI800 - Master Arm</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2401,7 +2401,7 @@
     <ClickabledataID>50</ClickabledataID>
     <Name>PUI800 - External stores jettison</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Emergency-launch-button-red-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-Emergency-launch-button-red-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2422,7 +2422,7 @@
     <ClickabledataID>51</ClickabledataID>
     <Name>PUI800 - Jettison arm mode - arm fuse/disarm fuse</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2443,7 +2443,7 @@
     <ClickabledataID>56</ClickabledataID>
     <Name>PUI800 - Expedite emergency ATGM launch</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>guard_on.png</FilePictureOn>
     <FilePictureOff>guard_save.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2464,7 +2464,7 @@
     <ClickabledataID>52</ClickabledataID>
     <Name>PUI800 - Manual/Auto weapon system control switch</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2485,7 +2485,7 @@
     <ClickabledataID>54</ClickabledataID>
     <Name>PUI800 - Weapon mode switch - Burst Length</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
@@ -2506,7 +2506,7 @@
     <ClickabledataID>53</ClickabledataID>
     <Name>PUI800 - Cannon round selector switch HE/AP</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2527,7 +2527,7 @@
     <ClickabledataID>55</ClickabledataID>
     <Name>PUI800 - Cannon rate of fire setting</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2548,7 +2548,7 @@
     <ClickabledataID>46</ClickabledataID>
     <Name>ABRIS - Power</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2569,7 +2569,7 @@
     <ClickabledataID>45</ClickabledataID>
     <Name>ABRIS - Brightness</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-ABRIS-Knop.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2590,7 +2590,7 @@
     <ClickabledataID>38</ClickabledataID>
     <Name>ABRIS - Pushbutton 1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-ABRIS-Button.png</FilePictureOn>
     <FilePictureOff>Ka-50-ABRIS-Button.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2611,7 +2611,7 @@
     <ClickabledataID>39</ClickabledataID>
     <Name>ABRIS - Pushbutton 2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-ABRIS-Button.png</FilePictureOn>
     <FilePictureOff>Ka-50-ABRIS-Button.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2632,7 +2632,7 @@
     <ClickabledataID>40</ClickabledataID>
     <Name>ABRIS - Pushbutton 3</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-ABRIS-Button.png</FilePictureOn>
     <FilePictureOff>Ka-50-ABRIS-Button.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2653,7 +2653,7 @@
     <ClickabledataID>41</ClickabledataID>
     <Name>ABRIS - Pushbutton 4</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-ABRIS-Button.png</FilePictureOn>
     <FilePictureOff>Ka-50-ABRIS-Button.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2674,7 +2674,7 @@
     <ClickabledataID>42</ClickabledataID>
     <Name>ABRIS - Pushbutton 5</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-ABRIS-Button.png</FilePictureOn>
     <FilePictureOff>Ka-50-ABRIS-Button.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2695,7 +2695,7 @@
     <ClickabledataID>43</ClickabledataID>
     <Name>ABRIS - Cursor control</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-ABRIS-Knop.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2716,7 +2716,7 @@
     <ClickabledataID>172</ClickabledataID>
     <Name>Main/Common hydraulics for emergency gear</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ussr_white+red_up.png</FilePictureOn>
     <FilePictureOff>ussr_white+red_down.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2737,7 +2737,7 @@
     <ClickabledataID>171</ClickabledataID>
     <Name>Gear lever</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-Gear-lever-down.png</FilePictureOn>
     <FilePictureOff>Ka-Gear-lever-up.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2758,7 +2758,7 @@
     <ClickabledataID>44</ClickabledataID>
     <Name>ABRIS - Cursor control (push)</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Transparent-Button.png</FilePictureOn>
     <FilePictureOff />
     <FilePicture2On>-</FilePicture2On>
@@ -2779,7 +2779,7 @@
     <ClickabledataID>132</ClickabledataID>
     <Name>DLNK Target #1/Vehicle</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Target1-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Target1-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2800,7 +2800,7 @@
     <ClickabledataID>133</ClickabledataID>
     <Name>DLNK Target #2/SAM</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Target2-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Target2-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2821,7 +2821,7 @@
     <ClickabledataID>134</ClickabledataID>
     <Name>DLNK Target #3/Other Type</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Target3-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Target3-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2842,7 +2842,7 @@
     <ClickabledataID>135</ClickabledataID>
     <Name>DLNK Ingress point</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Target4-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Target4-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2863,7 +2863,7 @@
     <ClickabledataID>128</ClickabledataID>
     <Name>DLNK to Wingman 1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-1-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-1-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2884,7 +2884,7 @@
     <ClickabledataID>129</ClickabledataID>
     <Name>DLNK to Wingman 2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-2-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Target2-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2905,7 +2905,7 @@
     <ClickabledataID>130</ClickabledataID>
     <Name>DLNK to Wingman 3</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-3-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-3-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2926,7 +2926,7 @@
     <ClickabledataID>131</ClickabledataID>
     <Name>DLNK to Wingman 4</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-4-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-4-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2947,7 +2947,7 @@
     <ClickabledataID>127</ClickabledataID>
     <Name>DLNK to ALL</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-DlToAll-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-DlToAll-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2968,7 +2968,7 @@
     <ClickabledataID>126</ClickabledataID>
     <Name>DLNK Erase</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Clear-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Clear-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2989,7 +2989,7 @@
     <ClickabledataID>125</ClickabledataID>
     <Name>DLNK Ingress to target</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-DlIngress-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-DlIngress-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3010,7 +3010,7 @@
     <ClickabledataID>124</ClickabledataID>
     <Name>DLNK Send/Memory</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-SendMem-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-SendMem-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3031,7 +3031,7 @@
     <ClickabledataID>184</ClickabledataID>
     <Name>LWS Reset button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-PushButton_round-ON.png</FilePictureOn>
     <FilePictureOff>Ka-50-PushButton_round-OFF.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3052,7 +3052,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>DataLink-LWR</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-DataLink-Panel-Button.png</FilePictureOn>
     <FilePictureOff>Ka-50-DataLink-Panel-Button.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3072,7 +3072,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>UV-26 Panel</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-UV26-Panel-Button.png</FilePictureOn>
     <FilePictureOff>Ka-50-UV26-Panel-Button.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3092,7 +3092,7 @@
     <ClickabledataID>107</ClickabledataID>
     <Name>UV-26 Select Left/Both/Right board flares dispensers 1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
@@ -3113,7 +3113,7 @@
     <ClickabledataID>109</ClickabledataID>
     <Name>UV-26 Amount flares counter/Programming</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3134,7 +3134,7 @@
     <ClickabledataID>114</ClickabledataID>
     <Name>UV-26 Reset to default program</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-UV26-RESPROG-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-UV26-RESPROG-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3155,7 +3155,7 @@
     <ClickabledataID>115</ClickabledataID>
     <Name>UV-26 Stop dispense</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-UV26-STOP-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-UV26-STOP-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3176,7 +3176,7 @@
     <ClickabledataID>113</ClickabledataID>
     <Name>UV-26 Start dispense</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-UV26-START-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-UV26-START-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3197,7 +3197,7 @@
     <ClickabledataID>112</ClickabledataID>
     <Name>UV-26 Dispense interval</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-UV26-INTERVAL-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-UV26-INTERVAL-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3218,7 +3218,7 @@
     <ClickabledataID>110</ClickabledataID>
     <Name>UV-26 Num of sequences</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-UV26-NUM-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-UV26-NUM-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3239,7 +3239,7 @@
     <ClickabledataID>111</ClickabledataID>
     <Name>UV-26 Num in sequence</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-UV26-SAL-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-UV26-SAL-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3260,7 +3260,7 @@
     <ClickabledataID>59</ClickabledataID>
     <Name>K-041 - Training mode</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3281,7 +3281,7 @@
     <ClickabledataID>60</ClickabledataID>
     <Name>K-041 - Automatic turn on target mode</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-K-41-AutoTurn-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-K-41-AutoTurn-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3302,7 +3302,7 @@
     <ClickabledataID>61</ClickabledataID>
     <Name>K-041 - Airborne Target</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-K-41-AA-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-K-41-AA-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3323,7 +3323,7 @@
     <ClickabledataID>62</ClickabledataID>
     <Name>K-041 - Forward hemisphere (head-on) air target aspect</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-K-41-AAHO-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-K-41-AAHO-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3344,7 +3344,7 @@
     <ClickabledataID>63</ClickabledataID>
     <Name>K-041 - Ground moving target</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-K-41-MovGndTgt-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-K-41-MovGndTgt-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3365,7 +3365,7 @@
     <ClickabledataID>65</ClickabledataID>
     <Name>K-041 - Weapon system mode selector (right rotation)</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-Kanon-MultiSwitch.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3386,7 +3386,7 @@
     <ClickabledataID>66</ClickabledataID>
     <Name>K-041 - Targeting mode reset</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-K-41-Reset-on.png</FilePictureOn>
     <FilePictureOff>Ka-50-K-41-Reset-off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3407,7 +3407,7 @@
     <ClickabledataID>67</ClickabledataID>
     <Name>K-041 - Automatic Tracking / gun sight</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3428,7 +3428,7 @@
     <ClickabledataID>47</ClickabledataID>
     <Name>Laser standby ON/OFF switch</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3449,7 +3449,7 @@
     <ClickabledataID>119</ClickabledataID>
     <Name>Helmet-mounted sight system power switch</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3470,7 +3470,7 @@
     <ClickabledataID>259</ClickabledataID>
     <Name>K-041 - Targeting-navigation system power switch</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3491,7 +3491,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>Kneeboard</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Ka-50-KneeboardPanel-Button.png</FilePictureOn>
     <FilePictureOff>Ka-50-KneeboardPanel-Button.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
