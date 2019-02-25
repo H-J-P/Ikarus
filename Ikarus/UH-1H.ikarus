@@ -211,7 +211,7 @@
   <Instruments>
     <IDInst>20</IDInst>
     <Name>ADI</Name>
-    <Class>UH1_ADI</Class>
+    <Class>UH1_ADI_Sphere2</Class>
     <PosX>1110</PosX>
     <PosY>100</PosY>
     <Size>300</Size>

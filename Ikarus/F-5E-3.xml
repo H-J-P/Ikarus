@@ -426,6 +426,24 @@
     <ExportIDWithDescription>819 - Brightness regulation IFFLights</ExportIDWithDescription>
     <Type>Lamp</Type>
   </DCS_ID>
+  <DCS_ID>
+    <ExportID>2000</ExportID>
+    <Description>UHF Frequency</Description>
+    <ExportIDWithDescription>2000 - UHF Frequency</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2001</ExportID>
+    <Description>UHF Preset</Description>
+    <ExportIDWithDescription>2001 - UHF Preset</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
+  <DCS_ID>
+    <ExportID>2002</ExportID>
+    <Description>TACAN Frequency</Description>
+    <ExportIDWithDescription>2002 - TACAN Frequency</ExportIDWithDescription>
+    <Type>Display</Type>
+  </DCS_ID>
   <Clickabledata>
     <ID>523</ID>
     <DeviceID>2</DeviceID>
@@ -1190,7 +1208,7 @@
     <ID>634</ID>
     <DeviceID>16</DeviceID>
     <ButtonID>4</ButtonID>
-    <Discription>Nav Mode Selector Switch, DF/TACAN</Discription>
+    <Discription>Nav Mode Selector Switch, DF/TACAN {0.0, 0.1}</Discription>
     <Type>Switch</Type>
     <DcsID>273</DcsID>
   </Clickabledata>
@@ -1518,7 +1536,7 @@
     <ID>699</ID>
     <DeviceID>23</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Preset Channel Selector Knob</Discription>
+    <Discription>UHF Radio Preset Channel Selector Knob {0.0, 0.05, 0.1, ..., 0.9, 0.95, 1.0}</Discription>
     <Type>Switch</Type>
     <DcsID>300</DcsID>
   </Clickabledata>
@@ -1526,7 +1544,7 @@
     <ID>700</ID>
     <DeviceID>23</DeviceID>
     <ButtonID>2</ButtonID>
-    <Discription>100 MHz Frequency Selector Knob</Discription>
+    <Discription>UHF Radio 100 MHz Frequency Selector Knob {0.0, 0.1, 0.2, 0.3}</Discription>
     <Type>Switch</Type>
     <DcsID>327</DcsID>
   </Clickabledata>
@@ -1534,7 +1552,7 @@
     <ID>701</ID>
     <DeviceID>23</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>10 MHz Frequency Selector Knob</Discription>
+    <Discription>UHF Radio 10 MHz Frequency Selector Knob {0.0, 0.1, 0.2,..., 0.7, 0.8, 0.9}</Discription>
     <Type>Switch</Type>
     <DcsID>328</DcsID>
   </Clickabledata>
@@ -1542,7 +1560,7 @@
     <ID>702</ID>
     <DeviceID>23</DeviceID>
     <ButtonID>4</ButtonID>
-    <Discription>1 MHz Frequency Selector Knob</Discription>
+    <Discription>UHF Radio 1 MHz Frequency Selector Knob {0.0, 0.1, 0.2,..., 0.7, 0.8, 0.9}</Discription>
     <Type>Switch</Type>
     <DcsID>329</DcsID>
   </Clickabledata>
@@ -1550,7 +1568,7 @@
     <ID>703</ID>
     <DeviceID>23</DeviceID>
     <ButtonID>5</ButtonID>
-    <Discription>0.1 MHz Frequency Selector Knob</Discription>
+    <Discription>UHF Radio 0.1 MHz Frequency Selector Knob {0.0, 0.1, 0.2,..., 0.7, 0.8, 0.9}</Discription>
     <Type>Switch</Type>
     <DcsID>330</DcsID>
   </Clickabledata>
@@ -1558,7 +1576,7 @@
     <ID>704</ID>
     <DeviceID>23</DeviceID>
     <ButtonID>6</ButtonID>
-    <Discription>0.025 MHz Frequency Selector Knob</Discription>
+    <Discription>UHF Radio 0.025 MHz Frequency Selector Knob {0.0, 0.25, 0.5, 0.75}</Discription>
     <Type>Switch</Type>
     <DcsID>331</DcsID>
   </Clickabledata>
@@ -1566,7 +1584,7 @@
     <ID>705</ID>
     <DeviceID>23</DeviceID>
     <ButtonID>7</ButtonID>
-    <Discription>Frequency Mode Selector Switch, MANUAL/PRESET/GUARD</Discription>
+    <Discription>UHF Radio Frequency Mode Selector Switch, MANUAL/PRESET/GUARD {0.0, 0.1, 0.2}</Discription>
     <Type>Switch</Type>
     <DcsID>307</DcsID>
   </Clickabledata>
@@ -1574,7 +1592,7 @@
     <ID>706</ID>
     <DeviceID>23</DeviceID>
     <ButtonID>8</ButtonID>
-    <Discription>Function Selector Switch, OFF/MAIN/BOTH/ADF</Discription>
+    <Discription>UHF Radio Function Selector Switch, OFF/MAIN/BOTH/ADF {0.0, 0.1, 0.2, 0.3}</Discription>
     <Type>Switch</Type>
     <DcsID>311</DcsID>
   </Clickabledata>
@@ -1582,7 +1600,7 @@
     <ID>707</ID>
     <DeviceID>23</DeviceID>
     <ButtonID>9</ButtonID>
-    <Discription>Tone Button</Discription>
+    <Discription>UHF Radio Tone Button</Discription>
     <Type>Switch</Type>
     <DcsID>310</DcsID>
   </Clickabledata>
@@ -1590,7 +1608,7 @@
     <ID>708</ID>
     <DeviceID>23</DeviceID>
     <ButtonID>10</ButtonID>
-    <Discription>Squelch Switch, ON/OFF</Discription>
+    <Discription>UHF Radio Squelch Switch, ON/OFF</Discription>
     <Type>Switch</Type>
     <DcsID>308</DcsID>
   </Clickabledata>
@@ -1598,7 +1616,7 @@
     <ID>709</ID>
     <DeviceID>23</DeviceID>
     <ButtonID>11</ButtonID>
-    <Discription>Volume Knob</Discription>
+    <Discription>UHF Radio Volume Knob {0.0, 1.0} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
     <DcsID>309</DcsID>
   </Clickabledata>
@@ -1606,7 +1624,7 @@
     <ID>710</ID>
     <DeviceID>23</DeviceID>
     <ButtonID>16</ButtonID>
-    <Discription>Antenna Selector Switch, UPPER/AUTO/LOWER</Discription>
+    <Discription>UHF Radio Antenna Selector Switch, UPPER/AUTO/LOWER {0.0, 0.5, 1.0}</Discription>
     <Type>Switch</Type>
     <DcsID>336</DcsID>
   </Clickabledata>
@@ -1619,50 +1637,66 @@
     <DcsID>135</DcsID>
   </Clickabledata>
   <Clickabledata>
+    <ID>712</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>22</ButtonID>
+    <Discription>UHF Radio Hinged Access Door, OPEN/CLOSE</Discription>
+    <Type>Switch</Type>
+    <DcsID>335</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>713</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>24</ButtonID>
+    <Discription>UHF Radio Preset Channel Set Button - Press to set channel frequency</Discription>
+    <Type>Switch</Type>
+    <DcsID>314</DcsID>
+  </Clickabledata>
+  <Clickabledata>
     <ID>716</ID>
-    <DeviceID>25</DeviceID>
+    <DeviceID>41</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Tacan Channel Selector (Tens) - Rotate mouse wheel to select</Discription>
+    <Discription>Tacan Channel Selector (Tens) - Rotate mouse wheel to select {0.0, 1.2} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
     <DcsID>256</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>717</ID>
-    <DeviceID>25</DeviceID>
-    <ButtonID>3</ButtonID>
-    <Discription>Tacan Channel Selector (Ones)</Discription>
+    <DeviceID>41</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>Tacan Channel Selector (Ones) {0.0, 0.9} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
     <DcsID>257</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>718</ID>
-    <DeviceID>25</DeviceID>
-    <ButtonID>5</ButtonID>
+    <DeviceID>41</DeviceID>
+    <ButtonID>3</ButtonID>
     <Discription>Tacan X/Y Mode - Right mouse click to select X/Y</Discription>
     <Type>Switch</Type>
     <DcsID>258</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>719</ID>
-    <DeviceID>25</DeviceID>
-    <ButtonID>6</ButtonID>
+    <DeviceID>41</DeviceID>
+    <ButtonID>4</ButtonID>
     <Discription>Tacan Signal on HSI Test Button</Discription>
     <Type>Switch</Type>
     <DcsID>259</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>720</ID>
-    <DeviceID>25</DeviceID>
-    <ButtonID>7</ButtonID>
-    <Discription>Tacan Signal Volume Knob</Discription>
+    <DeviceID>41</DeviceID>
+    <ButtonID>5</ButtonID>
+    <Discription>Tacan Signal Volume Knob {0.0, 1.0} in 0.1 Steps</Discription>
     <Type>Rotary</Type>
     <DcsID>261</DcsID>
   </Clickabledata>
   <Clickabledata>
     <ID>721</ID>
-    <DeviceID>25</DeviceID>
-    <ButtonID>8</ButtonID>
-    <Discription>Tacan Mode Selector Switch</Discription>
+    <DeviceID>41</DeviceID>
+    <ButtonID>6</ButtonID>
+    <Discription>Tacan Mode Selector Switch {0.0, 0.1, 0.2, 0.3, 0.4}</Discription>
     <Type>Switch</Type>
     <DcsID>262</DcsID>
   </Clickabledata>
@@ -1953,5 +1987,9 @@
   <Devices>
     <DeviceID>40</DeviceID>
     <Discription>ARCADE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>41</DeviceID>
+    <Discription>TACAN_CTRL_PANEL</Discription>
   </Devices>
 </DTADataSet>

@@ -571,6 +571,12 @@
     <Type>Lamp</Type>
   </DCS_ID>
   <DCS_ID>
+    <ExportID>177</ExportID>
+    <Description>ENGINE FLOW W</Description>
+    <ExportIDWithDescription>177 - ENGINE FLOW W</ExportIDWithDescription>
+    <Type>Lamp</Type>
+  </DCS_ID>
+  <DCS_ID>
     <ExportID>2001</ExportID>
     <Description>ENGINE DISPLAY DUCT</Description>
     <ExportIDWithDescription>2001 - ENGINE DISPLAY DUCT</ExportIDWithDescription>
@@ -981,7 +987,7 @@
     <DeviceID>23</DeviceID>
     <ButtonID>300</ButtonID>
     <Discription>UFC Comm 1 Channel Selector</Discription>
-    <Type>Switch</Type>
+    <Type>Rotary</Type>
     <DcsID>300</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -989,7 +995,7 @@
     <DeviceID>23</DeviceID>
     <ButtonID>301</ButtonID>
     <Discription>UFC Comm 2 Channel Selector</Discription>
-    <Type>Switch</Type>
+    <Type>Rotary</Type>
     <DcsID>301</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -2527,6 +2533,22 @@
     <Discription>Manual Fuel Switch</Discription>
     <Type>Switch</Type>
     <DcsID>484</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>989</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>178</ButtonID>
+    <Discription>UFC Comm 1 Show Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>178</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>990</ID>
+    <DeviceID>23</DeviceID>
+    <ButtonID>179</ButtonID>
+    <Discription>UFC Comm 2 Show Button</Discription>
+    <Type>Switch</Type>
+    <DcsID>179</DcsID>
   </Clickabledata>
   <Devices>
     <DeviceID>1</DeviceID>

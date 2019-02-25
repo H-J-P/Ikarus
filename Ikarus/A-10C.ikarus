@@ -6,7 +6,7 @@
     <Class>A10_ALT</Class>
     <PosX>1147</PosX>
     <PosY>370</PosY>
-    <Size>240</Size>
+    <Size>230</Size>
     <Rotate>0</Rotate>
     <ImageFrame>A10_Frame4.png</ImageFrame>
     <ImageLight>greenGlass15.png</ImageLight>
@@ -1789,7 +1789,7 @@
     <Offset>0</Offset>
     <Input>0,1</Input>
     <Output>0,360</Output>
-    <Ascii>true</Ascii>
+    <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue>-</OldAsciiValue>
     <In />
@@ -6873,7 +6873,7 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.04,1</Input>
     <Output> 0, 360</Output>
-    <PosX>1164</PosX>
+    <PosX>1163</PosX>
     <PosY>557</PosY>
     <Size>45</Size>
     <Rotate>0</Rotate>
@@ -9064,7 +9064,7 @@
   <Window>
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
-    <PosX>400</PosX>
+    <PosX>0</PosX>
     <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
