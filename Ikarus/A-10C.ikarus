@@ -3534,7 +3534,7 @@
     <FilePictureOn>HeadingSetKnop.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.002778,1</Input>
+    <Input>0.0,1.0,0.1,1</Input>
     <Output>0.0,360</Output>
     <PosX>804</PosX>
     <PosY>803</PosY>
@@ -3555,7 +3555,7 @@
     <FilePictureOn>CourseSetKnop.png</FilePictureOn>
     <FilePictureOff />
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.002778,1</Input>
+    <Input>0.0,1.0,0.1,1</Input>
     <Output>0.0,360</Output>
     <PosX>1067</PosX>
     <PosY>802</PosY>
@@ -9064,7 +9064,7 @@
   <Window>
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
-    <PosX>0</PosX>
+    <PosX>400</PosX>
     <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
