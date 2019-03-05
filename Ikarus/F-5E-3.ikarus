@@ -779,24 +779,8 @@
   </Functions>
   <Functions>
     <IDInst>7</IDInst>
-    <IDFct>10</IDFct>
-    <Name>HSI Course_100</Name>
-    <Arg_number>275</Arg_number>
-    <Value>0</Value>
-    <OldValue>1</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue>-</OldAsciiValue>
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>7</IDInst>
     <IDFct>11</IDFct>
-    <Name>HSI Course_010</Name>
+    <Name>HSI Course_100_010</Name>
     <Arg_number>276</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
