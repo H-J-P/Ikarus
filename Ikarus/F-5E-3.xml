@@ -1505,7 +1505,7 @@
     <DeviceID>34</DeviceID>
     <ButtonID>1</ButtonID>
     <Discription>Pitch Trim Knob</Discription>
-    <Type>Rotary</Type>
+    <Type>Switch</Type>
     <DcsID>441</DcsID>
   </Clickabledata>
   <Clickabledata>

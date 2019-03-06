@@ -4800,6 +4800,22 @@
     <Type>Switch</Type>
     <DcsID>0</DcsID>
   </Clickabledata>
+  <Clickabledata>
+    <ID>523</ID>
+    <DeviceID>48</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>Cage Standby Attitude Indicator</Discription>
+    <Type>Switch</Type>
+    <DcsID>67</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>524</ID>
+    <DeviceID>48</DeviceID>
+    <ButtonID>3</ButtonID>
+    <Discription>Cage Standby Attitude Indicator</Discription>
+    <Type>Rotary</Type>
+    <DcsID>66</DcsID>
+  </Clickabledata>
   <Devices>
     <DeviceID>1</DeviceID>
     <Discription>ELEC_INTERFACE</Discription>

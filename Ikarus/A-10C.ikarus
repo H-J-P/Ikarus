@@ -1031,7 +1031,7 @@
     <IDInst>5</IDInst>
     <IDFct>4</IDFct>
     <Name>Standby ADI manual Pitch</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>715</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
@@ -6873,8 +6873,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.04,1</Input>
     <Output> 0, 360</Output>
-    <PosX>1163</PosX>
-    <PosY>557</PosY>
+    <PosX>1554</PosX>
+    <PosY>696</PosY>
     <Size>45</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -8974,6 +8974,48 @@
     <WindowID>3</WindowID>
     <DcsID>249</DcsID>
   </Switches>
+  <Switches>
+    <ID>277</ID>
+    <Class>RotaryRelativ</Class>
+    <ClickabledataID>524</ClickabledataID>
+    <Name>Cage Standby Attitude Indicator</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>knob_solo.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 30</Output>
+    <PosX>552</PosX>
+    <PosY>728</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>66</DcsID>
+  </Switches>
+  <Switches>
+    <ID>278</ID>
+    <Class>Button</Class>
+    <ClickabledataID>523</ClickabledataID>
+    <Name>Cage Standby Attitude Indicator</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output> 0, 30</Output>
+    <PosX>573</PosX>
+    <PosY>748</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>67</DcsID>
+  </Switches>
   <Accessories>
     <ID>1</ID>
     <Class>Label</Class>
@@ -9064,7 +9106,7 @@
   <Window>
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
-    <PosX>400</PosX>
+    <PosX>0</PosX>
     <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
