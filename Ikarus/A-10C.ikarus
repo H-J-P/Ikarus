@@ -2435,6 +2435,22 @@
     <In />
     <Out />
   </Functions>
+  <Functions>
+    <IDInst>4</IDInst>
+    <IDFct>11</IDFct>
+    <Name>Silhouette</Name>
+    <Arg_number>22</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
   <Lamps>
     <ID>1</ID>
     <Class>LampOnOff</Class>
@@ -9015,6 +9031,27 @@
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
     <DcsID>67</DcsID>
+  </Switches>
+  <Switches>
+    <ID>279</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>394</ClickabledataID>
+    <Name>ADI - Pitch Trim Knob</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>knob_solo.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>-1.0,1.0,0.1</Input>
+    <Output> -90, 90</Output>
+    <PosX>1046</PosX>
+    <PosY>487</PosY>
+    <Size>85</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>22</DcsID>
   </Switches>
   <Accessories>
     <ID>1</ID>

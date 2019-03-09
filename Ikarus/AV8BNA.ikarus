@@ -1641,6 +1641,22 @@
     <In />
     <Out />
   </Functions>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>4</IDFct>
+    <Name>ADI Silhouette</Name>
+    <Arg_number>351</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
   <Lamps>
     <ID>1</ID>
     <Class>LampOnOff</Class>
