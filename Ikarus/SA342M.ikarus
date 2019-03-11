@@ -201,13 +201,13 @@
     <Name>Compass rose</Name>
     <Arg_number>113</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -217,13 +217,13 @@
     <Name>Heading Needle large</Name>
     <Arg_number>102</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -233,13 +233,13 @@
     <Name>Heading Needle fine</Name>
     <Arg_number>103</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -249,13 +249,13 @@
     <Name>FlagCAP</Name>
     <Arg_number>107</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -265,13 +265,13 @@
     <Name>FlagBut</Name>
     <Arg_number>109</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -281,13 +281,13 @@
     <Name>PX Flag</Name>
     <Arg_number>108</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -297,13 +297,13 @@
     <Name>Distance X00</Name>
     <Arg_number>110</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -313,13 +313,13 @@
     <Name>Distance 0X0</Name>
     <Arg_number>111</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -329,13 +329,13 @@
     <Name>Distance 00X</Name>
     <Arg_number>112</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -345,13 +345,13 @@
     <Name>Hour</Name>
     <Arg_number>41</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -361,13 +361,13 @@
     <Name>Minute</Name>
     <Arg_number>42</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -377,13 +377,13 @@
     <Name>Crono_Second</Name>
     <Arg_number>43</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -393,13 +393,13 @@
     <Name>Crono_Minute</Name>
     <Arg_number>44</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -409,13 +409,13 @@
     <Name>thousands Needle</Name>
     <Arg_number>87</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -425,13 +425,13 @@
     <Name>hundred Needle</Name>
     <Arg_number>573</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -441,13 +441,13 @@
     <Name>Pressure 000X</Name>
     <Arg_number>88</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -457,13 +457,13 @@
     <Name>Pressure 00X0</Name>
     <Arg_number>90</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -473,13 +473,13 @@
     <Name>Pressure 0X00</Name>
     <Arg_number>92</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -489,13 +489,13 @@
     <Name>Pressure X000</Name>
     <Arg_number>95</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -505,13 +505,13 @@
     <Name>Radar_Altimeter</Name>
     <Arg_number>94</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -521,13 +521,13 @@
     <Name>DangerRALT_index</Name>
     <Arg_number>93</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -537,13 +537,13 @@
     <Name>RAltlamp</Name>
     <Arg_number>97</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -553,13 +553,13 @@
     <Name>OFF Flag</Name>
     <Arg_number>98</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -569,13 +569,13 @@
     <Name>A Flag Test</Name>
     <Arg_number>99</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -585,13 +585,13 @@
     <Name>Torque</Name>
     <Arg_number>16</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.085,0.13,0.172,0.214,0.253,0.289,0.326,0.362,0.395,0.43,0.466,0.501,0.537,0.573,0.607,0.639,0.676,0.71,0.746,0.785,0.826,0.865,0.908</Input>
     <Output>0,  12,   24,   36,   50,   62,   74,   86,   98, 115,  127,  140,  152,  167,  180,  194,  208, 220,  234,  248,  260,  272, 285</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -601,13 +601,13 @@
     <Name>Torque_Bug</Name>
     <Arg_number>55</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.085,0.13,0.172,0.214,0.253,0.289,0.326,0.362,0.395,0.43,0.466,0.501,0.537,0.573,0.607,0.639,0.676,0.71,0.746,0.785,0.826,0.865,0.908</Input>
     <Output>0,  12,   24,   36,   50,   62,   74,   86,   98, 115,  127,  140,  152,  167,  180,  194,  208, 220,  234,  248,  260,  272, 285</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -617,13 +617,13 @@
     <Name>Torque_Lamp</Name>
     <Arg_number>17</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.085,0.13,0.172,0.214,0.253,0.289,0.326,0.362,0.395,0.43,0.466,0.501,0.537,0.573,0.607,0.639,0.676,0.71,0.746,0.785,0.826,0.865,0.908</Input>
     <Output>0,  12,   24,   36,   50,   62,   74,   86,   98, 115,  127,  140,  152,  167,  180,  194,  208, 220,  234,  248,  260,  272, 285</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -633,13 +633,13 @@
     <Name>Fuel Indicator</Name>
     <Arg_number>137</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,0.87,1.0</Input>
     <Output>0,220,300</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -649,13 +649,13 @@
     <Name>Pitch</Name>
     <Arg_number>27</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -665,13 +665,13 @@
     <Name>Roll</Name>
     <Arg_number>28</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -681,13 +681,13 @@
     <Name>Slip Ball</Name>
     <Arg_number>20</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -697,13 +697,13 @@
     <Name>GS Flag</Name>
     <Arg_number>18</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -713,13 +713,13 @@
     <Name>Fault Flag</Name>
     <Arg_number>19</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -729,13 +729,13 @@
     <Name>Lock Flag</Name>
     <Arg_number>29</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -745,13 +745,13 @@
     <Name>Knob Needle</Name>
     <Arg_number>117</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -761,13 +761,13 @@
     <Name>W Sympol</Name>
     <Arg_number>120</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -777,13 +777,13 @@
     <Name>Vertical Bar</Name>
     <Arg_number>118</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -793,13 +793,13 @@
     <Name>Horizon Bar</Name>
     <Arg_number>119</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -809,13 +809,13 @@
     <Name>Variometer</Name>
     <Arg_number>24</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-0.481,-0.436,-0.391,-0.338,-0.28,-0.218,-0.153,-0.075,-0.035,0.0,0.035,0.071,0.139,0.202,0.264,0.32,0.372,0.418,0.463</Input>
     <Output>-170,  -155, -138, -118, -96, -72, -50, -24, -12, 0, 12, 24, 50, 72, 96, 118, 138, 155, 170</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -825,13 +825,13 @@
     <Name>IAS</Name>
     <Arg_number>51</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0,0.1,0.133,0.172,0.207,0.243,0.277,0.316,0.35,0.38,0.41,0.439,0.465,0.491,0.517,0.541,0.565,0.587,0.611,0.63,0.651,0.671,0.692,0.712,0.731,0.75,0.77,0.791,0.809,0.829,0.849,0.867,0.886</Input>
     <Output>0, 33,   45,   60,   72,   84,   96,  110, 124, 136, 147,  158,  167,  178,  188,  196,  204,  214,  222, 228,  236,  244,  252,  260,   266,272, 280,  286,  292,  298,  307,  314,  320</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -841,13 +841,13 @@
     <Name>Turbine_RPM</Name>
     <Arg_number>135</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,0.181,0.263,0.346,0.424,0.505,0.572,0.665,0.748,0.8,1.0</Input>
     <Output>    0,   30,   60,   90,  120, 150,   180,  210,  240,  258,  300</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -857,13 +857,13 @@
     <Name>Rotor_RPM</Name>
     <Arg_number>52</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,0.181,0.263,0.346,0.424,0.505,0.572,0.665,0.748,0.8,1.0</Input>
     <Output>    0,   30,   60,   90,  120, 150,   180,  210,  240,  258,  300</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -873,13 +873,13 @@
     <Name>Voltmeter</Name>
     <Arg_number>14</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,0.5,1.0</Input>
     <Output>0,160,245</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -889,13 +889,13 @@
     <Name>Engine temperature</Name>
     <Arg_number>15</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,270</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -905,13 +905,13 @@
     <Name>Oil Temperature</Name>
     <Arg_number>151</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,0.3,1.0</Input>
     <Output>0,90,230</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -921,13 +921,13 @@
     <Name>Fuel Tank Indicator Q</Name>
     <Arg_number>152</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,-90</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -937,13 +937,13 @@
     <Name>Pitch</Name>
     <Arg_number>213</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -953,13 +953,13 @@
     <Name>Roll</Name>
     <Arg_number>214</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -969,13 +969,13 @@
     <Name>Fault Flag</Name>
     <Arg_number>211</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -985,13 +985,13 @@
     <Name>W Symbol</Name>
     <Arg_number>212</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1001,13 +1001,29 @@
     <Name>External_Ring</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>7</IDInst>
+    <IDFct>11</IDFct>
+    <Name>Silhouette</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1017,7 +1033,7 @@
     <Arg_number>300</Arg_number>
     <Name>300 - Engine - Start</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
     <PosX>1387</PosX>
@@ -1032,7 +1048,7 @@
     <Arg_number>301</Arg_number>
     <Name>301 - Engine - Idle</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AJS37_Green-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
     <PosX>1438</PosX>
@@ -1047,7 +1063,7 @@
     <Arg_number>302</Arg_number>
     <Name>302 - Engine - Blocked</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AJS37_Red-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
     <PosX>1490</PosX>
@@ -1062,7 +1078,7 @@
     <Arg_number>303</Arg_number>
     <Name>303 - Alarm - Master</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>AJS37_Red-on.png</FilePictureOn>
     <FilePictureOff>AJS37_Lamp_Off.png</FilePictureOff>
     <PosX>1597</PosX>
@@ -1077,7 +1093,7 @@
     <Arg_number>1</Arg_number>
     <Name>1 - Alarm - PITOT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SA342_WarningPanelPITOT.png</FilePictureOn>
     <FilePictureOff />
     <PosX>710</PosX>
@@ -1092,7 +1108,7 @@
     <Arg_number>2</Arg_number>
     <Name>2 - Alarm - H.MOT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SA342_WarningPanelHMOT.png</FilePictureOn>
     <FilePictureOff />
     <PosX>624</PosX>
@@ -1107,7 +1123,7 @@
     <Arg_number>3</Arg_number>
     <Name>3 - Alarm - H.BTP</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SA342_WarningPanelHBTP.png</FilePictureOn>
     <FilePictureOff />
     <PosX>711</PosX>
@@ -1122,7 +1138,7 @@
     <Arg_number>4</Arg_number>
     <Name>4 - Alarm - H.RAL</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SA342_WarningPanelHRAL.png</FilePictureOn>
     <FilePictureOff />
     <PosX>798</PosX>
@@ -1137,7 +1153,7 @@
     <Arg_number>5</Arg_number>
     <Name>5 - Alarm - GENE</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SA342_WarningPanelGENE.png</FilePictureOn>
     <FilePictureOff />
     <PosX>624</PosX>
@@ -1152,7 +1168,7 @@
     <Arg_number>6</Arg_number>
     <Name>6 - Alarm - ALTER.</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SA342_WarningPanelALTER.png</FilePictureOn>
     <FilePictureOff />
     <PosX>711</PosX>
@@ -1167,7 +1183,7 @@
     <Arg_number>7</Arg_number>
     <Name>7 - Alarm - BAT.</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SA342_WarningPaneBat.png</FilePictureOn>
     <FilePictureOff />
     <PosX>797</PosX>
@@ -1182,7 +1198,7 @@
     <Arg_number>8</Arg_number>
     <Name>8 - Alarm - P.A.</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SA342_WarningPanelPA.png</FilePictureOn>
     <FilePictureOff />
     <PosX>625</PosX>
@@ -1197,7 +1213,7 @@
     <Arg_number>9</Arg_number>
     <Name>9 - Alarm - NAV</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SA342_WarningPanelNAV.png</FilePictureOn>
     <FilePictureOff />
     <PosX>711</PosX>
@@ -1212,7 +1228,7 @@
     <Arg_number>10</Arg_number>
     <Name>10 - Alarm - COMB</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SA342_WarningPanelComb.png</FilePictureOn>
     <FilePictureOff />
     <PosX>797</PosX>
@@ -1227,7 +1243,7 @@
     <Arg_number>11</Arg_number>
     <Name>11 - Alarm - B.P.HY.</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SA342_WarningPanelBPHY.png</FilePictureOn>
     <FilePictureOff />
     <PosX>625</PosX>
@@ -1242,7 +1258,7 @@
     <Arg_number>12</Arg_number>
     <Name>12 - Alarm - LIM</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SA342_WarningPanelLIM.png</FilePictureOn>
     <FilePictureOff />
     <PosX>712</PosX>
@@ -1257,7 +1273,7 @@
     <Arg_number>13</Arg_number>
     <Name>13 - Alarm - FILT.</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SA342_WarningPanelFILT.png</FilePictureOn>
     <FilePictureOff />
     <PosX>797</PosX>
@@ -1272,7 +1288,7 @@
     <ClickabledataID>113</ClickabledataID>
     <Name>ELECTRIC - Pitot</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ussr_white+yel_up.png</FilePictureOn>
     <FilePictureOff>ussr_white+yel_down.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1293,7 +1309,7 @@
     <ClickabledataID>121</ClickabledataID>
     <Name>ELECTRIC - HYD Test</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ussr_white+yel_up.png</FilePictureOn>
     <FilePictureOff>ussr_white+yel_down.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1314,7 +1330,7 @@
     <ClickabledataID>147</ClickabledataID>
     <Name>WEAPONS - Master arm On/Off</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ussr_white+yel_up.png</FilePictureOn>
     <FilePictureOff>ussr_white+yel_down.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1335,7 +1351,7 @@
     <ClickabledataID>145</ClickabledataID>
     <Name>AUTOPILOT - Trim On/Off</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ussr_white+yel_up.png</FilePictureOn>
     <FilePictureOff>ussr_white+yel_down.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1356,7 +1372,7 @@
     <ClickabledataID>24</ClickabledataID>
     <Name>GYRO - Test Switch On/Off</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ussr_white+yel_up.png</FilePictureOn>
     <FilePictureOff>ussr_white+yel_down.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1377,7 +1393,7 @@
     <ClickabledataID>109</ClickabledataID>
     <Name>ELECTRIC - Battery</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ussr_white+yel_up.png</FilePictureOn>
     <FilePictureOff>ussr_white+yel_down.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1398,7 +1414,7 @@
     <ClickabledataID>110</ClickabledataID>
     <Name>ELECTRIC - Alternator</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ussr_white+yel_up.png</FilePictureOn>
     <FilePictureOff>ussr_white+yel_down.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1419,7 +1435,7 @@
     <ClickabledataID>111</ClickabledataID>
     <Name>ELECTRIC - Generator</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ussr_white+yel_up.png</FilePictureOn>
     <FilePictureOff>ussr_white+yel_down.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1440,7 +1456,7 @@
     <ClickabledataID>117</ClickabledataID>
     <Name>ELECTRIC - Test</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Button3On.png</FilePictureOn>
     <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1461,7 +1477,7 @@
     <ClickabledataID>94</ClickabledataID>
     <Name>ADI - Source Off/Camera target point/ADF ermitter/NADIR Waypoint {0.0,0.33,0.66,0.99}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Rotary1a.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1482,7 +1498,7 @@
     <ClickabledataID>119</ClickabledataID>
     <Name>ELECTRIC - Pilot Wiper {-1.0,0.0,1.0}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ussr_white+red_up.png</FilePictureOn>
     <FilePictureOff>ussr_white+red_cent.png</FilePictureOff>
     <FilePicture2On>ussr_white+red_down.png</FilePicture2On>
@@ -1503,7 +1519,7 @@
     <ClickabledataID>118</ClickabledataID>
     <Name>ELECTRIC - Copilot Wiper {-1.0,0.0,1.0}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ussr_white+red_up.png</FilePictureOn>
     <FilePictureOff>ussr_white+red_cent.png</FilePictureOff>
     <FilePicture2On>ussr_white+red_down.png</FilePicture2On>
@@ -1524,7 +1540,7 @@
     <ClickabledataID>103</ClickabledataID>
     <Name>LIGHTS - Main Dashboard Lighting {0.0, 1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>knob_solo.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1545,7 +1561,7 @@
     <ClickabledataID>104</ClickabledataID>
     <Name>LIGHTS - Console Lighting {0.0, 1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>knob_solo.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1566,7 +1582,7 @@
     <ClickabledataID>105</ClickabledataID>
     <Name>LIGHTS - UV Lighting {0.0, 1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>knob_solo.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1587,7 +1603,7 @@
     <ClickabledataID>108</ClickabledataID>
     <Name>LIGHTS - Red Lens On/Off</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ussr_white+yel_up.png</FilePictureOn>
     <FilePictureOff>ussr_white+yel_down.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1608,7 +1624,7 @@
     <ClickabledataID>90</ClickabledataID>
     <Name>ADI - Pitch {0.0, 1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1629,7 +1645,7 @@
     <ClickabledataID>92</ClickabledataID>
     <Name>STDBY ADI - Pitch {0.0, 1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1650,7 +1666,7 @@
     <ClickabledataID>102</ClickabledataID>
     <Name>TORQUE - Bug {0.0, 1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1671,7 +1687,7 @@
     <ClickabledataID>152</ClickabledataID>
     <Name>BAROALTIMETER - Baro pressure QFE {0.0, 1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1692,7 +1708,7 @@
     <ClickabledataID>149</ClickabledataID>
     <Name>RADIOALTIMETER - Alarm altitude {0.0, 1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1713,7 +1729,7 @@
     <ClickabledataID>85</ClickabledataID>
     <Name>RWR - Off/On/Croc {-1.0,0.0,1.0}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ussr_white+yel_up.png</FilePictureOn>
     <FilePictureOff>ussr_white+yel_cent.png</FilePictureOff>
     <FilePicture2On>ussr_white+yel_down.png</FilePicture2On>
@@ -1734,7 +1750,7 @@
     <ClickabledataID>86</ClickabledataID>
     <Name>RWR - Marker</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SAS342_Button_RWR_On.png</FilePictureOn>
     <FilePictureOff>SAS342_Button_RWR_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1755,7 +1771,7 @@
     <ClickabledataID>87</ClickabledataID>
     <Name>RWR - Page</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SAS342_Button_RWR_On.png</FilePictureOn>
     <FilePictureOff>SAS342_Button_RWR_Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1776,7 +1792,7 @@
     <ClickabledataID>88</ClickabledataID>
     <Name>RWR - Audio {0.0, 1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1797,7 +1813,7 @@
     <ClickabledataID>89</ClickabledataID>
     <Name>RWR - Brightness {0.0, 1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1818,7 +1834,7 @@
     <ClickabledataID>30</ClickabledataID>
     <Name>CLOCK - Reset</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Button3On.png</FilePictureOn>
     <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1839,7 +1855,7 @@
     <ClickabledataID>29</ClickabledataID>
     <Name>CLOCK - Start/Stop</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Button3On.png</FilePictureOn>
     <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1860,7 +1876,7 @@
     <ClickabledataID>28</ClickabledataID>
     <Name>CLOCK - Winder (Axis) {0.0, 1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1881,7 +1897,7 @@
     <ClickabledataID>132</ClickabledataID>
     <Name>NAVLIGHTS - AntiCollision Light Intensity {0.0, 1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>knob_solo.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -1902,7 +1918,7 @@
     <ClickabledataID>127</ClickabledataID>
     <Name>NAVLIGHTS - Anticollision Light NOR/OFF/ATT {-1.0,0.0,1.0}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ussr_white+yel_up.png</FilePictureOn>
     <FilePictureOff>ussr_white+yel_cent.png</FilePictureOff>
     <FilePicture2On>ussr_white+yel_down.png</FilePicture2On>
@@ -1923,7 +1939,7 @@
     <ClickabledataID>126</ClickabledataID>
     <Name>NAVLIGHTS - Navigation Lights CLI/OFF/FIX {-1.0,0.0,1.0}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ussr_white+yel_up.png</FilePictureOn>
     <FilePictureOff>ussr_white+yel_cent.png</FilePictureOff>
     <FilePicture2On>ussr_white+yel_down.png</FilePicture2On>
@@ -1944,7 +1960,7 @@
     <ClickabledataID>117</ClickabledataID>
     <Name>ELECTRIC - Test</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Button3On.png</FilePictureOn>
     <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>

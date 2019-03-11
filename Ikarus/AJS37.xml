@@ -842,7 +842,7 @@
     <DeviceID>22</DeviceID>
     <ButtonID>720</ButtonID>
     <Discription>Backup ADI Cage</Discription>
-    <DcsID>123</DcsID>
+    <DcsID>0</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
@@ -850,7 +850,7 @@
     <DeviceID>22</DeviceID>
     <ButtonID>721</ButtonID>
     <Discription>Backup Altimeter Setting {0.0-1.0 in 0.001 Steps}</Discription>
-    <DcsID>126</DcsID>
+    <DcsID>0</DcsID>
     <Type>Rotary</Type>
   </Clickabledata>
   <Clickabledata>
@@ -1610,7 +1610,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>156</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>22</DeviceID>
     <ButtonID>732</ButtonID>
     <Discription>Autopilot Yaw Trim {0.0-1.0 in 0.01 Steps}</Discription>
     <DcsID>211</DcsID>
@@ -1627,7 +1627,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>158</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>24</DeviceID>
     <ButtonID>0</ButtonID>
     <Discription>Master Volume / Sidewinder Tone {0.0-1.0 in 0.001 Steps}</Discription>
     <DcsID>399</DcsID>
@@ -1635,12 +1635,39 @@
   </Clickabledata>
   <Clickabledata>
     <ID>159</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>22</DeviceID>
     <ButtonID>724</ButtonID>
     <Discription>Magnetic Declination Correction {0.0-1.0 in 0.001 Steps}</Discription>
     <DcsID>1201</DcsID>
     <Type>Rotary</Type>
   </Clickabledata>
+  <!-- Altimeter -->
+  <Clickabledata>
+    <ID>160</ID>
+    <DeviceID>22</DeviceID>
+    <ButtonID>306</ButtonID>
+    <Discription>Altimeter Setting {0.0-1.0 in 0.001 Steps}</Discription>
+    <DcsID>0</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <!-- Clock -->
+  <Clickabledata>
+    <ID>161</ID>
+    <DeviceID>22</DeviceID>
+    <ButtonID>801</ButtonID>
+    <Discription>Clock Setting {0.0-1.0 in 0.1 Steps}</Discription>
+    <DcsID>135</DcsID>
+    <Type>Rotary</Type>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>162</ID>
+    <DeviceID>22</DeviceID>
+    <ButtonID>802</ButtonID>
+    <Discription>Stopwatch Start/Stop/Reset</Discription>
+    <DcsID>0</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
+  
   <!-- Devices -->
   <Devices>
     <DeviceID>1</DeviceID>

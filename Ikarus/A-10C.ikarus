@@ -3542,7 +3542,7 @@
   </Switches>
   <Switches>
     <ID>5</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>384</ClickabledataID>
     <Name>HSI - Heading Set Knob</Name>
     <Value>0</Value>
@@ -3550,7 +3550,7 @@
     <FilePictureOn>HeadingSetKnop.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.1</Input>
     <Output>0.0,360</Output>
     <PosX>804</PosX>
     <PosY>803</PosY>
@@ -3563,7 +3563,7 @@
   </Switches>
   <Switches>
     <ID>7</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>385</ClickabledataID>
     <Name>HSI - Course Set Knob</Name>
     <Value>0</Value>
@@ -3571,7 +3571,7 @@
     <FilePictureOn>CourseSetKnop.png</FilePictureOn>
     <FilePictureOff />
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.002778</Input>
     <Output>0.0,360</Output>
     <PosX>1067</PosX>
     <PosY>802</PosY>
@@ -6732,7 +6732,7 @@
   </Switches>
   <Switches>
     <ID>161</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryUpdatable</Class>
     <ClickabledataID>418</ClickabledataID>
     <Name>TACAN - Channel Selector (Tens)</Name>
     <Value>0</Value>
@@ -6740,7 +6740,7 @@
     <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.2,0.1,1</Input>
+    <Input>0.0,1.2,0.1</Input>
     <Output>0.0,360</Output>
     <PosX>63</PosX>
     <PosY>809</PosY>
@@ -6753,7 +6753,7 @@
   </Switches>
   <Switches>
     <ID>162</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>419</ClickabledataID>
     <Name>TACAN - Channel Selector (Ones)</Name>
     <Value>0</Value>
@@ -6761,7 +6761,7 @@
     <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.1</Input>
     <Output>0.0,360</Output>
     <PosX>180</PosX>
     <PosY>809</PosY>
@@ -6879,7 +6879,7 @@
   </Switches>
   <Switches>
     <ID>168</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>502</ClickabledataID>
     <Name>AAU34 - Set Pressure</Name>
     <Value>0</Value>
@@ -6887,8 +6887,8 @@
     <FilePictureOn>Knop7.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.04,1</Input>
-    <Output> 0, 360</Output>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 270</Output>
     <PosX>1554</PosX>
     <PosY>696</PosY>
     <Size>45</Size>
@@ -7823,7 +7823,7 @@
   </Switches>
   <Switches>
     <ID>213</ID>
-    <Class>SwitchOnOffOn</Class>
+    <Class>SwitchOn_OffOn</Class>
     <ClickabledataID>135</ClickabledataID>
     <Name>CMSP - Electronic Countermeasure Jammer (JMR)</Name>
     <Value>0</Value>
@@ -7831,12 +7831,12 @@
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
-    <Input>0.0,0.1,0.2</Input>
-    <Output>0.0,0.1,0.2</Output>
-    <PosX>121</PosX>
-    <PosY>185</PosY>
+    <Input>0.2,0.1,0.0</Input>
+    <Output>0.2,0.1,0.0</Output>
+    <PosX>42</PosX>
+    <PosY>180</PosY>
     <Size>45</Size>
-    <Rotate>0</Rotate>
+    <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
@@ -7844,7 +7844,7 @@
   </Switches>
   <Switches>
     <ID>214</ID>
-    <Class>SwitchOnOffOn</Class>
+    <Class>SwitchOn_OffOn</Class>
     <ClickabledataID>136</ClickabledataID>
     <Name>CMSP - Radar Warning Receiver (RWR). MENU/ON/OFF</Name>
     <Value>0</Value>
@@ -7852,12 +7852,12 @@
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
-    <Input>0.0,0.1,0.2</Input>
-    <Output>0.0,0.1,0.2</Output>
-    <PosX>187</PosX>
-    <PosY>185</PosY>
+    <Input>0.2,0.1,0.0</Input>
+    <Output>0.2,0.1,0.0</Output>
+    <PosX>107</PosX>
+    <PosY>180</PosY>
     <Size>45</Size>
-    <Rotate>0</Rotate>
+    <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
@@ -7865,7 +7865,7 @@
   </Switches>
   <Switches>
     <ID>215</ID>
-    <Class>SwitchOnOffOn</Class>
+    <Class>SwitchOn_OffOn</Class>
     <ClickabledataID>138</ClickabledataID>
     <Name>CMSP - Countermeasure Dispenser (DISP). MENU/ON/OFF</Name>
     <Value>0</Value>
@@ -7873,12 +7873,12 @@
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
-    <Input>0.0,0.1,0.2</Input>
-    <Output>0.0,0.1,0.2</Output>
-    <PosX>250</PosX>
-    <PosY>185</PosY>
+    <Input>0.2,0.1,0.0</Input>
+    <Output>0.2,0.1,0.0</Output>
+    <PosX>171</PosX>
+    <PosY>180</PosY>
     <Size>45</Size>
-    <Rotate>0</Rotate>
+    <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
@@ -8012,7 +8012,7 @@
   </Switches>
   <Switches>
     <ID>222</ID>
-    <Class>SwitchOnOffOn</Class>
+    <Class>SwitchOn_OffOn</Class>
     <ClickabledataID>134</ClickabledataID>
     <Name>CMSP - Missile Warning System (MWS)</Name>
     <Value>0</Value>
@@ -8020,12 +8020,12 @@
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
-    <Input>0.0,0.1,0.2</Input>
-    <Output>0.0,0.1,0.2</Output>
-    <PosX>56</PosX>
-    <PosY>185</PosY>
+    <Input>0.2,0.1,0.0</Input>
+    <Output>0.2,0.1,0.0</Output>
+    <PosX>-22</PosX>
+    <PosY>180</PosY>
     <Size>45</Size>
-    <Rotate>0</Rotate>
+    <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
