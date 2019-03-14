@@ -1617,7 +1617,7 @@
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
+    <Input>1.0,0.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
@@ -3247,7 +3247,7 @@
   </Switches>
   <Switches>
     <ID>48</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>682</ClickabledataID>
     <Name>HSI Course Set Knob</Name>
     <Value>0</Value>
@@ -3255,7 +3255,7 @@
     <FilePictureOn>F5E-KnopCourse.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.005818</Input>
     <Output>0.0, 360</Output>
     <PosX>664</PosX>
     <PosY>536</PosY>
@@ -3268,7 +3268,7 @@
   </Switches>
   <Switches>
     <ID>49</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>683</ClickabledataID>
     <Name>HSI Heading Set Knob</Name>
     <Value>0</Value>
@@ -3276,7 +3276,7 @@
     <FilePictureOn>F5E-KnopHeading.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.005818</Input>
     <Output>0.0, 360</Output>
     <PosX>459</PosX>
     <PosY>536</PosY>
@@ -3289,7 +3289,7 @@
   </Switches>
   <Switches>
     <ID>50</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>674</ClickabledataID>
     <Name>Index Setting Pointer Knob</Name>
     <Value>0</Value>
@@ -3297,7 +3297,7 @@
     <FilePictureOn>F5E-KnopSetIndex.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.1</Input>
     <Output>0.0, 360</Output>
     <PosX>407</PosX>
     <PosY>283</PosY>
@@ -3339,7 +3339,7 @@
     <FilePictureOn>knob_solo.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.05</Input>
     <Output>0.0, 30</Output>
     <PosX>469</PosX>
     <PosY>720</PosY>
@@ -3562,7 +3562,7 @@
   </Switches>
   <Switches>
     <ID>63</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>675</ClickabledataID>
     <Name>Zero Setting Knob</Name>
     <Value>0</Value>
@@ -3570,7 +3570,7 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.1</Input>
     <Output>0.0, 360</Output>
     <PosX>214</PosX>
     <PosY>536</PosY>
@@ -4023,7 +4023,7 @@
   </Switches>
   <Switches>
     <ID>85</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>717</ClickabledataID>
     <Name>Tacan Channel Selector (Ones) {0.0, 0.9} in 0.1 Steps</Name>
     <Value>0</Value>
@@ -4031,7 +4031,7 @@
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.9,0.1,1</Input>
+    <Input>0.0,0.9,0.1</Input>
     <Output> 0, 270</Output>
     <PosX>192</PosX>
     <PosY>133</PosY>
@@ -4044,7 +4044,7 @@
   </Switches>
   <Switches>
     <ID>86</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>716</ClickabledataID>
     <Name>Tacan Channel Selector (Tens) - Rotate mouse wheel to select {0.0, 1.2} in 0.1 Steps</Name>
     <Value>0</Value>
@@ -4052,7 +4052,7 @@
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.2,0.1,1</Input>
+    <Input>0.0,1.2,0.1</Input>
     <Output> 0, 270</Output>
     <PosX>64</PosX>
     <PosY>133</PosY>
@@ -4075,9 +4075,9 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output>0.0,1.0</Output>
-    <PosX>200</PosX>
-    <PosY>141</PosY>
-    <Size>35</Size>
+    <PosX>205</PosX>
+    <PosY>145</PosY>
+    <Size>25</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -4112,14 +4112,14 @@
     <Name>Pitch Trim Knob</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>-</FilePictureOn>
-    <FilePictureOff>-</FilePictureOff>
+    <FilePictureOn>Button3On.png</FilePictureOn>
+    <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0</Input>
     <Output> 0.0,1.0</Output>
-    <PosX>490</PosX>
-    <PosY>740</PosY>
-    <Size>25</Size>
+    <PosX>345</PosX>
+    <PosY>745</PosY>
+    <Size>30</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -4128,7 +4128,7 @@
   </Switches>
   <Switches>
     <ID>91</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryUpdatable</Class>
     <ClickabledataID>681</ClickabledataID>
     <Name>ADI Pitch Trim Knob</Name>
     <Value>0</Value>
@@ -4136,7 +4136,7 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1</Input>
+    <Input>0.0,1.0,0.025</Input>
     <Output> 0, 270</Output>
     <PosX>663</PosX>
     <PosY>286</PosY>
@@ -4146,6 +4146,69 @@
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
     <DcsID>150</DcsID>
+  </Switches>
+  <Switches>
+    <ID>92</ID>
+    <Class>Button</Class>
+    <ClickabledataID>673</ClickabledataID>
+    <Name>Push to set</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Button3On.png</FilePictureOn>
+    <FilePictureOff>Button3Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1247</PosX>
+    <PosY>709</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>904</DcsID>
+  </Switches>
+  <Switches>
+    <ID>93</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>672</ClickabledataID>
+    <Name>RWR Adjust Display Brightness</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Knop4.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 270</Output>
+    <PosX>1252</PosX>
+    <PosY>335</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>140</DcsID>
+  </Switches>
+  <Switches>
+    <ID>94</ID>
+    <Class>ButtonOffOn</Class>
+    <ClickabledataID>576</ClickabledataID>
+    <Name>AN/ASG-31 Sight Panel Light Button, ON/OFF</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Button3On.png</FilePictureOn>
+    <FilePictureOff>Button3Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>800</PosX>
+    <PosY>239</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>46</DcsID>
   </Switches>
   <Accessories>
     <ID>1</ID>
@@ -4178,7 +4241,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosY>1200</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>F5E_FrontPanelDark.PNG</Background>

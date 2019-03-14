@@ -1432,7 +1432,7 @@
     <ID>672</ID>
     <DeviceID>20</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>Adjust Display Brightness</Discription>
+    <Discription>RWR Adjust Display Brightness</Discription>
     <Type>Rotary</Type>
     <DcsID>140</DcsID>
   </Clickabledata>
@@ -1456,7 +1456,7 @@
     <ID>675</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>Zero Setting Knob</Discription>
+    <Discription>Altimeter Zero Setting Knob</Discription>
     <Type>Rotary</Type>
     <DcsID>62</DcsID>
   </Clickabledata>
@@ -1480,7 +1480,7 @@
     <ID>681</ID>
     <DeviceID>32</DeviceID>
     <ButtonID>1</ButtonID>
-    <Discription>AI Pitch Trim Knob</Discription>
+    <Discription>ADI Pitch Trim Knob</Discription>
     <Type>Rotary</Type>
     <DcsID>150</DcsID>
   </Clickabledata>
