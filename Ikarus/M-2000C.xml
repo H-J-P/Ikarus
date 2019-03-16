@@ -2430,8 +2430,8 @@
     <ID>180</ID>
     <DeviceID>1</DeviceID>
     <ButtonID>328</ButtonID>
-    <Discription>Backup ADI Cage/Pitch Adjust Knob</Discription>
-    <Type>Switch</Type>
+    <Discription>Backup ADI Pitch Adjust Knob</Discription>
+    <Type>Rotary</Type>
     <DcsID>328</DcsID>
   </Clickabledata>
   <Clickabledata>
@@ -2809,6 +2809,14 @@
     <Discription>Pitot Heat Switch</Discription>
     <Type>Switch</Type>
     <DcsID>660</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>227</ID>
+    <DeviceID>1</DeviceID>
+    <ButtonID>325</ButtonID>
+    <Discription>Backup ADI Gage</Discription>
+    <Type>Switch</Type>
+    <DcsID>325</DcsID>
   </Clickabledata>
   <Devices>
     <DeviceID>1</DeviceID>

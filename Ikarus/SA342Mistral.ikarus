@@ -359,22 +359,6 @@
     <IDInst>2</IDInst>
     <IDFct>2</IDFct>
     <Name>Minute</Name>
-    <Arg_number>42</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>2</IDInst>
-    <IDFct>3</IDFct>
-    <Name>Crono_Second</Name>
     <Arg_number>43</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -389,8 +373,24 @@
   </Functions>
   <Functions>
     <IDInst>2</IDInst>
+    <IDFct>3</IDFct>
+    <Name>Second</Name>
+    <Arg_number>42</Arg_number>
+    <Value>0</Value>
+    <OldValue>0</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue />
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>2</IDInst>
     <IDFct>4</IDFct>
-    <Name>Crono_Minute</Name>
+    <Name>Mini</Name>
     <Arg_number>44</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
@@ -694,8 +694,8 @@
   <Functions>
     <IDInst>7</IDInst>
     <IDFct>4</IDFct>
-    <Name>GS Flag</Name>
-    <Arg_number>18</Arg_number>
+    <Name>Horizon Bar</Name>
+    <Arg_number>119</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -710,8 +710,8 @@
   <Functions>
     <IDInst>7</IDInst>
     <IDFct>5</IDFct>
-    <Name>Fault Flag</Name>
-    <Arg_number>19</Arg_number>
+    <Name>Vertical Bar</Name>
+    <Arg_number>118</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -742,8 +742,8 @@
   <Functions>
     <IDInst>7</IDInst>
     <IDFct>7</IDFct>
-    <Name>Knob Needle</Name>
-    <Arg_number>117</Arg_number>
+    <Name>GS Flag</Name>
+    <Arg_number>18</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -758,8 +758,8 @@
   <Functions>
     <IDInst>7</IDInst>
     <IDFct>8</IDFct>
-    <Name>W Sympol</Name>
-    <Arg_number>120</Arg_number>
+    <Name>Fault Flag</Name>
+    <Arg_number>19</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -774,24 +774,8 @@
   <Functions>
     <IDInst>7</IDInst>
     <IDFct>9</IDFct>
-    <Name>Vertical Bar</Name>
-    <Arg_number>118</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>7</IDInst>
-    <IDFct>10</IDFct>
-    <Name>Horizon Bar</Name>
-    <Arg_number>119</Arg_number>
+    <Name>W Sympol</Name>
+    <Arg_number>120</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -999,7 +983,7 @@
     <IDInst>2</IDInst>
     <IDFct>5</IDFct>
     <Name>External_Ring</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>210</Arg_number>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <Offset>0</Offset>
@@ -1625,7 +1609,7 @@
   </Switches>
   <Switches>
     <ID>18</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>92</ClickabledataID>
     <Name>STDBY ADI - Pitch {0.0, 1.0} in 0.1 Steps</Name>
     <Value>0</Value>
@@ -1689,23 +1673,23 @@
   <Switches>
     <ID>21</ID>
     <Class>Rotary</Class>
-    <ClickabledataID>149</ClickabledataID>
-    <Name>RADIOALTIMETER - Alarm altitude {0.0, 1.0} in 0.1 Steps</Name>
+    <ClickabledataID>151</ClickabledataID>
+    <Name>RADIOALTIMETER - Off/On {0.0, 1.0} in 0.1 Steps</Name>
     <Value>0</Value>
     <OldValue>0</OldValue>
     <FilePictureOn>Knop2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1,1</Input>
-    <Output> 0, 360</Output>
-    <PosX>867</PosX>
-    <PosY>799</PosY>
-    <Size>50</Size>
+    <Output> 0, 90</Output>
+    <PosX>860</PosX>
+    <PosY>797</PosY>
+    <Size>60</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
-    <DcsID>96</DcsID>
+    <DcsID>91</DcsID>
   </Switches>
   <Switches>
     <ID>22</ID>
@@ -1958,6 +1942,69 @@
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
     <DcsID>57</DcsID>
+  </Switches>
+  <Switches>
+    <ID>34</ID>
+    <Class>RotaryRelativ</Class>
+    <ClickabledataID>149</ClickabledataID>
+    <Name>RADIOALTIMETER - Alarm altitude {0.0, 1.0} in 0.1 Steps</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Transparent-square.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>1101</PosX>
+    <PosY>563</PosY>
+    <Size>50</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>96</DcsID>
+  </Switches>
+  <Switches>
+    <ID>35</ID>
+    <Class>Button</Class>
+    <ClickabledataID>150</ClickabledataID>
+    <Name>RADIOALTIMETER - Test</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Transparent-square.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>879</PosX>
+    <PosY>817</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>100</DcsID>
+  </Switches>
+  <Switches>
+    <ID>36</ID>
+    <Class>Button</Class>
+    <ClickabledataID>91</ClickabledataID>
+    <Name>ADI - Unlock</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Transparent-square.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1448</PosX>
+    <PosY>282</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>116</DcsID>
   </Switches>
   <Accessories>
     <ID>1</ID>

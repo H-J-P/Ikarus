@@ -2691,7 +2691,7 @@
   </Switches>
   <Switches>
     <ID>19</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>43</ClickabledataID>
     <Name>ABRIS - Cursor control</Name>
     <Value>0</Value>
@@ -2699,7 +2699,7 @@
     <FilePictureOn>Ka-50-ABRIS-Knop.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.1</Input>
     <Output>0, 360</Output>
     <PosX>1823</PosX>
     <PosY>735</PosY>

@@ -1131,7 +1131,7 @@
     <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0, 0.07, 0.14, 0.21, 0.29, 0.35, 0.43, 0.5, 0.57, 0.64, 0.71, 0.79, 0.86, 0.93, 1.0</Input>
-    <Output>0, 15, 30, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180, 195, 210</Output>
+    <Output>0, 15, 29, 44, 59, 74, 89, 104, 120, 134, 150, 165, 180, 195, 210</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue>-</OldAsciiValue>
