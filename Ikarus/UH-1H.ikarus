@@ -1647,8 +1647,8 @@
     <FilePicture2On>-</FilePicture2On>
     <Input>2</Input>
     <Output />
-    <PosX>1780</PosX>
-    <PosY>0</PosY>
+    <PosX>1332</PosX>
+    <PosY>15</PosY>
     <Size>80</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
@@ -1830,7 +1830,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>1200</PosY>
+    <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>BackGround.png</Background>
@@ -1840,7 +1840,7 @@
     <WindowID>2</WindowID>
     <Name>Copilot Panel</Name>
     <PosX>0</PosX>
-    <PosY>1200</PosY>
+    <PosY>0</PosY>
     <Height>1080</Height>
     <Width>800</Width>
     <Background>BackGround.png</Background>
