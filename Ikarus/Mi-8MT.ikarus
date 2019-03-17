@@ -19,7 +19,7 @@
     <Class>MI8_ALT</Class>
     <PosX>496</PosX>
     <PosY>117</PosY>
-    <Size>430</Size>
+    <Size>250</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>
@@ -1448,7 +1448,7 @@
   <Window>
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
-    <PosX>400</PosX>
+    <PosX>0</PosX>
     <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
