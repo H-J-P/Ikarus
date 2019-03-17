@@ -1657,7 +1657,7 @@
   </Switches>
   <Switches>
     <ID>2</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>95</ClickabledataID>
     <Name>Pilot's Attitude Indicator Roll Trim Knob {0.0,1.0} in 0.1 steps</Name>
     <Value>0</Value>
@@ -1665,7 +1665,7 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.05,1</Input>
+    <Input>0.0,1.0,0.05</Input>
     <Output> 0, 360</Output>
     <PosX>1345</PosX>
     <PosY>117</PosY>
@@ -1678,7 +1678,7 @@
   </Switches>
   <Switches>
     <ID>3</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>94</ClickabledataID>
     <Name>Pilot's Attitude Indicator Pitch Trim Knob {0.0,1.0} in 0.1 steps</Name>
     <Value>0</Value>
@@ -1686,7 +1686,7 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.05,1</Input>
+    <Input>0.0,1.0,0.05</Input>
     <Output> 0, 360</Output>
     <PosX>1345</PosX>
     <PosY>342</PosY>
@@ -1699,7 +1699,7 @@
   </Switches>
   <Switches>
     <ID>4</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>195</ClickabledataID>
     <Name>Course select knob {0.0,1.0} in 0.1 Steps</Name>
     <Value>0</Value>
@@ -1707,7 +1707,7 @@
     <FilePictureOn>F5E-KnopCourse.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.05,1</Input>
+    <Input>0.0,1.0,0.05</Input>
     <Output> 0, 360</Output>
     <PosX>1329</PosX>
     <PosY>949</PosY>
@@ -1720,7 +1720,7 @@
   </Switches>
   <Switches>
     <ID>5</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>152</ClickabledataID>
     <Name>AAU7 Pressure Adjustment {0.0,1.0} in 0.2 steps</Name>
     <Value>0</Value>
@@ -1728,7 +1728,7 @@
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.2,1</Input>
+    <Input>0.0,1.0,0.2</Input>
     <Output> 0, 360</Output>
     <PosX>1490</PosX>
     <PosY>291</PosY>
@@ -1741,7 +1741,7 @@
   </Switches>
   <Switches>
     <ID>6</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>118</ClickabledataID>
     <Name>Heading Set Knob {0.0,1.0} in 0.1 Steps</Name>
     <Value>0</Value>
@@ -1749,7 +1749,7 @@
     <FilePictureOn>HeadingSetKnop.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.1</Input>
     <Output> 0, 360</Output>
     <PosX>1139</PosX>
     <PosY>655</PosY>
@@ -1762,7 +1762,7 @@
   </Switches>
   <Switches>
     <ID>7</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>127</ClickabledataID>
     <Name>Radar Altimeter Low Altitude Setting {0.0,1.0} in 0.2 Steps</Name>
     <Value>0</Value>
@@ -1770,7 +1770,7 @@
     <FilePictureOn>Knop6.PNG</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.1</Input>
     <Output> 0, 360</Output>
     <PosX>359</PosX>
     <PosY>549</PosY>
@@ -1783,7 +1783,7 @@
   </Switches>
   <Switches>
     <ID>8</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>129</ClickabledataID>
     <Name>Radar Altimeter Hight Setting {0.0,1.0} in 0.2 Steps</Name>
     <Value>0</Value>
@@ -1791,7 +1791,7 @@
     <FilePictureOn>Knop6.PNG</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.2,1</Input>
+    <Input>0.0,1.0,0.2</Input>
     <Output> 0, 360</Output>
     <PosX>539</PosX>
     <PosY>544</PosY>
@@ -1802,6 +1802,27 @@
     <WindowID>1</WindowID>
     <DcsID>446</DcsID>
   </Switches>
+  <Switches>
+    <ID>9</ID>
+    <Class>RotaryRelativ</Class>
+    <ClickabledataID>153</ClickabledataID>
+    <Name>AAU32 Pressure Adjustment {0.0,1.0} in 0.2 steps</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Knop4.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 360</Output>
+    <PosX>495</PosX>
+    <PosY>286</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>2</WindowID>
+    <DcsID>172</DcsID>
+  </Switches>
   <Parameter>
     <FileBackground>BackGround.png</FileBackground>
   </Parameter>
@@ -1809,7 +1830,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosY>1200</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>BackGround.png</Background>
@@ -1819,7 +1840,7 @@
     <WindowID>2</WindowID>
     <Name>Copilot Panel</Name>
     <PosX>0</PosX>
-    <PosY>0</PosY>
+    <PosY>1200</PosY>
     <Height>1080</Height>
     <Width>800</Width>
     <Background>BackGround.png</Background>
