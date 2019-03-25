@@ -12,6 +12,7 @@
     <LogAllActions>true</LogAllActions>
     <TestMode>false</TestMode>
     <GaugesShadow>true</GaugesShadow>
+    <JSON>false</JSON>
   </Configuration>
   <Classnames>
     <Classname>A10_ACP</Classname>
