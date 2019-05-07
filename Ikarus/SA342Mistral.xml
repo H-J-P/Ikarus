@@ -1512,7 +1512,7 @@
   <Clickabledata>
     <ID>149</ID>
     <DeviceID>18</DeviceID>
-    <ButtonID></ButtonID>
+    <ButtonID>1</ButtonID>
     <Discription>RADIOALTIMETER - Alarm altitude {0.0, 1.0} in 0.1 Steps</Discription>
     <DcsID>96</DcsID>
     <Type>Rotary</Type>
@@ -1520,7 +1520,7 @@
   <Clickabledata>
     <ID>150</ID>
     <DeviceID>18</DeviceID>
-    <ButtonID></ButtonID>
+    <ButtonID>3</ButtonID>
     <Discription>RADIOALTIMETER - Test</Discription>
     <DcsID>100</DcsID>
     <Type>Switch</Type>
@@ -1528,7 +1528,7 @@
   <Clickabledata>
     <ID>151</ID>
     <DeviceID>18</DeviceID>
-    <ButtonID></ButtonID>
+    <ButtonID>2</ButtonID>
     <Discription>RADIOALTIMETER - Off/On {0.0, 1.0} in 0.1 Steps</Discription>
     <DcsID>91</DcsID>
     <Type>Rotary</Type>

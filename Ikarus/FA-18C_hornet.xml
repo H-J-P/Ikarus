@@ -2899,6 +2899,7 @@
     <Type>Switch</Type>
     <DcsID>248</DcsID>
   </Clickabledata>
+  <!-- Helmet -->
   <Clickabledata>
     <ID>288</ID>
     <DeviceID>58</DeviceID>
@@ -2906,7 +2907,24 @@
     <Discription>HMD OFF/BRT Knob {0.0,0.75} in 0.01 Steps</Discription>
     <Type>Rotary</Type>
     <DcsID>136</DcsID>
-  </Clickabledata>  
+  </Clickabledata>
+  <!-- Targeting Pod, FLIR -->
+  <Clickabledata>
+    <ID>289</ID>
+    <DeviceID>62</DeviceID>
+    <ButtonID>1</ButtonID>
+    <Discription>FLIR Switch, ON/STBY/OFF {0.0,0.5,1.0}</Discription>
+    <Type>Switch</Type>
+    <DcsID>439</DcsID>
+  </Clickabledata>
+  <Clickabledata>
+    <ID>290</ID>
+    <DeviceID>62</DeviceID>
+    <ButtonID>2</ButtonID>
+    <Discription>LTD/R Switch, ARM/SAFE/AFT {0.0,0.5,1.0}</Discription>
+    <Type>Switch</Type>
+    <DcsID>441</DcsID>
+  </Clickabledata>
   <Devices>
     <DeviceID>1</DeviceID>
     <Discription>FM_PROXY</Discription>
@@ -3145,6 +3163,18 @@
   </Devices>
   <Devices>
     <DeviceID>60</DeviceID>
+    <Discription>CLC</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>61</DeviceID>
+    <Discription>HARM_INTERFACE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>62</DeviceID>
+    <Discription>TGP_INTERFACE</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>63</DeviceID>
     <Discription>HMD</Discription>
   </Devices>
 </DTADataSet>

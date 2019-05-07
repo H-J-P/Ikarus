@@ -4,9 +4,9 @@
     <IDInst>1</IDInst>
     <Name>Altimeter</Name>
     <Class>A10_ALT</Class>
-    <PosX>1147</PosX>
-    <PosY>370</PosY>
-    <Size>240</Size>
+    <PosX>1146</PosX>
+    <PosY>368</PosY>
+    <Size>230</Size>
     <Rotate>0</Rotate>
     <ImageFrame>A10_Frame4.png</ImageFrame>
     <ImageLight>greenGlass15.png</ImageLight>
@@ -626,6 +626,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>1</IDInst>
@@ -642,6 +646,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>1</IDInst>
@@ -658,6 +666,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>1</IDInst>
@@ -674,6 +686,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>1</IDInst>
@@ -690,6 +706,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>1</IDInst>
@@ -706,6 +726,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>1</IDInst>
@@ -722,6 +746,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>1</IDInst>
@@ -738,6 +766,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>1</IDInst>
@@ -754,6 +786,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>2</IDInst>
@@ -770,6 +806,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>3</IDInst>
@@ -786,6 +826,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>3</IDInst>
@@ -802,6 +846,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>3</IDInst>
@@ -818,6 +866,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>4</IDInst>
@@ -834,6 +886,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>4</IDInst>
@@ -850,6 +906,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>4</IDInst>
@@ -866,6 +926,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>4</IDInst>
@@ -882,6 +946,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>4</IDInst>
@@ -898,6 +966,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>4</IDInst>
@@ -914,6 +986,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>4</IDInst>
@@ -930,6 +1006,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>4</IDInst>
@@ -946,6 +1026,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>4</IDInst>
@@ -962,6 +1046,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>4</IDInst>
@@ -978,6 +1066,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>5</IDInst>
@@ -994,6 +1086,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>5</IDInst>
@@ -1010,6 +1106,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>5</IDInst>
@@ -1026,12 +1126,16 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>5</IDInst>
     <IDFct>4</IDFct>
     <Name>Standby ADI manual Pitch</Name>
-    <Arg_number>0</Arg_number>
+    <Arg_number>715</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
@@ -1042,6 +1146,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>7</IDInst>
@@ -1058,6 +1166,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>7</IDInst>
@@ -1074,6 +1186,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>7</IDInst>
@@ -1090,6 +1206,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>7</IDInst>
@@ -1106,6 +1226,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>7</IDInst>
@@ -1122,6 +1246,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>8</IDInst>
@@ -1138,6 +1266,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>8</IDInst>
@@ -1154,6 +1286,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>9</IDInst>
@@ -1170,6 +1306,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>9</IDInst>
@@ -1186,6 +1326,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>10</IDInst>
@@ -1202,6 +1346,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>10</IDInst>
@@ -1218,6 +1366,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -1234,6 +1386,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -1250,6 +1406,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -1266,6 +1426,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -1282,6 +1446,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -1298,6 +1466,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -1314,6 +1486,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -1330,6 +1506,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -1346,6 +1526,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -1362,6 +1546,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -1378,6 +1566,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -1394,6 +1586,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -1410,6 +1606,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -1426,6 +1626,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>11</IDInst>
@@ -1442,6 +1646,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>12</IDInst>
@@ -1458,6 +1666,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>12</IDInst>
@@ -1474,6 +1686,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>13</IDInst>
@@ -1490,6 +1706,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>13</IDInst>
@@ -1506,6 +1726,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>14</IDInst>
@@ -1522,6 +1746,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>15</IDInst>
@@ -1538,6 +1766,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>16</IDInst>
@@ -1554,6 +1786,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>17</IDInst>
@@ -1570,6 +1806,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>18</IDInst>
@@ -1586,6 +1826,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>19</IDInst>
@@ -1602,6 +1846,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>20</IDInst>
@@ -1618,6 +1866,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>21</IDInst>
@@ -1634,6 +1886,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>22</IDInst>
@@ -1650,6 +1906,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>22</IDInst>
@@ -1666,6 +1926,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>22</IDInst>
@@ -1682,6 +1946,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>22</IDInst>
@@ -1698,6 +1966,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>22</IDInst>
@@ -1714,6 +1986,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>23</IDInst>
@@ -1730,6 +2006,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>24</IDInst>
@@ -1746,6 +2026,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>25</IDInst>
@@ -1762,6 +2046,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>27</IDInst>
@@ -1778,6 +2066,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>34</IDInst>
@@ -1789,11 +2081,15 @@
     <Offset>0</Offset>
     <Input>0,1</Input>
     <Output>0,360</Output>
-    <Ascii>true</Ascii>
+    <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>35</IDInst>
@@ -1810,6 +2106,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>36</IDInst>
@@ -1826,6 +2126,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>37</IDInst>
@@ -1842,6 +2146,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>38</IDInst>
@@ -1858,6 +2166,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>39</IDInst>
@@ -1874,6 +2186,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>39</IDInst>
@@ -1890,6 +2206,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>39</IDInst>
@@ -1906,6 +2226,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>40</IDInst>
@@ -1922,6 +2246,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>41</IDInst>
@@ -1938,6 +2266,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>42</IDInst>
@@ -1954,6 +2286,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>43</IDInst>
@@ -1970,6 +2306,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>40</IDInst>
@@ -1986,6 +2326,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>40</IDInst>
@@ -2002,6 +2346,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>40</IDInst>
@@ -2018,6 +2366,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>40</IDInst>
@@ -2034,6 +2386,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>40</IDInst>
@@ -2050,6 +2406,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>40</IDInst>
@@ -2066,6 +2426,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>40</IDInst>
@@ -2082,6 +2446,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>40</IDInst>
@@ -2098,6 +2466,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>40</IDInst>
@@ -2114,6 +2486,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>44</IDInst>
@@ -2130,6 +2506,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>45</IDInst>
@@ -2146,6 +2526,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>46</IDInst>
@@ -2162,6 +2546,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>46</IDInst>
@@ -2178,6 +2566,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>46</IDInst>
@@ -2194,6 +2586,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>46</IDInst>
@@ -2210,6 +2606,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>47</IDInst>
@@ -2226,6 +2626,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>48</IDInst>
@@ -2242,6 +2646,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>49</IDInst>
@@ -2258,6 +2666,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>50</IDInst>
@@ -2274,6 +2686,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>51</IDInst>
@@ -2290,6 +2706,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>52</IDInst>
@@ -2306,6 +2726,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>53</IDInst>
@@ -2322,6 +2746,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>53</IDInst>
@@ -2338,6 +2766,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>53</IDInst>
@@ -2354,6 +2786,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>53</IDInst>
@@ -2370,6 +2806,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>53</IDInst>
@@ -2386,6 +2826,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>53</IDInst>
@@ -2402,6 +2846,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>53</IDInst>
@@ -2418,6 +2866,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Functions>
     <IDInst>53</IDInst>
@@ -2434,6 +2886,10 @@
     <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
+    <Type>ID</Type>
+    <DeviceID>-</DeviceID>
+    <Format>-</Format>
+    <negateValue>0</negateValue>
   </Functions>
   <Lamps>
     <ID>1</ID>
@@ -3526,7 +3982,7 @@
   </Switches>
   <Switches>
     <ID>5</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>384</ClickabledataID>
     <Name>HSI - Heading Set Knob</Name>
     <Value>0</Value>
@@ -3534,7 +3990,7 @@
     <FilePictureOn>HeadingSetKnop.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.002778,1</Input>
+    <Input>0.0,1.0,0.1</Input>
     <Output>0.0,360</Output>
     <PosX>804</PosX>
     <PosY>803</PosY>
@@ -3547,7 +4003,7 @@
   </Switches>
   <Switches>
     <ID>7</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>385</ClickabledataID>
     <Name>HSI - Course Set Knob</Name>
     <Value>0</Value>
@@ -3555,7 +4011,7 @@
     <FilePictureOn>CourseSetKnop.png</FilePictureOn>
     <FilePictureOff />
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.002778,1</Input>
+    <Input>0.0,1.0,0.002778</Input>
     <Output>0.0,360</Output>
     <PosX>1067</PosX>
     <PosY>802</PosY>
@@ -3585,7 +4041,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
-    <DcsID>241</DcsID>
+    <DcsID />
   </Switches>
   <Switches>
     <ID>9</ID>
@@ -3606,7 +4062,7 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
-    <DcsID>241</DcsID>
+    <DcsID />
   </Switches>
   <Switches>
     <ID>10</ID>
@@ -6716,7 +7172,7 @@
   </Switches>
   <Switches>
     <ID>161</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryUpdatable</Class>
     <ClickabledataID>418</ClickabledataID>
     <Name>TACAN - Channel Selector (Tens)</Name>
     <Value>0</Value>
@@ -6724,7 +7180,7 @@
     <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.2,0.1,1</Input>
+    <Input>0.0,1.2,0.1</Input>
     <Output>0.0,360</Output>
     <PosX>63</PosX>
     <PosY>809</PosY>
@@ -6737,7 +7193,7 @@
   </Switches>
   <Switches>
     <ID>162</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>419</ClickabledataID>
     <Name>TACAN - Channel Selector (Ones)</Name>
     <Value>0</Value>
@@ -6745,7 +7201,7 @@
     <FilePictureOn>Knop6.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.1</Input>
     <Output>0.0,360</Output>
     <PosX>180</PosX>
     <PosY>809</PosY>
@@ -6860,27 +7316,6 @@
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
     <DcsID>788</DcsID>
-  </Switches>
-  <Switches>
-    <ID>168</ID>
-    <Class>Rotary</Class>
-    <ClickabledataID>502</ClickabledataID>
-    <Name>AAU34 - Set Pressure</Name>
-    <Value>0</Value>
-    <OldValue>1</OldValue>
-    <FilePictureOn>Knop7.png</FilePictureOn>
-    <FilePictureOff>-</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.04,1</Input>
-    <Output> 0, 360</Output>
-    <PosX>1164</PosX>
-    <PosY>557</PosY>
-    <Size>45</Size>
-    <Rotate>0</Rotate>
-    <Event>false</Event>
-    <DontReset>false</DontReset>
-    <WindowID>1</WindowID>
-    <DcsID>62</DcsID>
   </Switches>
   <Switches>
     <ID>169</ID>
@@ -7807,7 +8242,7 @@
   </Switches>
   <Switches>
     <ID>213</ID>
-    <Class>SwitchOnOffOn</Class>
+    <Class>SwitchOn_OffOn</Class>
     <ClickabledataID>135</ClickabledataID>
     <Name>CMSP - Electronic Countermeasure Jammer (JMR)</Name>
     <Value>0</Value>
@@ -7815,12 +8250,12 @@
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
-    <Input>0.0,0.1,0.2</Input>
-    <Output>0.0,0.1,0.2</Output>
-    <PosX>121</PosX>
-    <PosY>185</PosY>
+    <Input>0.1,0.1,0.0</Input>
+    <Output>0.1,0.1,0.0</Output>
+    <PosX>42</PosX>
+    <PosY>180</PosY>
     <Size>45</Size>
-    <Rotate>0</Rotate>
+    <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
@@ -7828,20 +8263,20 @@
   </Switches>
   <Switches>
     <ID>214</ID>
-    <Class>SwitchOnOffOn</Class>
+    <Class>SwitchOn_OffOn</Class>
     <ClickabledataID>136</ClickabledataID>
-    <Name>CMSP - Radar Warning Receiver (RWR). MENU/ON/OFF</Name>
+    <Name>CMSP - Radar Warning Receiver (RWR). ON/OFF</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
-    <Input>0.0,0.1,0.2</Input>
-    <Output>0.0,0.1,0.2</Output>
-    <PosX>187</PosX>
-    <PosY>185</PosY>
+    <Input>0.1,0.1,0.0</Input>
+    <Output>0.1,0.1,0.0</Output>
+    <PosX>107</PosX>
+    <PosY>180</PosY>
     <Size>45</Size>
-    <Rotate>0</Rotate>
+    <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
@@ -7849,20 +8284,20 @@
   </Switches>
   <Switches>
     <ID>215</ID>
-    <Class>SwitchOnOffOn</Class>
+    <Class>SwitchOn_OffOn</Class>
     <ClickabledataID>138</ClickabledataID>
-    <Name>CMSP - Countermeasure Dispenser (DISP). MENU/ON/OFF</Name>
+    <Name>CMSP - Countermeasure Dispenser (DISP). ON/OFF</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
-    <Input>0.0,0.1,0.2</Input>
-    <Output>0.0,0.1,0.2</Output>
-    <PosX>250</PosX>
-    <PosY>185</PosY>
+    <Input>0.1,0.1,0.0</Input>
+    <Output>0.1,0.1,0.0</Output>
+    <PosX>171</PosX>
+    <PosY>180</PosY>
     <Size>45</Size>
-    <Rotate>0</Rotate>
+    <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
@@ -7996,7 +8431,7 @@
   </Switches>
   <Switches>
     <ID>222</ID>
-    <Class>SwitchOnOffOn</Class>
+    <Class>SwitchOn_OffOn</Class>
     <ClickabledataID>134</ClickabledataID>
     <Name>CMSP - Missile Warning System (MWS)</Name>
     <Value>0</Value>
@@ -8004,12 +8439,12 @@
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
-    <Input>0.0,0.1,0.2</Input>
-    <Output>0.0,0.1,0.2</Output>
-    <PosX>56</PosX>
-    <PosY>185</PosY>
+    <Input>0.1,0.1,0.0</Input>
+    <Output>0.1,0.1,0.0</Output>
+    <PosX>-22</PosX>
+    <PosY>180</PosY>
     <Size>45</Size>
-    <Rotate>0</Rotate>
+    <Rotate>180</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>2</WindowID>
@@ -8973,6 +9408,132 @@
     <DontReset>false</DontReset>
     <WindowID>3</WindowID>
     <DcsID>249</DcsID>
+  </Switches>
+  <Switches>
+    <ID>277</ID>
+    <Class>RotaryRelativ</Class>
+    <ClickabledataID>524</ClickabledataID>
+    <Name>Cage Standby Attitude Indicator</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>knob_solo.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 30</Output>
+    <PosX>552</PosX>
+    <PosY>728</PosY>
+    <Size>60</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>66</DcsID>
+  </Switches>
+  <Switches>
+    <ID>278</ID>
+    <Class>Button</Class>
+    <ClickabledataID>523</ClickabledataID>
+    <Name>Cage Standby Attitude Indicator</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>-</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output> 0, 30</Output>
+    <PosX>573</PosX>
+    <PosY>748</PosY>
+    <Size>20</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>67</DcsID>
+  </Switches>
+  <Switches>
+    <ID>279</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>394</ClickabledataID>
+    <Name>ADI - Pitch Trim Knob</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>knob_solo.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>-1.0,1.0,0.05</Input>
+    <Output> -90, 90</Output>
+    <PosX>1046</PosX>
+    <PosY>487</PosY>
+    <Size>85</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>22</DcsID>
+  </Switches>
+  <Switches>
+    <ID>280</ID>
+    <Class>RotaryRelativ</Class>
+    <ClickabledataID>502</ClickabledataID>
+    <Name>AAU34 - Set Pressure</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Knop7.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.04</Input>
+    <Output>0,360</Output>
+    <PosX>1148</PosX>
+    <PosY>553</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>62</DcsID>
+  </Switches>
+  <Switches>
+    <ID>281</ID>
+    <Class>Button</Class>
+    <ClickabledataID>137</ClickabledataID>
+    <Name>CMSP - Radar Warning Receiver (RWR). MENU</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>ButtonOn.png</FilePictureOn>
+    <FilePictureOff>ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.1,0.2</Input>
+    <Output>0.1,0.2</Output>
+    <PosX>194</PosX>
+    <PosY>160</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>2</WindowID>
+    <DcsID>362</DcsID>
+  </Switches>
+  <Switches>
+    <ID>282</ID>
+    <Class>Button</Class>
+    <ClickabledataID>139</ClickabledataID>
+    <Name>CMSP - Countermeasure Dispenser (DISP). MENU</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>ButtonOn.png</FilePictureOn>
+    <FilePictureOff>ButtonOff.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.1,0.2</Input>
+    <Output>0.1,0.2</Output>
+    <PosX>258</PosX>
+    <PosY>160</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>2</WindowID>
+    <DcsID>363</DcsID>
   </Switches>
   <Accessories>
     <ID>1</ID>

@@ -19,7 +19,7 @@
     <Class>US_VVI</Class>
     <PosX>525</PosX>
     <PosY>591</PosY>
-    <Size>190</Size>
+    <Size>180</Size>
     <Rotate>0</Rotate>
     <ImageFrame>F5E-Frame1.png</ImageFrame>
     <ImageLight>greenGlass15.png</ImageLight>
@@ -383,13 +383,13 @@
     <Name>Altimeter 100_footPtr</Name>
     <Arg_number>10</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -399,13 +399,13 @@
     <Name>Altimeter 10000_footCount</Name>
     <Arg_number>11</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -415,13 +415,13 @@
     <Name>Altimeter 01000_footCount</Name>
     <Arg_number>520</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -431,13 +431,13 @@
     <Name>Altimeter 00100_footCount</Name>
     <Arg_number>521</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -447,13 +447,13 @@
     <Name>Altimeter Pressure_setting_0</Name>
     <Arg_number>59</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -463,13 +463,13 @@
     <Name>Variometer</Name>
     <Arg_number>24</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0, -0.5, -0.29, 0, 0.29, 0.5, 1.0</Input>
     <Output>-170,  -85,   -50, 0,   50,  85, 170</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -479,13 +479,13 @@
     <Name>ADI Pitch</Name>
     <Arg_number>81</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -495,13 +495,13 @@
     <Name>ADI Bank</Name>
     <Arg_number>30</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -511,13 +511,13 @@
     <Name>ADI Attitute Warning flag</Name>
     <Arg_number>149</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -527,13 +527,13 @@
     <Name>Standby ADI Pitch</Name>
     <Arg_number>438</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>-180,180</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -543,13 +543,13 @@
     <Name>Standby ADI Bank</Name>
     <Arg_number>439</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-1.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -559,13 +559,13 @@
     <Name>Standby ADI Warning flag</Name>
     <Arg_number>440</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -575,13 +575,13 @@
     <Name>ASI IAS</Name>
     <Arg_number>8</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,  0.1, 0.225, 0.394, 0.553,0.664,0.764,0.843,1.0</Input>
     <Output>0.0, 34, 88, 137, 191, 232,265, 291, 347</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -591,13 +591,13 @@
     <Name>ASI MACH</Name>
     <Arg_number>179</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -607,13 +607,13 @@
     <Name>AOA</Name>
     <Arg_number>7</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,30</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -623,13 +623,13 @@
     <Name>AOA Power Flag</Name>
     <Arg_number>704</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,1</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -639,13 +639,13 @@
     <Name>HSI Heading</Name>
     <Arg_number>32</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -655,13 +655,13 @@
     <Name>HSI Bearing #1</Name>
     <Arg_number>139</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -671,13 +671,13 @@
     <Name>HSI Bearing #2</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -687,13 +687,13 @@
     <Name>HSI Heading Marker</Name>
     <Arg_number>144</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -703,13 +703,13 @@
     <Name>HSI Course Arrow</Name>
     <Arg_number>35</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -719,13 +719,13 @@
     <Name>HSI Deviation</Name>
     <Arg_number>36</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -735,13 +735,13 @@
     <Name>HSI Range counter_100</Name>
     <Arg_number>268</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -751,13 +751,13 @@
     <Name>HSI Range counter_010</Name>
     <Arg_number>269</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -767,45 +767,29 @@
     <Name>HSI Range counter_001</Name>
     <Arg_number>270</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
-    <In />
-    <Out />
-  </Functions>
-  <Functions>
-    <IDInst>7</IDInst>
-    <IDFct>10</IDFct>
-    <Name>HSI Course_100</Name>
-    <Arg_number>275</Arg_number>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <Offset>0</Offset>
-    <Input>0.0,1.0</Input>
-    <Output>0,10</Output>
-    <Ascii>false</Ascii>
-    <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
   <Functions>
     <IDInst>7</IDInst>
     <IDFct>11</IDFct>
-    <Name>HSI Course_010</Name>
+    <Name>HSI Course_100_010</Name>
     <Arg_number>276</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -815,13 +799,13 @@
     <Name>HSI Course_001</Name>
     <Arg_number>277</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -831,13 +815,13 @@
     <Name>HSI Power Flag</Name>
     <Arg_number>149</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -847,13 +831,13 @@
     <Name>RPM Engine Left</Name>
     <Arg_number>16</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -863,13 +847,13 @@
     <Name>RPM Engine Right</Name>
     <Arg_number>17</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -879,13 +863,13 @@
     <Name>Nozzle Engine Left RPM Fan</Name>
     <Arg_number>107</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -895,13 +879,13 @@
     <Name>Nozzle Engine Right RPM Fan</Name>
     <Arg_number>108</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -911,13 +895,13 @@
     <Name>Oil Pressure Left</Name>
     <Arg_number>112</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -927,13 +911,13 @@
     <Name>HydPressure Utility</Name>
     <Arg_number>109</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -943,13 +927,13 @@
     <Name>HydPressure FLTCont</Name>
     <Arg_number>110</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -959,13 +943,13 @@
     <Name>Analog Clock_Hours</Name>
     <Arg_number>19</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -975,13 +959,13 @@
     <Name>WhiskeyCompass Heading </Name>
     <Arg_number>610</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,0.25,0.5,0.5,0.75,1.0</Input>
     <Output>0,-78, -152,  152, 78, 0</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -991,13 +975,13 @@
     <Name>WhiskeyCompass Pitch</Name>
     <Arg_number>612</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>-180,180</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1007,13 +991,13 @@
     <Name>WhiskeyCompass Bank</Name>
     <Arg_number>611</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>-180,180</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1023,13 +1007,13 @@
     <Name>Analog Clock_Minutes</Name>
     <Arg_number>18</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1039,13 +1023,13 @@
     <Name>Analog Clock_Seconds</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1055,13 +1039,13 @@
     <Name>EGT Left</Name>
     <Arg_number>12</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1071,13 +1055,13 @@
     <Name>EGT Right</Name>
     <Arg_number>14</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1087,13 +1071,13 @@
     <Name>Accelerometer</Name>
     <Arg_number>6</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1103,13 +1087,13 @@
     <Name>AccelerometerMin</Name>
     <Arg_number>902</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1119,13 +1103,13 @@
     <Name>AccelerometerMax</Name>
     <Arg_number>903</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1135,13 +1119,13 @@
     <Name>ASI MaxAirspeed</Name>
     <Arg_number>178</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1151,13 +1135,13 @@
     <Name>ASI SetAirspeed</Name>
     <Arg_number>177</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1167,13 +1151,13 @@
     <Name>Altimeter Pressure_setting_1</Name>
     <Arg_number>58</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1183,13 +1167,13 @@
     <Name>Altimeter Pressure_setting_2</Name>
     <Arg_number>57</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1199,13 +1183,13 @@
     <Name>Altimeter Pressure_setting_3</Name>
     <Arg_number>56</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1215,13 +1199,13 @@
     <Name>Altimeter Pneu_flag</Name>
     <Arg_number>9</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1231,13 +1215,13 @@
     <Name>RPM Percent Left</Name>
     <Arg_number>425</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1247,13 +1231,13 @@
     <Name>RPM Percent Right</Name>
     <Arg_number>426</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1263,13 +1247,13 @@
     <Name>Oil Pressure Right</Name>
     <Arg_number>113</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1279,13 +1263,13 @@
     <Name>CabinPressure</Name>
     <Arg_number>114</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1295,13 +1279,13 @@
     <Name>Fuelflow Left</Name>
     <Arg_number>525</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1311,13 +1295,13 @@
     <Name>Fuelflow Right</Name>
     <Arg_number>526</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1327,13 +1311,13 @@
     <Name>Fuelquantity Left</Name>
     <Arg_number>22</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1343,13 +1327,13 @@
     <Name>Fuelquantity Right</Name>
     <Arg_number>23</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1359,13 +1343,13 @@
     <Name>HSI Range Flag</Name>
     <Arg_number>142</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1375,13 +1359,13 @@
     <Name>HSI From To</Name>
     <Arg_number>146</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1391,13 +1375,13 @@
     <Name>HSI Bearing Flag</Name>
     <Arg_number>0</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1407,13 +1391,13 @@
     <Name>Oxygen Quantity Liters</Name>
     <Arg_number>390</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1421,15 +1405,15 @@
     <IDInst>32</IDInst>
     <IDFct>1</IDFct>
     <Name>UHF 100 Mhz</Name>
-    <Arg_number>302</Arg_number>
+    <Arg_number>327</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1437,15 +1421,15 @@
     <IDInst>32</IDInst>
     <IDFct>2</IDFct>
     <Name>UHF 10 Mhz</Name>
-    <Arg_number>303</Arg_number>
+    <Arg_number>328</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1453,15 +1437,15 @@
     <IDInst>32</IDInst>
     <IDFct>3</IDFct>
     <Name>UHF 1 Mhz</Name>
-    <Arg_number>304</Arg_number>
+    <Arg_number>329</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1469,15 +1453,15 @@
     <IDInst>32</IDInst>
     <IDFct>4</IDFct>
     <Name>UHF 0.1 Mhz</Name>
-    <Arg_number>305</Arg_number>
+    <Arg_number>330</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1485,15 +1469,15 @@
     <IDInst>32</IDInst>
     <IDFct>5</IDFct>
     <Name>UHF 0.025 Mhz</Name>
-    <Arg_number>306</Arg_number>
+    <Arg_number>331</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1503,13 +1487,13 @@
     <Name>TACAN Digit.hundreds</Name>
     <Arg_number>263</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1519,13 +1503,13 @@
     <Name>TACAN Digit_pos.tens</Name>
     <Arg_number>264</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1535,13 +1519,13 @@
     <Name>TACAN Digit_pos.ones </Name>
     <Arg_number>265</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1551,13 +1535,13 @@
     <Name>TACAN XYwheel</Name>
     <Arg_number>266</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1567,13 +1551,13 @@
     <Name>UHF Preset Channel</Name>
     <Arg_number>326</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,10</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1583,13 +1567,13 @@
     <Name>Analog Clock_Elapsed_time_minutes</Name>
     <Arg_number>509</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1599,13 +1583,13 @@
     <Name>Analog Clock_Elapsed_time_seconds</Name>
     <Arg_number>37</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>0.0,1.0</Input>
     <Output>0,360</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1615,13 +1599,45 @@
     <Name>Pitch Trim</Name>
     <Arg_number>52</Arg_number>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <Offset>0</Offset>
     <Input>-0.1,0.0,1.0</Input>
     <Output>-17,0,163</Output>
     <Ascii>false</Ascii>
     <AsciiValue />
-    <OldAsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>4</IDInst>
+    <IDFct>4</IDFct>
+    <Name>Standby ADI Silhouette</Name>
+    <Arg_number>443</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>1.0,0.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>3</IDInst>
+    <IDFct>4</IDFct>
+    <Name>ADI Silhouette</Name>
+    <Arg_number>0</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>0.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
     <In />
     <Out />
   </Functions>
@@ -1631,7 +1647,7 @@
     <Arg_number>54</Arg_number>
     <Name>54 - GearNose</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>GreenLampOn.png</FilePictureOn>
     <FilePictureOff>GreenLampOff.png</FilePictureOff>
     <PosX>59</PosX>
@@ -1646,7 +1662,7 @@
     <Arg_number>53</Arg_number>
     <Name>53 - GearLeft</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>GreenLampOn.png</FilePictureOn>
     <FilePictureOff>GreenLampOff.png</FilePictureOff>
     <PosX>19</PosX>
@@ -1661,7 +1677,7 @@
     <Arg_number>55</Arg_number>
     <Name>55 - GearRight</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>GreenLampOn.png</FilePictureOn>
     <FilePictureOff>GreenLampOff.png</FilePictureOff>
     <PosX>100</PosX>
@@ -1676,7 +1692,7 @@
     <Arg_number>169</Arg_number>
     <Name>169 - MasterCaution</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>LampMasterCautionOn.png</FilePictureOn>
     <FilePictureOff>LampMasterCautionOff.png</FilePictureOff>
     <PosX>1438</PosX>
@@ -1691,7 +1707,7 @@
     <Arg_number>167</Arg_number>
     <Name>167 - LeftFire</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>LampFireOn.png</FilePictureOn>
     <FilePictureOff>LampFireOff.png</FilePictureOff>
     <PosX>716</PosX>
@@ -1706,7 +1722,7 @@
     <Arg_number>168</Arg_number>
     <Name>168 - RightFire</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>LampFireOn.png</FilePictureOn>
     <FilePictureOff>LampFireOff.png</FilePictureOff>
     <PosX>1200</PosX>
@@ -1721,7 +1737,7 @@
     <Arg_number>530</Arg_number>
     <Name>530 - Caution Lights panel LeftGenerator</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-LGenOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>92</PosX>
@@ -1736,7 +1752,7 @@
     <Arg_number>531</Arg_number>
     <Name>531 - Caution Lights panel Canopy</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-CanopyOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>203</PosX>
@@ -1751,7 +1767,7 @@
     <Arg_number>532</Arg_number>
     <Name>532 - Caution Lights panel RightGenerator</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RGenOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>320</PosX>
@@ -1766,7 +1782,7 @@
     <Arg_number>533</Arg_number>
     <Name>533 - Caution Lights panel UtilityHyd </Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UtilityHydOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>92</PosX>
@@ -1781,7 +1797,7 @@
     <Arg_number>534</Arg_number>
     <Name>534 - Caution Lights panel Spare1</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-SpareOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>203</PosX>
@@ -1796,7 +1812,7 @@
     <Arg_number>535</Arg_number>
     <Name>535 - Caution Lights panel FlightHyd</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-FlightHydOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>320</PosX>
@@ -1811,7 +1827,7 @@
     <Arg_number>536</Arg_number>
     <Name>536 - Caution Lights panel ExtTanksEmpty</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-ExtTanksEmptyOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>92</PosX>
@@ -1826,7 +1842,7 @@
     <Arg_number>537</Arg_number>
     <Name>537 - Caution Lights panel IFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-IFFOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>203</PosX>
@@ -1841,7 +1857,7 @@
     <Arg_number>538</Arg_number>
     <Name>538 - Caution Lights panel Oxygen</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-OxygenOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>320</PosX>
@@ -1856,7 +1872,7 @@
     <Arg_number>539</Arg_number>
     <Name>539 - Caution Lights panel LeftFuelLow</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-LeftFuelLowOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>92</PosX>
@@ -1871,7 +1887,7 @@
     <Arg_number>540</Arg_number>
     <Name>540 - Caution Lights panel EngineAntiIce</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-EngineAntiIceOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>203</PosX>
@@ -1886,7 +1902,7 @@
     <Arg_number>541</Arg_number>
     <Name>541 - Caution Lights panel RightFuelLow</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RightFuelLowOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>320</PosX>
@@ -1901,7 +1917,7 @@
     <Arg_number>542</Arg_number>
     <Name>542 - Caution Lights panel LeftFuelPress</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-LeftFuelPressOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>92</PosX>
@@ -1916,7 +1932,7 @@
     <Arg_number>543</Arg_number>
     <Name>543 - Caution Lights panel INS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-INSOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>203</PosX>
@@ -1931,7 +1947,7 @@
     <Arg_number>544</Arg_number>
     <Name>544 - Caution Lights panel RightFuelPress</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RightFuelPressOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>320</PosX>
@@ -1946,7 +1962,7 @@
     <Arg_number>545</Arg_number>
     <Name>545 - Caution Lights panel AOA_Flaps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-AOAOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>92</PosX>
@@ -1961,7 +1977,7 @@
     <Arg_number>546</Arg_number>
     <Name>546 - Caution Lights panel AirDataComputer</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-AirDataComputerOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>203</PosX>
@@ -1976,7 +1992,7 @@
     <Arg_number>547</Arg_number>
     <Name>547 - Caution Lights panel DirGyro</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-DirGyroOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>320</PosX>
@@ -1991,7 +2007,7 @@
     <Arg_number>548</Arg_number>
     <Name>548 - Caution Lights panel Spare2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-SpareOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>92</PosX>
@@ -2006,7 +2022,7 @@
     <Arg_number>549</Arg_number>
     <Name>549 - Caution Lights panel DC_Overload</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-DCOverloadOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>203</PosX>
@@ -2021,7 +2037,7 @@
     <Arg_number>550</Arg_number>
     <Name>550 - Caution Lights panel Spare3</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-SpareOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>320</PosX>
@@ -2036,7 +2052,7 @@
     <Arg_number>155</Arg_number>
     <Name>155 - AN/APQ-159 RangeScale_5</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F-5E_RadarRangeScaleLight5.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>764</PosX>
@@ -2051,7 +2067,7 @@
     <Arg_number>156</Arg_number>
     <Name>156 - AN/APQ-159 RangeScale_10</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F-5E_RadarRangeScaleLight10.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>764</PosX>
@@ -2066,7 +2082,7 @@
     <Arg_number>157</Arg_number>
     <Name>157 - AN/APQ-159 RangeScale_20</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F-5E_RadarRangeScaleLight20.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>764</PosX>
@@ -2081,7 +2097,7 @@
     <Arg_number>158</Arg_number>
     <Name>158 - AN/APQ-159 RangeScale_40</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F-5E_RadarRangeScaleLight40.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <PosX>764</PosX>
@@ -2096,7 +2112,7 @@
     <Arg_number>553</Arg_number>
     <Name>553 - rwr_Mode_Open</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_LampModeOpenOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampModeOpenOff.png</FilePictureOff>
     <PosX>1140</PosX>
@@ -2111,7 +2127,7 @@
     <Arg_number>555</Arg_number>
     <Name>555 - rwr_Search</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_LampSearchOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
     <PosX>1192</PosX>
@@ -2126,7 +2142,7 @@
     <Arg_number>558</Arg_number>
     <Name>558 - rwr_Hand_H</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_LampHandoffOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampHandoffOff.png</FilePictureOff>
     <PosX>1239</PosX>
@@ -2141,7 +2157,7 @@
     <Arg_number>562</Arg_number>
     <Name>562 - rwr_Alt_Low</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_LampAlititudeLowOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampAlititudeLowOff.png</FilePictureOff>
     <PosX>1339</PosX>
@@ -2156,7 +2172,7 @@
     <Arg_number>569</Arg_number>
     <Name>569 - rwr_Sys</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_LampSysTestOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
     <PosX>1192</PosX>
@@ -2171,7 +2187,7 @@
     <Arg_number>572</Arg_number>
     <Name>572 - rwr_Ship_unkn</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_LampUnknownOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampUnknownOff.png</FilePictureOff>
     <PosX>1239</PosX>
@@ -2186,7 +2202,7 @@
     <Arg_number>571</Arg_number>
     <Name>571 - rwr_Ship_U</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_LampUnknownUpOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampUnknownUpOff.png</FilePictureOff>
     <PosX>1239</PosX>
@@ -2201,7 +2217,7 @@
     <Arg_number>569</Arg_number>
     <Name>569 - rwr_Sys</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_LampPowerOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampOff.png</FilePictureOff>
     <PosX>1339</PosX>
@@ -2216,7 +2232,7 @@
     <Arg_number>552</Arg_number>
     <Name>552 - rwr_Mode_Pri</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_LampModePriorityOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampModePriorityOff.png</FilePictureOff>
     <PosX>1140</PosX>
@@ -2231,7 +2247,7 @@
     <Arg_number>565</Arg_number>
     <Name>565 - rwr_Sep_Up</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_LampSepUpOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampSepUpOff.png</FilePictureOff>
     <PosX>1140</PosX>
@@ -2246,7 +2262,7 @@
     <Arg_number>566</Arg_number>
     <Name>566 - rwr_Sep_Down</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_LampSepDownOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampSepDownOff.png</FilePictureOff>
     <PosX>1140</PosX>
@@ -2261,7 +2277,7 @@
     <Arg_number>557</Arg_number>
     <Name>557 - rwr_Hand_Up</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_LampHandoffUpOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampHandoffUpOff.png</FilePictureOff>
     <PosX>1239</PosX>
@@ -2276,7 +2292,7 @@
     <Arg_number>563</Arg_number>
     <Name>563 - rwr_Alt</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_LampAlititudeAltOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_LampAlititudeAltOff.png</FilePictureOff>
     <PosX>1339</PosX>
@@ -2291,7 +2307,7 @@
     <ClickabledataID>536</ClickabledataID>
     <Name>Battery Switch, BATT/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2312,7 +2328,7 @@
     <ClickabledataID>537</ClickabledataID>
     <Name>Left Generator Switch, L GEN/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2333,7 +2349,7 @@
     <ClickabledataID>538</ClickabledataID>
     <Name>Right Generator Switch, R GEN/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2354,7 +2370,7 @@
     <ClickabledataID>550</ClickabledataID>
     <Name>Left Boost Pump Switch, ON/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2375,7 +2391,7 @@
     <ClickabledataID>551</ClickabledataID>
     <Name>Crossfeed Switch, OPEN/CLOSED</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2396,7 +2412,7 @@
     <ClickabledataID>552</ClickabledataID>
     <Name>Right Boost Pump Switch, ON/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2417,7 +2433,7 @@
     <ClickabledataID>539</ClickabledataID>
     <Name>Pitot Anti-Ice Switch, PITOT/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2438,7 +2454,7 @@
     <ClickabledataID>557</ClickabledataID>
     <Name>Engine Anti-Ice Switch, ENGINE/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2459,7 +2475,7 @@
     <ClickabledataID>549</ClickabledataID>
     <Name>Ext Fuel Pylons Switch, ON/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2480,7 +2496,7 @@
     <ClickabledataID>548</ClickabledataID>
     <Name>Ext Fuel Cl Switch, ON/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2501,7 +2517,7 @@
     <ClickabledataID>553</ClickabledataID>
     <Name>Autobalance Switch, LEFT/NEUT/RIGHT</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_cnt2.png</FilePictureOff>
     <FilePicture2On>round_down2.png</FilePicture2On>
@@ -2522,7 +2538,7 @@
     <ClickabledataID>574</ClickabledataID>
     <Name>Landing &amp; Taxi Light Switch, ON/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>sw_lng-lgt_up.png</FilePictureOn>
     <FilePictureOff>sw_lng-lgt_down.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2543,7 +2559,7 @@
     <ClickabledataID>616</ClickabledataID>
     <Name>Armament Position Selector Switch - LEFT WINGTIP, ON/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2564,7 +2580,7 @@
     <ClickabledataID>617</ClickabledataID>
     <Name>Armament Position Selector Switch - LEFT OUTBD, ON/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2585,7 +2601,7 @@
     <ClickabledataID>618</ClickabledataID>
     <Name>Armament Position Selector Switch - LEFT INBD, ON/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2606,7 +2622,7 @@
     <ClickabledataID>619</ClickabledataID>
     <Name>Armament Position Selector Switch - CENTERLINE, ON/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2627,7 +2643,7 @@
     <ClickabledataID>620</ClickabledataID>
     <Name>Armament Position Selector Switch - RIGHT INBD, ON/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2648,7 +2664,7 @@
     <ClickabledataID>621</ClickabledataID>
     <Name>Armament Position Selector Switch - RIGHT OUTBD, ON/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2669,7 +2685,7 @@
     <ClickabledataID>622</ClickabledataID>
     <Name>Armament Position Selector Switch - RIGHT WINGTIP, ON/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2686,11 +2702,11 @@
   </Switches>
   <Switches>
     <ID>20</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button</Class>
     <ClickabledataID>583</ClickabledataID>
     <Name>Master Caution Button - Push to reset</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2711,7 +2727,7 @@
     <ClickabledataID>623</ClickabledataID>
     <Name>Interval Switch [sec], .06/.10/.14</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_cnt2.png</FilePictureOff>
     <FilePicture2On>round_down2.png</FilePicture2On>
@@ -2732,7 +2748,7 @@
     <ClickabledataID>624</ClickabledataID>
     <Name>Bombs Arm Switch, SAFE/TAIL/NOSE &amp; TAIL/NOSE</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_cnt2.png</FilePictureOff>
     <FilePicture2On>round_down2.png</FilePicture2On>
@@ -2753,7 +2769,7 @@
     <ClickabledataID>555</ClickabledataID>
     <Name>Left Engine Start Button - Push to start</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Button3On.png</FilePictureOn>
     <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2774,7 +2790,7 @@
     <ClickabledataID>556</ClickabledataID>
     <Name>Right Engine Start Button - Push to start</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Button3On.png</FilePictureOn>
     <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2795,7 +2811,7 @@
     <ClickabledataID>626</ClickabledataID>
     <Name>Guns, Missile and Camera Switch, GUNS MSL &amp; CAMR/OFF/CAMR ONLY</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_cnt2.png</FilePictureOff>
     <FilePicture2On>round_down2.png</FilePicture2On>
@@ -2816,7 +2832,7 @@
     <ClickabledataID>564</ClickabledataID>
     <Name>Cabin Press Switch, DEFOG ONLY/NORMAL/RAM DUMP</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_cnt2.png</FilePictureOff>
     <FilePicture2On>round_down2.png</FilePicture2On>
@@ -2837,7 +2853,7 @@
     <ClickabledataID>653</ClickabledataID>
     <Name>BIT Switch, BIT 1/OFF/BIT 2</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>round_up2.png</FilePictureOn>
     <FilePictureOff>round_cnt2.png</FilePictureOff>
     <FilePicture2On>round_down2.png</FilePicture2On>
@@ -2858,7 +2874,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>Warning Panel</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2878,7 +2894,7 @@
     <ClickabledataID>658</ClickabledataID>
     <Name>MODE Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_BModeOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_BModeOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2899,7 +2915,7 @@
     <ClickabledataID>659</ClickabledataID>
     <Name>SEARCH Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_BSearchOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_BSearchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2920,7 +2936,7 @@
     <ClickabledataID>660</ClickabledataID>
     <Name>HANDOFF Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_BHandoffOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_BHandoffOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2941,7 +2957,7 @@
     <ClickabledataID>661</ClickabledataID>
     <Name>LAUNCH Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_BLaunchOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_BLaunchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2962,7 +2978,7 @@
     <ClickabledataID>662</ClickabledataID>
     <Name>ALTITUDE Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_BAltitudeOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_BAltitudeOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -2983,7 +2999,7 @@
     <ClickabledataID>663</ClickabledataID>
     <Name>T Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_BTOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_BTOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3004,7 +3020,7 @@
     <ClickabledataID>664</ClickabledataID>
     <Name>SYS TEST Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_BSysTestOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_BSysTestOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3025,7 +3041,7 @@
     <ClickabledataID>665</ClickabledataID>
     <Name>UNKNOWN SHIP Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_BUnknownOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_BUnknownOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3046,7 +3062,7 @@
     <ClickabledataID>666</ClickabledataID>
     <Name>ACT/PWR Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_BActPWROn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_BActPWROff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3067,7 +3083,7 @@
     <ClickabledataID>667</ClickabledataID>
     <Name>POWER Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-RWR_BPowerOn.png</FilePictureOn>
     <FilePictureOff>F5E-RWR_BPowerOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3084,11 +3100,11 @@
   </Switches>
   <Switches>
     <ID>41</ID>
-    <Class>ButtonWithRelease</Class>
-    <ClickabledataID>584</ClickabledataID>
-    <Name>Warning Test Switch, Press to test</Name>
+    <Class>Button</Class>
+    <ClickabledataID>749</ClickabledataID>
+    <Name>Arresting Hook Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ButtonRedOn.png</FilePictureOn>
     <FilePictureOff>ButtonRedOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3101,15 +3117,15 @@
     <Event>false</Event>
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
-    <DcsID>226</DcsID>
+    <DcsID>89</DcsID>
   </Switches>
   <Switches>
     <ID>42</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button</Class>
     <ClickabledataID>632</ClickabledataID>
     <Name>Fast Erect Button - Push to erect</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>YellowOn.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3130,7 +3146,7 @@
     <ClickabledataID>705</ClickabledataID>
     <Name>Frequency Mode Selector Switch, MANUAL/PRESET/GUARD</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL Rotary2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3151,7 +3167,7 @@
     <ClickabledataID>639</ClickabledataID>
     <Name>Radar Range Selector Switch [nm], 5/10/20/40</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL Rotary2.png</FilePictureOn>
     <FilePictureOff />
     <FilePicture2On>-</FilePicture2On>
@@ -3172,7 +3188,7 @@
     <ClickabledataID>650</ClickabledataID>
     <Name>Mode Selector, OFF/MSL/A/A1 GUNS/A/A2 GUNS/MAN</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL_Rotary3.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3193,7 +3209,7 @@
     <ClickabledataID>706</ClickabledataID>
     <Name>Function Selector Switch, OFF/MAIN/BOTH/ADF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL Rotary2.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3214,7 +3230,7 @@
     <ClickabledataID>627</ClickabledataID>
     <Name>External Stores Selector, RIPL/BOMB/SAFE/RKT DISP</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL_Rotary3.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3231,15 +3247,15 @@
   </Switches>
   <Switches>
     <ID>48</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>682</ClickabledataID>
     <Name>HSI Course Set Knob</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-KnopCourse.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.005818</Input>
     <Output>0.0, 360</Output>
     <PosX>664</PosX>
     <PosY>536</PosY>
@@ -3252,15 +3268,15 @@
   </Switches>
   <Switches>
     <ID>49</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>683</ClickabledataID>
     <Name>HSI Heading Set Knob</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-KnopHeading.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.005818</Input>
     <Output>0.0, 360</Output>
     <PosX>459</PosX>
     <PosY>536</PosY>
@@ -3273,15 +3289,15 @@
   </Switches>
   <Switches>
     <ID>50</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>674</ClickabledataID>
     <Name>Index Setting Pointer Knob</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-KnopSetIndex.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.1</Input>
     <Output>0.0, 360</Output>
     <PosX>407</PosX>
     <PosY>283</PosY>
@@ -3298,7 +3314,7 @@
     <ClickabledataID>628</ClickabledataID>
     <Name>Missile Volume Knob - Rotate to adjust volume</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop3.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3319,12 +3335,12 @@
     <ClickabledataID>689</ClickabledataID>
     <Name>Cage Trim Knob</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>knob_solo.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
-    <Output>0.0, 360</Output>
+    <Input>0.0,1.0,0.05</Input>
+    <Output>0.0, 30</Output>
     <PosX>469</PosX>
     <PosY>720</PosY>
     <Size>65</Size>
@@ -3340,7 +3356,7 @@
     <ClickabledataID>566</ClickabledataID>
     <Name>Cabin Temp Knob</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL_Rotary4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3361,7 +3377,7 @@
     <ClickabledataID>567</ClickabledataID>
     <Name>Canopy Defog Knob</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL_Rotary1.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3382,7 +3398,7 @@
     <ClickabledataID>637</ClickabledataID>
     <Name>Scale Knob - Rotate to adjust scale brightness</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3403,7 +3419,7 @@
     <ClickabledataID>642</ClickabledataID>
     <Name>Bright Knob - Rotate to adjust brightness</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3424,7 +3440,7 @@
     <ClickabledataID>643</ClickabledataID>
     <Name>Persistence Knob - Rotate to adjust persistence</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3445,7 +3461,7 @@
     <ClickabledataID>644</ClickabledataID>
     <Name>Radar Video Knob - Rotate to adjust video intensity</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3466,7 +3482,7 @@
     <ClickabledataID>645</ClickabledataID>
     <Name>Cursor Knob - Rotate to adjust indication brightness</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3487,7 +3503,7 @@
     <ClickabledataID>648</ClickabledataID>
     <Name>Pitch Knob - Rotate to adjust horizon bar</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3508,7 +3524,7 @@
     <ClickabledataID>668</ClickabledataID>
     <Name>AUDIO Knob</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3529,7 +3545,7 @@
     <ClickabledataID>669</ClickabledataID>
     <Name>DIM Knob</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3546,15 +3562,15 @@
   </Switches>
   <Switches>
     <ID>63</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>675</ClickabledataID>
     <Name>Zero Setting Knob</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.1,1</Input>
+    <Input>0.0,1.0,0.1</Input>
     <Output>0.0, 360</Output>
     <PosX>214</PosX>
     <PosY>536</PosY>
@@ -3571,7 +3587,7 @@
     <ClickabledataID>708</ClickabledataID>
     <Name>Squelch Switch, ON/OFF</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3592,7 +3608,7 @@
     <ClickabledataID>709</ClickabledataID>
     <Name>Volume Knob</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Knop4.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3609,11 +3625,11 @@
   </Switches>
   <Switches>
     <ID>66</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button</Class>
     <ClickabledataID>729</ClickabledataID>
     <Name>Emergency All Jettison Button - Push to jettison</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-EmerAllJettOn.png</FilePictureOn>
     <FilePictureOff>F5E-EmerAllJettOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3630,11 +3646,11 @@
   </Switches>
   <Switches>
     <ID>67</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button</Class>
     <ClickabledataID>732</ClickabledataID>
     <Name>Select Jettison Button - Push to jettison</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-JetPushButtonOn.png</FilePictureOn>
     <FilePictureOff>F5E-JetPushButtonOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3655,7 +3671,7 @@
     <ClickabledataID>731</ClickabledataID>
     <Name>Select Jettison Switch, SELECT POSITION/OFF/ALL PYLONS</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>switch_up2.png</FilePictureOn>
     <FilePictureOff>switch_mid2.png</FilePictureOff>
     <FilePicture2On>switch_down2.png</FilePicture2On>
@@ -3672,11 +3688,11 @@
   </Switches>
   <Switches>
     <ID>69</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button</Class>
     <ClickabledataID>739</ClickabledataID>
     <Name>Landing Gear Downlock Override Button - Push and hold to override locking solenoid</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ButtonRedOn.png</FilePictureOn>
     <FilePictureOff>ButtonRedOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3693,11 +3709,11 @@
   </Switches>
   <Switches>
     <ID>70</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button</Class>
     <ClickabledataID>741</ClickabledataID>
     <Name>Landing Gear And Flap Warning Silence Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Button3On.png</FilePictureOn>
     <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3714,11 +3730,11 @@
   </Switches>
   <Switches>
     <ID>71</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button</Class>
     <ClickabledataID>746</ClickabledataID>
     <Name>Nose Landing Gear Lamp - Press to test(LMB)</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3735,11 +3751,11 @@
   </Switches>
   <Switches>
     <ID>72</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button</Class>
     <ClickabledataID>744</ClickabledataID>
     <Name>Left Landing Gear Lamp - Press to test(LMB)</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3756,11 +3772,11 @@
   </Switches>
   <Switches>
     <ID>73</ID>
-    <Class>ButtonWithRelease</Class>
+    <Class>Button</Class>
     <ClickabledataID>748</ClickabledataID>
     <Name>Right Landing Gear Lamp - Press to test(LMB</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>-</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3779,9 +3795,9 @@
     <ID>74</ID>
     <Class>Rotary</Class>
     <ClickabledataID>700</ClickabledataID>
-    <Name>100 MHz Frequency Selector Knob</Name>
+    <Name>UHF Radio 100 MHz Frequency Selector Knob {0.0, 0.1, 0.2, 0.3}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3800,9 +3816,9 @@
     <ID>75</ID>
     <Class>MultiSwitch</Class>
     <ClickabledataID>701</ClickabledataID>
-    <Name>10 MHz Frequency Selector Knob</Name>
+    <Name>UHF Radio 10 MHz Frequency Selector Knob {0.0, 0.1, 0.2,..., 0.7, 0.8, 0.9}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3821,9 +3837,9 @@
     <ID>76</ID>
     <Class>MultiSwitch</Class>
     <ClickabledataID>702</ClickabledataID>
-    <Name>1 MHz Frequency Selector Knob</Name>
+    <Name>UHF Radio 1 MHz Frequency Selector Knob {0.0, 0.1, 0.2,..., 0.7, 0.8, 0.9}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3842,9 +3858,9 @@
     <ID>77</ID>
     <Class>MultiSwitch</Class>
     <ClickabledataID>703</ClickabledataID>
-    <Name>0.1 MHz Frequency Selector Knob</Name>
+    <Name>UHF Radio 0.1 MHz Frequency Selector Knob {0.0, 0.1, 0.2,..., 0.7, 0.8, 0.9}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3863,9 +3879,9 @@
     <ID>78</ID>
     <Class>MultiSwitch</Class>
     <ClickabledataID>704</ClickabledataID>
-    <Name>0.025 MHz Frequency Selector Knob</Name>
+    <Name>UHF Radio 0.025 MHz Frequency Selector Knob {0.0, 0.25, 0.5, 0.75}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3886,7 +3902,7 @@
     <ClickabledataID>733</ClickabledataID>
     <Name>Landing Gear Lever, LG UP/LG DOWN</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3907,7 +3923,7 @@
     <ClickabledataID>0</ClickabledataID>
     <Name>TACAN Panel</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>flat_up2.png</FilePictureOn>
     <FilePictureOff>flat_down2.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3927,14 +3943,14 @@
     <ClickabledataID>634</ClickabledataID>
     <Name>Nav Mode Selector Switch, DF/TACAN</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>SwitchOn.png</FilePictureOn>
     <FilePictureOff>SwitchOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
+    <Input>0.0,0.1</Input>
     <Output>0.0,1.0</Output>
-    <PosX>159</PosX>
-    <PosY>269</PosY>
+    <PosX>69</PosX>
+    <PosY>272</PosY>
     <Size>40</Size>
     <Rotate>90</Rotate>
     <Event>false</Event>
@@ -3946,9 +3962,9 @@
     <ID>82</ID>
     <Class>MultiSwitch</Class>
     <ClickabledataID>721</ClickabledataID>
-    <Name>Tacan Mode Selector Switch</Name>
+    <Name>Tacan Mode Selector Switch {0.0, 0.1, 0.2, 0.3, 0.4}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>TISL_Rotary3.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3967,9 +3983,9 @@
     <ID>83</ID>
     <Class>Rotary</Class>
     <ClickabledataID>720</ClickabledataID>
-    <Name>Tacan Signal Volume Knob</Name>
+    <Name>Tacan Signal Volume Knob {0.0, 1.0} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>rot_f5_2_knob.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -3986,11 +4002,11 @@
   </Switches>
   <Switches>
     <ID>84</ID>
-    <Class>ButtonOffOn</Class>
+    <Class>Button</Class>
     <ClickabledataID>719</ClickabledataID>
     <Name>Tacan Signal on HSI Test Button</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>ButtonRedOn.png</FilePictureOn>
     <FilePictureOff>ButtonRedOff.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4007,16 +4023,16 @@
   </Switches>
   <Switches>
     <ID>85</ID>
-    <Class>MultiSwitch</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>717</ClickabledataID>
-    <Name>Tacan Channel Selector (Ones)</Name>
+    <Name>Tacan Channel Selector (Ones) {0.0, 0.9} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0</Input>
-    <Output>0,36,72,108,144,180,216,252,288,324,360</Output>
+    <Input>0.0,0.9,0.1</Input>
+    <Output> 0, 270</Output>
     <PosX>192</PosX>
     <PosY>133</PosY>
     <Size>50</Size>
@@ -4028,16 +4044,16 @@
   </Switches>
   <Switches>
     <ID>86</ID>
-    <Class>MultiSwitch</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>716</ClickabledataID>
-    <Name>Tacan Channel Selector (Tens) - Rotate mouse wheel to select</Name>
+    <Name>Tacan Channel Selector (Tens) - Rotate mouse wheel to select {0.0, 1.2} in 0.1 Steps</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0,1.1,1.2</Input>
-    <Output>0,36,72,108,144,180,216,252,288,324,360,396,432</Output>
+    <Input>0.0,1.2,0.1</Input>
+    <Output> 0, 270</Output>
     <PosX>64</PosX>
     <PosY>133</PosY>
     <Size>50</Size>
@@ -4053,15 +4069,15 @@
     <ClickabledataID>718</ClickabledataID>
     <Name>Tacan X/Y Mode - Right mouse click to select X/Y</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>Button3On.png</FilePictureOn>
     <FilePictureOff>Button3Off.png</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.87,0.93</Input>
-    <Output>0.87,0.93</Output>
-    <PosX>200</PosX>
-    <PosY>141</PosY>
-    <Size>35</Size>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>205</PosX>
+    <PosY>145</PosY>
+    <Size>25</Size>
     <Rotate>0</Rotate>
     <Event>false</Event>
     <DontReset>false</DontReset>
@@ -4069,33 +4085,12 @@
     <DcsID>258</DcsID>
   </Switches>
   <Switches>
-    <ID>88</ID>
-    <Class>ButtonWithRepeat</Class>
-    <ClickabledataID>531</ClickabledataID>
-    <Name>Trimmer Switch, PULL(CLIMB)</Name>
-    <Value>0</Value>
-    <OldValue>0</OldValue>
-    <FilePictureOn>Button3On.png</FilePictureOn>
-    <FilePictureOff>Button3Off.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
-    <PosX>709</PosX>
-    <PosY>1026</PosY>
-    <Size>50</Size>
-    <Rotate>0</Rotate>
-    <Event>false</Event>
-    <DontReset>false</DontReset>
-    <WindowID>1</WindowID>
-    <DcsID>125</DcsID>
-  </Switches>
-  <Switches>
     <ID>89</ID>
     <Class>MultiSwitch</Class>
     <ClickabledataID>699</ClickabledataID>
-    <Name>Preset Channel Selector Knob</Name>
+    <Name>UHF Radio Preset Channel Selector Knob {0.0, 0.05, 0.1, ..., 0.9, 0.95, 1.0}</Name>
     <Value>0</Value>
-    <OldValue>0</OldValue>
+    <OldValue>1</OldValue>
     <FilePictureOn>F5E-UHF-Button.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
@@ -4109,6 +4104,111 @@
     <DontReset>false</DontReset>
     <WindowID>1</WindowID>
     <DcsID>300</DcsID>
+  </Switches>
+  <Switches>
+    <ID>90</ID>
+    <Class>Button</Class>
+    <ClickabledataID>686</ClickabledataID>
+    <Name>Pitch Trim Knob</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Button3On.png</FilePictureOn>
+    <FilePictureOff>Button3Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output> 0.0,1.0</Output>
+    <PosX>345</PosX>
+    <PosY>745</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>441</DcsID>
+  </Switches>
+  <Switches>
+    <ID>91</ID>
+    <Class>RotaryUpdatable</Class>
+    <ClickabledataID>681</ClickabledataID>
+    <Name>ADI Pitch Trim Knob</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Knop4.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.025</Input>
+    <Output> 0, 270</Output>
+    <PosX>663</PosX>
+    <PosY>286</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>150</DcsID>
+  </Switches>
+  <Switches>
+    <ID>92</ID>
+    <Class>Button</Class>
+    <ClickabledataID>673</ClickabledataID>
+    <Name>Push to set</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Button3On.png</FilePictureOn>
+    <FilePictureOff>Button3Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1247</PosX>
+    <PosY>709</PosY>
+    <Size>30</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>904</DcsID>
+  </Switches>
+  <Switches>
+    <ID>93</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>672</ClickabledataID>
+    <Name>RWR Adjust Display Brightness</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Knop4.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 270</Output>
+    <PosX>1252</PosX>
+    <PosY>335</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>140</DcsID>
+  </Switches>
+  <Switches>
+    <ID>94</ID>
+    <Class>ButtonOffOn</Class>
+    <ClickabledataID>576</ClickabledataID>
+    <Name>AN/ASG-31 Sight Panel Light Button, ON/OFF</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Button3On.png</FilePictureOn>
+    <FilePictureOff>Button3Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>800</PosX>
+    <PosY>239</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>46</DcsID>
   </Switches>
   <Accessories>
     <ID>1</ID>

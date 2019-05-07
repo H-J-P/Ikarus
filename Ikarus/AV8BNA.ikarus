@@ -781,7 +781,7 @@
     <IDInst>5</IDInst>
     <IDFct>5</IDFct>
     <Name>IN HG 0001</Name>
-    <Arg_number>356</Arg_number>
+    <Arg_number>359</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
@@ -797,7 +797,7 @@
     <IDInst>5</IDInst>
     <IDFct>6</IDFct>
     <Name>IN HG 0010</Name>
-    <Arg_number>357</Arg_number>
+    <Arg_number>358</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
@@ -813,7 +813,7 @@
     <IDInst>5</IDInst>
     <IDFct>7</IDFct>
     <Name>IN HG 0100</Name>
-    <Arg_number>358</Arg_number>
+    <Arg_number>357</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
@@ -829,7 +829,7 @@
     <IDInst>5</IDInst>
     <IDFct>8</IDFct>
     <Name>IN HG 1000</Name>
-    <Arg_number>359</Arg_number>
+    <Arg_number>356</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
@@ -1636,6 +1636,22 @@
     <Input />
     <Output />
     <Ascii>true</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+  </Functions>
+  <Functions>
+    <IDInst>1</IDInst>
+    <IDFct>4</IDFct>
+    <Name>ADI Silhouette</Name>
+    <Arg_number>351</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,1.0</Input>
+    <Output>0,10</Output>
+    <Ascii>false</Ascii>
     <AsciiValue />
     <OldAsciiValue>-</OldAsciiValue>
     <In />
@@ -3513,7 +3529,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output>0,360</Output>
+    <Output>0,280</Output>
     <PosX>786</PosX>
     <PosY>188</PosY>
     <Size>45</Size>
@@ -3534,7 +3550,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output>0,360</Output>
+    <Output>0,280</Output>
     <PosX>1084</PosX>
     <PosY>188</PosY>
     <Size>45</Size>
@@ -3597,7 +3613,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0,280</Output>
     <PosX>1081</PosX>
     <PosY>50</PosY>
     <Size>45</Size>
@@ -4122,7 +4138,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0,280</Output>
     <PosX>839</PosX>
     <PosY>510</PosY>
     <Size>50</Size>
@@ -4164,7 +4180,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0,280</Output>
     <PosX>981</PosX>
     <PosY>510</PosY>
     <Size>50</Size>
@@ -4185,7 +4201,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0, 280</Output>
     <PosX>1043</PosX>
     <PosY>510</PosY>
     <Size>50</Size>
@@ -4344,7 +4360,7 @@
   </Switches>
   <Switches>
     <ID>69</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryUpdatable</Class>
     <ClickabledataID>794</ClickabledataID>
     <Name>Bingo Fuel Set Knob</Name>
     <Value>0</Value>
@@ -4374,7 +4390,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0, 280</Output>
     <PosX>1807</PosX>
     <PosY>396</PosY>
     <Size>55</Size>
@@ -4428,7 +4444,7 @@
   </Switches>
   <Switches>
     <ID>73</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryUpdatable</Class>
     <ClickabledataID>886</ClickabledataID>
     <Name>NAV Course Setting</Name>
     <Value>0</Value>
@@ -4449,7 +4465,7 @@
   </Switches>
   <Switches>
     <ID>74</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryUpdatable</Class>
     <ClickabledataID>887</ClickabledataID>
     <Name>Barometric Pressure Calibration</Name>
     <Value>0</Value>
@@ -5424,7 +5440,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output>0.0,360</Output>
+    <Output>0.0,320</Output>
     <PosX>355</PosX>
     <PosY>281</PosY>
     <Size>45</Size>
@@ -5445,7 +5461,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output>0.0,360</Output>
+    <Output>0.0,320</Output>
     <PosX>1507</PosX>
     <PosY>279</PosY>
     <Size>45</Size>
@@ -5842,7 +5858,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0, 280</Output>
     <PosX>65</PosX>
     <PosY>851</PosY>
     <Size>55</Size>
@@ -5917,16 +5933,16 @@
   </Switches>
   <Switches>
     <ID>144</ID>
-    <Class>SwitchOffOn</Class>
+    <Class>SwitchOnOffOn</Class>
     <ClickabledataID>931</ClickabledataID>
     <Name>DC Test Switch</Name>
     <Value>0</Value>
     <OldValue>1</OldValue>
-    <FilePictureOn>SwitchOn.png</FilePictureOn>
-    <FilePictureOff>SwitchOff.png</FilePictureOff>
-    <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0</Input>
-    <Output>0.0,1.0</Output>
+    <FilePictureOn>switch_up2.png</FilePictureOn>
+    <FilePictureOff>switch_mid2.png</FilePictureOff>
+    <FilePicture2On>switch_down2.png</FilePicture2On>
+    <Input>0.0,0.5,1.0</Input>
+    <Output>0.0,0.5,1.0</Output>
     <PosX>116</PosX>
     <PosY>156</PosY>
     <Size>50</Size>
@@ -6031,7 +6047,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0, 280</Output>
     <PosX>74</PosX>
     <PosY>364</PosY>
     <Size>30</Size>
@@ -6043,7 +6059,7 @@
   </Switches>
   <Switches>
     <ID>150</ID>
-    <Class>Rotary</Class>
+    <Class>RotaryRelativ</Class>
     <ClickabledataID>938</ClickabledataID>
     <Name>V/UHF RSC Chan/Freq Knob</Name>
     <Value>0</Value>
@@ -6051,7 +6067,7 @@
     <FilePictureOn>AV8BNA_Rotary3c.png</FilePictureOn>
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
-    <Input>0.0,1.0,0.015,1</Input>
+    <Input>0.0,1.0,0.015</Input>
     <Output> 0, 360</Output>
     <PosX>304</PosX>
     <PosY>365</PosY>
@@ -6241,7 +6257,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0, 280</Output>
     <PosX>112</PosX>
     <PosY>716</PosY>
     <Size>45</Size>
@@ -6262,7 +6278,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0, 280</Output>
     <PosX>112</PosX>
     <PosY>764</PosY>
     <Size>45</Size>
@@ -6367,7 +6383,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0, 280</Output>
     <PosX>152</PosX>
     <PosY>856</PosY>
     <Size>60</Size>
@@ -6388,7 +6404,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0, 280</Output>
     <PosX>273</PosX>
     <PosY>856</PosY>
     <Size>60</Size>
@@ -6409,7 +6425,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0, 280</Output>
     <PosX>127</PosX>
     <PosY>967</PosY>
     <Size>60</Size>
@@ -6430,7 +6446,7 @@
     <FilePictureOff>-</FilePictureOff>
     <FilePicture2On>-</FilePicture2On>
     <Input>0.0,1.0,0.1</Input>
-    <Output> 0, 360</Output>
+    <Output> 0, 280</Output>
     <PosX>274</PosX>
     <PosY>974</PosY>
     <Size>50</Size>
@@ -6754,6 +6770,111 @@
     <WindowID>1</WindowID>
     <DcsID>179</DcsID>
   </Switches>
+  <Switches>
+    <ID>184</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>939</ClickabledataID>
+    <Name>V/UHF RSC Operational Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>AV8BNA_Rotary3c.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>-0.2,0.0,0.2,0.4,0.6,0.8,1.0</Input>
+    <Output> 0, 45, 90, 135, 180, 225, 280</Output>
+    <PosX>86</PosX>
+    <PosY>436</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>616</DcsID>
+  </Switches>
+  <Switches>
+    <ID>185</ID>
+    <Class>MultiSwitch</Class>
+    <ClickabledataID>942</ClickabledataID>
+    <Name>V/UHF RSC Frequency Mode Switch</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>AV8BNA_Rotary3c.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,0.15,0.3,0.45,0.60,0.75,1.0</Input>
+    <Output> 0, 45, 90, 135, 180, 245, 280</Output>
+    <PosX>275</PosX>
+    <PosY>435</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>4</WindowID>
+    <DcsID>619</DcsID>
+  </Switches>
+  <Switches>
+    <ID>186</ID>
+    <Class>Rotary</Class>
+    <ClickabledataID>753</ClickabledataID>
+    <Name>EDP Brightness Control</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>AV8BNA_Rotary2.png</FilePictureOn>
+    <FilePictureOff>-</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0,0.1</Input>
+    <Output> 0, 280</Output>
+    <PosX>1712</PosX>
+    <PosY>184</PosY>
+    <Size>45</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>272</DcsID>
+  </Switches>
+  <Switches>
+    <ID>187</ID>
+    <Class>ButtonOffOn</Class>
+    <ClickabledataID>991</ClickabledataID>
+    <Name>Backup ADI Cage</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Button3On.png</FilePictureOn>
+    <FilePictureOff>Button3Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>899</PosX>
+    <PosY>831</PosY>
+    <Size>35</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>350</DcsID>
+  </Switches>
+  <Switches>
+    <ID>188</ID>
+    <Class>Button</Class>
+    <ClickabledataID>754</ClickabledataID>
+    <Name>EDP BIT Button</Name>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <FilePictureOn>Button3On.png</FilePictureOn>
+    <FilePictureOff>Button3Off.png</FilePictureOff>
+    <FilePicture2On>-</FilePicture2On>
+    <Input>0.0,1.0</Input>
+    <Output>0.0,1.0</Output>
+    <PosX>1304</PosX>
+    <PosY>44</PosY>
+    <Size>40</Size>
+    <Rotate>0</Rotate>
+    <Event>false</Event>
+    <DontReset>false</DontReset>
+    <WindowID>1</WindowID>
+    <DcsID>655</DcsID>
+  </Switches>
   <Accessories>
     <ID>1</ID>
     <Class>Label</Class>
@@ -6941,7 +7062,7 @@
     <WindowID>1</WindowID>
     <Name>Front Panel</Name>
     <PosX>0</PosX>
-    <PosY>1200</PosY>
+    <PosY>0</PosY>
     <Height>1080</Height>
     <Width>1920</Width>
     <Background>AV8BNA_Background.png</Background>

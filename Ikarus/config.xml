@@ -5,13 +5,14 @@
     <CockpitPosY>1080</CockpitPosY>
     <CockpitHight>1080</CockpitHight>
     <CockpitWidth>1920</CockpitWidth>
-    <File>Mi-8MT.ikarus</File>
+    <File>A-10C.ikarus</File>
     <IPAddress>127.0.0.1</IPAddress>
     <PortListener>1625</PortListener>
     <PortSender>26027</PortSender>
     <LogAllActions>true</LogAllActions>
     <TestMode>false</TestMode>
     <GaugesShadow>true</GaugesShadow>
+    <JSON>false</JSON>
   </Configuration>
   <Classnames>
     <Classname>A10_ACP</Classname>
@@ -201,6 +202,9 @@
   </Classnames>
   <Classnames>
     <Classname>DisplayDotMatrix</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>DisplayDotMatrixAJS</Classname>
   </Classnames>
   <Classnames>
     <Classname>Display_CMSP</Classname>
@@ -926,10 +930,22 @@
     <Classname>MIG21_Wheelbrakes</Classname>
   </Classnames>
   <Classnames>
+    <Classname>MIG29AOA</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>MIG29FuelQ</Classname>
   </Classnames>
   <Classnames>
+    <Classname>MIG29HYD</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>MIG29MDI</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>MIG29OXY</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>MIG29Wheelbrakes</Classname>
   </Classnames>
   <Classnames>
     <Classname>Monitor</Classname>
@@ -1151,6 +1167,9 @@
     <Classname>UH1_ADI_Sphere</Classname>
   </Classnames>
   <Classnames>
+    <Classname>UH1_ADI_Sphere2</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>UH1_AirTemp</Classname>
   </Classnames>
   <Classnames>
@@ -1277,6 +1296,9 @@
     <Classname>US_WhiskeyCompass</Classname>
   </Classnames>
   <Classnames>
+    <Classname>US_WhiskeyCompass2</Classname>
+  </Classnames>
+  <Classnames>
     <Classname>WPADI</Classname>
   </Classnames>
   <Classnames>
@@ -1323,6 +1345,9 @@
   </Classnames>
   <Classnames>
     <Classname>WPCompass</Classname>
+  </Classnames>
+  <Classnames>
+    <Classname>WPCompass2</Classname>
   </Classnames>
   <Classnames>
     <Classname>WPDistance</Classname>
