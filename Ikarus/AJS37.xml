@@ -427,87 +427,87 @@
   </Clickabledata>
   <Clickabledata>
     <ID>11</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>20</ButtonID>
-    <Discription>Datapanel Key 0</Discription>
+    <Discription>>Navigation Datapanel Key 0</Discription>
     <DcsID>290</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>12</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>21</ButtonID>
-    <Discription>Datapanel Key 1</Discription>
+    <Discription>>Navigation Datapanel Key 1</Discription>
     <DcsID>291</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>13</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>22</ButtonID>
-    <Discription>Datapanel Key 2</Discription>
+    <Discription>>Navigation Datapanel Key 2</Discription>
     <DcsID>292</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>14</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>23</ButtonID>
-    <Discription>Datapanel Key 3</Discription>
+    <Discription>>Navigation Datapanel Key 3</Discription>
     <DcsID>293</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>15</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>24</ButtonID>
-    <Discription>Datapanel Key 4</Discription>
+    <Discription>>Navigation Datapanel Key 4</Discription>
     <DcsID>294</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>16</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>25</ButtonID>
-    <Discription>Datapanel Key 5</Discription>
+    <Discription>>Navigation Datapanel Key 5</Discription>
     <DcsID>295</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>17</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>26</ButtonID>
-    <Discription>Datapanel Key 6</Discription>
+    <Discription>>Navigation Datapanel Key 6</Discription>
     <DcsID>296</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>18</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>27</ButtonID>
-    <Discription>Datapanel Key 7</Discription>
+    <Discription>>Navigation Datapanel Key 7</Discription>
     <DcsID>297</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>19</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>28</ButtonID>
-    <Discription>Datapanel Key 8</Discription>
+    <Discription>>Navigation Datapanel Key 8</Discription>
     <DcsID>299</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>20</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>29</ButtonID>
-    <Discription>Datapanel Key 9</Discription>
+    <Discription>>Navigation Datapanel Key 9</Discription>
     <DcsID>299</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
   <Clickabledata>
     <ID>21</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>11</ButtonID>
     <Discription>Navigation Selector Button B1</Discription>
     <DcsID>271</DcsID>
@@ -515,7 +515,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>22</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>12</ButtonID>
     <Discription>Navigation Selector Button B2</Discription>
     <DcsID>272</DcsID>
@@ -523,7 +523,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>23</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>13</ButtonID>
     <Discription>Navigation Selector Button B3</Discription>
     <DcsID>273</DcsID>
@@ -531,7 +531,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>24</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>14</ButtonID>
     <Discription>Navigation Selector Button B4</Discription>
     <DcsID>274</DcsID>
@@ -539,7 +539,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>25</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>15</ButtonID>
     <Discription>Navigation Selector Button B5</Discription>
     <DcsID>275</DcsID>
@@ -547,7 +547,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>26</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>16</ButtonID>
     <Discription>Navigation Selector Button B6</Discription>
     <DcsID>276</DcsID>
@@ -555,7 +555,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>27</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>17</ButtonID>
     <Discription>Navigation Selector Button B7</Discription>
     <DcsID>277</DcsID>
@@ -563,7 +563,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>28</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>18</ButtonID>
     <Discription>Navigation Selector Button B8</Discription>
     <DcsID>278</DcsID>
@@ -571,7 +571,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>29</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>19</ButtonID>
     <Discription>Navigation Selector Button B9</Discription>
     <DcsID>279</DcsID>
@@ -579,7 +579,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>30</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>10</ButtonID>
     <Discription>Navigation Selector Button BX</Discription>
     <DcsID>280</DcsID>
@@ -587,7 +587,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>31</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>9</ButtonID>
     <Discription>Navigation Selector Button LS</Discription>
     <DcsID>270</DcsID>
@@ -595,7 +595,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>32</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>12</DeviceID>
     <ButtonID>8</ButtonID>
     <Discription>Navigation Selector Button L MÅL</Discription>
     <DcsID>281</DcsID>
@@ -603,7 +603,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>33</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>22</DeviceID>
     <ButtonID>512</ButtonID>
     <Discription>TILS Channel Selection {0.0,0.1,0.2,...,0.8,0.9,1.0}</Discription>
     <DcsID>282</DcsID>
@@ -611,7 +611,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>34</ID>
-    <DeviceID>23</DeviceID>
+    <DeviceID>22</DeviceID>
     <ButtonID>511</ButtonID>
     <Discription>TILS Channel Layer Selection</Discription>
     <DcsID>285</DcsID>
@@ -948,7 +948,7 @@
   <!-- -->
   <Clickabledata>
     <ID>75</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>7</ButtonID>
     <Discription>Manual Fuel Regulator</Discription>
     <DcsID>316</DcsID>
@@ -990,7 +990,7 @@
   <!-- -->
   <Clickabledata>
     <ID>80</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>6</ButtonID>
     <Discription>Manual Afterburner Fuel Regulator</Discription>
     <DcsID>313</DcsID>
@@ -1016,7 +1016,7 @@
   <!-- AFK -->
   <Clickabledata>
     <ID>83</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>304</ButtonID>
     <Discription>AFK Lever</Discription>
     <DcsID>13</DcsID>
@@ -1024,7 +1024,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>84</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>402</ButtonID>
     <Discription>AFK Mode 3</Discription>
     <DcsID>464</DcsID>
@@ -1044,7 +1044,7 @@
     <ID>86</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>3</ButtonID>
-    <Discription>Radio Manual Frequency Setting Knob Inner Left {0.0-1.0 in 0.1 Steps}</Discription>
+    <Discription>FR22 Radio Manual Frequency Setting Knob Inner Left {0.0-1.0 in 0.1 Steps}</Discription>
     <DcsID>171</DcsID>
     <Type>Rotary</Type>
   </Clickabledata>
@@ -1052,7 +1052,7 @@
     <ID>87</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>4</ButtonID>
-    <Discription>Radio Manual Frequency Setting Knob Outer Left {0.0-1.0 in 0.1 Steps}</Discription>
+    <Discription>FR22 Radio Manual Frequency Setting Knob Outer Left {0.0-1.0 in 0.1 Steps}</Discription>
     <DcsID>172</DcsID>
     <Type>Rotary</Type>
   </Clickabledata>
@@ -1060,7 +1060,7 @@
     <ID>88</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>5</ButtonID>
-    <Discription>Radio Manual Frequency Setting Knob Inner Right {0.0-1.0 in 0.1 Steps}</Discription>
+    <Discription>FR22 Radio Manual Frequency Setting Knob Inner Right {0.0-1.0 in 0.1 Steps}</Discription>
     <DcsID>173</DcsID>
     <Type>Rotary</Type>
   </Clickabledata>
@@ -1068,7 +1068,7 @@
     <ID>89</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>6</ButtonID>
-    <Discription>Radio Manual Frequency Setting Knob Outer Right</Discription>
+    <Discription>FR22 Radio Manual Frequency Setting Knob Outer Right</Discription>
     <DcsID>174</DcsID>
     <Type>Rotary</Type>
   </Clickabledata>
@@ -1076,7 +1076,7 @@
     <ID>90</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>8</ButtonID>
-    <Discription>Radio Manual Frequency Setting Modulation"</Discription>
+    <Discription>FR22 Radio Manual Frequency Setting Modulation"</Discription>
     <DcsID>170</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1084,7 +1084,7 @@
     <ID>91</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>210</ButtonID>
-    <Discription>Flight 0</Discription>
+    <Discription>FR22 Flight 0</Discription>
     <DcsID>372</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1092,7 +1092,7 @@
     <ID>92</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>211</ButtonID>
-    <Discription>Flight 1</Discription>
+    <Discription>FR22 Flight 1</Discription>
     <DcsID>373</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1100,7 +1100,7 @@
     <ID>93</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>212</ButtonID>
-    <Discription>Flight 2</Discription>
+    <Discription>FR22 Flight 2</Discription>
     <DcsID>374</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1108,7 +1108,7 @@
     <ID>94</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>213</ButtonID>
-    <Discription>Flight 3</Discription>
+    <Discription>FR22 Flight 3</Discription>
     <DcsID>375</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1116,7 +1116,7 @@
     <ID>95</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>214</ButtonID>
-    <Discription>Flight 4</Discription>
+    <Discription>FR22 Flight 4</Discription>
     <DcsID>376</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1124,7 +1124,7 @@
     <ID>96</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>215</ButtonID>
-    <Discription>Flight 5</Discription>
+    <Discription>FR22 Flight 5</Discription>
     <DcsID>377</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1132,7 +1132,7 @@
     <ID>97</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>216</ButtonID>
-    <Discription>Flight 6</Discription>
+    <Discription>FR22 Flight 6</Discription>
     <DcsID>378</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1140,7 +1140,7 @@
     <ID>98</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>217</ButtonID>
-    <Discription>Flight 7</Discription>
+    <Discription>FR22 Flight 7</Discription>
     <DcsID>379</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1148,7 +1148,7 @@
     <ID>99</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>218</ButtonID>
-    <Discription>Flight 8</Discription>
+    <Discription>FR22 Flight 8</Discription>
     <DcsID>380</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1156,7 +1156,7 @@
     <ID>100</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>219</ButtonID>
-    <Discription>Flight 9</Discription>
+    <Discription>FR22 Flight 9</Discription>
     <DcsID>381</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1164,7 +1164,7 @@
     <ID>101</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>200</ButtonID>
-    <Discription>Channel H</Discription>
+    <Discription>FR22 Channel H</Discription>
     <DcsID>362</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1172,7 +1172,7 @@
     <ID>102</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>201</ButtonID>
-    <Discription>Special 1</Discription>
+    <Discription>FR22 Special 1</Discription>
     <DcsID>363</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1180,7 +1180,7 @@
     <ID>103</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>202</ButtonID>
-    <Discription>Special 2</Discription>
+    <Discription>FR22 Special 2</Discription>
     <DcsID>364</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1188,7 +1188,7 @@
     <ID>104</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>203</ButtonID>
-    <Discription>Special 3</Discription>
+    <Discription>FR22 Special 3</Discription>
     <DcsID>365</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1196,7 +1196,7 @@
     <ID>105</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>204</ButtonID>
-    <Discription>Minus</Discription>
+    <Discription>FR22 Minus</Discription>
     <DcsID>366</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1204,7 +1204,7 @@
     <ID>106</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>205</ButtonID>
-    <Discription>Channel A/G</Discription>
+    <Discription>FR22 Channel A/G</Discription>
     <DcsID>367</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1212,7 +1212,7 @@
     <ID>107</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>206</ButtonID>
-    <Discription>Channel B</Discription>
+    <Discription>FR22 Channel B</Discription>
     <DcsID>368</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1220,7 +1220,7 @@
     <ID>108</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>207</ButtonID>
-    <Discription>Channel C/F</Discription>
+    <Discription>FR22 Channel C/F</Discription>
     <DcsID>369</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1228,7 +1228,7 @@
     <ID>109</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>208</ButtonID>
-    <Discription>Channel C2</Discription>
+    <Discription>FR22 Channel C2</Discription>
     <DcsID>370</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1236,7 +1236,7 @@
     <ID>110</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>209</ButtonID>
-    <Discription>Channel D/E</Discription>
+    <Discription>FR22 Channel D/E</Discription>
     <DcsID>371</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1252,7 +1252,7 @@
     <ID>112</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>230</ButtonID>
-    <Discription>Base Selector</Discription>
+    <Discription>FR22 Base Selector</Discription>
     <DcsID>361</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1260,7 +1260,7 @@
     <ID>113</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>307</ButtonID>
-    <Discription>Group Selector</Discription>
+    <Discription>FR22 Group Selector</Discription>
     <DcsID>360</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1268,7 +1268,7 @@
     <ID>114</ID>
     <DeviceID>31</DeviceID>
     <ButtonID>11</ButtonID>
-    <Discription>Ground Intercom</Discription>
+    <Discription>FR22 Ground Intercom</Discription>
     <DcsID>382</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
@@ -1348,7 +1348,7 @@
   <!-- IFF panel -->
   <Clickabledata>
     <ID>124</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>0</ButtonID>
     <Discription>IFF Power</Discription>
     <DcsID>308</DcsID>
@@ -1356,7 +1356,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>125</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>0</ButtonID>
     <Discription>IFF Code {0.0,0.1,0.2,...,0.9,1.0}</Discription>
     <DcsID>309</DcsID>
@@ -1365,7 +1365,7 @@
   <!-- CB Circuit breakers -->
   <Clickabledata>
     <ID>126</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>905</ButtonID>
     <Discription>CB Autopilot SA</Discription>
     <DcsID>302</DcsID>
@@ -1373,7 +1373,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>127</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>906</ButtonID>
     <Discription>CB High Alpha Warning</Discription>
     <DcsID>303</DcsID>
@@ -1381,7 +1381,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>128</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>907</ButtonID>
     <Discription>CB Trim System</Discription>
     <DcsID>304</DcsID>
@@ -1389,7 +1389,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>129</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>908</ButtonID>
     <Discription>CB CI/SI</Discription>
     <DcsID>305</DcsID>
@@ -1397,7 +1397,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>130</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>909</ButtonID>
     <Discription>CB Ejection System</Discription>
     <DcsID>306</DcsID>
@@ -1405,7 +1405,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>131</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>910</ButtonID>
     <Discription>CB CB Engine</Discription>
     <DcsID>307</DcsID>
@@ -1455,7 +1455,7 @@
   <!-- -->
   <Clickabledata>
     <ID>137</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>912</ButtonID>
     <Discription>Windscreen De-Ice {0.0-1.0 in 0.001 Steps}</Discription>
     <DcsID>286</DcsID>
@@ -1463,7 +1463,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>138</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>913</ButtonID>
     <Discription>Maintenance Testing Mode {0.0-1.0 in 0.001 Steps}</Discription>
     <DcsID>675</DcsID>
@@ -1480,7 +1480,7 @@
   <!-- -->
   <Clickabledata>
     <ID>140</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>915</ButtonID>
     <Discription>Magnetic Declination Adjustment {0.0-1.0 in 0.001 Steps}</Discription>
     <DcsID>1201</DcsID>
@@ -1488,7 +1488,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>141</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>742</ButtonID>
     <Discription>Magnetic Declination Cover</Discription>
     <DcsID>1200</DcsID>
@@ -1496,7 +1496,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>142</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>917</ButtonID>
     <Discription>Drysuit Ventilation Adjustment {0.0-1.0 in 0.001 Steps}</Discription>
     <DcsID>396</DcsID>
@@ -1512,7 +1512,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>144</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>919</ButtonID>
     <Discription>DME Selector</Discription>
     <DcsID>1206</DcsID>
@@ -1520,7 +1520,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>145</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>920</ButtonID>
     <Discription>IFF/Transponder Power</Discription>
     <DcsID>1203</DcsID>
@@ -1528,7 +1528,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>146</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>921</ButtonID>
     <Discription>IFF Channel Selector</Discription>
     <DcsID>1204</DcsID>
@@ -1552,7 +1552,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>149</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>924</ButtonID>
     <Discription>Flight Recorder {-1.0,0.0,1.0}</Discription>
     <DcsID>384</DcsID>
@@ -1560,7 +1560,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>150</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>112</ButtonID>
     <Discription>Radio Volume {0.0-1.0 in 0.00001 Steps}</Discription>
     <DcsID>385</DcsID>
@@ -1568,7 +1568,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>151</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>925</ButtonID>
     <Discription>Insert/Remove Data Cartridge</Discription>
     <DcsID>4200</DcsID>
@@ -1593,7 +1593,7 @@
   </Clickabledata>
   <Clickabledata>
     <ID>154</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>0</ButtonID>
     <Discription>Cabin Air Valve</Discription>
     <DcsID>398</DcsID>
@@ -1619,7 +1619,7 @@
   <!-- -->
   <Clickabledata>
     <ID>157</ID>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <ButtonID>0</ButtonID>
     <Discription>Missile Select Button</Discription>
     <DcsID>400</DcsID>
@@ -1628,7 +1628,7 @@
   <Clickabledata>
     <ID>158</ID>
     <DeviceID>24</DeviceID>
-    <ButtonID>0</ButtonID>
+    <ButtonID>6</ButtonID>
     <Discription>Master Volume / Sidewinder Tone {0.0-1.0 in 0.001 Steps}</Discription>
     <DcsID>399</DcsID>
     <Type>Rotary</Type>
@@ -1667,7 +1667,14 @@
     <DcsID>0</DcsID>
     <Type>Switch</Type>
   </Clickabledata>
-  
+  <Clickabledata>
+    <ID>163</ID>
+    <DeviceID>28</DeviceID>
+    <ButtonID>505</ButtonID>
+    <Discription>Countermeasure Dispense {-1.0,0.0,1.0}</Discription>
+    <DcsID>0</DcsID>
+    <Type>Switch</Type>
+  </Clickabledata>
   <!-- Devices -->
   <Devices>
     <DeviceID>1</DeviceID>
@@ -1707,102 +1714,98 @@
   </Devices>
   <Devices>
     <DeviceID>10</DeviceID>
-    <Discription>LIGHT_SYSTEM</Discription>
-  </Devices>
-  <Devices>
-    <DeviceID>11</DeviceID>
     <Discription>WEAPON_SYS</Discription>
   </Devices>
   <Devices>
-    <DeviceID>12</DeviceID>
+    <DeviceID>11</DeviceID>
     <Discription>AIRBRAKE</Discription>
   </Devices>
   <Devices>
-    <DeviceID>13</DeviceID>
+    <DeviceID>12</DeviceID>
     <Discription>NAVIGATION</Discription>
   </Devices>
   <Devices>
-    <DeviceID>14</DeviceID>
+    <DeviceID>13</DeviceID>
     <Discription>ENGINE_MGMT</Discription>
   </Devices>
   <Devices>
-    <DeviceID>15</DeviceID>
+    <DeviceID>14</DeviceID>
     <Discription>DEBUG</Discription>
   </Devices>
   <Devices>
-    <DeviceID>16</DeviceID>
+    <DeviceID>15</DeviceID>
     <Discription>TEST</Discription>
   </Devices>
   <Devices>
-    <DeviceID>17</DeviceID>
+    <DeviceID>16</DeviceID>
     <Discription>EP13</Discription>
   </Devices>
   <Devices>
-    <DeviceID>18</DeviceID>
+    <DeviceID>17</DeviceID>
     <Discription>LIGHTS</Discription>
   </Devices>
   <Devices>
-    <DeviceID>19</DeviceID>
+    <DeviceID>18</DeviceID>
     <Discription>ENGINEPANEL</Discription>
   </Devices>
   <Devices>
-    <DeviceID>20</DeviceID>
+    <DeviceID>19</DeviceID>
     <Discription>ELECTRICSYSTEM</Discription>
   </Devices>
   <Devices>
-    <DeviceID>21</DeviceID>
+    <DeviceID>20</DeviceID>
     <Discription>RADARALT</Discription>
   </Devices>
   <Devices>
-    <DeviceID>22</DeviceID>
+    <DeviceID>21</DeviceID>
     <Discription>DOPPLER</Discription>
   </Devices>
   <Devices>
-    <DeviceID>23</DeviceID>
+    <DeviceID>22</DeviceID>
     <Discription>FLIGHTDATAUNIT</Discription>
   </Devices>
   <Devices>
-    <DeviceID>24</DeviceID>
+    <DeviceID>23</DeviceID>
     <Discription>NAVIGATIONPANEL</Discription>
   </Devices>
   <Devices>
-    <DeviceID>25</DeviceID>
+    <DeviceID>24</DeviceID>
     <Discription>RWR</Discription>
   </Devices>
   <Devices>
-    <DeviceID>26</DeviceID>
+    <DeviceID>25</DeviceID>
     <Discription>HIGHALPHAWARNING</Discription>
   </Devices>
   <Devices>
-    <DeviceID>27</DeviceID>
+    <DeviceID>26</DeviceID>
     <Discription>ERRORPANEL</Discription>
   </Devices>
   <Devices>
-    <DeviceID>28</DeviceID>
+    <DeviceID>27</DeviceID>
     <Discription>MISSILECONTROLLER</Discription>
   </Devices>
   <Devices>
-    <DeviceID>29</DeviceID>
+    <DeviceID>28</DeviceID>
     <Discription>COUNTERMEASURE</Discription>
   </Devices>
   <Devices>
-    <DeviceID>30</DeviceID>
+    <DeviceID>29</DeviceID>
     <Discription>TESTINTERCOM</Discription>
   </Devices>
   <Devices>
+    <DeviceID>30</DeviceID>
+    <Discription>FR24</Discription>
+  </Devices>
+  <Devices>
     <DeviceID>31</DeviceID>
-    <Discription>TESTRADIO</Discription>
+    <Discription>FR22</Discription>
   </Devices>
   <Devices>
     <DeviceID>32</DeviceID>
-    <Discription>TESTRADIO2</Discription>
-  </Devices>
-  <Devices>
-    <DeviceID>33</DeviceID>
     <Discription>IFF</Discription>
   </Devices>
   <Devices>
-    <DeviceID>34</DeviceID>
+    <DeviceID>33</DeviceID>
     <Discription>CONTROLS</Discription>
   </Devices>
   <Devices>
@@ -1810,11 +1813,19 @@
     <Discription>KNEEBOARD</Discription>
   </Devices>
   <Devices>
-    <DeviceID>35</DeviceID>
+    <DeviceID>34</DeviceID>
     <Discription>JOKER</Discription>
   </Devices>
   <Devices>
-    <DeviceID>36</DeviceID>
+    <DeviceID>35</DeviceID>
     <Discription>WALKMAN</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>36</DeviceID>
+    <Discription>REPORTER</Discription>
+  </Devices>
+  <Devices>
+    <DeviceID>37</DeviceID>
+    <Discription>MISSIONGENERATOR</Discription>
   </Devices>
 </DTADataSet>
