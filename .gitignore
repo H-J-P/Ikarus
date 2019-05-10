@@ -6,7 +6,7 @@
 .DS_Store
 *.config
 *.gcdump
-*.vshost.exe
+*.pdb
 *.exe
 
 _DelSyncFiles*/
