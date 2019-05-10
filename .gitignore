@@ -6,7 +6,6 @@
 .DS_Store
 *.config
 *.gcdump
-*.pdb
 *.exe
 
 _DelSyncFiles*/
