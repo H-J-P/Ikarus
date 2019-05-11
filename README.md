@@ -4,4 +4,4 @@ Ikarus is a solution like Helios or Hawgtouch, but with a database background an
 
 Please follow this link to the [Wiki](https://github.com/s-d-a/Ikarus/wiki)
 
-### Ikarus.exe: Please download a Release. 
+### Please download the last release of Ikarus.exe and copy the file into your Ikarus directory. 
