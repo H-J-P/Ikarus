@@ -344,7 +344,7 @@
     <Class>LwTrim</Class>
     <PosX>8</PosX>
     <PosY>543</PosY>
-    <Size>130</Size>
+    <Size>150</Size>
     <Rotate>0</Rotate>
     <ImageFrame>-</ImageFrame>
     <ImageLight>-</ImageLight>

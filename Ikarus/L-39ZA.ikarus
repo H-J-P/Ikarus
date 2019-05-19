@@ -338,6 +338,19 @@
     <Reactivate>false</Reactivate>
     <WindowID>1</WindowID>
   </Instruments>
+  <Instruments>
+    <IDInst>27</IDInst>
+    <Name>Pitch Trim</Name>
+    <Class>LwTrim</Class>
+    <PosX>13</PosX>
+    <PosY>454</PosY>
+    <Size>150</Size>
+    <Rotate>0</Rotate>
+    <ImageFrame>-</ImageFrame>
+    <ImageLight>-</ImageLight>
+    <Reactivate>false</Reactivate>
+    <WindowID>1</WindowID>
+  </Instruments>
   <Functions>
     <IDInst>1</IDInst>
     <IDFct>1</IDFct>
@@ -1756,6 +1769,26 @@
     <Type>ID</Type>
     <DeviceID>-</DeviceID>
     <Format>-</Format>
+    <negateValue>0</negateValue>
+  </Functions>
+  <Functions>
+    <IDInst>27</IDInst>
+    <IDFct>1</IDFct>
+    <Name>Pitch Trim</Name>
+    <Arg_number>247</Arg_number>
+    <Value>0</Value>
+    <OldValue>1</OldValue>
+    <Offset>0</Offset>
+    <Input>-1.0,0.0,1.0</Input>
+    <Output>-45,0,45</Output>
+    <Ascii>false</Ascii>
+    <AsciiValue />
+    <OldAsciiValue>-</OldAsciiValue>
+    <In />
+    <Out />
+    <Type>"-"</Type>
+    <DeviceID>"-"</DeviceID>
+    <Format>"-"</Format>
     <negateValue>0</negateValue>
   </Functions>
   <Lamps>
