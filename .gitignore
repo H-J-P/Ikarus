@@ -6,7 +6,8 @@
 .DS_Store
 *.config
 *.gcdump
-*.vshost.exe
+*.exe
+*.pdb
 
 _DelSyncFiles*/
 Monitor-test.ikarus
