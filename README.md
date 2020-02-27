@@ -32,6 +32,6 @@ Please follow this link to our [Wiki](https://github.com/s-d-a/Ikarus/wiki)
 ### Installation:
 
 - Please download Ikarus and unzip it.
-- Download [DCS-Exportscript] (https://github.com/s-d-a/DCS-ExportScripts) ,unzip it unzip it and install it as described in the [Wiki] (https://github.com/s-d-a/DCS-ExportScripts/wiki)
+- Download [DCS-Exportscript](https://github.com/s-d-a/DCS-ExportScripts) ,unzip it unzip it and install it as described in the [Wiki](https://github.com/s-d-a/DCS-ExportScripts/wiki)
 
 After that, start Ikarus and DCS and have fun ....
