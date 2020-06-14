@@ -1,4 +1,3 @@
-*.pdf
 *.psd
 *.dds
 *.afdesign
@@ -6,8 +5,6 @@
 .DS_Store
 *.config
 *.gcdump
-*.exe
-*.pdb
 
 _DelSyncFiles*/
 Monitor-test.ikarus
@@ -27,5 +24,20 @@ Log.png
 *test*
 *_Contruction.Ikarus
 PerfView*
+
+Ikarus/ExportsModules/*
+Ikarus/ExportsModules/
+
+Ikarus.pdb
+FA-18C.xml
+
+AV8BNA_2.5.1.xml
+AV8BNA_Construction.ikarus
+TempVorlage.ikarus
+Ikarus/Images/Accessories/Beispiel.PNG
+*.pdb
+*.afdesign
+*.pdb
+*.afdesign
 
 *.zip

@@ -408,7 +408,7 @@
     <IDInst>12</IDInst>
     <IDFct>3</IDFct>
     <Name>rwr 30°</Name>
-    <Arg_number>452</Arg_number>
+    <Arg_number>451</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
@@ -428,7 +428,7 @@
     <IDInst>12</IDInst>
     <IDFct>4</IDFct>
     <Name>rwr 90°</Name>
-    <Arg_number>455</Arg_number>
+    <Arg_number>452</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
@@ -448,7 +448,7 @@
     <IDInst>12</IDInst>
     <IDFct>5</IDFct>
     <Name>rwr 150°</Name>
-    <Arg_number>451</Arg_number>
+    <Arg_number>453</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
@@ -468,7 +468,7 @@
     <IDInst>12</IDInst>
     <IDFct>6</IDFct>
     <Name>rwr 210°</Name>
-    <Arg_number>456</Arg_number>
+    <Arg_number>454</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
@@ -488,7 +488,7 @@
     <IDInst>12</IDInst>
     <IDFct>7</IDFct>
     <Name>rwr 270°</Name>
-    <Arg_number>454</Arg_number>
+    <Arg_number>455</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>
@@ -508,7 +508,7 @@
     <IDInst>12</IDInst>
     <IDFct>8</IDFct>
     <Name>rwr 330°</Name>
-    <Arg_number>453</Arg_number>
+    <Arg_number>456</Arg_number>
     <Value>0</Value>
     <OldValue>1</OldValue>
     <Offset>0</Offset>

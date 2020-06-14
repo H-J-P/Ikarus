@@ -1,7 +1,37 @@
-### Ikarus-Source 1.5.5.x
+# Ikarus
 
-Ikarus is a solution like Helios or Hawgtouch, but with a database background and the possiblity to configure it with a editor or in tables very simple.
+Ikarus is a solution for virtual cockpits for DCS World.
 
-Please follow this link to the [Wiki](https://github.com/s-d-a/Ikarus/wiki)
+With Ikarus can be display many gauges of the DCS aircrafts and helicopters. With the help of our DCS ExportScript get data to display with the gauges.
 
-### Please download the last release of Ikarus.exe and copy the file into your Ikarus directory. 
+We currently support the following DCS modules:
+- A-10C
+- AJS37
+- AV-8B N/A
+- Bf-109K-4
+- F/A-18C Hornet
+- F-5E-3
+- F-86F
+- FW-190D9
+- Ka-50
+- L-39C/ZA
+- Mi-8MT
+- MiG-15bis
+- MiG-21Bis
+- Mirage 2000
+- P-51D 25/30-NA
+- SA342L/M/Mistral
+- SpitfireLFMkIX/CW
+- Su-25T
+- TF-51D
+- UH-1H
+- all Flaming Cliffs aircrafts, incl. J-11A
+
+Please follow this link to our [Wiki](https://github.com/s-d-a/Ikarus/wiki)
+
+### Installation:
+
+- Please download Ikarus and unzip it.
+- Download [DCS-Exportscript](https://github.com/s-d-a/DCS-ExportScripts) ,unzip it unzip it and install it as described in the [Wiki](https://github.com/s-d-a/DCS-ExportScripts/wiki)
+
+After that, start Ikarus and DCS and have fun ....
